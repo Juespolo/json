@@ -1,0 +1,62 @@
+[
+{
+  "pregunta": "Un país del siglo XXI decide basar su política económica exclusivamente en la exportación de materias primas. Para ello, implementa fuertes subsidios a las empresas extractivas y establece altas barreras arancelarias a la importación de productos manufacturados, con el objetivo de asegurar una balanza comercial positiva y acumular reservas.<br><br>¿Cómo se relaciona esta política con los postulados de Adam Smith?",
+  "respuesta": "La política contradice al modelo clásico, ya que este último aboga por la libre competencia y critica la intervención estatal como el proteccionismo.",
+  "distractores": ["La política es coherente con el modelo clásico, pues busca la acumulación de capital a través de las exportaciones, un objetivo central de esta teoría.",
+"La política se alinea con el modelo neoclásico, que perfeccionó las ideas clásicas introduciendo un fuerte componente de protección a la industria nacional.",
+"La política es una aplicación directa de la teoría de la dependencia, que sugiere que los países deben proteger sus industrias para competir con las potencias."]},
+  {
+  "pregunta": "La teoría de la dependencia postula que el subdesarrollo en América Latina se debe a una relación de intercambio desigual con los países industrializados. Estos fijan los precios, pagando poco por las materias primas y vendiendo a altos costos sus productos industriales, perpetuando la dependencia.<br><br> Un país latinoamericano, cuya economía se basa en la exportación de flores, firma un tratado de libre comercio. Años después, se observa que el precio internacional de las flores ha disminuido, mientras que el costo de los fertilizantes y la tecnología de invernadero importados ha aumentado significativamente. ¿Qué concepto de la teoría de la dependencia explica mejor este fenómeno?",
+  "respuesta": "El modelo “centro-periferia”, que describe cómo los términos de intercambio desiguales perjudican a las economías que exportan materias primas.",
+  "distractores": ["El proceso de “despegue” de Rostow, que indica que el país está en una fase inicial de industrialización antes de alcanzar la madurez económica.", 
+  "La “división internacional del trabajo”, que sugiere que el país se está especializando eficientemente en su ventaja comparativa, que son las flores.", 
+  "La “inversión especulativa”, que explica cómo los capitales financieros generan ganancias sin beneficiar directamente al país productor de bienes."]},
+  {
+  "pregunta": "La teoría de los sistemas mundo plantea que el desarrollo debe analizarse como parte de un sistema global interconectado. Factores como las finanzas internacionales y las corporaciones transnacionales interactúan con las condiciones locales, políticas y sociales de cada país.<br><br>Una empresa de software de un país desarrollado instala un centro de operaciones en Colombia. ¿Cuál de las siguientes opciones describe mejor una posible interrelación sistémica, según la teoría de los sistemas mundo?",
+  "respuesta": "La instalación del centro podría generar cambios en las leyes laborales y fomentar la creación de programas educativos técnicos.",
+  "distractores": ["La llegada de la empresa garantiza el paso de Colombia de una “sociedad tradicional” a una “sociedad de consumo masivo”, completando las etapas del desarrollo.", 
+  "El nuevo centro es un ejemplo de la relación “centro-periferia”, donde la empresa explotará a los trabajadores para maximizar sus ganancias y empobrecer al país.", 
+  "El éxito del centro dependerá exclusivamente de la capacidad de los trabajadores colombianos para adaptarse a las nuevas tecnologías, sin influencia de factores externos."]},
+  {
+  "pregunta": "Un analista político escribe: “El único camino para que Colombia alcance el desarrollo es eliminar toda barrera comercial, privatizar las empresas estatales y reducir los programas sociales. El mercado, por sí solo, es el motor más eficiente. Cualquier intervención del gobierno solo crea distorsiones que nos mantienen en el subdesarrollo.”<br><br>El argumento del analista se fundamenta principalmente en los postulados del modelo:",
+  "respuesta": "Neoclásico, que minimiza el papel del Estado y confía en la autorregulación del mercado para lograr el crecimiento económico.",
+  "distractores": ["De la dependencia, que promueve la protección de los mercados internos y el aumento de la inversión social para salir del subdesarrollo.", 
+  "Clásico, que si bien apoya el libre comercio, no contempla la privatización de empresas estatales como un eje central de su teoría.", 
+  "De la modernización, que propone un modelo de desarrollo guiado por el Estado a través de etapas planificadas de industrialización."]},
+  {
+  "pregunta": "Un informe internacional presenta los siguientes datos sobre dos países:<br><br>País A: Producto Interno Bruto (PIB) per cápita muy alto ($50,000), pero con una esperanza de vida de 65 años y una tasa de alfabetización del 70%.<br><br>País B: PIB per cápita moderado ($15,000), pero con una esperanza de vida de 80 años y una tasa de alfabetización del 98%.<br><br>A partir de la información, ¿qué se puede inferir sobre el concepto de desarrollo en ambos países?",
+  "respuesta": "Que el desarrollo es un concepto multidimensional que no depende únicamente del ingreso, como lo demuestra el mayor bienestar social del País B a pesar de su menor PIB.",
+  "distractores": ["Que el País A es indiscutiblemente más desarrollado que el País B, ya que el PIB per cápita es el único indicador objetivo y universal para medir la riqueza.", 
+  "Que el País B ha logrado un alto nivel de desarrollo gracias a un modelo económico que prioriza la igualdad por encima de la producción de riqueza.", 
+  "Que el alto PIB del País A se debe a la explotación de recursos, mientras que el bienestar del País B se debe a la inversión en tecnología de punta."]},
+  {
+  "pregunta": "La teoría de la modernización de Walt Rostow propone que las sociedades avanzan a través de cinco etapas.<br><br>Un país ha basado su economía en la agricultura por siglos. En la última década, su gobierno ha invertido masivamente en infraestructura, ha creado leyes para proteger a las nuevas industrias y ha fomentado la migración del campo a las ciudades. Según la teoría de Rostow, estas acciones son características de la etapa de:",
+  "respuesta": "Proceso de despegue.",
+  "distractores": ["Sociedad tradicional.", 
+  "Camino hacia la madurez.", 
+  "Sociedad de consumo masivo."]},
+  {
+  "pregunta": "La Cuarta Revolución Industrial, caracterizada por la automatización, la inteligencia artificial y la robótica, está transformando el mercado laboral. En Colombia, se debate si esta revolución profundizará las desigualdades, eliminando empleos de baja cualificación, o si, por el contrario, creará nuevas oportunidades y aumentará la productividad general del país.<br><br>El dilema presentado sobre la Cuarta Revolución Industrial en Colombia es un ejemplo moderno de la tensión histórica entre:",
+  "respuesta": "El potencial de la innovación tecnológica para generar riqueza y las consecuencias sociales que esta puede tener sobre el empleo y la equidad.",
+  "distractores": ["La lucha entre el socialismo, que busca la propiedad estatal de la tecnología, y el capitalismo, que defiende la propiedad privada de la misma.", 
+  "El conflicto entre las zonas rurales, que se benefician de la tecnología agrícola, y las zonas urbanas, que sufren la pérdida de empleos industriales.", 
+  "La necesidad de proteger el medio ambiente frente al deseo de un crecimiento económico ilimitado a través de la industrialización."]},
+  {
+  "pregunta": "El artículo 334 de la Constitución Política de Colombia establece que la dirección general de la economía está a cargo del Estado. Este intervendrá para racionalizar la economía con el fin de conseguir el mejoramiento de la calidad de vida, la distribución equitativa de las oportunidades y los beneficios del desarrollo.<br><br>Un programa gubernamental que ofrece créditos con bajos intereses y capacitación técnica a pequeños agricultores para que puedan competir en el mercado nacional, se fundamenta en el principio constitucional de que:",
+  "respuesta": "El Estado debe intervenir en la economía para promover una distribución más equitativa de las oportunidades y los beneficios del desarrollo.",
+  "distractores": ["El Estado debe ser el único propietario de los medios de producción para garantizar que no exista la explotación del hombre por el hombre.", 
+  "El Estado no debe intervenir en la economía, permitiendo que la libre competencia determine quiénes son los agricultores más eficientes.", 
+  "El Estado debe proteger exclusivamente a las grandes corporaciones agrícolas, ya que son las que más contribuyen al Producto Interno Bruto (PIB)."]},
+  {
+  "pregunta": "En una pequeña comunidad costera de Colombia, la llegada masiva de turistas ha impulsado la construcción de grandes hoteles. Esto ha generado empleo, pero también ha provocado un aumento drástico en el precio de la vivienda, el agotamiento de las fuentes de agua dulce y la pérdida de las playas públicas, que han sido privatizadas por los complejos turísticos.<br><br>¿Cuál de las siguientes opciones explica mejor la relación sistémica entre el desarrollo turístico y los problemas de la comunidad?",
+  "respuesta": "El crecimiento económico del turismo ha generado consecuencias sociales y ambientales no previstas.",
+  "distractores": ["El problema se debe únicamente a la falta de planificación del gobierno local, que no supo anticipar la cantidad de turistas que llegarían a la región.", 
+  "Los habitantes de la comunidad son los únicos responsables de sus problemas, pues decidieron vender sus tierras a los hoteleros en lugar de conservarlas.", 
+  "El desarrollo turístico siempre es positivo para las comunidades locales, ya que la generación de empleo compensa cualquier otro efecto negativo que pueda surgir."]},
+  {
+  "pregunta": "En un debate sobre la deuda externa de los países en desarrollo, un economista afirma: “La deuda no es una herramienta de dominación, como afirman las teorías de la dependencia. Es simplemente un mecanismo de mercado que permite a los países con pocos ahorros financiar su desarrollo. Si un país no puede pagar, es por su propia mala gestión fiscal y corrupción, no por una conspiración internacional.”<br><br>El argumento del economista, que se opone a la teoría de la dependencia, se debilita porque:",
+  "respuesta": "Ignora las condiciones del sistema financiero internacional, como las altas tasas de interés y las cláusulas impuestas, que pueden limitar la soberanía de los países.",
+  "distractores": ["La corrupción no es un problema real en los países en desarrollo, por lo que usarla como explicación es una falacia para desviar la atención del verdadero problema.", 
+    "Todos los países del mundo tienen deuda externa, incluidos los países desarrollados, lo que demuestra que no es un factor que determine el subdesarrollo.", 
+    "La teoría de la dependencia fue desarrollada en la década de 1960 y, por lo tanto, sus postulados ya no son aplicables a la economía globalizada del siglo XXI."]}
+  ]
