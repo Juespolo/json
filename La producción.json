@@ -1,0 +1,66 @@
+[
+{
+  "pregunta": {
+      "contexto": "En economía, “Capital”... se refiere a todos los bienes duraderos que han sido producidos para producir otros bienes o servicios... potencian nuestra capacidad para producir más y mejor.",
+      "pregunta": "Una empresa colombiana de confecciones decide comprar 50 nuevas máquinas de coser de alta tecnología. De acuerdo con los conceptos económicos, esta compra se clasifica como una inversión en el factor “Capital” porque:"},
+  "respuesta": "Las máquinas son bienes físicos, adquiridos con capital financiero, cuya función es aumentar la eficiencia en la producción de ropa.",
+  "distractores": ["La adquisición de tecnología es la única forma de garantizar la supervivencia de la empresa en el mercado global.",
+"Representa una modernización que impacta directamente la productividad del factor trabajo y la calidad del producto final.",
+"El dinero utilizado para la compra es un activo de la empresa que ahora se transforma en un bien tangible."]},
+{
+  "pregunta": {
+      "contexto": "El texto define la sostenibilidad como “producir... sin comprometer los recursos naturales de las futuras generaciones” y el Sector Primario como aquel que “extrae recursos directamente de la naturaleza”.",
+      "pregunta": "En Colombia, la expansión de la minería a gran escala (Sector Primario) a menudo entra en conflicto con la preservación de los páramos. ¿Cuál de las siguientes opciones describe mejor la relación sistémica entre la producción minera y la sostenibilidad en este contexto?"},
+  "respuesta": "La viabilidad de la producción primaria a largo plazo depende directamente de la gestión sostenible del factor tierra en el presente.",
+  "distractores": ["La sostenibilidad es un objetivo deseable, pero secundario frente a la necesidad de la producción del sector primario de generar ingresos inmediatos.",
+"La tecnología aplicada a la minería (factor capital) es el único elemento que puede resolver el conflicto entre producción y sostenibilidad.",
+"El conflicto surge porque la remuneración del factor tierra (renta) es mayor en la minería que en la conservación de ecosistemas."]},
+{
+  "pregunta": {
+      "contexto": "Considere el párrafo final del texto: “La manera en que un país como Colombia logre combinar y potenciar sus... factores de producción... determinará nuestro futuro. Entender esto les da las herramientas para ser ciudadanos críticos...”",
+      "pregunta": "¿Cuál de las siguientes afirmaciones se puede inferir como un supuesto fundamental del autor en este párrafo de conclusión?"},
+  "respuesta": "El bienestar de una sociedad no es un resultado automático, sino que depende de una gestión estratégica y consciente de sus recursos productivos.",
+  "distractores": ["El desarrollo económico de un país es un proceso técnico que depende exclusivamente de las decisiones de expertos y empresarios.",
+"La riqueza de una nación está predeterminada por la cantidad de recursos naturales que posee en su territorio.",
+"La educación en economía es el factor más importante para garantizar que un país logre un crecimiento económico sostenido."]},
+{
+  "pregunta": {
+      "contexto": "Basado en las definiciones de los sectores económicos del texto. Considere la cadena de valor de la industria de las flores en Colombia.",
+      "pregunta": "¿Cuál de las siguientes actividades económicas pertenece al Sector Terciario de la producción?"},
+  "respuesta": "El diseño de arreglos florales y la comercialización de estos en una tienda virtual con entrega a domicilio.",
+  "distractores": ["El cultivo y la cosecha de diferentes variedades de rosas y claveles en los invernaderos de la Sabana de Bogotá.",
+"La clasificación, empaque y refrigeración de las flores en las fincas para prepararlas para su envío al exterior.",
+"La fabricación de cajas de cartón y plásticos especiales utilizados para proteger las flores durante el transporte."]},
+{
+  "pregunta": {
+      "contexto": "El texto explica los factores Trabajo y Capital (tecnología). En la economía moderna, la automatización ha transformado muchas industrias.",
+      "pregunta": "¿Cuál de las siguientes afirmaciones describe mejor la relación sistémica entre la inversión en Capital tecnológico (automatización) y la estructura del factor Trabajo?"},
+  "respuesta": "La automatización tiende a sustituir el trabajo rutinario y a complementar el trabajo no rutinario y creativo.",
+  "distractores": ["La automatización genera un desplazamiento uniforme de la mano de obra, afectando por igual a todos los niveles de cualificación.",
+"La inversión en Capital tecnológico aumenta la productividad general, lo que inevitablemente se traduce en mejores salarios para todos los trabajadores.",
+"El principal efecto de la automatización es la reducción de la jornada laboral, ya que las máquinas asumen la mayor parte de las tareas productivas."]},
+{
+  "pregunta": {
+      "contexto": "En un municipio de la Orinoquía, una empresa agroindustrial planea expandir sus monocultivos de soya. Para ello, necesita tierras que actualmente son utilizadas por comunidades indígenas para la caza, la recolección y la agricultura de subsistencia, prácticas que consideran parte de su identidad cultural.",
+      "pregunta": "Desde la perspectiva de la empresa agroindustrial, la oposición de la comunidad indígena al proyecto podría ser interpretada como:"},
+  "respuesta": "Una barrera para el progreso económico de la región, que impide la generación de empleo y el uso eficiente del factor tierra.",
+  "distractores": ["Una defensa legítima de sus derechos territoriales y culturales que debe ser respetada por encima de cualquier interés económico.",
+"Una estrategia de negociación para obtener mayores beneficios económicos, como empleos directos o una mayor participación en las ganancias.",
+"Una falta de comprensión sobre los beneficios de la producción a gran escala y la tecnología agrícola moderna para la seguridad alimentaria."]},
+{
+  "pregunta": {
+      "contexto": "El texto explica los métodos de producción, incluyendo por proyecto, en masa y continua.",
+      "pregunta": "Una refinería de petróleo en Barrancabermeja opera de forma ininterrumpida para procesar crudo y obtener gasolina, diésel y otros derivados. ¿A qué tipo de método de producción corresponde mejor esta actividad?"},
+  "respuesta": "Producción continua, porque el proceso está altamente automatizado y diseñado para no detenerse, maximizando la eficiencia.",
+  "distractores": ["Producción en masa, porque se generan grandes cantidades de productos como la gasolina para abastecer al país.",
+"Producción por proyecto, porque la construcción y mantenimiento de una refinería es una obra de ingeniería muy compleja.",
+"Producción por lotes, porque el petróleo crudo se procesa en grandes bloques o “lotes” según su tipo y origen."]},
+{
+  "pregunta": {
+      "contexto": "Una empresa de logística reemplaza al 30% de su personal de bodega con robots. El gerente habla de “eficiencia”. Los trabajadores hablan de “familias sin sustento”.",
+      "pregunta": "¿Cuál de las siguientes opciones describe mejor el núcleo del dilema, integrando las perspectivas de ambos actores?"},
+  "respuesta": "El conflicto demuestra que la optimización de un factor de producción en Capital puede generar una externalidad negativa sobre el factor Trabajo.",
+  "distractores": ["La empresa ve la inversión en Capital como una estrategia de supervivencia y crecimiento, mientras que los trabajadores la perciben como un beneficio directo a su seguridad económica.",
+"Ambas perspectivas son válidas, pero la del gerente es económicamente más racional, ya que la eficiencia beneficia a la sociedad en su conjunto a largo plazo.",
+"El dilema refleja una falla del sistema educativo, que no preparó a los trabajadores con las habilidades necesarias para operar la nueva tecnología."]}
+]
