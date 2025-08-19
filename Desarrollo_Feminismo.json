@@ -1,0 +1,82 @@
+[
+{
+  "pregunta": {
+      "contexto": "El texto afirma que “durante las revoluciones liberales del siglo XIX apareció el feminismo, una ideología que propugna la equidad entre los sexos y la defensa de los derechos de la mujer”.",
+      "pregunta": "A partir de esta definición, se puede concluir que el feminismo surgió como una ideología que"},
+  "respuesta": "aplicaba los principios de igualdad de la democracia liberal a la situación de las mujeres.",
+  "distractores": ["buscaba establecer la superioridad de la mujer sobre el hombre en la esfera política.",
+"se oponía a los principios de libertad y derechos ciudadanos de las revoluciones liberales.",
+"se enfocaba exclusivamente en obtener beneficios económicos para las mujeres trabajadoras."]},
+{
+  "pregunta": {
+      "contexto": "Durante la Revolución francesa, Olimpia de Gouges publicó la Declaración de los Derechos de la Mujer y la Ciudadana (1791), en la que “denunciaba el hecho de que la Revolución hubiera olvidado a las mujeres en su proyecto de transformaciones sociales”. Posteriormente, fue arrestada y ejecutada.",
+      "pregunta": "La trayectoria de Olimpia de Gouges evidencia una contradicción fundamental en la Revolución francesa porque"},
+  "respuesta": "a pesar de promover los derechos universales del ciudadano, el nuevo régimen negó activamente esos mismos derechos a la mitad de la población.",
+  "distractores": ["las mujeres que participaron en la Revolución lo hicieron únicamente por intereses personales y no por convicciones políticas.",
+"los líderes revolucionarios consideraban que las ideas feministas eran más peligrosas que las de la monarquía que habían derrocado.",
+"la publicación de documentos políticos estaba prohibida para todos los ciudadanos, sin importar su género."]},
+{
+  "pregunta": {
+      "contexto": "Mary Wollstonecraft, en su obra Vindicación de los Derechos de la Mujer (1792), “afirmó que la educación era la clave para lograr la igualdad femenina respecto del hombre y de esta manera desarrollar su independencia económica por medio de su trabajo”.",
+      "pregunta": "Según el planteamiento de Wollstonecraft, la relación entre educación e independencia económica consiste en que"},
+  "respuesta": "la educación proporciona a las mujeres las herramientas intelectuales y profesionales para autosostenerse.",
+  "distractores": ["la educación garantiza automáticamente un trabajo bien remunerado para las mujeres.",
+"la independencia económica es un requisito previo para que las mujeres puedan acceder a la educación.",
+"el trabajo doméstico debe ser considerado una forma de educación que conduce a la independencia económica."]},
+{
+  "pregunta": {
+      "contexto": "El texto señala que, tras la Guerra de Secesión estadounidense, “se aprobó el derecho al sufragio para los esclavos liberados, mas no para las mujeres”, a pesar de la participación de estas en los movimientos abolicionistas.",
+      "pregunta": "Este hecho histórico permite comprender que"},
+  "respuesta": "la lucha por la ampliación de derechos civiles no siempre avanza de manera uniforme para todos los grupos oprimidos.",
+  "distractores": ["los movimientos abolicionistas y sufragistas eran mutuamente excluyentes y competían por los mismos recursos.",
+"las mujeres se oponían al derecho al voto para los esclavos liberados, lo que causó su exclusión del sufragio.",
+"el gobierno estadounidense consideraba que la cuestión de la esclavitud era más importante que la de los derechos de la mujer."]},
+{
+  "pregunta": {
+      "contexto": "Al comparar las fechas de aprobación del sufragio femenino en Latinoamérica, el texto menciona que Uruguay lo hizo en 1927, Ecuador en 1929, Brasil en 1932 y Colombia en 1954.",
+      "pregunta": "Esta diferencia cronológica de más de dos décadas entre los primeros países y Colombia sugiere que"},
+  "respuesta": "el proceso de reconocimiento de los derechos políticos de la mujer en Latinoamérica fue heterogéneo y dependió de los contextos nacionales.",
+  "distractores": ["Colombia fue el último país del mundo en conceder el voto a las mujeres.",
+"los movimientos feministas en Uruguay, Ecuador y Brasil eran política e ideológicamente idénticos.",
+"la influencia de los movimientos sufragistas europeos fue significativamente menor en Colombia que en el resto de la región."]},
+{
+  "pregunta": {
+      "contexto": "En Colombia, María Cano fue reconocida por artesanos y obreros como “La Flor del trabajo” y “denunció las difíciles condiciones laborales” durante las primeras décadas del siglo XX.",
+      "pregunta": "La figura de María Cano es representativa de una faceta del feminismo colombiano temprano que se caracterizó por"},
+  "respuesta": "su estrecha vinculación con las luchas de clases y los movimientos sindicales.",
+  "distractores": ["su enfoque exclusivo en la obtención del derecho al voto, al igual que el sufragismo británico.",
+"su alianza con los sectores conservadores para promover reformas educativas.",
+"su rechazo a la participación política, centrándose únicamente en la labor intelectual."]},
+{
+  "pregunta": {
+      "contexto": "El texto describe dos momentos del proceso legislativo en Colombia: en 1945, se intentó mejorar el desempeño laboral de las mujeres, pero se “restringió el derecho al sufragio (...) a los varones”; en 1947, se “permitió un incremento de la participación femenina en los cargos públicos (...), paradójicamente, sin lograr el sufragio universal”.",
+      "pregunta": "Estos eventos, en conjunto, demuestran que el camino hacia la igualdad política de la mujer en Colombia"},
+  "respuesta": "estuvo marcado por avances parciales que coexistieron con la negación de derechos políticos fundamentales.",
+  "distractores": ["fue un proceso rápido y sin oposición por parte de la clase política tradicional.",
+"se logró gracias a una serie de reformas laborales que culminaron en el derecho al voto.",
+"dependió exclusivamente de la presión de organizaciones internacionales como la ONU."]},
+{
+  "pregunta": {
+      "contexto": "El derecho al voto femenino en Colombia “solo se alcanzó hasta 1954, durante el gobierno del general Gustavo Rojas Pinilla, por medio del Acto Legislativo N° 3 de la Asamblea Nacional Constituyente”.",
+      "pregunta": "El contexto político en el que se logró este avance es significativo porque"},
+  "respuesta": "indica que la concesión de este derecho no fue el resultado de un debate en un congreso democrático tradicional, sino de una decisión bajo un régimen de excepción.",
+  "distractores": ["demuestra que los gobiernos militares son inherentemente más progresistas en materia de derechos de la mujer.",
+"se alinea con el patrón de las revoluciones liberales del siglo XIX, donde la democracia condujo a la igualdad de género.",
+"prueba que el sufragio femenino fue una imposición directa del Frente Nacional para consolidar su poder político."]},
+{
+  "pregunta": {
+      "contexto": "El texto menciona que, a partir de la década de 1950 y con mayor fuerza tras la Conferencia de Beijing en 1995, surgieron en diversos países instituciones como “la Oficina de la Mujer, el Servicio Nacional de la Mujer (...) y el Ministerio de la Mujer”.",
+      "pregunta": "La creación de estas entidades gubernamentales representa"},
+  "respuesta": "la incorporación de las demandas por la equidad de género en la estructura del Estado.",
+  "distractores": ["la culminación definitiva de la lucha feminista, haciendo innecesarios los movimientos sociales.",
+"un retroceso, ya que limita la discusión sobre los derechos de la mujer a una sola dependencia estatal.",
+"una estrategia de los gobiernos para controlar y limitar la autonomía de las organizaciones feministas."]},
+{
+  "pregunta": {
+      "contexto": "Al analizar el desarrollo del feminismo desde sus orígenes en el siglo XVIII hasta su institucionalización en el siglo XX,",
+      "pregunta": "el texto en su conjunto permite afirmar que este movimiento"},
+  "respuesta": "evolucionó de una crítica filosófica a la desigualdad, a una lucha por derechos políticos concretos y, finalmente, a la creación de políticas públicas.",
+  "distractores": ["ha mantenido los mismos objetivos y estrategias en todos los países y épocas.",
+"fue un fenómeno exclusivamente europeo y norteamericano que tardíamente fue copiado en Latinoamérica.",
+"logró todos sus objetivos con la obtención del derecho al voto, perdiendo relevancia en la segunda mitad del siglo XX."]}
+  ]
