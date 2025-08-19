@@ -1,0 +1,82 @@
+[
+{
+  "pregunta": {
+      "contexto": "El texto define a las víctimas del conflicto armado como “todos los colombianos que han visto afectada su dignidad humana”.",
+      "pregunta": "De acuerdo con esta definición, se puede inferir que el concepto de víctima en el marco del conflicto colombiano es"},
+  "respuesta": "amplio, al incluir cualquier forma de vulneración que atente contra el valor inherente de una persona.",
+  "distractores": ["restringido, pues se limita únicamente a quienes han sufrido daños físicos directos.",
+"exclusivo, porque solo considera a las personas registradas oficialmente por el Estado.",
+"económico, dado que se enfoca principalmente en la pérdida de bienes materiales y tierras."]},
+{
+  "pregunta": {
+      "contexto": "El documento menciona dos hechos violentos: un atentado con explosivos en el Club El Nogal de Bogotá y la masacre en la iglesia de Bojayá, Chocó.",
+      "pregunta": "Al presentar estos dos casos de manera conjunta, el autor busca ilustrar que "},
+  "respuesta": "la confrontación armada afecta de manera indiscriminada a diferentes sectores sociales y regiones del país.",
+  "distractores": ["los ataques terroristas se concentran exclusivamente en las grandes ciudades y los centros de poder.",
+"los grupos armados dirigen sus acciones principalmente contra lugares de reunión social y religiosa.",
+"la violencia en las zonas rurales es considerablemente más grave que la violencia en las zonas urbanas."]},
+{
+  "pregunta": {
+      "contexto": "El texto establece que la muerte del líder liberal Jorge Eliécer Gaitán, el 9 de abril de 1948, “inicia una espiral de violencia que no ha logrado ser conjurada”.",
+      "pregunta": "Esta afirmación permite comprender que el conflicto armado colombiano"},
+  "respuesta": "tiene raíces históricas profundas y es el resultado de un proceso de larga duración.",
+  "distractores": ["fue un evento corto y localizado que terminó a mediados del siglo XX.",
+"es un fenómeno reciente, originado exclusivamente por el narcotráfico en la década de 1990.",
+"se debe únicamente a la lucha entre los partidos políticos tradicionales, sin otros actores involucrados."]},
+{
+  "pregunta": {
+      "contexto": "Un campesino que, bajo amenazas de un grupo armado ilegal, se ve forzado a vender su finca por un precio muy inferior a su valor real y a mudarse a la ciudad, puede ser considerado una víctima del conflicto.",
+      "pregunta": "Según el texto, ¿qué hechos victimizantes se evidencian principalmente en esta situación?"},
+  "respuesta": "Despojo de tierras y desplazamiento forzado.",
+  "distractores": ["Secuestro y extorsión.",
+"Asesinato selectivo y masacres.",
+"Atentados con explosivos y amenazas directas."]},
+{
+  "pregunta": {
+      "contexto": "El senador Juan Fernando Cristo, ponente de la Ley 1448 de 2011, manifestó que esta “genera un cambio de paradigma para la construcción de paz, ya no desde la visión o la comprensión de los victimarios, sino desde el reconocimiento de las víctimas como sujetos de derechos”.",
+      "pregunta": "La idea de “cambio de paradigma” se refiere a que la ley "},
+  "respuesta": "centra la política de paz en la perspectiva y los derechos de las víctimas, en lugar de enfocarse solo en los actores armados.",
+  "distractores": ["prioriza el castigo a los victimarios por encima de cualquier medida de reparación a los afectados.",
+"propone que los victimarios sean los únicos responsables de diseñar y ejecutar los programas de reparación.",
+"elimina la necesidad de procesos judiciales, favoreciendo un enfoque basado exclusivamente en el perdón."]},
+{
+  "pregunta": {
+      "contexto": "El documento plantea la necesidad de avanzar en tres elementos: la verdad, la justicia y la reparación integral, como base para la “garantía de la no repetición”.",
+      "pregunta": "¿Cuál de las siguientes opciones explica mejor la relación entre estos tres elementos para construir una paz duradera?"},
+  "respuesta": "Conocer la verdad sobre las causas del conflicto, sancionar a los responsables y resarcir los daños son pasos interdependientes para evitar que la violencia se repita.",
+  "distractores": ["La reparación económica es suficiente para garantizar la no repetición, haciendo que la verdad y la justicia sean secundarias.",
+"La justicia, entendida como el encarcelamiento de todos los culpables, es el único pilar que puede asegurar que no haya más violencia en el futuro.",
+"La verdad histórica es un ejercicio académico que tiene poca influencia en la reparación material de las víctimas y en la prevención de futuros conflictos."]},
+{
+  "pregunta": {
+      "contexto": "El texto destaca el “poder transformador de las víctimas”, señalando que estas “nos muestran formas y mecanismos para transformarnos como sociedad”.",
+      "pregunta": "Este concepto implica que las víctimas deben ser vistas no solo como receptoras pasivas de ayuda, sino también como"},
+  "respuesta": "agentes activos con la capacidad de liderar procesos de reconciliación y construcción de una sociedad más justa.",
+  "distractores": ["individuos que deben olvidar el pasado para poder integrarse plenamente en la sociedad.",
+"un grupo social que debe permanecer aislado para proteger su vulnerabilidad y evitar nuevos daños.",
+"las únicas responsables de perdonar a sus victimarios para que el país pueda alcanzar la paz."]},
+{
+  "pregunta": {
+      "contexto": "La promulgación de la Ley 1448 de 2011 fue el resultado de múltiples factores.",
+      "pregunta": "Según el texto, ¿cuál de los siguientes conjuntos de factores fue determinante para su creación?"},
+  "respuesta": "La grave crisis humanitaria interna, la presión de la comunidad internacional y los fallos judiciales.",
+  "distractores": ["Únicamente la voluntad política del presidente Juan Manuel Santos y su gabinete.",
+"La presión de los grupos guerrilleros para obtener beneficios jurídicos y la crisis económica del país.",
+"El éxito de los procesos de paz de los años 90 y la desmovilización total de los grupos paramilitares."]},
+{
+  "pregunta": {
+      "contexto": "En un municipio, un grupo armado ilegal impone un “impuesto” obligatorio a todos los comerciantes para financiar sus actividades. Quien no paga es declarado objetivo militar y forzado a cerrar su negocio.",
+      "pregunta": "Un comerciante que se niega a pagar y debe abandonar el pueblo por las amenazas recibidas, sería considerado una víctima del conflicto porque"},
+  "respuesta": "su dignidad humana fue afectada a través de la extorsión, la amenaza y el desplazamiento forzado.",
+  "distractores": ["perdió una oportunidad de negocio por no querer colaborar con los actores del conflicto.",
+"el Estado no le proporcionó las condiciones de seguridad necesarias para mantener su negocio abierto.",
+"tomó una mala decisión financiera al no pagar el impuesto que le exigían."]},
+{
+  "pregunta": {
+      "contexto": "Cada 9 de abril se conmemora en Colombia el Día Nacional de la Memoria y Solidaridad con las Víctimas.",
+      "pregunta": "De acuerdo con la reflexión final del texto, el propósito fundamental de esta conmemoración es"},
+  "respuesta": "reconocer los daños sufridos por más de 9 millones de colombianos y reafirmar su derecho a la verdad, la justicia y la reparación como garantía de no repetición.",
+  "distractores": ["culpar al Estado por su incapacidad para proteger a los ciudadanos durante los últimos 50 años de violencia.",
+"llevar a cabo un acto simbólico de duelo sin implicaciones en las políticas públicas actuales.",
+"recordar exclusivamente la muerte de Jorge Eliécer Gaitán como un hecho histórico aislado."]}
+  ]
