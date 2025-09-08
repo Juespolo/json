@@ -1,0 +1,82 @@
+[
+{
+  "pregunta": {
+      "contexto": "De acuerdo con el informe, la jurisprudencia de la Corte Constitucional colombiana ha establecido una “presunción de prevalencia” de la libertad de expresión. ",
+      "pregunta": "Esto significa que:"},
+  "respuesta": "La libertad de expresión tiene una protección especial y solo puede ser limitada de forma excepcional y justificada.",
+  "distractores": ["La libertad de expresión es un derecho absoluto y este no puede ser limitado bajo ninguna circunstancia.",
+"El derecho a la intimidad y al buen nombre siempre deben ceder ante la libertad de informar.",
+"El Estado puede censurar contenidos en internet para proteger otros derechos fundamentales como la libertad de expresión."]},
+{
+  "pregunta": {
+      "contexto": "El Proyecto de Ley 261 de 2024 busca regular el acceso de menores a redes sociales. Una de las principales críticas a esta iniciativa, según el análisis, es que podría vulnerar la “autonomía progresiva” de los adolescentes.",
+      "pregunta": "Este concepto se refiere a que:"},
+  "respuesta": "Se debe reconocer que las capacidades y el juicio personal se desarrollan gradualmente con la edad.",
+  "distractores": ["Los adolescentes deben tener acceso ilimitado a internet sin ningún tipo de supervisión parental.",
+"Las plataformas de redes sociales son las únicas responsables de la educación digital de los menores.",
+"Los padres de familia pierden toda autoridad sobre sus hijos una vez que estos cumplen 14 años."]},
+{
+  "pregunta": {
+      "contexto": "Un analista de políticas públicas afirma que “la creación de la Agencia Nacional de Seguridad Digital, aunque incluye salvaguardas legales, podría llevar a un fenómeno de ‘function creep’ o expansión de funciones”.",
+      "pregunta": "¿Cuál de las siguientes situaciones sería el mejor ejemplo de este fenómeno, según lo descrito en el informe?"},
+  "respuesta": "La Agencia utiliza la información de incidentes reportados para monitorear las actividades de activistas sociales sin orden judicial.",
+  "distractores": ["La Agencia utiliza su presupuesto para contratar más personal del que fue inicialmente aprobado por el Congreso.",
+"La Agencia publica informes anuales sobre el estado de la ciberseguridad en el país, informando a la ciudadanía sobre los riesgos existentes.",
+"La Agencia colabora con universidades para desarrollar nuevos programas de formación en seguridad digital para profesionales del sector."]},
+{
+  "pregunta": {
+      "contexto": "El informe describe la práctica del “ciberpatrullaje” realizada por la Policía Nacional.",
+      "pregunta": "La principal objeción de organizaciones como la Fundación Karisma a esta práctica es que:"},
+  "respuesta": "Carece de base legal y se regula por una resolución interna, lo que le da un alcance vago y limitado.",
+  "distractores": ["Utiliza tecnología obsoleta que no es eficaz para combatir los delitos informáticos modernos.",
+"Requiere una gran inversión de recursos públicos que podrían destinarse a otras áreas de la seguridad ciudadana.",
+"Se enfoca exclusivamente en redes sociales extranjeras, descuidando las plataformas nacionales."]},
+{
+  "pregunta": {
+      "contexto": "El Proyecto de Ley 447 de 2024 propone la “interoperabilidad” de las bases de datos del Estado.",
+      "pregunta": "El principal riesgo para los derechos humanos asociado a esta propuesta es que:"},
+  "respuesta": "Facilitaría la creación de perfiles detallados de los ciudadanos al cruzar información de diferentes fuentes.",
+  "distractores": ["Podría aumentar la burocracia estatal al requerir nuevos protocolos para el intercambio de información entre entidades.",
+"Tendría un alto costo de implementación tecnológica, desviando fondos de programas sociales urgentes.",
+"Haría que los sistemas informáticos del gobierno fueran más vulnerables a ciberataques externos al estar interconectados."]},
+{
+  "pregunta": {
+      "contexto": "Considere la siguiente situación: El gobierno defiende el Proyecto de Ley 261 (control de acceso a menores) argumentando que el derecho a la protección de la niñez (Artículo 44 de la Constitución) prevalece sobre cualquier otro. Una organización de derechos digitales se opone, argumentando que viola la libertad de expresión de los adolescentes (Artículo 20).",
+      "pregunta": "Este conflicto entre dos principios constitucionales es un ejemplo de:"},
+  "respuesta": "Una colisión de derechos resuelta mediante ponderación.",
+  "distractores": ["Un vicio de procedimiento en la creación de la ley.",
+"Una clara extralimitación de funciones del poder ejecutivo.",
+"La inaplicabilidad de la Constitución en el entorno digital."]},
+{
+  "pregunta": {
+      "contexto": "El informe sugiere que las diversas iniciativas legislativas (control de acceso, agencia de seguridad, interoperabilidad de datos) no son esfuerzos aislados.",
+      "pregunta": "Desde una perspectiva sistémica, ¿cuál es el efecto combinado de estas propuestas?"},
+  "respuesta": "Crean una arquitectura de control digital integral donde se puede identificar, monitorear y perfilar a los usuarios.",
+  "distractores": ["Fomentan la competencia entre diferentes agencias del Estado para ver cuál protege mejor los derechos de los ciudadanos.",
+"Reducen la carga regulatoria sobre las empresas de tecnología, permitiéndoles innovar con mayor libertad.",
+"Fortalecen principalmente la economía digital al generar más confianza en las transacciones en línea."]},
+{
+  "pregunta": {
+      "contexto": "El informe menciona el “efecto inhibidor” o “chilling effect” como una consecuencia de la vigilancia estatal en línea.",
+      "pregunta": "Este efecto se manifiesta cuando:"},
+  "respuesta": "Los ciudadanos se autocensuran y evitan participar en debates públicos o criticar al gobierno por temor a ser vigilados.",
+  "distractores": ["Los ciudadanos se sienten más seguros al saber que las autoridades están monitoreando la red en busca de actividades delictivas.",
+"Las empresas de tecnología invierten más en seguridad para evitar sanciones por parte de la nueva Agencia Digital.",
+"La velocidad de la conexión a internet disminuye debido al aumento de los filtros y sistemas de monitoreo."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "¿Cuál de las siguientes afirmaciones describe mejor la tensión central analizada en el informe?"},
+  "respuesta": "La tensión entre la necesidad del Estado de garantizar la seguridad y el orden, y su deber de proteger los derechos fundamentales.",
+  "distractores": ["La tensión entre las leyes nacionales colombianas y las políticas de las empresas tecnológicas internacionales.",
+"La tensión entre el poder legislativo que quiere crear nuevas leyes y el poder judicial que prefiere mantener el estado actual de las cosas.",
+"La tensión entre las generaciones más jóvenes que usan internet de forma nativa y las generaciones mayores que buscan regularlo."]},
+{
+  "pregunta": {
+      "contexto": "Si la Agencia Nacional de Seguridad Digital solicitara a una empresa de telecomunicaciones los datos de tráfico de todos los usuarios que participaron en un foro en línea donde se criticó una política gubernamental,",
+      "pregunta": "¿qué salvaguarda legal, mencionada en el proyecto de ley, debería activarse para proteger los derechos de los ciudadanos?"},
+  "respuesta": "El requisito de obtener una autorización judicial previa.",
+  "distractores": ["La prohibición de que la Agencia actúe como policía judicial.",
+"El principio de colaboración con el sector privado.",
+"La obligación de la Agencia de publicar un plan nacional de ciberseguridad."]}
+  ]
