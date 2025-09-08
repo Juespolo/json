@@ -1,0 +1,82 @@
+[
+{
+  "pregunta": {
+      "contexto": "En un debate legislativo sobre la legalización de la eutanasia, un congresista argumenta: “Debemos legislar con compasión. El cuerpo es una vasija que puede deteriorarse y causar un sufrimiento indecible, pero no debe ser una cárcel que atrape a un espíritu libre y consciente que desea partir. Nuestra obligación es respetar esa autonomía del espíritu sobre la materia degradada”",
+      "pregunta": "¿Cuál de las teorías filosóficas mencionadas en el texto sustenta mejor el argumento del congresista?"},
+  "respuesta": "El dualismo platónico.",
+  "distractores": ["El hilemorfismo de Aristóteles.",
+"El materialismo fisicalista.",
+"El simbolismo computacional."]},
+{
+  "pregunta": {
+      "contexto": "Dos psicólogos clínicos discuten sobre el mejor enfoque para tratar la depresión severa.<br><br>Psicólogo A: “La evidencia es clara. La depresión es fundamentalmente un desbalance químico en el cerebro. Los neurotransmisores como la serotonina no están funcionando correctamente. El tratamiento más eficaz y científicamente validado es la administración de fármacos que corrijan este desequilibrio neurofisiológico”.<br><br>Psicólogo B: “Discrepo. Enfocarse solo en el cerebro es reduccionista. La depresión se manifiesta en un conjunto de comportamientos desadaptativos aprendidos a lo largo del tiempo, como el aislamiento o la rumiación de pensamientos negativos. La terapia debe centrarse en modificar estas conductas observables y reemplazarlas por patrones de comportamiento más saludables”.",
+      "pregunta": "Las perspectivas de los psicólogos A y B se corresponden, respectivamente, con las concepciones de"},
+  "respuesta": "materialismo fisicalista y conductismo.",
+  "distractores": ["dualismo cartesiano y conductismo.",
+"materialismo fisicalista y simbolismo computacional.",
+"dualismo platónico y materialismo fisicalista."]},
+{
+  "pregunta": {
+      "contexto": "Imagine un futuro en el que un gobierno, basándose en la teoría del simbolismo computacional, aprueba una ley que permite a las grandes corporaciones “transferir” la conciencia de empleados con enfermedades terminales a sustratos artificiales (servidores informáticos), con el fin de que puedan seguir contribuyendo con su experiencia laboral de forma indefinida.",
+      "pregunta": "¿Cuál de las siguientes sería una consecuencia directa y más significativa de esta política en la dimensión social?"},
+  "respuesta": "La creación de una nueva estratificación social entre trabajadores mortales y una élite de “trabajadores digitales inmortales”.",
+  "distractores": ["Una drástica reducción en los costos de atención médica para las empresas.",
+"El surgimiento de un debate sobre los derechos de autor del “software” mental transferido.",
+"Un acelerado avance en la capacidad de procesamiento de los servidores informáticos."]},
+{
+  "pregunta": {
+      "contexto": "En el segundo párrafo del texto “Visiones Contrapuestas sobre la Naturaleza Humana”, al describir la solución de Descartes al problema de la interacción y añadir que esta “dejó sin resolver de manera convincente el problema”,",
+      "pregunta": "¿qué estrategia discursiva utiliza principalmente el autor?"},
+  "respuesta": "Exponer una debilidad inherente a la teoría para guiar la lectura hacia las alternativas monistas.",
+  "distractores": ["Citar una fuente de autoridad para validar la teoría cartesiana.",
+"Presentar un contraargumento para refutar completamente el dualismo.",
+"Resumir de manera neutral los postulados centrales del pensamiento de Descartes."]},
+{
+  "pregunta": {
+      "contexto": "El texto afirma que “Descartes, en el marco de la Revolución Científica, propuso un dualismo de sustancias”.",
+      "pregunta": "Teniendo en cuenta la descripción de su teoría, ¿por qué este contexto histórico es relevante para entender su propuesta?"},
+  "respuesta": "Porque su teoría buscaba reconciliar la nueva visión mecanicista y material de la naturaleza con la existencia de la mente y la razón.",
+  "distractores": ["Porque la Revolución Científica negaba la existencia de cualquier entidad inmaterial, obligando a Descartes a oponerse radicalmente a ella.",
+"Porque le permitió a Descartes utilizar los nuevos descubrimientos sobre anatomía para localizar el alma en la glándula pineal de forma irrefutable.",
+"Porque en esa época todos los científicos eran también filósofos, y era común que mezclaran sus creencias religiosas con sus investigaciones."]},
+{
+  "pregunta": {
+      "contexto": "La tecnología de realidad virtual inmersiva busca crear la sensación de que la mente del usuario habita un cuerpo digital (un avatar) dentro de un mundo virtual, interactuando con este a través de dicho avatar.",
+      "pregunta": "La experiencia del usuario, donde su conciencia controla un “cuerpo” en un entorno distinto, puede ser descrita de manera análoga por el modelo del"},
+  "respuesta": "dualismo cartesiano, al recrear una separación funcional entre una “sustancia pensante” y una “sustancia extensa”.",
+  "distractores": ["conductismo, ya que la interacción se basa en estímulos y respuestas programadas.",
+"hilemorfismo aristotélico, pues el avatar y la mente forman una unidad inseparable.",
+"materialismo fisicalista, porque toda la experiencia se reduce a impulsos eléctricos en el cerebro del usuario."]},
+{
+  "pregunta": {
+      "contexto": "Una corporación de neurotecnología propone a una comunidad indígena “mapear” digitalmente los cerebros de sus ancianos para preservar su conocimiento ancestral en una base de datos. El gobierno apoya el proyecto, argumentando que es un invaluable avance científico y una forma de salvaguardar un patrimonio cultural inmaterial. Sin embargo, los líderes de la comunidad se oponen firmemente, afirmando que su “espíritu” y su conocimiento no residen en los patrones neuronales del cerebro, sino en su relación sagrada con la tierra y sus rituales colectivos.",
+      "pregunta": "El núcleo de este conflicto se origina en"},
+  "respuesta": "la colisión entre una visión materialista del conocimiento y una visión no materialista que lo sitúa fuera del cuerpo individual.",
+  "distractores": ["la desconfianza de la comunidad indígena hacia la tecnología moderna y el gobierno.",
+"un desacuerdo puramente económico sobre quién se beneficiará de la patente de dicho conocimiento.",
+"la falta de protocolos de consulta previa con las comunidades, como lo exige la Constitución."]},
+{
+  "pregunta": {
+      "contexto": "Considerando la estructura general del texto “Visiones Contrapuestas sobre la Naturaleza Humana”, que avanza desde las teorías dualistas antiguas hacia las monistas y computacionales más recientes,",
+      "pregunta": "¿cuál de las siguientes afirmaciones describe mejor la posible intención o postura del autor?"},
+  "respuesta": "El autor presenta una progresión histórica de las ideas que sugiere una evolución hacia explicaciones más compatibles con la ciencia moderna.",
+  "distractores": ["El autor busca demostrar que las teorías dualistas son científicamente superiores a las monistas.",
+"El autor defiende explícitamente el simbolismo computacional como la única teoría válida y definitiva para explicar la mente humana.",
+"El autor pretende mostrar que todas las teorías son igualmente válidas y que la elección entre ellas es una cuestión de preferencia personal."]},
+{
+  "pregunta": {
+      "contexto": "Un juez, al dictar sentencia, declara: “Por más avanzado que sea un sistema de inteligencia artificial, jamás podrá impartir verdadera justicia. Sus decisiones se basan en algoritmos fríos y datos, pero carece de un alma o espíritu, esa esencia inmaterial que le permitiría comprender genuinamente conceptos como la clemencia, el arrepentimiento y la humanidad”.",
+      "pregunta": "Esta afirmación evidencia un prejuicio fundamentado en una concepción"},
+  "respuesta": "dualista, que presupone que las funciones morales superiores son propiedad exclusiva de una sustancia inmaterial.",
+  "distractores": ["conductista, que valora únicamente las acciones observables y no los estados internos.",
+"monista, que asume que la justicia es un proceso puramente cerebral y computable.",
+"computacional, que equipara la mente humana con un programa de software complejo."]},
+{
+  "pregunta": {
+      "contexto": "Si un Estado decidiera reestructurar completamente su sistema educativo y legal basándose en los principios del conductismo radical de Skinner,",
+      "pregunta": "¿cuál sería la implicación más profunda y probable para el concepto de “responsabilidad penal individual”?"},
+  "respuesta": "Se debilitaría o disolvería, pues las acciones criminales serían vistas no como elecciones libres, sino como respuestas condicionadas por el entorno social y la historia de reforzamientos del individuo.",
+  "distractores": ["Se fortalecería, ya que cada individuo sería entrenado para ser más consciente de las consecuencias de sus actos.",
+"Se mantendría sin cambios, pues las leyes seguirían castigando las conductas delictivas de la misma manera."",
+"Se redefiniría para enfocarse en la “intención” mental del criminal en lugar de en el acto cometido."]}
+  ]
