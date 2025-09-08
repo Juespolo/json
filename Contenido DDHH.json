@@ -1,0 +1,242 @@
+[
+{
+  "pregunta": {
+      "contexto": "En un colegio de élite, el rector publica una circular que establece que los cupos para actividades extracurriculares de liderazgo serán asignados prioritariamente a estudiantes “cuyas familias hayan demostrado un legado de liderazgo en la comunidad”, excluyendo de hecho a estudiantes nuevos o de familias menos conocidas. Un grupo de padres argumenta que esta medida es injusta.",
+      "pregunta": "La política del rector contradice el principio fundamental de los derechos humanos porque"},
+  "respuesta": "desconoce que todos los seres humanos nacen con igual dignidad y derechos.",
+  "distractores": ["limita el acceso a la educación de calidad para todos los estudiantes.",
+"viola la libertad de los estudiantes para elegir sus actividades extracurriculares.",
+"ataca la honra y reputación de las familias que no son consideradas “líderes”."]},
+{
+  "pregunta": {
+      "contexto": "Una empresa de tecnología publica una oferta de empleo para un cargo de gerente de proyectos. En los requisitos, especifica: “Se requiere candidato masculino, entre 25 y 35 años, sin filiación política visible”. Una mujer de 40 años, con amplia experiencia y afiliada a un partido político, es rechazada sin siquiera ser entrevistada.",
+      "pregunta": "¿Qué derecho fundamental se vulnera principalmente con los requisitos de la oferta laboral?"},
+  "respuesta": "El derecho a la igualdad y a la no discriminación por sexo, edad u opinión política.",
+  "distractores": ["El derecho al trabajo en condiciones equitativas y satisfactorias.",
+"El derecho a fundar sindicatos para la defensa de los intereses de los trabajadores.",
+"El derecho a participar en el gobierno del país y acceder a funciones públicas."]},
+{
+  "pregunta": {
+      "contexto": "En una zona rural afectada por el conflicto armado, un grupo armado ilegal impone un “toque de queda” después de las 6 p.m. y amenaza con “consecuencias fatales” a quien lo incumpla. Los habitantes viven con miedo constante, no pueden atender emergencias nocturnas ni visitar a sus familiares.",
+      "pregunta": "La acción del grupo armado ilegal viola directamente el derecho de los habitantes a"},
+  "respuesta": "la vida, la libertad y la seguridad de su persona.",
+  "distractores": ["la libre circulación y a elegir su residencia.",
+"la libertad de reunión y asociación pacífica.",
+"un nivel de vida adecuado que asegure su bienestar."]},
+{
+  "pregunta": {
+      "contexto": "Una joven de una región apartada es contactada a través de redes sociales con una falsa oferta de trabajo como modelo en la capital. Al llegar, le quitan su celular y pasaporte, la encierran y la obligan a trabajar en un taller clandestino sin paga y bajo amenazas para saldar una supuesta “deuda” por su viaje y alojamiento.",
+      "pregunta": "Esta situación es un claro ejemplo de una violación al derecho que prohíbe"},
+  "respuesta": "la esclavitud y la trata de personas en todas sus formas.",
+  "distractores": ["la detención arbitraria y el destierro.",
+"las injerencias en la vida privada y la correspondencia.",
+"el trabajo en condiciones que no sean equitativas y satisfactorias."]},
+{
+  "pregunta": {
+      "contexto": "Durante un interrogatorio, un agente de la fuerza pública somete a un detenido a privación del sueño durante 48 horas, lo expone a temperaturas extremas y lo amenaza constantemente con hacerle daño a su familia para que confiese un delito.",
+      "pregunta": "La conducta del agente constituye una violación directa a la prohibición de"},
+  "respuesta": "someter a cualquier persona a torturas o tratos crueles e inhumanos.",
+  "distractores": ["imponer penas más graves que las aplicables en el momento del delito.",
+"realizar detenciones arbitrarias sin orden de un juez competente.",
+"juzgar a una persona sin un tribunal independiente e imparcial."]},
+{
+  "pregunta": {
+      "contexto": "Una comunidad nómada que vive en la frontera del país no ha sido registrada por ninguna autoridad estatal. Sus miembros no tienen documentos de identidad, no pueden acceder a servicios de salud, y sus hijos no son admitidos en las escuelas porque, legalmente, “no existen”.",
+      "pregunta": "La situación de esta comunidad evidencia una vulneración de su derecho a"},
+  "respuesta": "ser reconocida en todas partes como persona ante la ley.",
+  "distractores": ["tener una nacionalidad y no ser privado de ella.",
+"buscar asilo en caso de persecución.",
+"circular libremente por el territorio de un Estado."]},
+{
+  "pregunta": {
+      "contexto": "En un juicio, el hijo de un político influyente y un ciudadano común son acusados del mismo delito, con pruebas muy similares en su contra. El hijo del político es absuelto rápidamente con argumentos procesales, mientras que el ciudadano común recibe la máxima condena. La prensa denuncia que hubo presiones políticas sobre el juez.",
+      "pregunta": "Este caso pone en evidencia una falla en la aplicación del principio de"},
+  "respuesta": "igualdad ante la ley y a igual protección de la misma.",
+  "distractores": ["presunción de inocencia hasta que se demuestre la culpabilidad.",
+"derecho a ser oído públicamente por un tribunal imparcial.",
+"prohibición de detenciones arbitrarias y sin justa causa."]},
+{
+  "pregunta": {
+      "contexto": "Un ciudadano solicita a una entidad pública información sobre un contrato, amparado en su derecho de petición. La entidad se niega a entregar la información sin dar ninguna justificación. El ciudadano, al considerar que se le está violando un derecho fundamental, acude ante un juez para que ordene a la entidad entregar la información de manera inmediata.",
+      "pregunta": "El mecanismo que el ciudadano está utilizando para proteger su derecho se corresponde con el derecho a"},
+  "respuesta": "un recurso efectivo ante los tribunales competentes.",
+  "distractores": ["la libertad de opinión y de expresión.",
+"participar en el gobierno y en la gestión pública.",
+"la protección de la ley contra injerencias arbitrarias."]},
+{
+  "pregunta": {
+      "contexto": "Un líder estudiantil es detenido por la policía durante una protesta pacífica. No le informan el motivo de su detención, no le permiten contactar a un abogado y lo mantienen incomunicado por más de 72 horas sin presentarlo ante un juez.",
+      "pregunta": "La actuación de la policía vulnera el derecho del estudiante a no ser"},
+  "respuesta": "arbitrariamente detenido, preso ni desterrado.",
+  "distractores": ["sometido a torturas ni a tratos crueles.",
+"molestado a causa de sus opiniones.",
+"privado de su derecho a la libertad de reunión."]},
+{
+  "pregunta": {
+      "contexto": "Una empresa multinacional es demandada por contaminación ambiental en un pequeño municipio. El juicio se lleva a cabo en una corte privada, financiada por la misma empresa, a puerta cerrada y sin acceso a la prensa ni a la comunidad afectada. El juez es un ex-empleado de alto rango de la compañía.",
+      "pregunta": "El procedimiento descrito viola el derecho de la comunidad a"},
+  "respuesta": "ser oída por un tribunal independiente e imparcial.",
+  "distractores": ["la protección de sus intereses morales y materiales.",
+"un nivel de vida adecuado que asegure la salud.",
+"participar libremente en la vida cultural de la comunidad."]},
+{
+  "pregunta": {
+      "contexto": "Un noticiero de televisión presenta un reportaje sobre un caso de corrupción, mostrando repetidamente la foto de una persona capturada con el titular “El cerebro de la red criminal”. Aún no se ha iniciado el juicio y no se ha presentado ninguna prueba contundente en su contra ante un juez.",
+      "pregunta": "La forma en que el noticiero presenta la información atenta contra el derecho del capturado a"},
+  "respuesta": "que se presuma su inocencia mientras no se pruebe su culpabilidad.",
+  "distractores": ["la protección de su honra y reputación.",
+"la libertad de opinión y de expresión.",
+"no ser objeto de injerencias arbitrarias en su vida privada."]},
+{
+  "pregunta": {
+      "contexto": "Un programa de chismes publica fotografías de un famoso actor durante sus vacaciones en una playa privada, obtenidas con un dron sin su consentimiento. Además, publican el contenido de conversaciones privadas de su chat personal, que fueron hackeadas.",
+      "pregunta": "Estas acciones constituyen una violación al derecho del actor a"},
+  "respuesta": "la privacidad de su vida, su familia y su correspondencia.",
+  "distractores": ["la propiedad sobre sus producciones artísticas.",
+"el descanso y al disfrute del tiempo libre.",
+"la libertad de expresión y de información."]},
+{
+  "pregunta": {
+      "contexto": "El gobierno de un país, en un intento por controlar la emigración de profesionales, decreta que los ciudadanos con títulos universitarios no podrán salir del país sin un permiso especial, el cual es negado sistemáticamente.",
+      "pregunta": "Esta medida gubernamental viola directamente el derecho de las personas a"},
+  "respuesta": "salir de cualquier país, incluso del propio, y a regresar.",
+  "distractores": ["la libre elección de su trabajo y profesión.",
+"la educación y al acceso a estudios superiores.",
+"la seguridad social y a la protección contra el desempleo."]},
+{
+  "pregunta": {
+      "contexto": "Una periodista de un país vecino huye a Colombia después de recibir amenazas de muerte por parte de grupos vinculados al gobierno de su país, tras publicar una investigación sobre corrupción. Al llegar a la frontera, solicita protección al Estado colombiano argumentando que su vida corre peligro si regresa.",
+      "pregunta": "La solicitud de la periodista se fundamenta en el derecho a"},
+  "respuesta": "buscar asilo en caso de persecución.",
+  "distractores": ["la libertad de opinión y de expresión.",
+"la protección consular en el extranjero.",
+"una nacionalidad y a no ser privada de ella."]},
+{
+  "pregunta": {
+      "contexto": "Un niño nace en el territorio del país X, de padres que son ciudadanos del país Y. El país X no le otorga la nacionalidad por haber nacido allí (no aplica el jus soli), y el país Y tampoco se la otorga porque sus leyes exigen que el nacimiento ocurra en su territorio (no aplica el jus sanguinis). Como resultado, el niño no es reconocido como ciudadano de ningún país.",
+      "pregunta": "Esta situación viola el derecho fundamental del niño a"},
+  "respuesta": "tener una nacionalidad y a no ser un apátrida.",
+  "distractores": ["fundar una familia y ser protegido por la sociedad.",
+"tener un nombre y ser registrado desde su nacimiento.",
+"recibir la educación elemental de forma gratuita."]},
+{
+  "pregunta": {
+      "contexto": "En una comunidad, se practica la tradición de que los padres arreglen el matrimonio de sus hijas adolescentes con hombres mayores a cambio de bienes o dinero, sin consultar la voluntad de las jóvenes. Una organización de derechos humanos denuncia esta práctica.",
+      "pregunta": "La denuncia se basa en que esta tradición viola el principio de que el matrimonio solo puede contraerse con"},
+  "respuesta": "el libre y pleno consentimiento de los futuros esposos.",
+  "distractores": ["la autorización de las autoridades civiles competentes.",
+"la igualdad de derechos durante y después del matrimonio.",
+"la mayoría de edad legalmente establecida en el país."]},
+{
+  "pregunta": {
+      "contexto": "El gobierno municipal decide expropiar un terreno perteneciente a una familia para construir un parque. Sin embargo, no inicia ningún proceso legal, no presenta una justificación de utilidad pública y ofrece a la familia una suma de dinero muy inferior al valor comercial del terreno, amenazando con desalojarlos por la fuerza si no aceptan.",
+      "pregunta": "La acción del gobierno municipal constituye una violación al derecho a no ser privado"},
+  "respuesta": "de la propiedad de forma arbitraria.",
+  "distractores": ["de la vivienda de forma arbitraria.",
+"de la libertad de circulación y residencia.",
+"de un nivel de vida adecuado."]},
+{
+  "pregunta": {
+      "contexto": "Un Estado decreta una ley que obliga a todos los estudiantes de colegios públicos a asistir a clases de la religión mayoritaria del país y a participar en sus ritos, sin ofrecer alternativas para aquellos que profesan otras creencias o ninguna.",
+      "pregunta": "Esta ley vulnera la libertad de pensamiento, conciencia y religión porque"},
+  "respuesta": "impone una creencia y limita la libertad de tener o adoptar la religión de su elección.",
+  "distractores": ["viola el derecho de los padres a escoger la educación de sus hijos.",
+"desconoce el derecho de las personas a manifestar su religión o creencia.",
+"atenta contra el derecho a la educación gratuita y obligatoria."]},
+{
+  "pregunta": {
+      "contexto": "Un periodista publica un artículo de opinión con fuertes críticas a la gestión económica del gobierno, basándose en datos y cifras oficiales. Como respuesta, el gobierno ordena el cierre del periódico y abre una investigación penal contra el periodista por “atentar contra el orden económico y social”.",
+      "pregunta": "La respuesta del gobierno es un ataque directo a la libertad de"},
+  "respuesta": "expresión, al reprimir la difusión de opiniones críticas.",
+  "distractores": ["asociación, al cerrar un medio de comunicación.",
+"trabajo, al impedir que el periodista ejerza su profesión.",
+"información, al cuestionar el uso de datos oficiales."]},
+{
+  "pregunta": {
+      "contexto": "Un grupo de ciudadanos solicita permiso a la alcaldía para realizar una marcha pacífica en la plaza principal con el fin de protestar contra la tala de árboles en un parque de la ciudad. La alcaldía niega el permiso argumentando que “cualquier tipo de manifestación genera desorden y afecta la imagen de la ciudad”.",
+      "pregunta": "La decisión de la alcaldía restringe injustificadamente el derecho a la"},
+  "respuesta": "libertad de reunión y manifestación pacífica.",
+  "distractores": ["libertad de opinión y expresión.",
+"participación en la vida cultural de la comunidad.",
+"participación en el gobierno de la ciudad."]},
+{
+  "pregunta": {
+      "contexto": "En un país, el partido que está en el poder modifica la ley electoral para que los distritos electorales se redibujen de formas extrañas, garantizando que, aunque la oposición obtenga más votos a nivel nacional, el partido de gobierno gane la mayoría de los escaños en el congreso.",
+      "pregunta": "Esta práctica, conocida como gerrymandering, atenta contra el principio democrático de que la voluntad del pueblo debe expresarse mediante"},
+  "respuesta": "elecciones auténticas y periódicas.",
+  "distractores": ["sufragio universal e igual.",
+"voto secreto o procedimientos equivalentes.",
+"acceso en condiciones de igualdad a las funciones públicas."]},
+{
+  "pregunta": {
+      "contexto": "Un trabajador sufre un accidente laboral que lo deja con una discapacidad permanente, impidiéndole volver a trabajar. Sin embargo, su empleador nunca lo había afiliado al sistema de riesgos laborales ni al de pensiones. Como resultado, el hombre queda sin ingresos y sin acceso a una pensión de invalidez.",
+      "pregunta": "La situación de este trabajador evidencia una falla en la garantía de su derecho a"},
+  "respuesta": "la seguridad social que lo proteja en caso de discapacidad.",
+  "distractores": ["condiciones de trabajo equitativas y satisfactorias.",
+"un nivel de vida adecuado que le asegure la salud.",
+"fundar sindicatos para la defensa de sus intereses."]},
+{
+  "pregunta": {
+      "contexto": "En una misma empresa, un hombre y una mujer ocupan el cargo de “Analista Senior”, realizan exactamente las mismas funciones, tienen la misma antigüedad y un desempeño similar. Sin embargo, una investigación interna revela que a todos los hombres en ese cargo se les paga un 20% más que a todas las mujeres.",
+      "pregunta": "Esta situación viola directamente el derecho a"},
+  "respuesta": "igual salario por trabajo igual.",
+  "distractores": ["una remuneración equitativa y satisfactoria.",
+"la libre elección del trabajo.",
+"la protección contra el desempleo."]},
+{
+  "pregunta": {
+      "contexto": "Una empresa obliga a sus empleados a trabajar jornadas de 12 horas diarias, seis días a la semana, y les informa que, debido a la alta carga de trabajo, las vacaciones del presente año quedan canceladas para todo el personal, sin compensación alguna.",
+      "pregunta": "Las prácticas de esta empresa vulneran el derecho de los trabajadores al"},
+  "respuesta": "descanso, al tiempo libre y a vacaciones pagadas.",
+  "distractores": ["trabajo en condiciones satisfactorias.",
+"salario igual por trabajo de igual valor.",
+"fundar sindicatos para proteger sus intereses."]},
+{
+  "pregunta": {
+      "contexto": "Una familia desplazada por la violencia llega a una ciudad capital y, al no tener recursos, se asienta en un barrio de invasión. Viven en una choza de cartón sin acceso a agua potable, alcantarillado ni electricidad, y los niños sufren de desnutrición por la falta de alimentos.",
+      "pregunta": "La condición de esta familia evidencia la no satisfacción de su derecho a"},
+  "respuesta": "un nivel de vida adecuado, incluyendo vivienda y alimentación.",
+  "distractores": ["la propiedad individual y colectiva.",
+"la seguridad social y los servicios necesarios.",
+"la protección de la familia como elemento natural de la sociedad."]},
+{
+  "pregunta": {
+      "contexto": "El gobierno de un país decide cerrar todas las escuelas rurales para niños de 6 a 10 años, argumentando que es muy costoso mantenerlas. Les dice a los padres que, si quieren que sus hijos estudien, deben enviarlos a las escuelas de la ciudad, un viaje que para la mayoría es imposible de costear.",
+      "pregunta": "Esta política gubernamental viola la obligación del Estado de garantizar"},
+  "respuesta": "que la educación elemental sea gratuita y obligatoria.",
+  "distractores": ["que la educación superior sea accesible para todos.",
+"que los padres puedan escoger el tipo de educación para sus hijos.",
+"que la educación promueva la amistad entre las naciones."]},
+{
+  "pregunta": {
+      "contexto": "Un músico de una comunidad indígena compone una canción basada en los ritmos tradicionales de su pueblo, la cual se vuelve un éxito mundial al ser usada en una película de Hollywood. La productora de la película gana millones de dólares, pero no le da ningún crédito ni compensación económica al músico ni a su comunidad.",
+      "pregunta": "Esta situación vulnera el derecho del músico a"},
+  "respuesta": "la protección de los intereses morales y materiales de su producción artística.",
+  "distractores": ["participar libremente en la vida cultural de la comunidad.",
+"gozar de las artes y participar en el progreso científico.",
+"la libertad de expresión a través de cualquier medio."]},
+{
+  "pregunta": {
+      "contexto": "En una región del mundo, la inestabilidad política, la guerra civil constante y la corrupción generalizada hacen imposible que los ciudadanos puedan disfrutar de sus derechos básicos. No hay tribunales que funcionen, la educación es inexistente y la violencia es la norma.",
+      "pregunta": "La situación de esta región refleja la ausencia de"},
+  "respuesta": "un orden social en el que los derechos y libertades se hagan efectivos.",
+  "distractores": ["una autoridad gubernamental basada en la voluntad del pueblo.",
+"relaciones amistosas entre las naciones basadas en la cooperación.",
+"un régimen de derecho que proteja a los ciudadanos contra la tiranía."]},
+{
+  "pregunta": {
+      "contexto": "Un ciudadano, ejerciendo su libertad de expresión, crea un sitio web donde publica información personal y privada de sus vecinos (fotos, direcciones, números de teléfono) sin su consentimiento, argumentando que tiene derecho a decir lo que quiera.",
+      "pregunta": "La acción de este ciudadano es un abuso de su derecho, porque el ejercicio de las libertades propias está limitado por"},
+  "respuesta": "el reconocimiento y el respeto de los derechos de los demás.",
+  "distractores": ["la seguridad nacional y el orden público.",
+"las buenas costumbres y la moral de la comunidad.",
+"las directrices establecidas por el gobierno de turno."]},
+{
+  "pregunta": {
+      "contexto": "Un grupo político radical argumenta que, en nombre de la “libertad de asociación”, tienen derecho a formar una organización cuyo objetivo explícito es promover el odio racial y eliminar el derecho a la igualdad de ciertos grupos étnicos.",
+      "pregunta": "El argumento de este grupo es inválido porque, según la Declaración Universal,"},
+  "respuesta": "ningún derecho puede ser utilizado para suprimir los derechos y libertades de otros.",
+  "distractores": ["la libertad de asociación no aplica a grupos con fines políticos.",
+"el Estado puede prohibir cualquier asociación que considere peligrosa.",
+"los derechos de los grupos étnicos prevalecen sobre los derechos individuales."]}
+  ]
