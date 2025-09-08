@@ -1,0 +1,82 @@
+[
+{
+  "pregunta": {
+      "contexto": "A principios del siglo XX, el modelo de desarrollo colombiano se caracterizó por la expansión de economías de enclave, donde compañías extranjeras, como la United Fruit Company, controlaban la producción y exportación de recursos como el banano. Este modelo, si bien impulsó cierta modernización en infraestructura, generó profundos conflictos sociales. La compañía a menudo evitaba la contratación directa de sus miles de trabajadores, utilizando en su lugar un sistema de subcontratistas colombianos. Esta práctica le permitía argumentar que no tenía empleados directos y, por lo tanto, eludir la aplicación de la legislación laboral colombiana de la época.",
+      "pregunta": "Considerando el modelo de desarrollo descrito, ¿cuál de las siguientes opciones explica mejor el origen de las primeras grandes protestas obreras en Colombia, como la huelga de las bananeras de 1928?"},
+  "respuesta": "Las protestas fueron una respuesta directa a las precarias condiciones laborales y a un sistema de contratación diseñado para negar derechos y maximizar la explotación de la mano de obra.",
+  "distractores": ["Las protestas surgieron principalmente por la influencia de ideologías socialistas extranjeras que buscaban desestabilizar al gobierno conservador de la época.",
+"Las protestas se originaron porque el Estado colombiano actuaba como un mediador imparcial que no lograba conciliar los intereses de los trabajadores y las empresas extranjeras.",
+"Las protestas fueron una reacción de los campesinos locales contra la modernización, ya que preferían mantener sus formas de producción tradicionales en lugar de trabajar por un salario."]},
+{
+  "pregunta": {
+      "contexto": "Lea el siguiente fragmento, adaptado de un manifiesto estudiantil de 1990: “Colombia se encuentra al filo del caos. La violencia del narcotráfico asesina a nuestros líderes, el conflicto armado se recrudece y nuestras instituciones, regidas por una Constitución centenaria, son incapaces de ofrecer soluciones. La clase política tradicional se ha mostrado impotente para gestionar la crisis y ha perdido la confianza de la ciudadanía. No podemos esperar más. Es hora de que el pueblo, como soberano, tome la palabra. Convocamos a todos los ciudadanos a depositar en las próximas elecciones una papeleta extra, una ‘Séptima Papeleta’, para exigir una Asamblea Nacional Constituyente que refunde nuestro pacto social sobre las bases de la democracia, la paz y la participación”.",
+      "pregunta": "¿Cuál es la postura del movimiento estudiantil, según se infiere del manifiesto?"},
+  "respuesta": "Se posicionan como un actor de la sociedad civil que, ante la crisis de legitimidad del sistema político, apela al poder del pueblo para una transformación profunda del Estado.",
+  "distractores": ["Consideran que la Constitución de 1886 solo necesita reformas menores en materia de seguridad para superar la crisis.",
+"Actúan como voceros de los partidos políticos tradicionales para canalizar el descontento popular de manera controlada.",
+"Su principal y única demanda es la derrota militar del narcotráfico, considerando que los demás problemas del país son secundarios."]},
+{
+  "pregunta": {
+      "contexto": "La Constitución de 1991 reconoció a Colombia como una nación pluriétnica y multicultural. Sin embargo, el reconocimiento de los derechos de los diferentes grupos étnicos no fue homogéneo. Mientras los pueblos indígenas lograron una consagración detallada de sus derechos territoriales y de autogobierno directamente en el articulado permanente, las comunidades negras, afrocolombianas, raizales y palenqueras dependieron inicialmente del Artículo Transitorio 55. Este artículo ordenaba al Congreso expedir, en un plazo de dos años, una ley que reconociera su derecho a la propiedad colectiva de tierras baldías y protegiera su identidad cultural. Dicho mandato se materializó con la expedición de la Ley 70 de 1993.",
+      "pregunta": "A partir de esta diferencia en el reconocimiento constitucional, ¿qué se puede concluir sobre el proceso de garantía de derechos para las comunidades negras?"},
+  "respuesta": "Que la expedición de la Ley 70 de 1993 fue un paso fundamental que requirió de una continua movilización política por parte de estas comunidades para hacer efectivo el mandato constitucional.",
+  "distractores": ["Que la Constitución de 1991 les otorgó automáticamente los mismos derechos y formas de propiedad territorial que a los resguardos indígenas.",
+"Que el Artículo Transitorio 55 fue una medida suficiente que garantizó de inmediato la protección de sus territorios, sin necesidad de una ley posterior.",
+"Que el Estado colombiano decidió de manera unilateral y sin presión social otorgarles derechos territoriales a través de la Ley 70 de 1993."]},
+{
+  "pregunta": {
+      "contexto": "Un reportaje periodístico documenta el caso de una comunidad campesina que, durante años, ha sufrido enfermedades respiratorias debido a la contaminación del aire generada por una fábrica cercana. A pesar de múltiples quejas ante las autoridades ambientales, la situación no ha mejorado. Asesorados por una organización de derechos humanos, los habitantes de la comunidad deciden interponer una acción de tutela, argumentando que la contaminación vulnera sus derechos fundamentales a la vida, la salud y a un ambiente sano, consagrados en la Constitución de 1991.",
+      "pregunta": "¿De qué manera el uso de la acción de tutela en este caso refleja el potencial transformador de la Constitución de 1991, tal como lo han aprovechado los movimientos sociales?"},
+  "respuesta": "Ilustra cómo un mecanismo judicial de protección inmediata permite a los ciudadanos comunes exigir directamente a un juez la defensa de sus derechos fundamentales.",
+  "distractores": ["Evidencia que la Constitución solo protege derechos políticos, por lo que la tutela probablemente será declarada improcedente para un caso ambiental.",
+"Demuestra que la acción de tutela es un mecanismo lento y burocrático, que solo retrasa las soluciones definitivas a los problemas ambientales.",
+"Muestra que la única forma de resolver conflictos socioambientales es a través de la protesta en las calles, ya que las herramientas jurídicas son ineficaces frente a los intereses económicos."]},
+{
+  "pregunta": {
+      "contexto": "En un debate público sobre la implementación de un programa de educación para la sexualidad en los colegios públicos, un panelista afirma: “El Estado no puede imponer una ‘ideología de género’ que atenta contra los valores de la familia. La Constitución protege el derecho fundamental de los padres a escoger el tipo de educación para sus hijos, y este derecho debe prevalecer”.",
+      "pregunta": "La estrategia argumentativa del panelista, que enmarca su oposición en el lenguaje de los derechos constitucionales, es un ejemplo de lo que el texto “De la Protesta al Pacto” denomina “contrainterpretación”. ¿Cuál es el propósito principal de esta estrategia?"},
+  "respuesta": "Disputar el significado y el alcance de los principios constitucionales, para defender un orden social tradicional frente a agendas progresistas.",
+  "distractores": ["Atacar frontalmente la legitimidad de la Constitución de 1991, proponiendo su derogación y el retorno a la Constitución de 1886.",
+"Utilizar argumentos exclusivamente religiosos para convencer a la audiencia, ignorando por completo el marco legal y constitucional.",
+"Demostrar que los derechos de los padres y los derechos de los niños son idénticos y nunca pueden entrar en conflicto en el ámbito educativo."]},
+{
+  "pregunta": {
+      "contexto": "Un informe reciente de una organización de derechos humanos señala que, a pesar de que la Constitución de 1991 consagra a Colombia como un Estado Social de Derecho fundado en el respeto de la dignidad humana y la participación, la violencia contra líderes sociales y defensores del territorio persiste de manera alarmante. El informe documenta que, solo en los primeros cinco meses de 2025, fueron asesinados 81 líderes en el país, principalmente en zonas con presencia de economías ilegales y disputas por la tierra y los recursos naturales. Muchos de estos líderes pertenecían a comunidades indígenas y afrocolombianas.",
+      "pregunta": "Esta situación descrita en el informe es la manifestación más grave de un problema estructural de la democracia colombiana, que consiste en"},
+  "respuesta": "una profunda brecha entre los derechos y garantías consagrados en la Constitución y la capacidad del Estado para implementarlos.",
+  "distractores": ["la ausencia de un marco legal y constitucional que reconozca y proteja los derechos de los ciudadanos y las comunidades.",
+"el desinterés total de la comunidad internacional en los problemas de derechos humanos que ocurren en Colombia.",
+"la inexistencia de movimientos sociales organizados que exijan al Estado el cumplimiento de sus obligaciones constitucionales."]},
+{
+  "pregunta": {
+      "contexto": "Durante la huelga de 1928 en la zona bananera, los trabajadores presentaron a la United Fruit Company un pliego de peticiones que incluía, entre otros puntos, los siguientes:<br><br>Reconocimiento de los trabajadores como empleados directos de la compañía y no de contratistas.<br><br>Aumento salarial y pago de jornales en dinero en efectivo, no en vales canjeables únicamente en los comisariatos de la empresa.<br><br>Establecimiento del seguro colectivo obligatorio y reparación por accidentes de trabajo.<br><br>Construcción de viviendas higiénicas y descanso dominical remunerado.",
+      "pregunta": "A partir del análisis de estas demandas, ¿qué se puede inferir sobre la perspectiva y los intereses de los trabajadores?"},
+  "respuesta": "Buscaban la formalización de una relación laboral que les garantizara dignidad, derechos básicos y protección.",
+  "distractores": ["Su principal objetivo era obtener la propiedad de las tierras de la compañía para establecer cultivos propios.",
+"Sus demandas eran de naturaleza exclusivamente política y buscaban la salida de la compañía extranjera del país.",
+"Estaban satisfechos con sus condiciones de trabajo y solo aspiraban a un pequeño aumento salarial como compensación."]},
+{
+  "pregunta": {
+      "contexto": "El movimiento de la “Séptima Papeleta” logró que en las elecciones de 1990 más de dos millones de ciudadanos depositaran un voto extraoficial para convocar una Asamblea Nacional Constituyente (ANC). Este respaldo masivo, aunque no tenía validez legal formal, generó una presión política tal que obligó a las instituciones del Estado a viabilizar la convocatoria de la ANC. Este proceso se ha descrito como un acto de soberanía popular que invocó el poder del “constituyente primario”.",
+      "pregunta": "En el contexto de la teoría del Estado, el concepto de “constituyente primario” se refiere a"},
+  "respuesta": "el poder reside en el pueblo y que está por encima de los poderes constituidos.",
+  "distractores": ["el Congreso de la República, como órgano legislativo encargado de reformar las leyes existentes.",
+"el grupo de expertos juristas que redactaron la primera constitución del país en el siglo XIX.",
+"el Presidente de la República, en su calidad de jefe de Estado y de gobierno, con la facultad de decretar nuevas normas."]},
+{
+  "pregunta": {
+      "contexto": "Una empresa minera planea desarrollar un proyecto de extracción de oro a gran escala en un territorio ancestralmente habitado por una comunidad étnica. La empresa afirma haber cumplido con la ley al realizar una “consulta previa”, en la que ofreció a la comunidad la construcción de una escuela y un centro de salud a cambio de su aprobación. Sin embargo, los líderes de la comunidad denuncian que el proyecto contaminará irreversiblemente sus ríos, destruirá sus lugares sagrados y afectará sus prácticas de agricultura tradicional, que son la base de su cultura y subsistencia. Argumentan que la consulta fue un trámite para legitimar una decisión ya tomada y no un diálogo genuino.",
+      "pregunta": "La situación descrita evidencia un conflicto socioambiental que se origina principalmente en"},
+  "respuesta": "una visión de desarrollo centrada en la explotación de recursos y una visión que defiende la integridad del territorio.",
+  "distractores": ["la falta de voluntad de la comunidad para aceptar la compensación económica ofrecida por la empresa.",
+"la ausencia total de leyes en Colombia que regulen la actividad minera y la protección del medio ambiente.",
+"la oposición de la comunidad al progreso y a la construcción de infraestructura como escuelas y centros de salud."]},
+{
+  "pregunta": {
+      "contexto": "Durante un debate legislativo sobre los derechos reproductivos, se presentan dos posturas claramente enfrentadas:<br><br>Postura 1: “La Constitución, en su artículo 11, protege el derecho a la vida como inviolable. Por lo tanto, cualquier norma que permita la interrupción voluntaria del embarazo es una violación directa a la Carta Magna y debe ser eliminada”. <br><br>Postura 2: “La Corte Constitucional ha determinado que la protección de la vida no es absoluta y debe ponderarse con otros derechos fundamentales como la dignidad humana, la autonomía personal y la salud de las mujeres, también protegidos por la Constitución. La penalización absoluta del aborto resulta desproporcionada y vulnera estos derechos”.",
+      "pregunta": "Este desacuerdo entre las dos posturas es un ejemplo de la “guerra de interpretaciones” sobre la Constitución de 1991. ¿Cuál de las siguientes afirmaciones describe mejor la naturaleza de este conflicto?"},
+  "respuesta": "Es un debate en el que ambas posturas apelan a la Constitución, pero interpretan y jerarquizan los derechos de manera opuesta.",
+  "distractores": ["Es un conflicto entre una postura que defiende la Constitución y otra que busca ignorarla por completo.",
+"Es una discusión que solo puede resolverse a través de argumentos religiosos, ya que la Constitución no ofrece ninguna guía sobre el tema.",
+"Es una demostración de que la Constitución de 1991 es un documento incoherente y lleno de contradicciones insuperables."]}
+  ]
