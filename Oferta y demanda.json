@@ -1,0 +1,94 @@
+[
+{
+  "pregunta": {
+   "contexto": "Inspirado en los mercados andinos, el gobierno de una ciudad turística decide fijar un 'precio máximo' de venta para las artesanías locales, argumentando que esto las hará más asequibles para los visitantes y aumentará las ventas totales. El precio fijado es inferior al que la mayoría de los artesanos habían encontrado como su punto de equilibrio.",
+   "pregunta": "Desde la perspectiva de la ley de la oferta y la demanda, ¿cuál es el efecto más probable de esta regulación?"},
+  "respuesta": "Se producirá una escasez de artesanías, pues la cantidad demandada superará la cantidad que los artesanos están dispuestos a ofrecer a ese precio.",
+  "distractores": [
+   "Los artesanos venderán toda su producción rápidamente, aumentando sus ganancias y mejorando la economía local.",
+   "La calidad de las artesanías mejorará para justificar el nuevo precio y atraer a más compradores exigentes.",
+   "El mercado se autorregulará y el precio fijado por el gobierno se convertirá naturalmente en el nuevo punto de equilibrio."]},
+ {
+  "pregunta": {
+   "contexto": "Una marca de ropa lanza dos camisetas de la misma calidad y material. Una es blanca y cuesta 20 USD. La otra es idéntica pero de color negro, se etiqueta como 'edición limitada' y cuesta 100 USD. Un ejecutivo de la marca afirma: 'Respondemos a la demanda de un público que paga por la exclusividad y la diferenciación'. Un activista por el consumo responsable responde: 'Esta es una estrategia que crea necesidades artificiales y promueve un consumismo insostenible basado en el estatus y no en el valor real'.",
+   "pregunta": "¿Cuál de las siguientes opciones sintetiza adecuadamente el núcleo del desacuerdo entre el ejecutivo y el activista?"},
+  "respuesta": "El ejecutivo ve el precio como una respuesta a la demanda de exclusividad, mientras el activista lo critica por crear un consumismo insostenible.",
+  "distractores": [
+   "El desacuerdo se centra en si los consumidores están realmente dispuestos a pagar más por la camiseta negra o si la empresa se equivocó en su estrategia.",
+   "El activista considera que la empresa debería bajar el precio de la camiseta negra para que más personas puedan comprarla y ser exclusivas.",
+   "El conflicto demuestra que todas las empresas de moda manipulan a sus clientes para que compren productos que no necesitan."]},
+{
+  "pregunta": {
+   "contexto": "En un municipio costero cuya economía se ha basado históricamente en la pesca artesanal, una cadena hotelera internacional propone construir un gran resort. El proyecto promete generar cientos de empleos y dinamizar la economía local a través del turismo. Sin embargo, la construcción implicaría restringir el acceso de los pescadores a una parte de la playa y, según ambientalistas, podría afectar los arrecifes de coral cercanos.",
+   "pregunta": "La situación descrita evidencia principalmente un conflicto entre las dimensiones"},
+  "respuesta": "económica (inversión y empleo), sociocultural (modos de vida tradicionales) y ambiental (protección de ecosistemas).",
+  "distractores": [
+   "política (decisión de la alcaldía) y económica (intereses de los pescadores), ya que el gobierno debe decidir quién gana más dinero.",
+   "económica (desarrollo turístico) y ambiental (conservación de la naturaleza), dejando de lado el impacto en la comunidad.",
+   "social, que se resume en la lucha entre los ricos dueños del hotel y los pobres pescadores del municipio."]},
+{
+    "pregunta": {
+      "contexto": "En Colombia, durante los periodos de 'paro agrario', los bloqueos en las carreteras suelen impedir el transporte de alimentos como la papa desde los centros de producción en Boyacá hacia las grandes ciudades como Bogotá. Como consecuencia, el precio de la papa en la ciudad aumenta considerablemente, mientras que en las zonas de cultivo, los agricultores a menudo deben vender su producto a precios muy bajos o incluso perder la cosecha.",
+      "pregunta": "Esta situación evidencia que la ley de la oferta y la demanda se ve directamente afectada por factores externos al mercado. En este caso, ¿cómo afecta el 'paro agrario' a la oferta de papa?"},
+    "respuesta": "La reduce, porque aunque el producto existe no puede llegar al consumidor y aumenta los precios.",
+    "distractores": [
+      "La aumenta, porque los agricultores envían más productos para compensar las pérdidas de los bloqueos.",
+      "No la afecta, porque la cantidad de papa producida en el campo sigue siendo la misma.",
+      "La hace más elástica, pues los consumidores pueden reemplazar fácilmente la papa por otros alimentos."]},
+{
+    "pregunta": {
+      "contexto": "En una región cafetera de Colombia, se debate la implementación de un 'precio de sustentación', un valor mínimo garantizado que se pagaría a los caficultores por su cosecha, sin importar las fluctuaciones del mercado internacional. Un líder del gremio cafetero local apoya la medida, argumentando que 'aseguraría un ingreso digno para miles de familias'. Por otro lado, el gerente de una empresa exportadora de café advierte que 'nos sacaría del mercado global, pues no podríamos competir con los precios más bajos de otros países'.",
+      "pregunta": "El conflicto de perspectivas entre el líder gremial y el gerente exportador se origina fundamentalmente en que..."},
+    "respuesta": "el líder prioriza la estabilidad del productor y el gerente la competitividad en el mercado.",
+    "distractores": [
+      "el gerente exportador no se preocupa por el bienestar de los caficultores.",
+      "el líder gremial desconoce los principios básicos del comercio internacional.",
+      "los precios internacionales del café son siempre justos y no necesitan regulación."]},
+{
+    "pregunta": {
+      "contexto": "El auge de las aplicaciones de domicilios ha transformado la forma en que los colombianos consumen alimentos. Restaurantes que antes dependían de su ubicación ahora pueden llegar a clientes en toda la ciudad. Sin embargo, las pequeñas 'tiendas de barrio', que tradicionalmente vendían productos básicos, han visto una disminución en sus ventas de snacks y bebidas, ya que los consumidores ahora los piden junto con sus almuerzos o cenas a través de las apps.",
+      "pregunta": "¿Cuál es una consecuencia sistémica no intencionada de este cambio de hábito en el ecosistema comercial de los barrios?"},
+    "respuesta": "El debilitamiento del tejido local, ya que las tiendas de barrio son centros de interacción social.",
+    "distractores": [
+      "Un aumento en la competencia que obliga a las tiendas de barrio a modernizarse y ofrecer mejores productos.",
+      "La desaparición total de los restaurantes, que ya no necesitan un local físico para operar.",
+      "La mejora de la movilidad en las ciudades, pues las personas ya no necesitan salir de casa para comprar."]},
+{
+    "pregunta": {
+      "contexto": "Analice la siguiente cita del historiador Thomas Carlyle, incluida en el documento: «Enseñe a un loro los términos “oferta” y “demanda” y habrá creado un economista.»",
+      "pregunta": "¿Cuál es la crítica principal que Carlyle hace a la ciencia económica a través de esta afirmación?"},
+    "respuesta": "Que puede ser reducida a la repetición de conceptos básicos, ignorando la complejidad del comportamiento humano y el contexto social.",
+    "distractores": [
+      "Que los economistas no son inteligentes y cualquiera puede hacer su trabajo.",
+      "Que la oferta y la demanda son conceptos tan sencillos que hasta un animal los puede entender.",
+      "Que la economía es la ciencia más importante y sus principios deberían ser memorizados por todos."]},
+{
+    "pregunta": {
+      "contexto": "El Gobierno Nacional anuncia un aumento del salario mínimo. El presidente de un gremio de pequeños empresarios declara: 'Este aumento nos obliga a despedir personal o a no contratar nuevos empleados, pues nuestros costos se elevan demasiado'. Por su parte, un líder sindical responde: 'El aumento es indispensable para que las familias trabajadoras puedan cubrir sus necesidades básicas ante el aumento del costo de vida'.",
+      "pregunta": "La diferencia fundamental en las perspectivas del empresario y el líder sindical se explica mejor porque…"},
+    "respuesta": "uno analiza desde los costos de producción y el otro desde el bienestar del trabajador.",
+    "distractores": [
+      "los empresarios siempre se oponen a cualquier medida que beneficie a los trabajadores por naturaleza.",
+      "los líderes sindicales no comprenden cómo funciona la administración de una empresa.",
+      "el Gobierno busca perjudicar a los pequeños empresarios con sus políticas populistas.",]},
+{
+    "pregunta": {
+      "contexto": "Un artículo de un portal de noticias afirma: 'La reciente caída en el precio del aguacate es una excelente noticia para todos. Los consumidores pagan menos en el supermercado y los agricultores, al vender más unidades, sin duda verán sus ganancias totales aumentar. ¡Todos ganan!'",
+      "pregunta": "¿Qué aspecto crucial de la teoría económica ignora la conclusión optimista del artículo sobre las ganancias de los agricultores?"},
+    "respuesta": "La elasticidad del precio, la caída de precios puede disminuir el ingreso de los agricultores aunque vendan más.",
+    "distractores": [
+      "La ley de la oferta, que indica que a menor precio los agricultores siempre querrán vender menos.",
+      "El hecho de que los costos de producción siempre se incrementan cuando se vende un mayor número de unidades.",
+      "La posibilidad de que los supermercados se queden con todo el margen de ganancia adicional y no paguen más a los agricultores."]},
+{
+    "pregunta": {
+      "contexto": "Durante la pandemia, la demanda de alcohol antiséptico y tapabocas se disparó. Al inicio, hubo una gran escasez y los precios se multiplicaron. Con el tiempo, muchas empresas, incluso de licores o textiles, adaptaron su producción para fabricar estos productos. Meses después, la oferta aumentó masivamente y los precios se estabilizaron e incluso bajaron.",
+      "pregunta": "Esta secuencia de eventos en el mercado es un ejemplo claro de cómo..."},
+    "respuesta": "los precios altos y la demanda incentivan a nuevos productores a entrar en un mercado, aumentando la oferta.",
+    "distractores": [
+      "la especulación y el acaparamiento son inevitables y la única solución es el control de precios por parte del Estado.",
+      "el mercado es incapaz de responder a las crisis sociales, generando siempre desabastecimiento de bienes básicos.",
+      "las empresas aprovechan cualquier crisis para obtener ganancias excesivas a costa de la necesidad de la gente.",
+      "la calidad de los productos necesariamente disminuye cuando nuevos competidores entran rápidamente a un mercado."]}
+  ]
+
