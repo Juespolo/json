@@ -1,7 +1,7 @@
 [
 {
   "pregunta": {
-   "contexto": "Inspirado en los mercados andinos, el gobierno de una ciudad turística decide fijar un 'precio máximo' de venta para las artesanías locales, argumentando que esto las hará más asequibles para los visitantes y aumentará las ventas totales. El precio fijado es inferior al que la mayoría de los artesanos habían encontrado como su punto de equilibrio.",
+   "contexto": "Inspirado en los mercados andinos, el gobierno de una ciudad turística decide fijar un precio máximo de venta para las artesanías locales, argumentando que esto las hará más asequibles para los visitantes y aumentará las ventas totales. El precio fijado es inferior al que la mayoría de los artesanos habían encontrado como su punto de equilibrio.",
    "pregunta": "Desde la perspectiva de la ley de la oferta y la demanda, ¿cuál es el efecto más probable de esta regulación?"},
   "respuesta": "Se producirá una escasez de artesanías, pues la cantidad demandada superará la cantidad que los artesanos están dispuestos a ofrecer a ese precio.",
   "distractores": [
@@ -10,7 +10,7 @@
    "El mercado se autorregulará y el precio fijado por el gobierno se convertirá naturalmente en el nuevo punto de equilibrio."]},
  {
   "pregunta": {
-   "contexto": "Una marca de ropa lanza dos camisetas de la misma calidad y material. Una es blanca y cuesta 20 USD. La otra es idéntica pero de color negro, se etiqueta como 'edición limitada' y cuesta 100 USD. Un ejecutivo de la marca afirma: 'Respondemos a la demanda de un público que paga por la exclusividad y la diferenciación'. Un activista por el consumo responsable responde: 'Esta es una estrategia que crea necesidades artificiales y promueve un consumismo insostenible basado en el estatus y no en el valor real'.",
+   "contexto": "Una marca de ropa lanza dos camisetas de la misma calidad y material. Una es blanca y cuesta 20 USD. La otra es idéntica pero de color negro, se etiqueta como edición limitada y cuesta 100 USD. Un ejecutivo de la marca afirma: “Respondemos a la demanda de un público que paga por la exclusividad y la diferenciación”. Un activista por el consumo responsable responde: “Esta es una estrategia que crea necesidades artificiales y promueve un consumismo insostenible basado en el estatus y no en el valor real”.",
    "pregunta": "¿Cuál de las siguientes opciones sintetiza adecuadamente el núcleo del desacuerdo entre el ejecutivo y el activista?"},
   "respuesta": "El ejecutivo ve el precio como una respuesta a la demanda de exclusividad, mientras el activista lo critica por crear un consumismo insostenible.",
   "distractores": [
@@ -28,8 +28,8 @@
    "social, que se resume en la lucha entre los ricos dueños del hotel y los pobres pescadores del municipio."]},
 {
     "pregunta": {
-      "contexto": "En Colombia, durante los periodos de 'paro agrario', los bloqueos en las carreteras suelen impedir el transporte de alimentos como la papa desde los centros de producción en Boyacá hacia las grandes ciudades como Bogotá. Como consecuencia, el precio de la papa en la ciudad aumenta considerablemente, mientras que en las zonas de cultivo, los agricultores a menudo deben vender su producto a precios muy bajos o incluso perder la cosecha.",
-      "pregunta": "Esta situación evidencia que la ley de la oferta y la demanda se ve directamente afectada por factores externos al mercado. En este caso, ¿cómo afecta el 'paro agrario' a la oferta de papa?"},
+      "contexto": "En Colombia, durante los periodos de paro agrario, los bloqueos en las carreteras suelen impedir el transporte de alimentos como la papa desde los centros de producción en Boyacá hacia las grandes ciudades como Bogotá. Como consecuencia, el precio de la papa en la ciudad aumenta considerablemente, mientras que, en las zonas de cultivo, los agricultores a menudo deben vender su producto a precios muy bajos o incluso perder la cosecha.",
+      "pregunta": "Esta situación evidencia que la ley de la oferta y la demanda se ve directamente afectada por factores externos al mercado. En este caso, ¿cómo afecta el paro agrario a la oferta de papa en Bogotá?"},
     "respuesta": "La reduce, porque aunque el producto existe no puede llegar al consumidor y aumenta los precios.",
     "distractores": [
       "La aumenta, porque los agricultores envían más productos para compensar las pérdidas de los bloqueos.",
@@ -37,7 +37,7 @@
       "La hace más elástica, pues los consumidores pueden reemplazar fácilmente la papa por otros alimentos."]},
 {
     "pregunta": {
-      "contexto": "En una región cafetera de Colombia, se debate la implementación de un 'precio de sustentación', un valor mínimo garantizado que se pagaría a los caficultores por su cosecha, sin importar las fluctuaciones del mercado internacional. Un líder del gremio cafetero local apoya la medida, argumentando que 'aseguraría un ingreso digno para miles de familias'. Por otro lado, el gerente de una empresa exportadora de café advierte que 'nos sacaría del mercado global, pues no podríamos competir con los precios más bajos de otros países'.",
+      "contexto": "En una región cafetera de Colombia, se debate la implementación de un “precio de sustentación”, un valor mínimo garantizado que se pagaría a los caficultores por su cosecha, sin importar las fluctuaciones del mercado internacional. Un líder del gremio cafetero local apoya la medida, argumentando que “aseguraría un ingreso digno para miles de familias”. Por otro lado, el gerente de una empresa exportadora de café advierte que “nos sacaría del mercado global, pues no podríamos competir con los precios más bajos de otros países”.",
       "pregunta": "El conflicto de perspectivas entre el líder gremial y el gerente exportador se origina fundamentalmente en que..."},
     "respuesta": "el líder prioriza la estabilidad del productor y el gerente la competitividad en el mercado.",
     "distractores": [
@@ -46,7 +46,7 @@
       "los precios internacionales del café son siempre justos y no necesitan regulación."]},
 {
     "pregunta": {
-      "contexto": "El auge de las aplicaciones de domicilios ha transformado la forma en que los colombianos consumen alimentos. Restaurantes que antes dependían de su ubicación ahora pueden llegar a clientes en toda la ciudad. Sin embargo, las pequeñas 'tiendas de barrio', que tradicionalmente vendían productos básicos, han visto una disminución en sus ventas de snacks y bebidas, ya que los consumidores ahora los piden junto con sus almuerzos o cenas a través de las apps.",
+      "contexto": "El auge de las aplicaciones de domicilios ha transformado la forma en que los colombianos consumen alimentos. Restaurantes que antes dependían de su ubicación ahora pueden llegar a clientes en toda la ciudad. Sin embargo, las pequeñas tiendas de barrio, que tradicionalmente vendían productos básicos, han visto una disminución en sus ventas de snacks y bebidas, ya que los consumidores ahora los piden junto con sus almuerzos o cenas a través de las apps.",
       "pregunta": "¿Cuál es una consecuencia sistémica no intencionada de este cambio de hábito en el ecosistema comercial de los barrios?"},
     "respuesta": "El debilitamiento del tejido local, ya que las tiendas de barrio son centros de interacción social.",
     "distractores": [
@@ -64,7 +64,7 @@
       "Que la economía es la ciencia más importante y sus principios deberían ser memorizados por todos."]},
 {
     "pregunta": {
-      "contexto": "El Gobierno Nacional anuncia un aumento del salario mínimo. El presidente de un gremio de pequeños empresarios declara: 'Este aumento nos obliga a despedir personal o a no contratar nuevos empleados, pues nuestros costos se elevan demasiado'. Por su parte, un líder sindical responde: 'El aumento es indispensable para que las familias trabajadoras puedan cubrir sus necesidades básicas ante el aumento del costo de vida'.",
+      "contexto": "El Gobierno Nacional anuncia un aumento del salario mínimo. El presidente de un gremio de pequeños empresarios declara: “Este aumento nos obliga a despedir personal o a no contratar nuevos empleados, pues nuestros costos se elevan demasiado”. Por su parte, un líder sindical responde: “El aumento es indispensable para que las familias trabajadoras puedan cubrir sus necesidades básicas ante el aumento del costo de vida”.",
       "pregunta": "La diferencia fundamental en las perspectivas del empresario y el líder sindical se explica mejor porque…"},
     "respuesta": "uno analiza desde los costos de producción y el otro desde el bienestar del trabajador.",
     "distractores": [
@@ -73,7 +73,7 @@
       "el Gobierno busca perjudicar a los pequeños empresarios con sus políticas populistas.",]},
 {
     "pregunta": {
-      "contexto": "Un artículo de un portal de noticias afirma: 'La reciente caída en el precio del aguacate es una excelente noticia para todos. Los consumidores pagan menos en el supermercado y los agricultores, al vender más unidades, sin duda verán sus ganancias totales aumentar. ¡Todos ganan!'",
+      "contexto": "Un artículo de un portal de noticias afirma: “La reciente caída en el precio del aguacate es una excelente noticia para todos. Los consumidores pagan menos en el supermercado y los agricultores, al vender más unidades, sin duda verán sus ganancias totales aumentar. ¡Todos ganan!”",
       "pregunta": "¿Qué aspecto crucial de la teoría económica ignora la conclusión optimista del artículo sobre las ganancias de los agricultores?"},
     "respuesta": "La elasticidad del precio, la caída de precios puede disminuir el ingreso de los agricultores aunque vendan más.",
     "distractores": [
@@ -88,7 +88,5 @@
     "distractores": [
       "la especulación y el acaparamiento son inevitables y la única solución es el control de precios por parte del Estado.",
       "el mercado es incapaz de responder a las crisis sociales, generando siempre desabastecimiento de bienes básicos.",
-      "las empresas aprovechan cualquier crisis para obtener ganancias excesivas a costa de la necesidad de la gente.",
-      "la calidad de los productos necesariamente disminuye cuando nuevos competidores entran rápidamente a un mercado."]}
+      "las empresas aprovechan cualquier crisis para obtener ganancias excesivas a costa de la necesidad de la gente."]}
   ]
-
