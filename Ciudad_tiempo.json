@@ -1,0 +1,82 @@
+[
+{
+  "pregunta": {
+      "contexto": "El texto explica que la Revolución Agrícola del Neolítico permitió, por primera vez en la historia, la generación de un excedente de alimentos. Esta transformación económica fue el cimiento sobre el cual se construyeron las primeras ciudades en Mesopotamia y Egipto.",
+      "pregunta": "¿Cuál fue la consecuencia social más decisiva de esta transformación económica, que hizo posible el surgimiento de la vida urbana?"},
+  "respuesta": "La especialización del trabajo, ya que una parte de la población fue liberada de las tareas del campo para dedicarse a otros oficios como la artesanía, el gobierno o el sacerdocio.",
+  "distractores": ["El establecimiento de una sociedad completamente igualitaria, donde los excedentes de comida se distribuían equitativamente entre todos los miembros de la comunidad.",
+"La eliminación de la necesidad de comerciar, ya que cada ciudad se volvió autosuficiente gracias a la abundancia de recursos agrícolas en su entorno inmediato.",
+"El abandono definitivo de la agricultura como actividad económica principal, siendo reemplazada por la producción de tecnologías y herramientas avanzadas."]},
+{
+  "pregunta": {
+      "contexto": "En la antigua Grecia, la polis se organizaba en torno a dos espacios centrales: la Acrópolis, un recinto elevado de carácter religioso, y el Ágora, una plaza pública abierta. El Ágora no era solo un lugar de mercado, sino el corazón de la vida cívica de la ciudad.",
+      "pregunta": "El Ágora fue una innovación fundamental en la historia de las ciudades porque fue el primer espacio diseñado específicamente para"},
+  "respuesta": "el debate público y el ejercicio de la ciudadanía política.",
+  "distractores": ["las grandes ceremonias religiosas dedicadas a los dioses patronos de la ciudad.",
+"el entrenamiento militar y la organización de la defensa de las murallas.",
+"la residencia exclusiva de la élite aristocrática que gobernaba la polis."]},
+{
+  "pregunta": {
+      "contexto": "La emergencia de la burguesía en las ciudades medievales marcó un cambio profundo en las estructuras sociales. A diferencia de la nobleza feudal, cuyo poder se basaba en la propiedad de la tierra y el linaje, el poder de la burguesía se fundamentaba en el capital acumulado a través del comercio y los oficios.",
+      "pregunta": "Esta nueva clase social fue revolucionaria para su época porque"},
+  "respuesta": "introdujo una forma de poder basada en el mérito económico y la riqueza, desafiando la jerarquía fundamentada en el nacimiento y la tierra.",
+  "distractores": ["se alió inmediatamente con los campesinos para derrocar el sistema feudal y establecer repúblicas democráticas en toda Europa.",
+"rechazaba toda forma de riqueza y promovía un estilo de vida austero y de devoción religiosa, en contraste con la opulencia de la nobleza.",
+"fue la primera clase social en la historia que vivió exclusivamente en las ciudades, negándose a tener cualquier contacto con el mundo rural."]},
+{
+  "pregunta": {
+      "contexto": "Un historiador escribe: “Mientras el campo romano ofrecía una vida atada a los ciclos de la naturaleza, la urbe era un torbellino de posibilidades. Era en la ciudad, con sus mercados, tribunales y foros, donde un individuo podía realmente cambiar su destino, acumular riqueza o ganar influencia. La ciudad fue, en esencia, la invención de la movilidad social”.",
+      "pregunta": "¿Cuál es la tesis central que el historiador defiende en el texto?"},
+  "respuesta": "La ciudad, a diferencia del campo, funcionó como un potente motor para el ascenso social y económico de los individuos.",
+  "distractores": ["La vida en el Imperio Romano era significativamente mejor y más fácil en los centros urbanos que en las zonas rurales.",
+"El principal objetivo de la planificación urbana romana era facilitar las actividades comerciales por encima de cualquier otra función.",
+"El sistema legal romano, centrado en las ciudades, fue el legado más importante del imperio para la humanidad."]},
+{
+  "pregunta": {
+      "contexto": "Dos académicos debaten sobre el surgimiento de la ciudad medieval.<br>Académico 1: “La ciudad medieval fue un acto revolucionario de autodeterminación. La burguesía, a través de fueros y ayuntamientos, conquistó espacios de libertad política y económica, desafiando la rígida jerarquía feudal basada en la tierra”.<br>Académico 2: “No la idealicemos. La ciudad medieval fue principalmente un motor económico. Su autonomía fue una negociación comercial con el rey en contra de los señores feudales. Su estructura interna, dominada por poderosos gremios, era a menudo tan rígida y excluyente como el sistema que combatía”.",
+      "pregunta": "El principal punto de divergencia entre los dos académicos es"},
+  "respuesta": "la autonomía de la ciudad como un proyecto político de libertad o como un arreglo económico pragmático.",
+  "distractores": ["si la burguesía era más o menos poderosa que los señores feudales durante la Edad Media.",
+"el papel del rey al conceder los fueros, pues uno lo ve como un apoyo y el otro como una interferencia.",
+"el éxito económico de las ciudades medievales, ya que uno las considera prósperas y el otro, en crisis."]},
+{
+  "pregunta": {
+      "contexto": "Lea el siguiente texto: “La ciudad es una creación artificial, un monumento a la arrogancia humana. Corta la conexión con la tierra, hacina a las personas en espacios insalubres y reemplaza el trabajo honesto del campo por la precariedad del taller y el mercado. La historia de las ciudades, como se señala, es también una historia de enfermedades y desigualdad, un crudo contraste con la vida más sana y directa del mundo rural”.",
+      "pregunta": "Al enfocarse exclusivamente en los aspectos negativos de la vida urbana, ¿qué papel crucial de la ciudad en la historia humana omite deliberadamente el autor del texto?"},
+  "respuesta": "Su rol como catalizador de innovación, cambio social y creación de conocimiento, imposibles en una sociedad rural de subsistencia.",
+  "distractores": ["Su función como fortaleza militar, que ofrecía a sus habitantes una mayor seguridad que la disponible para la dispersa población rural.",
+"La realidad de que la vida en el campo siempre ha sido pacífica y libre de los conflictos y las jerarquías que caracterizan a las ciudades.",
+"El hecho de que las ciudades antiguas siempre estuvieron mejor planificadas y fueron más organizadas que las ciudades modernas, que crecieron caóticamente."]},
+{
+  "pregunta": {
+      "contexto": "La invención de la escritura en las ciudades de Mesopotamia no fue un desarrollo puramente cultural. Surgió de la necesidad de administrar una sociedad cada vez más compleja…",
+      "pregunta": "¿Cuál de las siguientes opciones explica mejor el surgimiento de la escritura como una respuesta sistémica a los desafíos de la vida urbana temprana?"},
+  "respuesta": "Integró las necesidades económicas, políticas y legales, permitiendo al gobierno registrar los excedentes agrícolas, codificar las leyes y recaudar impuestos de manera eficiente.",
+  "distractores": ["Permitió la preservación de poemas épicos y mitos religiosos, lo que fortaleció la identidad cultural de los habitantes de la ciudad.",
+"La escritura fue desarrollada exclusivamente por la clase sacerdotal para mantener registros secretos, reforzando así su poder social sobre la población analfabeta.",
+"Posibilitó la comunicación a larga distancia entre diferentes ciudades, creando las primeras redes diplomáticas internacionales."]},
+{
+  "pregunta": {
+      "contexto": "El urbanismo romano fue una herramienta clave para administrar su vasto imperio. Replicaron un modelo de ciudad estandarizado (basado en el campamento militar) con infraestructuras clave como calzadas, puentes y acueductos a lo largo de Europa, África y Oriente Medio",
+      "pregunta": "¿Cuál fue el efecto sistémico más significativo de imponer este modelo urbano estandarizado en todo el imperio?"},
+  "respuesta": "Facilitó el control político, la movilización militar y la integración económica, unificando de manera efectiva territorios diversos.",
+  "distractores": ["Condujo a la eliminación completa de todas las culturas y tradiciones constructivas locales, creando un paisaje monótono y uniforme en todo el imperio.",
+"Aseguró que todos los ciudadanos del imperio, sin importar su ubicación, tuvieran exactamente la misma calidad de vida y acceso a los servicios públicos.",
+"Provocó una degradación ambiental generalizada debido a los proyectos de construcción masivos, lo que llevó al colapso de la base de recursos del imperio."]},
+{
+  "pregunta": {
+      "contexto": "El texto afirma que la ciudad industrial fue el “epicentro del capitalismo moderno” y el “lugar de nacimiento de ideologías como el socialismo”.",
+      "pregunta": "¿Por qué la ciudad industrial se convirtió en un terreno fértil para la aparición de nuevas ideologías políticas como el socialismo?"},
+  "respuesta": "Porque concentró a grandes masas de trabajadores en condiciones de extrema desigualdad, lo que hizo visible el conflicto social y la conciencia de clase.",
+  "distractores": ["Porque los dueños de las fábricas promovían el debate político entre sus obreros para mejorar sus condiciones de vida y así aumentar la productividad.",
+"Porque la población rural que emigró a las ciudades ya poseía fuertes tradiciones socialistas provenientes de sus comunidades de origen.",
+"Porque las nuevas universidades urbanas se convirtieron en centros de pensamiento filosófico completamente desconectados de la realidad social de los trabajadores."]},
+{
+  "pregunta": {
+      "contexto": "Un debate sobre el desarrollo en Colombia.<br>Panelista A: “El futuro de Colombia está en sus ciudades. Como afirma el documento, nuestros principales centros urbanos generan el 85% del PIB. Debemos invertir en infraestructura y tecnología en Bogotá, Medellín y Cali para maximizar su rol como motores del progreso nacional”.<br>Panelista B: “Esa misma estadística revela un problema profundo. Concentrar el progreso en unas pocas ciudades perpetúa una brecha de desarrollo inmensa con el mundo rural. El verdadero progreso sería usar la riqueza de las ciudades para fomentar oportunidades en las regiones olvidadas”.",
+      "pregunta": "El desacuerdo fundamental entre los panelistas radica en si"},
+  "respuesta": "la concentración del poder económico en las ciudades debe reforzarse para impulsar la economía nacional o redistribuirse para corregir las desigualdades regionales.",
+  "distractores": ["la cifra del 85% del PIB generado por las ciudades es precisa o ha sido malinterpretada por los panelistas.",
+"la inversión en las grandes ciudades debe priorizar la infraestructura y la tecnología o los programas sociales y la educación.",
+"el desarrollo histórico de las ciudades colombianas ha sido positivo o negativo para el conjunto del país."]}
+  ]
