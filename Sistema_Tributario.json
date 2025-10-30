@@ -1,0 +1,82 @@
+[
+{
+  "pregunta": {
+      "contexto": "En una asamblea barrial de un municipio colombiano, la discusión se centra en el mal estado de las vías y la deficiente iluminación pública, problemas que han incrementado la inseguridad. Un comerciante, dueño de una tienda popular, toma la palabra y afirma: “Yo no entrego factura por la mayoría de mis ventas. ¿Para qué, si ese dinero de los impuestos se lo roban los políticos? Es una forma de defenderme y de no regalar mi trabajo a los corruptos”. Inmediatamente después, una lideresa comunal le responde: “Entiendo su frustración, pero al hacer eso, usted le quita al municipio los recursos que necesita para arreglar precisamente las calles y poner las lámparas que nos hacen falta, su decisión individual nos afecta a todos como comunidad”.",
+      "pregunta": "Desde la perspectiva de la teoría del contrato social, ¿cuál es la principal consecuencia del razonamiento del comerciante?"},
+  "respuesta": "Refuerza un ciclo vicioso donde la desconfianza en el Estado conduce a acciones que debilitan su capacidad para proveer bienes públicos.",
+  "distractores": ["Demuestra que la única solución a los problemas de la comunidad es la vigilancia y el castigo por parte de las autoridades.",
+"Justifica la evasión de impuestos como un acto legítimo de protesta individual frente a la ineficiencia del gobierno.",
+"Evidencia que la responsabilidad de financiar los servicios públicos recae exclusivamente en las grandes empresas y no en los pequeños comerciantes."]},
+{
+  "pregunta": {
+      "contexto": "“El sistema tributario colombiano adolece de problemas ampliamente diagnosticados. Las mediciones internacionales indican que tenemos uno de los estatutos más complejos del mundo, con una carga excesiva sobre las utilidades empresariales y un recaudo muy bajo proveniente de la renta de las personas, esto genera profundas inequidades horizontales, donde individuos o empresas con ingresos similares pueden enfrentar tasas de tributación muy diferentes, con el tiempo, se han acumulado tratamientos especiales y exenciones que, además de explicar la complejidad, fomentan la evasión, la aplicación del principio de progresividad es, en la práctica, marginal, por lo tanto, cualquier reforma fiscal seria debe perseguir dos objetivos ineludibles: primero, simplificar radicalmente la normativa para eliminar exenciones y tratamientos preferenciales; y segundo, fortalecer de manera decidida la progresividad del impuesto a la renta de las personas naturales, para que la tributación cumpla su rol de mitigar la mala distribución del ingreso”.",
+      "pregunta": "¿Cuál de las siguientes afirmaciones sintetiza de manera más precisa la tesis central del autor?"},
+  "respuesta": "Una reforma tributaria efectiva debe hacer el sistema más simple y progresivo, especialmente en lo que respecta a los impuestos que pagan las personas.",
+  "distractores": ["El principal problema tributario de Colombia es que las empresas pagan demasiados impuestos, lo que impide el crecimiento económico y la generación de empleo.",
+"La solución a los problemas fiscales del país consiste en aumentar el recaudo general, sin importar de qué sector provengan los nuevos ingresos.",
+"La evasión fiscal es un problema cultural que no puede ser resuelto mediante cambios en la legislación, sino únicamente a través de la educación ciudadana."]},
+{
+  "pregunta": {
+      "contexto": "Durante un debate televisado sobre una propuesta de reforma tributaria, un candidato afirma: “Mis opositores proponen aumentar significativamente el impuesto de renta a los empresarios y a las personas de mayores ingresos de nuestro país, este es un camino peligroso, si castigamos a nuestros generadores de empleo con más impuestos, ellos simplemente invertirán menos, y eso se traduce en menos oportunidades de trabajo para todos. La mejor manera de ayudar a la clase trabajadora es garantizando un clima favorable para los negocios, no penalizando el éxito”.",
+      "pregunta": "El argumento del candidato se fundamenta principalmente en una suposición no declarada, ¿cuál es esta suposición?"},
+  "respuesta": "Que menos impuestos a personas de altos ingresos se traduce automáticamente en una mayor inversión que genera empleo.",
+  "distractores": ["Que el único propósito del gobierno al recaudar impuestos es redistribuir la riqueza de los ricos a los pobres.",
+"Que los empresarios son las únicas personas en la sociedad que contribuyen al desarrollo económico del país.",
+"Que la clase trabajadora se opone a cualquier tipo de impuesto, ya que prefiere que el Estado no intervenga en la economía."]},
+{
+  "pregunta": {
+      "contexto": "El municipio de San Rafael, Antioquia, ha experimentado una disminución en sus ingresos fiscales debido a la alta evasión del Impuesto de Industria y Comercio (ICA) por parte de establecimientos comerciales que operan en la informalidad, esta situación ha generado un déficit presupuestario que obligó a la alcaldía a suspender los programas gratuitos de formación deportiva y artística para niños y jóvenes, afectando directamente la calidad de vida de la comunidad, la administración municipal está evaluando diferentes estrategias para enfrentar esta problemática.",
+      "pregunta": "Teniendo en cuenta la complejidad del problema, que involucra tanto factores económicos como de cultura ciudadana, ¿cuál de las siguientes estrategias propuestas por la alcaldía abordaría el problema de la evasión de una manera más sistémica e integral?"},
+  "respuesta": "Modernización tecnológica de la oficina de impuestos para cruzar datos y facilitar pagos, apoyado por un programa de educación fiscal que muestre cómo se invierten los recursos de impuestos en el municipio.",
+  "distractores": ["Aumentar drásticamente las multas y ordenar el cierre inmediato de cualquier negocio que no demuestre estar al día con el pago del ICA.",
+"Iniciar una campaña publicitaria en la radio local con el lema “Pagar impuestos es querer a San Rafael”, apelando al civismo de los comerciantes para que cumplan sus responsabilidades con el municipio.",
+"Decretar una amnistía tributaria que perdone todas las deudas pasadas del ICA, con la esperanza de que los comerciantes decidan formalizarse voluntariamente a partir de ahora."]},
+{
+  "pregunta": {
+      "contexto": "La Constitución Política de Colombia establece que el sistema tributario debe fundamentarse en los principios de equidad y progresividad, sin embargo, diversos análisis señalan que, en la práctica, el sistema colombiano es altamente regresivo, la principal razón es que una parte significativa del recaudo fiscal, a menudo más de la mitad, proviene de impuestos indirectos como el IVA, que impacta en mayor proporción a los hogares de menores ingresos.",
+      "pregunta": "Teniendo en cuenta la contradicción descrita en el texto, ¿cuál de las siguientes propuestas de reforma tributaria contribuiría de manera más directa y efectiva a que el sistema fiscal colombiano se alinee con el mandato constitucional de progresividad?"},
+  "respuesta": "Aumentar las tarifas marginales del Impuesto sobre la Renta para los rangos de ingresos más altos.",
+  "distractores": ["Gravar con la tarifa general del 19% de IVA la gasolina y los juegos de suerte y azar, para aumentar el recaudo destinado a programas sociales.",
+"Eliminar el Gravamen a los Movimientos Financieros (4x1.000) para todas las transacciones bancarias, con el fin de aliviar la carga fiscal de todos los ciudadanos por igual.",
+"Simplificar la declaración del Impuesto Predial Unificado, estableciendo una tarifa única del 10 por mil para todos los inmuebles, sin importar su avalúo o estrato."]},
+{
+  "pregunta": {
+      "contexto": "El alcalde de un municipio de categoría 6 anuncia con orgullo la ejecución de dos proyectos de gran envergadura: la pavimentación de la vía de acceso principal y la construcción de un nuevo colegio. Un periodista le pregunta cómo se financiarán estas obras, dado el bajo recaudo de impuestos locales como el ICA y el Predial. El alcalde responde: “La vía será financiada con recursos del Sistema General de Regalías, por la explotación de recursos naturales en la región. El colegio, por su parte, se construirá gracias a las transferencias del Sistema General de Participaciones (SGP) que nos gira la Nación”.",
+      "pregunta": "La situación descrita evidencia una característica estructural del sistema fiscal colombiano, cuya consecuencia más significativa a largo plazo es "},
+  "respuesta": "Una fuerte dependencia de las entidades territoriales más pequeñas respecto a las transferencias del gobierno central, limitar su autonomía.",
+  "distractores": ["El fortalecimiento de la autonomía fiscal de los municipios pequeños, ya que reciben recursos sin necesidad de aumentar sus propios impuestos.",
+"Una distribución perfectamente equitativa de los recursos nacionales, garantizando que todos los municipios, sin importar su capacidad de recaudo, reciban la misma cantidad de dinero.",
+"La ineficiencia del gobierno central, que se ve obligado a transferir recursos que podría invertir directamente en proyectos de impacto nacional."]},
+{
+  "pregunta": {
+      "contexto": "Un influenciador digital publica un video que se vuelve viral, en el que afirma: “Dejen la obsesión con pedir la factura electrónica en todo lado. ¿Ustedes saben cuántos billones se roban los políticos corruptos cada año? ¿O cuánto evaden las megaempresas con sus trucos en paraísos fiscales? Que yo me ahorre el IVA en el almuerzo no le hace daño real al país. La verdadera evasión, la que nos tiene fregados, es la de los de arriba, no la del ciudadano de a pie”.",
+      "pregunta": "El argumento del influenciador, aunque apela a una frustración social real, es lógicamente problemático porque "},
+  "respuesta": "Utiliza la existencia de un problema mayor como justificación para minimizar la responsabilidad en el cumplimiento de obligaciones tributarias.",
+  "distractores": ["Asume incorrectamente que la evasión de impuestos por parte de grandes empresas es un problema más grave que la corrupción política.",
+"Ignora que el IVA es un impuesto regresivo y, por lo tanto, su evasión beneficia principalmente a las personas de menores ingresos.",
+"Defiende la evasión del ciudadano común, sin proponer una solución técnica para combatir la evasión de las grandes corporaciones."]},
+{
+  "pregunta": {
+      "contexto": "Tras una actualización catastral que incrementó significativamente el valor de los inmuebles en un municipio, el concejo municipal debate la aplicación de una nueva ley que establece límites (topes) al aumento anual del Impuesto Predial. Un colectivo de ciudadanos, compuesto mayoritariamente por pensionados, argumenta que incluso con los topes, el alza es impagable para quienes viven de un ingreso fijo. Por su parte, el Secretario de Hacienda del municipio responde que, sin esos ingresos adicionales, será imposible financiar el mantenimiento de la malla vial, la seguridad y los parques, servicios que benefician a toda la ciudadanía, incluidos los pensionados.",
+      "pregunta": "Si el concejo municipal decidiera establecer límites de aumento al Impuesto Predial excesivamente bajos para proteger la capacidad de pago de los ciudadanos, ¿cuál sería la consecuencia más probable a mediano y largo plazo para el municipio?"},
+  "respuesta": "Un desfinanciamiento que podría llevar al deterioro de la infraestructura y la seguridad, afectando la calidad de vida y el valor de las propiedades.",
+  "distractores": ["Un aumento inmediato en la calidad de vida de todos los ciudadanos, ya que dispondrán de más dinero para su consumo personal.",
+"Un ciclo de prosperidad económica a futuro, ya que la baja carga tributaria atraería masivamente a nuevos inversionistas y residentes al municipio.",
+"La eliminación de la corrupción en la administración municipal, al haber menos recursos públicos disponibles para ser desviados."]},
+{
+  "pregunta": {
+      "contexto": "En un discurso durante un año electoral, un candidato político afirma: “Mi compromiso es con la gente, no con las cifras, no más reformas tributarias que le quitan el pan de la boca al pobre para dárselo a la burocracia, vamos a simplificar el sistema: el que más tiene, que más pague. Vamos a acabar con la evasión de los superricos, que es donde está el verdadero problema, conmigo, la DIAN perseguirá a los poderosos, no al vendedor de la esquina”.",
+      "pregunta": "El discurso del candidato, aunque efectivo políticamente, omite un elemento crucial para un análisis riguroso del problema fiscal en Colombia. ¿Cuál es esta omisión?"},
+  "respuesta": "La evasión, que no solo es de los más ricos, sino también a la economía informal que opera al margen del sistema tributario.",
+  "distractores": ["La propuesta de que quienes tienen mayores ingresos deben contribuir en mayor proporción, lo cual es un principio constitucional.",
+"La mención de que la evasión de los superricos es un problema real y documentado en el país.",
+"La crítica a la burocracia y la ineficiencia del gasto, que son preocupaciones válidas y compartidas por muchos ciudadanos."]},
+{
+  "pregunta": {
+      "contexto": "El Artículo 363 de la Constitución Política de Colombia establece: “El sistema tributario se funda en los principios de equidad, eficiencia y progresividad (...)”.<br><br>Por otro lado, un análisis técnico del sistema fiscal colombiano concluye: “En la práctica, más de la mitad del recaudo fiscal en Colombia proviene de impuestos indirectos como el IVA, que por su naturaleza impactan en mayor proporción a los hogares de menores ingresos”.",
+      "pregunta": "¿Cuál de las siguientes opciones describe de la manera más precisa y completa la relación entre el principio constitucional y la realidad fiscal descrita?"},
+  "respuesta": "Se presenta una tensión entre el ideal constitucional de progresividad y la realidad de un sistema que depende de un impuesto regresivo por razones prácticas de recaudo.",
+  "distractores": ["Existe una contradicción directa e insalvable, lo que demuestra que la Constitución es un documento puramente simbólico sin aplicación práctica en materia fiscal.",
+"No existe ninguna contradicción, ya que la Constitución permite que el principio de progresividad se aplique solo a algunos impuestos, como el de Renta, y no a todo el sistema.",
+"La dependencia del IVA es una estrategia deliberada del Estado para incumplir el mandato constitucional y favorecer a las clases de mayores ingresos, que pagan proporcionalmente menos impuestos al consumo."]}
+  ]
