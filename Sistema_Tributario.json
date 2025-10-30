@@ -43,7 +43,7 @@
   "pregunta": {
       "contexto": "El alcalde de un municipio de categoría 6 anuncia con orgullo la ejecución de dos proyectos de gran envergadura: la pavimentación de la vía de acceso principal y la construcción de un nuevo colegio. Un periodista le pregunta cómo se financiarán estas obras, dado el bajo recaudo de impuestos locales como el ICA y el Predial. El alcalde responde: “La vía será financiada con recursos del Sistema General de Regalías, por la explotación de recursos naturales en la región. El colegio, por su parte, se construirá gracias a las transferencias del Sistema General de Participaciones (SGP) que nos gira la Nación”.",
       "pregunta": "La situación descrita evidencia una característica estructural del sistema fiscal colombiano, cuya consecuencia más significativa a largo plazo es "},
-  "respuesta": "Una fuerte dependencia de las entidades territoriales más pequeñas respecto a las transferencias del gobierno central, limitar su autonomía.",
+  "respuesta": "Una fuerte dependencia de las entidades territoriales más pequeñas respecto a las transferencias del gobierno central limitando su autonomía.",
   "distractores": ["El fortalecimiento de la autonomía fiscal de los municipios pequeños, ya que reciben recursos sin necesidad de aumentar sus propios impuestos.",
 "Una distribución perfectamente equitativa de los recursos nacionales, garantizando que todos los municipios, sin importar su capacidad de recaudo, reciban la misma cantidad de dinero.",
 "La ineficiencia del gobierno central, que se ve obligado a transferir recursos que podría invertir directamente en proyectos de impacto nacional."]},
