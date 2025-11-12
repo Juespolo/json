@@ -1,0 +1,162 @@
+[
+{
+  "pregunta": {
+      "contexto": "En tres ciudades del país existe un alto riesgo de fraude en las elecciones locales. El registrador nacional propone entonces que, en lugar de que el voto sea secreto (que nadie más pueda saber por quién vota cada persona), se registre abiertamente el candidato por el que vota cada uno de los ciudadanos.",
+      "pregunta": "¿Viola la propuesta del registrador nacional los derechos de los ciudadanos contemplados en la Constitución Política de Colombia?"},
+  "respuesta": "Sí, porque se puede evitar el fraude, pero se hace que los votantes puedan sentirse presionados de que se sepa por quién votaron.",
+  "distractores": ["No, porque aunque el voto ya no sea secreto, se evita elegir candidatos que no obtuvieron la mayoría de votos.",
+"Sí, porque el registrador nacional no ha confirmado todavía si existirá o no con certeza un fraude electoral.",
+"No, porque es obligación del registrador nacional garantizar que en las elecciones no se presente ningún fraude."]},
+{
+  "pregunta": {
+      "contexto": "Fragmento 1.<br>Este fragmento describe la situación de la población gitana en un país de Europa: “Aquí, los niños gitanos son enviados a escuelas especiales. Algunos comparten aulas con alumnos discapacitados, otros van a colegios solo para gitanos. Muchos viven en barrios o pueblos separados del resto de la población y sin acceso a los mismos derechos.<br><br>Fragmento 2.<br>Este fragmento describe la situación de la población haitiana en Suramérica: “Desde Ecuador hasta la Guyana Francesa (territorio de ultramar de Francia), los migrantes haitianos enfrentan un rosario cada vez más complejo de situaciones difíciles tales como: cierre de fronteras, amenazas de deportaciones, aumento de requisitos migratorios para ingresar a los territorios, crisis humanitarias”.",
+      "pregunta": "¿Cuál de los siguientes conceptos permite relacionar mejor la información presentada en ambos fragmentos?"},
+  "respuesta": "Xenofobia.",
+  "distractores": ["Patriotismo.",
+"Exilio.",
+"Aculturación."]},
+{
+  "pregunta": {
+      "contexto": "El escritor Eduardo Galeano afirmó lo siguiente en 1970: “América Latina continúa existiendo al servicio de las necesidades ajenas, como fuente y reserva del petróleo, hierro y cobre (...)”.",
+      "pregunta": "Según estos planteamientos, el modelo económico de América Latina se concentra en la producción y comercialización de"},
+  "respuesta": "materias primas.",
+  "distractores": ["recursos renovables.",
+"bienes manufacturados.",
+"servicios."]},
+{
+  "pregunta": {
+      "contexto": "A continuación, se presenta un fragmento del discurso “Sr. Gorbachov, ¡Haga caer ese muro!” del expresidente de Estados Unidos Ronald Reagan, pronunciado en 1987 en Berlín Occidental: “Detrás de mí se alza un muro que rodea los sectores libres de esta ciudad, parte de un vasto sistema de barreras que dividen todo el continente de Europa. (…) Más al sur, puede que no haya ninguna barrera visible y obvia. Pero sigue habiendo guardias armados y puestos de control; sigue habiendo una restricción al derecho de viajar, sigue siendo un instrumento para imponer sobre los hombres y mujeres comunes el deseo de un Estado totalitario. Sin embargo, es aquí, en Berlín, donde el muro emerge con mayor claridad; aquí, cortando vuestra ciudad, donde las fotografías de las noticias y las pantallas de televisión han dejado una imprenta brutal de un continente en la mente del mundo”.",
+      "pregunta": "¿Cuál de las siguientes evidencias NO sirve para ampliar la información sobre el muro de Berlín?"},
+  "respuesta": "El expresidente Ronald Reagan terminó su periodo presidencial en 1989 y murió de neumonía el 5 de junio de 2004, después de sufrir Alzheimer durante 10 años, lo que debilitó de manera constante su salud.",
+  "distractores": ["Durante la Guerra Fría, la Unión Soviética buscaba garantizar el éxito de la implementación de un Estado socialista en Alemania; por esta razón, se desarrollaron diferentes políticas tendientes a aislar la RDA de la RFA.",
+"Al finalizar la Segunda Guerra Mundial en 1945, los soviéticos ocuparon las zonas del este de Europa que habían defendido, y EE.UU. y sus aliados se mantuvieron en Europa occidental.",
+"El muro de Berlín dividió la capital alemana hasta 1989: el lado occidental pertenecía a la República Federal Alemana (RFA) y el lado oriental a la República Democrática Alemana (RDA)."]},
+{
+  "pregunta": {
+      "contexto": "Durante la época electoral, el gerente de una empresa les dice a sus subalternos que deben votar por el candidato de un determinado partido político y que, si no lo hacen, perderán su trabajo. Un empleado afirma que esto es inapropiado.",
+      "pregunta": "¿Cuál es la frase que mejor apoya lo que dice el empleado?"},
+  "respuesta": "Amenazar a la gente para que vote por un determinado partido es un abuso.",
+  "distractores": ["Hablar de política siempre lleva a conflictos porque nadie se pone de acuerdo.",
+"La obligación de los superiores es ilustrar a los empleados en política.",
+"Los gerentes de las empresas no deberían interesarse en temas políticos."]},
+{
+  "pregunta": {
+      "contexto": "Hace unos años, y con relación a la presencia de un periodista en el lugar en el que se iban a producir unas liberaciones de unos miembros de las fuerzas armadas por la guerrilla, un funcionario público hizo una declaración pública en la que afirmaba que hay algunos “amigos del terrorismo que fungen como periodistas”. En ese momento, los relatores para la libertad de expresión de la Organización de Naciones Unidas (ONU) y de la Organización de Estados Americanos (OEA) declararon que “los altos funcionarios del gobierno deben abstenerse de emitir declaraciones públicas que estigmaticen a los periodistas críticos y generen un ambiente de intimidación que afecte la libertad de expresión en el país”.",
+      "pregunta": "¿Cuál de las siguientes proposiciones justifica mejor esta declaración de los relatores para la libertad de expresión?"},
+  "respuesta": "El que un funcionario público llame a alguien “amigo del terrorismo” podría tomarse como una autorización implícita para hacerle daño.",
+  "distractores": ["La labor de las fuerzas armadas en la liberación de personas secuestradas podría quedar en entredicho.",
+"Se sugiere que los periodistas que estén a favor de la guerrilla en el conflicto armado no son periodistas genuinos.",
+"El funcionario le está negando a la guerrilla la posibilidad de ejercer un derecho fundamental como la libertad de expresión."]},
+{
+  "pregunta": {
+      "contexto": "Lea atentamente el siguiente fragmento de la Ley de víctimas y restitución de tierras, aprobada por el Congreso en el 2011:<br><br>“Se consideran víctimas, para los efectos de esta ley, aquellas personas que individual o colectivamente hayan sufrido un daño (…) como consecuencia de infracciones al Derecho Internacional Humanitario o de violaciones graves y manifiestas a las normas internacionales de Derechos Humanos, ocurridas con ocasión del conflicto armado interno. También son víctimas el cónyuge, compañero o compañera permanente, parejas del mismo sexo y familiar en primer grado de consanguinidad (…) cuando a esta se le hubiere dado muerte o estuviere desaparecida (…) De la misma manera se consideran víctimas las personas que hayan sufrido un daño al intervenir para asistir a la víctima en peligro (…)”",
+      "pregunta": "Puede afirmarse que uno de los propósitos centrales de incluir esta definición de víctimas en el marco de la ley es"},
+  "respuesta": "garantizar los derechos de quienes fueron afectados directa o indirectamente por el conflicto.",
+  "distractores": ["beneficiar con ayudas del Estado a las personas que fueron víctimas de los delitos más graves.",
+"incluir elementos del derecho internacional sobre víctimas que complementan las leyes nacionales.",
+"diferenciar claramente las víctimas de la guerrilla de las víctimas de los grupos paramilitares."]},
+{
+  "pregunta": {
+      "contexto": "En un colegio se realizó la reunión mensual del Consejo Directivo. En dicha reunión, la representante de estudiantes dijo que los alumnos estaban en desacuerdo con el uso que se le estaba dando al dinero recogido en algunas actividades culturales; por ello, proponían hacer parte de la toma de decisiones sobre el uso de ese dinero. Luego de finalizada la reunión, el tesorero le dijo a la representante de estudiantes que no podría asistir a las siguientes reuniones si volvía a hablar sobre el uso del dinero recogido por actividades culturales.",
+      "pregunta": "De acuerdo con el funcionamiento del Gobierno Escolar, ¿a cuál de las siguientes instancias debe dirigirse la representante de estudiantes para que se respete su derecho a expresarse libremente?"},
+  "respuesta": "Al rector.",
+  "distractores": ["Al Consejo Académico.",
+"Al personero.",
+"Al Consejo Disciplinar."]},
+{
+  "pregunta": {
+      "contexto": "El Fondo Monetario Internacional (FMI) tiene como sus principales objetivos promover políticas cambiarias sostenibles a nivel internacional, facilitar el comercio entre las naciones y reducir la pobreza. El Banco Mundial (BM) busca reducir la pobreza mediante préstamos de bajo interés y proporcionar apoyo económico a los países en desarrollo.",
+      "pregunta": "A partir de lo anterior, se puede deducir que el FMI y el BM comparten un mismo objetivo, porque"},
+  "respuesta": "buscan mejorar el nivel de vida de los países miembros, concentrándose en el desarrollo económico y en la reducción de la pobreza.",
+  "distractores": ["el Fondo Monetario Internacional y el Banco Mundial están dirigidos por europeos y norteamericanos.",
+"se encargan de funciones similares: el FMI se ocupa de la macroeconomía y el Banco Mundial, de la microeconomía.",
+"ambos dan créditos a los países miembros para cumplir las obligaciones generadas por la deuda externa."]},
+{
+  "pregunta": {
+      "contexto": "A los trabajadores de una empresa se les paga, con regularidad, el sueldo correspondiente a las jornadas laborales de tiempo completo. Con frecuencia, algunos trabajadores se ven obligados a trabajar horas extras, las cuales no se les pagan. Dada esta situación, un grupo de trabajadores convoca a una reunión a todos sus compañeros, en la cual deciden que solo trabajarán horas extras si son debidamente remunerados. Los trabajadores le comunican su decisión al gerente de la empresa. Este acepta que se paguen las horas extras, pero decide suspender el contrato de los trabajadores que convocaron a la reunión.",
+      "pregunta": "Con su proceder, el gerente de la empresa"},
+  "respuesta": "viola un derecho a los trabajadores suspendidos, pues estos no deben ser sancionados por convocar a una reunión y promover la organización de los trabajadores.",
+  "distractores": ["no viola ninguno de los derechos de los trabajadores suspendidos, pues así como puede decidir a qué trabajador contrata, puede decidir a qué trabajador le suspende el contrato.",
+"viola un derecho a los trabajadores suspendidos, porque los contratos no pueden suspenderse bajo ninguna circunstancia.",
+"no viola ninguno de los derechos de los trabajadores suspendidos, pues estos atentaron contra la estabilidad de la empresa y en esa medida merecen la sanción."]},
+{
+  "pregunta": {
+      "contexto": "Las fuerzas militares de un país enfrentan un dilema respecto a la decisión de permitir o no que haya homosexuales en sus filas. Hasta hace poco estaba prohibido, pero recientemente surgió un debate público al respecto. Un partido político de centro sugirió que el homosexualismo es tolerable como opción de vida personal, mientras que no interfiera en la vida de los demás miembros de la sociedad. Las organizaciones LGBTI protestaron porque se ha estigmatizado ser homosexual, en lugar de considerarlo una orientación tan válida como ser heterosexual. Los grupos religiosos radicales declararon que es un deber moral de todas las instituciones rechazar los comportamientos que, como el homosexualismo, vayan en contra de la naturaleza. Un grupo de médicos tradicionalistas manifestó que el homosexualismo es una enfermedad de algunos individuos, que debe ser tratada, pero que no constituye un problema moral. Finalmente, se decidió que los homosexuales formen parte de las fuerzas militares, siempre y cuando mantengan su orientación sexual oculta, de modo que sus compañeros y superiores no se enteren de esto.",
+      "pregunta": "Teniendo en cuenta la posición de los grupos descritos, ¿cuál apoyaría la decisión tomada?"},
+  "respuesta": "El partido político de centro, porque se mantiene la posibilidad de que cada individuo siga su orientación sexual.",
+  "distractores": ["Las organizaciones LGBTI, porque habría igualdad entre homosexuales y heterosexuales en cuanto a ser parte de las fuerzas militares.",
+"Los grupos religiosos radicales, porque no se estaría fomentando el homosexualismo si este se mantiene oculto.",
+"Los médicos tradicionalistas, porque las enfermedades no deben castigarse sino tratarse médicamente."]},
+{
+  "pregunta": {
+      "contexto": "Durante varias semanas, los principales noticieros del país cubren un triste episodio de violencia en el que un padre lastimó gravemente a su hijo pequeño. En respuesta a los hechos, un periodista escribe una dura columna en contra de los abusadores y la violencia intrafamiliar. “Debemos evitar la violencia a toda costa”, escribe el periodista. “No hay razón que justifique un golpe contra nuestros familiares y seres queridos”. De inmediato, la columna es celebrada en todos los medios. Meses más tarde, el periodista es capturado por la policía luego de que su esposa lo denunciara por maltrato.",
+      "pregunta": "¿Cuál de las siguientes opciones explica el comportamiento del periodista?"},
+  "respuesta": "En ocasiones las personas actúan de un modo que entra en conflicto con las posiciones que defienden.",
+  "distractores": ["El deber del periodismo es buscar el modo de enmascarar la verdad para impulsar los intereses propios.",
+"Aunque en general es indeseable, en algunos contextos familiares el uso de la violencia es un mal necesario.",
+"En algunas circunstancias, las personas pueden cambiar de opinión sobre la violencia intrafamiliar."]},
+{
+  "pregunta": {
+      "contexto": "Lea atentamente el siguiente fragmento:<br>“(…) si la economía colombiana no se abre al exterior, si no exportamos agresivamente, si no se facilita importar, si no recibimos inversión extranjera, si no competimos con el exterior, si no estimulamos el sector productivo para que compita internacionalmente, si no pensamos en grande y que no somos el centro del mundo sino una parte pequeña que no puede funcionar aisladamente, no vamos a tener una economía en expansión (…)”.",
+      "pregunta": "En este fragmento, se describen medidas económicas que caracterizan"},
+  "respuesta": "la apertura económica.",
+  "distractores": ["el socialismo.",
+"el proteccionismo.",
+"el desarrollo sostenible."]},
+{
+  "pregunta": {
+      "contexto": "Lea el siguiente fragmento:<br>“Las constantes violaciones a los acuerdos firmados, hicieron que se rompieran las negociaciones entre el Gobierno y la guerrilla. Los miembros de la nueva coalición quedaron en una situación de alto riesgo, pues al ser acusados abiertamente de ser portavoces de la insurgencia armada, los organismos estatales no les brindaron ninguna protección efectiva. Así comenzó un proceso de exterminio que se ha prolongado por más de 20 años”.",
+      "pregunta": "De los elementos presentados en el fragmento, puede inferirse que este describe"},
+  "respuesta": "la situación vivida por los miembros de la Unión Patriótica en el contexto del proceso de paz entre las FARC y el Gobierno de Belisario Betancur.",
+  "distractores": ["la situación de inseguridad ocasionada por la ruptura de las conversaciones de paz entre las FARC y el Gobierno del expresidente Andrés Pastrana.",
+"la persecución de líderes y grupos influenciados por ideas comunistas en Colombia, en un contexto internacional marcado por la Guerra Fría.",
+"las negociaciones fallidas entre el Gobierno y las guerrillas liberales del Llano en el marco de la política de conciliación característica del Frente Nacional."]},
+{
+  "pregunta": {
+      "contexto": "Eliminar la corrupción en la política es uno de los principales retos de muchas democracias actuales. En Colombia, se han adoptado medidas para combatirla, como aplicar fuertes sanciones a los partidos políticos si conceden su aval a candidatos a los que se les comprueben actos de corrupción. Los avales son las autorizaciones que necesita una persona para inscribirse como candidato a unas elecciones. Con esta medida, se espera que los partidos políticos otorguen sus avales de manera estricta y responsable, lo que contribuirá a que más personas honestas e idóneas se involucren en la política y representen los intereses ciudadanos.",
+      "pregunta": "A partir de la anterior información, ¿puede afirmarse que los partidos políticos son importantes para fortalecer la democracia en Colombia?"},
+  "respuesta": "Sí, porque controlan qué personas pueden dedicarse a la política y contribuyen a que se disminuya la corrupción.",
+  "distractores": ["No, porque la corrupción sigue siendo un problema en todos los países del mundo que cuentan con partidos políticos.",
+"Sí, porque designan a los políticos que aprueban leyes y administran los recursos públicos.",
+"No, porque no tienen las herramientas para atacar los problemas de corrupción en la política."]},
+{
+  "pregunta": {
+      "contexto": "Los resultados de una encuesta realizada por internet a 1.000 habitantes de las tres ciudades más pobladas del país indican que estos tienen acceso a internet en sus casas. A partir de esta información, la empresa encuestadora concluye que la mayoría de los colombianos tiene acceso a internet desde su casa.",
+      "pregunta": "Esta conclusión está"},
+  "respuesta": "mal justificada, pues solo muestra que la mayoría de los habitantes de esas tres ciudades que responden encuestas por internet tiene acceso en su casa.",
+  "distractores": ["mal justificada, porque solo 1.000 habitantes de esas tres ciudades tienen acceso a internet en su casa.",
+"justificada, pues la mayoría de los habitantes de esas tres ciudades tienen acceso a internet en su casa.",
+"justificada, porque la mayoría de los habitantes de esas tres ciudades que tienen internet en su casa responden las encuestas por internet."]},
+{
+  "pregunta": {
+      "contexto": "Una empresa minera quiere explotar una zona de un departamento. El proyecto ha sido bien recibido por algunas personas que están convencidas de los beneficios económicos que traerá. Sin embargo, hay otro grupo de personas que se opone porque cree que afectará negativamente el medio ambiente. El gobernador decide preguntarles a los habitantes del departamento si están de acuerdo o no con la explotación minera.",
+      "pregunta": "¿Qué mecanismo debe utilizar para hacerlo?"},
+  "respuesta": "Consulta popular.",
+  "distractores": ["Revocatoria de mandato.",
+"Referendo.",
+"Plebiscito."]},
+{
+  "pregunta": {
+      "contexto": "Desde que se peatonalizó la carrera séptima en Bogotá, esta se ha convertido en el lugar de trabajo de numerosos artistas callejeros, entre los que se encuentran estatuas humanas, comediantes, mimos y músicos. La administración de la ciudad se ha dado cuenta de que es necesario reglamentar el uso que estas personas hacen del espacio público, pues se han identificado varios problemas: estas personas invaden la vía, incluso los espacios exclusivos para bicicletas, y obstaculizan el tránsito de los peatones; además, algunos generan contaminación auditiva con los instrumentos y parlantes que utilizan. Se sabe también que estas actividades son su única fuente de ingresos, que la fuerte competencia entre ellos reduce los ingresos de todos y que, según los comerciantes formales de la zona, su presencia ahuyenta a los compradores.",
+      "pregunta": "En esta situación, ¿qué aspectos debe considerar el Gobierno local para impulsar una reglamentación del espacio público?"},
+  "respuesta": "La movilidad de los peatones, el medio ambiente de la zona y la economía de los artistas.",
+  "distractores": ["La seguridad de la ciudad, la educación cultural de los ciudadanos y la libre competencia entre comerciantes.",
+"La participación en política de los artistas, la difusión de la cultura y las condiciones laborales.",
+"Las condiciones laborales de los comerciantes formales, la seguridad de la ciudad y el medio ambiente."]},
+{
+  "pregunta": {
+      "contexto": "En un país se encontró que muchos estudiantes están repitiendo cursos, por mal rendimiento académico, y esta situación ha generado un aumento en los costos en los colegios públicos. Además, el alto número de estudiantes repitentes ha reducido los cupos estudiantiles disponibles para aquellos jóvenes que llegan a determinado grado después de haber aprobado el grado anterior. Para solucionar este problema, se aprobó un decreto según el cual solo se permite en cada colegio que el 5% de los estudiantes en determinado grado lo repita al año siguiente.",
+      "pregunta": "¿Qué impacto negativo puede tener esta política en lo que se refiere a la formación educativa?"},
+  "respuesta": "Que muchos estudiantes aprueben los cursos sin haber aprendido lo que corresponde.",
+  "distractores": ["Que la mayoría de estudiantes tarden la misma cantidad de años en terminar sus estudios.",
+"Que al disminuir el número de estudiantes disminuyan los ingresos de los colegios públicos.",
+"Que aumente el número de cupos estudiantiles disponibles en cada uno de los grados."]},
+{
+  "pregunta": {
+      "contexto": "Como una parte de las dinámicas del conflicto armado interno, muchos campesinos colombianos se vieron obligados a remplazar sus cultivos tradicionales legales por marihuana, coca y amapola. Este proceso ha respondido tanto a la rentabilidad de los nuevos cultivos como a las presiones violentas por parte de los grupos armados. Ante esto, analistas y expertos han planteado diferentes perspectivas de atención al fenómeno. Desde un enfoque penal, algunos proponen la judicialización tanto de los campesinos como de las estructuras armadas que procesan y distribuyen posteriormente la droga. Por otro lado, quienes privilegian la dimensión económica del fenómeno afirman que es necesario ofrecer alternativas laborales a los campesinos mediante el financiamiento de programas productivos de agroindustria. De igual manera, otros expertos señalan, desde un enfoque normativo, que la legalización del cultivo de las drogas es la solución a los procesos de violencia asociados a estas plantaciones. Por último, y desde una perspectiva militar, se privilegia la erradicación de los cultivos a través de métodos manuales o aspersión aérea.",
+      "pregunta": "¿Cuáles de las propuestas mencionadas en el párrafo anterior son incompatibles entre sí?"},
+  "respuesta": "La judicialización de campesinos y su inclusión en programas agroindustriales.",
+  "distractores": ["La erradicación, manual o aérea, y la judicialización de campesinos y grupos armados.",
+"La inclusión de campesinos en programas productivos y legalización de cultivos ilícitos.",
+"La erradicación de cultivos y la inclusión de campesinos en programas productivos."]}
+  ]
