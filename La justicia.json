@@ -1,0 +1,82 @@
+[
+{
+  "pregunta": {
+      "contexto": "El Ministerio de Educación asigna 100 becas del programa “Generación E” a un colegio. El rector debe decidir el criterio de asignación. El Consejo Académico propone que las becas se entreguen a los 100 estudiantes con los mejores puntajes ICFES, independientemente de su condición económica. El Consejo de Padres, por su parte, argumenta que deben ser para los 100 estudiantes con mayores dificultades económicas y necesidades demostrables, aunque sus puntajes ICFES no sean los más altos.",
+      "pregunta": "La propuesta del Consejo Académico, basada en los puntajes ICFES, se fundamenta en un criterio de justicia de tipo:"},
+  "respuesta": "Distributiva, ya que busca asignar los bienes de manera proporcional al mérito.",
+  "distractores": ["Conmutativa, porque iguala el esfuerzo de los estudiantes con una recompensa monetaria.",
+"De derechos individuales, porque los estudiantes se ganaron el derecho a la beca con su esfuerzo y el Estado no debe interferir.",
+"Utilitarista, porque premiar a los mejores estudiantes genera el mayor bien para el futuro del país."]},
+{
+  "pregunta": {
+      "contexto": "En la tienda escolar, un estudiante de grado 11 paga $2.000 pesos por un paquete de papas. El estudiante es el personero del colegio, conocido por su excelencia académica, y quien atiende la tienda es el rector.",
+      "pregunta": "Según la definición de Justicia Conmutativa de Aristóteles, la justicia de esta transacción depende de que:"},
+  "respuesta": "El valor del paquete de papas sea aritméticamente equivalente a los $2.000 pesos, sin importar el mérito o estatus de las partes.",
+  "distractores": ["El rector esté cumpliendo su función natural de dirigir y no multiplicando sus actividades como tendero.",
+"El rector reconozca el mérito del personero y le haga un descuento proporcional a su excelencia ",
+"El precio sea justo para el bien común del colegio, garantizando ganancias adecuadas para el fondo de estudiantes."]},
+{
+  "pregunta": {
+      "contexto": "El Gobierno Escolar del colegio está en crisis. El Personero, cuya función es defender los derechos de los estudiantes, ha decidido usar su tiempo para administrar los fondos de la tienda escolar. El Contralor, cuya función es vigilar los recursos, se está dedicando a organizar el campeonato de fútbol, como resultado, las quejas de los estudiantes no son atendidas y el dinero de las actividades se está perdiendo.",
+      "pregunta": "Desde la perspectiva de la justicia como armonía de Platón, la injusticia en esta situación se origina porque: "},
+  "respuesta": "Los miembros del gobierno escolar están multiplicando sus actividades y no haciendo cada cual lo suyo.",
+  "distractores": ["No se está distribuyendo el trabajo de manera proporcional al mérito de cada estudiante.",
+"Se están violando los derechos fundamentales de los estudiantes al no ser escuchados.",
+"Los estudiantes demostraron que no son lo suficientemente maduros para manejar el gobierno escolar y sus funciones."]},
+{
+  "pregunta": {
+      "contexto": "El Manual de Convivencia de un colegio prohíbe el ingreso de estudiantes con el cabello tinturado, argumentando que “atenta contra la uniformidad y el Bien Común de la institución”. Una estudiante, amparada en fallos de la Corte Constitucional, decide tinturarse el cabello, argumenta que la norma del manual, aunque sea la ley humana del colegio, no es una verdadera ley porque contradice un principio superior como la dignidad y el libre desarrollo de la personalidad.",
+      "pregunta": "La estructura del argumento de la estudiante, que invalida una ley humana por contradecir un principio superior, es análoga a la teoría de la justicia de:"},
+  "respuesta": "Santo Tomás de Aquino, quien sostiene que una ley humana que contradice la Ley Natural es una corrupción de la ley",
+  "distractores": ["Platón, quien argumenta que la justicia es la armonía y el orden, y la estudiante está creando caos al desobedecer.",
+"El Utilitarismo, que calcularía que la felicidad de la estudiante es menos importante que la felicidad de la mayoría que quiere el orden.",
+"Aristóteles, porque la estudiante no tiene el mérito suficiente para desafiar la regla."]},
+{
+  "pregunta": {
+      "contexto": "La Rectora de un colegio, basándose en estudios que indican que el uso de celulares disminuye el rendimiento académico promedio en 10 puntos, decide prohibir totalmente su ingreso. Afirma: “Aunque algunos pocos estudiantes usan el celular para investigar, la gran mayoría lo usa para distraerse, mi decisión busca el mayor bien para el mayor número de estudiantes, que es mejorar el promedio general”.",
+      "pregunta": "¿Qué dimensiones del problema de justicia está omitiendo la Rectora al basar su decisión exclusivamente en el cálculo utilitarista?"},
+  "respuesta": "La perspectiva de la justicia como derechos, que protege la libertad y el libre desarrollo de la personalidad de la minoría de estudiantes, incluso si afecta el promedio general.",
+  "distractores": ["La perspectiva de Platón, ya que al prohibir los celulares la rectora está garantizando el orden y la armonía, por lo que su decisión es justa.",
+"La perspectiva de la justicia distributiva, pues el rendimiento académico no es un bien que se pueda repartir, sino que se gana por mérito.",
+"La perspectiva de Santo Tomás, pues la prohibición de celulares no contradice ninguna ley divina o natural, por lo tanto, es una ley humana válida."]},
+{
+  "pregunta": {
+      "contexto": "Basado en el dilema del texto explicativo. “Un profesor recibe 5 boletas gratis para un concierto. Debe decidir cómo repartirlas entre 30 estudiantes…”<br><br> Estudiante 1: “Profesor, usted no debe decidir por nosotros. Esas boletas son de todos, devuélvalas y que cada uno intente comprar la suya. Usted no debe interferir, solo proteger nuestra libertad de intentarlo”.<br><br> Estudiante 2: “Profesor, déselas a los 5 que se comprometan a grabar todo el concierto y compartirlo en alta calidad con los otros 25. Así, maximizamos el beneficio para la mayoría”.",
+      "pregunta": "La diferencia fundamental entre la perspectiva del Estudiante 1 y la del Estudiante 2 radica en que:"},
+  "respuesta": "El Estudiante 1 prioriza la justicia como protección de derechos y no interferencia, mientras el Estudiante 2 la prioriza como el resultado que genera el mayor bien para la mayoría.",
+  "distractores": ["El Estudiante 1 defiende la justicia conmutativa, mientras el Estudiante 2 defiende la justicia distributiva.",
+"El Estudiante 1 cree que el profesor no es el idóneo para repartir, mientras el Estudiante 2 sí lo cree.",
+"El Estudiante 1 es egoísta y no quiere que nadie vaya, mientras que el Estudiante 2 es generoso y piensa en sus compañeros."]},
+{
+  "pregunta": {
+      "contexto": "“La obsesión de nuestra sociedad con la meritocracia es una trampa. Creemos que premiar el mérito es justo, pero ignoramos que el punto de partida de la carrera no es igual para todos, como dice el dicho, algunos nacen en cuna de oro. ¿Qué mérito hay en eso? Una sociedad verdaderamente justa no se obsesiona con premiar al ganador de una carrera injusta; se enfoca en garantizar que todos, incluso el que llega de último, tengan una vida digna y sus necesidades básicas cubiertas.” ",
+      "pregunta": "¿Cuál es el supuesto principal que el autor utiliza para invalidar el argumento de la justicia basada en el mérito?"},
+  "respuesta": "Que la justicia basada en la equidad y la dignidad humana es un criterio moralmente superior al del mérito.",
+  "distractores": ["Que la meritocracia es una trampa y que nadie realmente se esfuerza, pues todo depende de la cuna de oro.",
+"Que premiar solo a los ganadores no produce la mayor felicidad para el mayor número de personas.",
+"Que la justicia distributiva de Aristóteles es un concepto obsoleto que ya no aplica en la sociedad moderna."]},
+{
+  "pregunta": {
+      "contexto": "“Un colegio, como una nación, necesita disciplina, la justicia no es permitir que cada uno haga lo que quiera, eso es caos, la justicia es orden, es armonía, es que cada uno (estudiante, docente, directivo) cumpla su función a la perfección para el bien de la institución, cuando el estudiante abandona su función de estudiar para multiplicar sus actividades exigiendo derechos, el sistema colapsa, el estudiante que exige libre desarrollo es tan injusto como el defensa que abandona el arco para marcar un gol”.",
+      "pregunta": "La estrategia discursiva central del autor para defender su concepto de justicia (disciplina) consiste en:"},
+  "respuesta": "Utilizar una analogía que equipara el colegio con un equipo o un organismo donde la función individual está subordinada a la armonía del todo.",
+  "distractores": ["Amenazar a los estudiantes que exigen derechos, comparándolos con defensas que abandonan el arco.",
+"Defender un modelo de justicia basado en los derechos inalienables de Locke, donde la disciplina es el derecho principal.",
+"Proponer un cálculo utilitarista donde la disciplina del 100% es la mayor felicidad para el 100% de la comunidad."]},
+{
+  "pregunta": {
+      "contexto": "“Es un error creer que los derechos individuales son un límite para la sociedad, la verdadera justicia reside en la Voluntad General. Si la comunidad, en un ejercicio democrático, decide que el Bien Común requiere sacrificar la libertad de unos pocos, el individuo debe ceder su libertad al todo social, someter al individuo a la voluntad de la mayoría no es tiranía, es la máxima expresión de la justicia democrática”.",
+      "pregunta": "¿Cuál de las siguientes teorías de la justicia, si se aplica rigurosamente, funcionaría como la principal antítesis o refutación al argumento del autor?"},
+  "respuesta": "La teoría de John Locke, que establece que la justicia es la protección de derechos inalienables que el Estado o la mayoría no pueden violar.",
+  "distractores": ["La teoría de Santo Tomás de Aquino, pues él también defiende el Bien Común como el fin de la justicia y estaría de acuerdo con el autor.",
+"La teoría Utilitarista, ya que el autor está de acuerdo con ella al buscar el bien de la mayoría a costa de los pocos",
+"La teoría de Platón, ya que el autor busca una armonía social donde la Voluntad General es el Director Técnico que asigna la función."]},
+{
+  "pregunta": {
+      "contexto": "Un alcalde debe decidir si construye un puente que salvará 15 minutos de viaje a 10.000 ciudadanos (la mayoría), o si usa ese mismo dinero para construir un acueducto que proveerá agua potable a 50 familias (una minoría) que viven en extrema pobreza y sin la cual sufren enfermedades. El alcalde decide construir el puente.",
+      "pregunta": "La decisión del alcalde se alinea con la justicia ________, pero entra en conflicto con la justicia ________."},
+  "respuesta": "Utilitarista/ como Derechos.",
+  "distractores": ["Distributiva/ Conmutativa.",
+"Platónica/ Aristotélica.",
+"De la Ley Humana/ de la Ley Natural."]}
+  ]
