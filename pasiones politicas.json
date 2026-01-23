@@ -1,0 +1,82 @@
+[
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "Según el texto, ¿qué característica fundamental diferenció a los partidos políticos colombianos de los de otros países durante el siglo XIX y XX?"},
+  "respuesta": "Se convirtieron en subculturas profundas que definían la identidad y las relaciones sociales.",
+  "distractores": ["Nacían y morían exclusivamente dependiendo de la vida de sus caudillos militares.",
+"Fueron organizaciones superficiales diseñadas únicamente para ganar elecciones presidenciales.",
+"Surgieron como una imposición extranjera sin relación con la realidad local."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "Desde una perspectiva de análisis social y económico, ¿por qué el texto afirma que el conflicto partidista NO era una lucha entre “ricos y pobres”?"},
+  "respuesta": "Porque en ambos partidos militaban miembros de todas las clases sociales con intereses diversos.",
+  "distractores": ["Porque los partidos políticos prohibían la entrada a las personas de bajos recursos.",
+"Porque la economía no tenía ninguna relación con la política de la época.",
+"Porque todos los ricos eran conservadores y todos los pobres eran liberales."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "Al interpretar las ideologías fundacionales, ¿cuál era la principal divergencia entre liberales y conservadores respecto al rol de la Iglesia?"},
+  "respuesta": "Los conservadores buscaban una alianza Estado-Iglesia, mientras los liberales proponían un Estado laico.",
+  "distractores": ["Ambos partidos buscaban eliminar la religión de la vida pública.",
+"Los liberales querían una teocracia y los conservadores un estado ateo.",
+"No había diferencias, ambos partidos estaban subordinados al Vaticano."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "¿Qué implicación tuvo la Constitución de 1886 en la estructura del poder en Colombia según el documento?"},
+  "respuesta": "Dio comienzo a la “Hegemonía Conservadora” con un modelo autoritario, centralista y aliado al clero.",
+  "distractores": ["Inició un periodo de federalismo radical y libertades absolutas.",
+"Permitió la alternancia pacífica del poder entre ambos partidos inmediatamente.",
+"Fue creada por el Partido Liberal para promover la educación laica."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "Desde una lectura crítica, ¿qué paradoja económica presenta el texto sobre los periodos de hegemonía política y conflicto?"},
+  "respuesta": "Que la modernización económica ocurrió bajo modelos políticos restrictivos y en medio de tensiones partidistas.",
+  "distractores": ["Que la economía colombiana colapsó totalmente y nunca se recuperó hasta el siglo XXI.",
+"Que el desarrollo industrial solo fue posible gracias a la intervención extranjera directa.",
+"Que la riqueza del café eliminó las diferencias ideológicas entre los partidos."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "¿Cuál fue la reacción del conservatismo ante la “Revolución en Marcha” de Alfonso López Pumarejo en la década de 1930?"},
+  "respuesta": "La vieron como una amenaza “comunista” y un ataque a la fe y la propiedad.",
+  "distractores": ["Apoyaron las reformas por considerarlas necesarias para la industrialización.",
+"Fueron indiferentes ya que las reformas solo afectaban a las ciudades.",
+"Solicitaron que las reformas fueran más radicales en cuanto a la propiedad de la tierra."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "El periodo conocido como “La Violencia” se caracterizó por la segregación invisible de espacios cotidianos. ¿Qué significa esto en el contexto de la lectura?"},
+  "respuesta": "Que la identidad partidista determinaba dónde se podía comprar, rezar o ser enterrado.",
+  "distractores": ["Que los partidos políticos construyeron muros físicos en los pueblos.",
+"Que la violencia ocurría solo en las ciudades y no en el campo.",
+"Que la gente dejó de asistir a lugares públicos para evitar la política."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "¿Quiénes eran los “Chulavitas” y qué rol jugaron en el conflicto según el texto?"},
+  "respuesta": "Eran policías de origen conservador que perseguían liberales.",
+  "distractores": ["Eran guerrillas liberales que se defendían de los terratenientes.",
+"Eran sicarios contratados para proteger las iglesias católicas.",
+"Eran jueces imparciales que intentaban detener la violencia."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "¿Qué evento histórico específico es señalado en el texto como el detonante que desató la furia incontrolable en las ciudades en 1948?"},
+  "respuesta": "El asesinato del líder liberal Jorge Eliécer Gaitán.",
+  "distractores": ["La publicación del manifiesto de Ezequiel Rojas.",
+"La firma de la Constitución de Rionegro.",
+"La elección de Alfonso López Pumarejo."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "Analizando la conclusión del texto, ¿cuál era la causa principal de los asesinatos durante “La Violencia”?"},
+  "respuesta": "La pertenencia al “color” político equivocado.",
+  "distractores": ["Crímenes pasionales y disputas familiares.",
+"El robo de ganado y delincuencia común.",
+"La competencia por los recursos naturales."]}
+  ]
