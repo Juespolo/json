@@ -1,0 +1,82 @@
+[
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "Según el relato de Aristófanes, ¿cuál era la forma física de los seres humanos en el origen de los tiempos?"},
+  "respuesta": "Tenían forma esférica, con cuatro brazos, cuatro piernas y dos rostros.",
+  "distractores": ["Eran gigantes con un solo ojo en la frente, similares a los cíclopes.",
+"Eran idénticos a los dioses del Olimpo, pero mortales.",
+"Caminaban en cuatro patas como animales y no tenían rostro."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "¿Cuál fue el motivo principal por el cual Zeus decidió castigar a los humanos?"},
+  "respuesta": "Porque su soberbia los llevó a intentar escalar al cielo para atacar a los dioses.",
+  "distractores": ["Porque dejaron de realizar sacrificios y ofrendas a los templos.",
+"Porque se peleaban constantemente entre los tres géneros.",
+"Porque descubrieron el fuego y lo robaron de los dioses."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "¿Por qué Zeus decidió cortarlos por la mitad en lugar de exterminarlos con sus rayos?"},
+  "respuesta": "Porque no quería perder los honores y tributos que los humanos le ofrecían.",
+  "distractores": ["Porque sentía un profundo amor paternal y no quería verlos sufrir.",
+"Porque sus rayos se habían agotado en la guerra contra los gigantes.",
+"Porque quería crear una nueva raza de sirvientes más inteligente."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "En el contexto del paso 'del Mito al Logos', ¿qué diferencia fundamental existe entre la explicación mítica y la filosófica?"},
+  "respuesta": "El mito se basa en la autoridad y la tradición; la filosofía en la razón y la crítica.",
+  "distractores": ["El mito usa la lógica matemática y la filosofía usa la poesía.",
+"No hay diferencia real, ambas son formas de religión.",
+"El mito fue escrito por filósofos y la filosofía por poetas."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "¿Qué simboliza el hecho de que Apolo girara el rostro de los humanos hacia el corte de su propia herida?"},
+  "respuesta": "Para que recordaran su castigo y fueran más humildes ante los dioses.",
+  "distractores": ["Para que pudieran curarse las heridas lamiéndolas.",
+"Para mejorar su visión periférica y evitar depredadores.",
+"Fue un error de Apolo durante la cirugía."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "Según el mito, ¿cómo se define el “amor”?"},
+  "respuesta": "Como el deseo de encontrar la mitad perdida y restaurar la unidad original.",
+  "distractores": ["Como un capricho de Afrodita para jugar con los humanos.",
+"Como un castigo adicional para mantener a los humanos distraídos.",
+"Como la atracción puramente estética por la belleza."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "¿Cómo explica este mito la diversidad en la orientación sexual?"},
+  "respuesta": "Depende de si la persona proviene del género masculino, femenino o andrógino.",
+  "distractores": ["Es una elección libre que los humanos tomaron para rebelarse.",
+"Zeus asignó parejas al azar para confundirlos.",
+"El mito no ofrece ninguna explicación al respecto."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "¿Qué función cumple el “ombligo” dentro de la narración mítica?"},
+  "respuesta": "Es el punto donde se ató la piel sobrante, recordando la cirugía divina.",
+  "distractores": ["Es el punto por donde los dioses soplaron la vida.",
+"No tiene importancia, es solo una marca de nacimiento.",
+"Era el centro de equilibrio para poder rodar."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "Si analizamos a Zeus desde la filosofía, ¿qué representa su comportamiento?"},
+  "respuesta": "El poder arbitrario y autoritario que explica el mundo por voluntad, no por razón.",
+  "distractores": ["Una ley natural inmutable como la gravedad.",
+"La democracia y el consenso racional.",
+"La evolución biológica de las especies."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "¿Qué sucedió inmediatamente después de la separación, antes de que Zeus interviniera por segunda vez?"},
+  "respuesta": "Comenzaron a morir de hambre e inacción al no querer soltarse.",
+  "distractores": ["Los humanos construyeron templos para pedir perdón.",
+"Organizaron un ejército para vengarse de Apolo.",
+"Aprendieron a cultivar la tierra con sus nuevas manos."]}
+  ]
