@@ -1,0 +1,66 @@
+[
+{
+  "pregunta": {
+      "contexto": "Don José cultiva papas en su finca, su hija, Lucía, decide que, en lugar de vender la papa sucia en costales, va a comprar una máquina para lavarla, cortarla en rodajas y empacarla en bolsas listas para freír.",
+      "pregunta": "¿Qué cambio importante hizo Lucía en el negocio?"},
+  "respuesta": "Pasó del Sector Primario al Secundario porque transformó el producto.",
+  "distractores": ["Se quedó en el Sector Primario porque sigue vendiendo papas.",
+"Pasó al Sector Terciario porque ahora vende en bolsas plásticas.",
+"Pasó al Sector Cuaternario porque la máquina es tecnología."]},
+{
+  "pregunta": {
+      "contexto": "Imagina que hay un paro de camioneros (Sector Terciario) y no hay transporte por una semana. Las fábricas de zapatos (Sector Secundario) tienen que parar de trabajar.",
+      "pregunta": "¿Por qué pararon las fábricas si ellas no tienen camiones?"},
+  "respuesta": "Porque los sectores dependen unos de otros.",
+  "distractores": ["Porque los zapateros se fueron a apoyar el paro.",
+"Porque el Sector Secundario es el más débil de todos.",
+"Porque el gobierno ordenó cerrar las fábricas."]},
+{
+  "pregunta": {
+      "contexto": "Una empresa en Medellín no cultiva aguacates ni los transporta. Lo que hacen es crear un software (programa de computador) que le dice al campesino exactamente cuánta agua necesita cada árbol para no desperdiciar.",
+      "pregunta": "¿En qué sector clasificarías a esta empresa de software?"},
+  "respuesta": "Sector Cuaternario, porque su producto es el conocimiento.",
+  "distractores": ["Sector Primario, porque trabaja con árboles de aguacate.",
+"Sector Secundario, porque construye programas.",
+"Sector Terciario, porque ayuda al campo."]},
+{
+  "pregunta": {
+      "contexto": "Colombia es famosa por cultivar excelente café (Primario), sin embargo, muchas veces importamos (compramos de afuera) las cápsulas de café listas para la máquina, que son mucho más caras.",
+      "pregunta": "¿Qué nos falta fortalecer para no perder ese dinero?"},
+  "respuesta": "Fortalecer el Sector Secundario para fabricar las cápsulas.",
+  "distractores": ["Fortalecer el Sector Primario para cultivar más café.",
+"Fortalecer el Sector Terciario para importar más rápido.",
+"Dejar de tomar café y tomar té."]},
+{
+  "pregunta": {
+      "contexto": "Durante la pandemia, los hoteles y parques de diversiones (Sector Terciario) sufrieron mucho más que las fincas productoras de comida (Sector Primario).",
+      "pregunta": "¿Cuál es la razón lógica de esto?"},
+  "respuesta": "La gente puede dejar de viajar o ir a parques por un tiempo, pero no puede dejar de comer.",
+  "distractores": ["Los hoteles son negocios mal administrados.",
+"El virus solo atacaba a los turistas.",
+"El Sector Primario tiene más dinero que el Terciario."]},
+{
+  "pregunta": {
+      "contexto": "En una planta de ensamble de motos, llegan las llantas de China, el motor de Japón y los frenos de Brasil, aquí en Colombia, los operarios unen todo para armar la moto.",
+      "pregunta": "¿Esta actividad sigue siendo del Sector Secundario?"},
+  "respuesta": "Sí, porque están transformando piezas sueltas en un producto.",
+  "distractores": ["No, porque las piezas no son colombianas.",
+"No, eso es solo comercio.",
+"Sí, pero solo si las llantas fueran colombianas."]},
+{
+  "pregunta": {
+      "contexto": "Si un país tiene muchísimos recursos naturales (Primario) y muchísimos vendedores (Terciario), pero casi no tiene fábricas (Secundario).",
+      "pregunta": "¿Qué pasa con sus recursos naturales?"},
+  "respuesta": "Se tienen que vender crudos y baratos.",
+  "distractores": ["Se venden muy caros.",
+"Se quedan guardados para siempre.",
+"El país se vuelve automáticamente rico."]},
+{
+  "pregunta": {
+      "contexto": "En un Hospital que atiende pacientes todos los días, también tienen un piso donde científicos buscan la cura para enfermedades tropicales.",
+      "pregunta": "¿A qué sector económico pertenece ese hospital?"},
+  "respuesta": "Combina el Sector Terciario con el Cuaternario.",
+  "distractores": ["Es solo Sector Terciario.",
+"Es Sector Primario porque trabajan con biología.",
+"Es Sector Secundario porque arreglan personas."]}
+  ]
