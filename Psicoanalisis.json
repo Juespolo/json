@@ -1,0 +1,82 @@
+[
+{
+  "pregunta": {
+      "contexto": "Un estudiante de grado 11 está elaborando una línea de tiempo sobre la evolución del pensamiento científico en el siglo XIX. Al llegar a la figura de Sigmund Freud, el estudiante nota que, aunque Freud se graduó como médico, su aporte revolucionario no se dio mediante la medicina tradicional ni la cirugía, sino a través de un cambio de paradigma en cómo entender las dolencias físicas sin causa orgánica aparente.",
+      "pregunta": "Según el texto, ¿cuál fue la experiencia formativa determinante que permitió a Freud dar el salto de la neurología tradicional al descubrimiento del inconsciente?"},
+  "respuesta": "La observación de las técnicas de hipnosis de Charcot en París para tratar síntomas histéricos.",
+  "distractores": ["La lectura profunda de clásicos literarios como Shakespeare y Cervantes, que le revelaron la naturaleza humana.",
+"Su colaboración económica y amistosa con el psiquiatra Joseph Breuer en la ciudad de Viena.",
+"Su propio autoanálisis y el estudio de sus sueños durante su estancia en la Universidad."]},
+{
+  "pregunta": {
+      "contexto": "En una clase de filosofía, el profesor escribe en el tablero la siguiente frase: “No existen los accidentes en la mente; todo olvido, todo lapsus y todo sueño tiene una razón de ser, aunque no la conozcamos”.",
+      "pregunta": "Esta afirmación se alinea con la teoría descrita en el texto porque Freud extendió la concepción determinista de la física al comportamiento humano, sosteniendo que:"},
+  "respuesta": "Las conductas son producto de causas que el sujeto no controla y que residen en el inconsciente.",
+  "distractores": ["Los seres humanos tienen un control racional absoluto sobre sus decisiones si se esfuerzan lo suficiente.",
+"El comportamiento es aleatorio y no puede ser explicado mediante causas y efectos lógicos.",
+"Las motivaciones del comportamiento son siempre biológicas y responden exclusivamente a instintos de supervivencia."]},
+{
+  "pregunta": {
+      "contexto": "Imagina a un veterano de guerra que, años después del conflicto, sufre de parálisis en una mano sin que exista ningún daño físico en sus nervios o músculos. Los médicos no encuentran explicación.",
+      "pregunta": "Desde la perspectiva del psicoanálisis presentada en el texto, ¿cuál sería la explicación más plausible para la dolencia de este veterano?"},
+  "respuesta": "Una experiencia traumática ha sido reprimida, y la energía de ese recuerdo retorna como un síntoma físico.",
+  "distractores": ["El veterano está fingiendo la parálisis para obtener beneficios económicos o atención social.",
+"El sistema nervioso del veterano ha sufrido un desgaste natural que la medicina actual aún no puede detectar.",
+"El paciente ha olvidado conscientemente el evento y, por tanto, el evento ha dejado de afectarle psicológicamente."]},
+{
+  "pregunta": {
+      "contexto": "Para explicar la estructura de la mente según Freud, un docente decide utilizar una analogía visual. Dibuja una casa con un sótano oscuro y cerrado con llave, una sala de estar donde se recibe a las visitas, y un dormitorio.",
+      "pregunta": "Si nos basamos en la clasificación de los fenómenos mentales descrita en el texto, ¿qué elementos deberían ubicarse estrictamente en el “sótano cerrado” (el inconsciente)?"},
+  "respuesta": "Las experiencias desagradables y peligrosas que han sido reprimidas y son difícilmente rescatables.",
+  "distractores": ["Los recuerdos que podemos traer a la memoria fácilmente si nos lo proponen.",
+"Las decisiones racionales que tomamos para planear nuestro futuro inmediato.",
+"Las percepciones sensoriales inmediatas, como el frío o el calor que sentimos ahora mismo."]},
+{
+  "pregunta": {
+      "contexto": "En una sociedad que acaba de firmar un acuerdo de paz tras años de conflicto, se observa un fenómeno contradictorio: mientras surgen numerosos movimientos artísticos, comunitarios y de reconciliación, simultáneamente aumentan los índices de violencia intrafamiliar y riñas callejeras autodestructivas.",
+      "pregunta": "Un sociólogo freudiano analizaría esta contradicción afirmando que la sociedad está experimentando la tensión constante entre:"},
+  "respuesta": "Las pulsiones de vida y las pulsiones de muerte.",
+  "distractores": ["La lógica racional del gobierno y la irracionalidad educativa del pueblo.",
+"Los intereses económicos de las clases altas y las necesidades básicas de las clases bajas.",
+"La influencia de la religión tradicional y las nuevas tendencias liberales modernas."]},
+{
+  "pregunta": {
+      "contexto": "El texto menciona que Freud, en sus primeras obras, utilizaba el término “instinto”, pero posteriormente decidió cambiarlo por el concepto de “pulsión”.",
+      "pregunta": "¿Cuál fue la razón teórica fundamental para realizar este cambio terminológico?"},
+  "respuesta": "Quería evitar las connotaciones biológicas fijas del término instinto para referirse a una energía psíquica más neutra.",
+  "distractores": ["“Instinto” era una palabra demasiado simple para la complejidad de la teoría que estaba formulando.",
+"El término pulsión sonaba más científico en el idioma alemán y le daba prestigio académico.",
+"Descubrió que los humanos no tienen ninguna relación con los animales y, por tanto, carecen de instintos."]},
+{
+  "pregunta": {
+      "contexto": "Un paciente le dice a su terapeuta: “Doctor, prefiero que me dé una pastilla para olvidar mis problemas. No quiero hablar de mi infancia ni de cosas que ya pasaron”.",
+      "pregunta": "Basándonos en la lógica del método psicoanalítico expuesto en el texto, el terapeuta debería pensar que la solicitud del paciente es contraproducente porque:"},
+  "respuesta": "La única forma de curación real consiste en devolver a la consciencia los traumas reprimidos, no en ocultarlos más.",
+  "distractores": ["Las pastillas eran muy costosas en la época de Freud y no todos podían acceder a ellas.",
+"El paciente debe sufrir para poder expiar sus culpas y así liberar sus pulsiones de muerte.",
+"La terapia consiste en hipnotizar al paciente para que nunca más recuerde lo que le sucedió."]},
+{
+  "pregunta": {
+      "contexto": "En 1933, las obras de Freud fueron quemadas públicamente en Alemania y él se vio obligado a huir a Londres debido a su origen judío. Sin embargo, el texto menciona que el rechazo al psicoanálisis no vino solo del nazismo, sino también de la “puritana y conservadora sociedad vienesa”.",
+      "pregunta": "¿Qué aspecto de la teoría de Freud era el que más probablemente escandalizaba a la sociedad conservadora de su época?"},
+  "respuesta": "La afirmación de que la sexualidad es una pulsión central que motiva el comportamiento humano.",
+  "distractores": ["La idea de que los sueños tienen significado.",
+"La propuesta de que las enfermedades mentales se pueden curar hablando.",
+"El uso de la hipnosis como herramienta médica válida."]},
+{
+  "pregunta": {
+      "contexto": "Lea la siguiente afirmación: “Juan es un hombre muy generoso; siempre regala dinero a sus amigos porque es una persona bondadosa por naturaleza”.",
+      "pregunta": "Ante esta afirmación, un lector que aplique rigurosamente la “teoría psicoanalítica de la mente” presentada en el documento, probablemente:"},
+  "respuesta": "Dudaría de la explicación, sospechando que podría ser una manera encubierta de saciar una pulsión inconsciente.",
+  "distractores": ["Estaría completamente de acuerdo, pues los actos reflejan directamente la bondad consciente.",
+"Negaría que Juan sea generoso, afirmando que los humanos solo se mueven por la pulsión de muerte y destrucción.",
+"Pensaría que Juan está hipnotizado, ya que nadie regala dinero voluntariamente."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "Si tuvieras que resumir en una sola frase la transformación que el psicoanálisis provocó en la concepción que el ser humano tiene de sí mismo, basándote en el texto, la más adecuada sería:"},
+  "respuesta": "El ser humano dejó de ser dueño absoluto de su propia mente para descubrir que es gobernado por fuerzas que desconoce.",
+  "distractores": ["El ser humano descubrió que todas sus enfermedades son físicas y deben tratarse con medicamentos neurológicos.",
+"El ser humano aprendió que la hipnosis es la única herramienta válida para conocer la verdad.",
+"El ser humano confirmó que es un ser puramente racional, distinto de los animales y libre de instintos."]}
+  ]
