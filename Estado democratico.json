@@ -1,0 +1,82 @@
+[
+{
+  "pregunta": {
+      "contexto": "En una clase de historia, un estudiante afirma: “La nación colombiana ha existido desde siempre, incluso antes de la llegada de los españoles, porque la gente ya vivía aquí”. Otro estudiante lo corrige diciendo: “Te equivocas, aunque había gente, no eran una nación en el sentido moderno, y mucho menos un Estado, porque les faltaba una organización jurídica unificada”.",
+      "pregunta": "Teniendo en cuenta la definición de Estado como “nación jurídicamente organizada”, ¿cuál es la precisión conceptual más acertada respecto a la relación entre Nación y Estado?"},
+  "respuesta": "La nación es una condición previa necesaria pero no suficiente para la existencia del Estado, ya que este último requiere un ordenamiento jurídico y político.",
+  "distractores": ["El Estado surge primero que la nación, pues sin leyes escritas es imposible que un grupo de personas desarrolle una identidad cultural o se reconozca como semejante.",
+"Nación y Estado son sinónimos absolutos, ya que ambos términos se refieren exclusivamente al conjunto de personas que habitan un territorio delimitado por fronteras.",
+"Cualquier grupo de personas reunidas en un territorio constituye automáticamente un Estado, independientemente de si poseen soberanía o reconocimiento internacional."]},
+{
+  "pregunta": {
+      "contexto": "Durante un debate sobre la administración pública, un ciudadano indignado escribe en una red social: “El Estado es el culpable de que no recojan la basura en mi barrio, por eso voy a votar por otro partido para cambiar al Estado”. Un politólogo le responde que está confundiendo términos esenciales.",
+      "pregunta": "Basado en la lectura, ¿cuál es el error conceptual que comete el ciudadano en su queja?"},
+  "respuesta": "Confunde al Estado, que es una estructura permanente y jurídica, con el Gobierno, que es la función administrativa temporal y cambiante.",
+  "distractores": ["Asume que la recolección de basuras es una responsabilidad pública, cuando en las democracias liberales modernas este servicio es exclusivamente privado.",
+"Cree que el cambio de partido político implica una transformación en la población y el territorio, elementos que no hacen parte del concepto de Estado.",
+"Desconoce que el Estado no tiene la función de garantizar derechos ni bienestar, sino únicamente de sancionar a quienes incumplen la ley."]},
+{
+  "pregunta": {
+      "contexto": "Imagina una asamblea estudiantil en un colegio de 4.000 estudiantes. Un grupo propone eliminar el Consejo Estudiantil y que absolutamente todas las decisiones, desde la compra de marcadores hasta el horario de clases, se tomen por votación a mano alzada de los 4.000 estudiantes en el patio principal cada mañana.",
+      "pregunta": "Según el texto, ¿por qué este modelo, similar a una democracia directa, sería inviable o problemático en este contexto escolar?"},
+  "respuesta": "Porque este sistema solo funciona eficazmente en espacios con pocos habitantes; en grupos grandes, la falta de intermediarios dificulta la operatividad.",
+  "distractores": ["Porque la democracia directa prohíbe el debate y exige que las decisiones se tomen sin ningún tipo de deliberación previa entre los participantes.",
+"Porque los estudiantes, al ser menores de edad, no constituyen una población en el sentido político y por tanto no tienen derechos de participación.",
+"Porque la democracia directa requiere obligatoriamente el uso de tecnologías digitales avanzadas para contar los votos, las cuales el colegio no posee."]},
+{
+  "pregunta": {
+      "contexto": "Un país ficticio llamado “Norlandia” tiene elecciones regulares y una constitución. Sin embargo, el partido gobernante controla todos los medios de comunicación, utiliza los recursos públicos para su campaña y, aunque permite la existencia de otros partidos, estos no tienen ninguna posibilidad real de acceder al poder o administrar el Estado debido a las barreras institucionales.",
+      "pregunta": "De acuerdo con la clasificación del texto, ¿a qué tipo de democracia se aproxima más la situación de Norlandia?"},
+  "respuesta": "Democracia Parcial, pues aunque cumple requisitos como elecciones, los ciudadanos no gozan de acceso real a la administración del poder.",
+  "distractores": ["Democracia Liberal, pues cumple con el requisito fundamental de celebrar elecciones periódicas y tener una constitución escrita.",
+"Democracia Directa, ya que el partido gobernante dice representar directamente la voluntad del pueblo sin intermediarios burocráticos.",
+"Democracia Democristiana, dado que este comportamiento es típico de los gobiernos que rigen la vida pública con valores religiosos conservadores."]},
+{
+  "pregunta": {
+      "contexto": "Durante la Guerra Fría, varios países de Europa del Este se autodenominaron democracias populares. Estos regímenes se caracterizaban por un partido único hegemónico, la nacionalización de empresas y un discurso fuerte contra el imperialismo occidental.",
+      "pregunta": "¿Cuál es una característica crítica de este modelo según el texto, que lo diferencia de la democracia liberal occidental?"},
+  "respuesta": "Prioriza la capacidad ejecutiva del partido en el poder por encima del parlamento, buscando legitimar su hegemonía tras rupturas revolucionarias.",
+  "distractores": ["Se basa en la alternancia constante del poder entre múltiples partidos de ideologías opuestas para garantizar la pluralidad.",
+"Establece una separación estricta entre la religión y el Estado, prohibiendo cualquier manifestación de fe en la vida pública.",
+"Fomenta la privatización de todas las empresas estatales para integrarse rápidamente a la globalización económica y financiera."]},
+{
+  "pregunta": {
+      "contexto": "En un debate legislativo, un senador propone: “Debemos fortalecer las empresas estatales de energía y salud para que sean tan o más poderosas que los conglomerados privados, garantizando que el pueblo no dependa del ánimo de lucro de los empresarios”.",
+      "pregunta": "Esta propuesta se alinea con los principios de la democracia social o socialdemocracia porque:"},
+  "respuesta": "Busca que el Estado tenga un poder equilibrado o superior a las élites económicas para reducir la dependencia de instituciones privadas.",
+  "distractores": ["Propone la eliminación total de la propiedad privada y la instauración de una dictadura del proletariado sin elecciones.",
+"Pretende regir las leyes económicas basándose exclusivamente en los mandamientos y valores de la religión cristiana.",
+"Intenta limitar la libertad de expresión de los empresarios para evitar que participen en la vida política de la nación."]},
+{
+  "pregunta": {
+      "contexto": "Una isla en el Pacífico tiene población permanente, un gobierno definido y leyes internas. Sin embargo, sus relaciones internacionales y su defensa militar son controladas totalmente por un país vecino, y la isla no tiene la facultad legal para rechazar estas intervenciones.",
+      "pregunta": "¿Qué elemento esencial del Estado le hace falta a esta isla para ser considerada un Estado pleno según el texto?"},
+  "respuesta": "Soberanía, entendida como la independencia de cualquier poder extraño para tomar sus propias decisiones.",
+  "distractores": ["Territorio, pues al ser una isla pequeña no cuenta con la extensión suficiente para ser considerada una base física estatal.",
+"Población, ya que los habitantes de la isla seguramente se identifican como ciudadanos del país vecino y no como una nación propia.",
+"Estructura jurídico-política, pues carecen de leyes internas que organicen la convivencia diaria de sus habitantes."]},
+{
+  "pregunta": {
+      "contexto": "En Alemania e Italia durante el siglo XX, surgieron partidos políticos que promovían leyes basadas en la encíclica papal y los valores del Evangelio, abogando por una economía social de mercado, pero con una moral conservadora en lo social.",
+      "pregunta": "Según el texto, este modelo corresponde a la democracia democristiana porque:"},
+  "respuesta": "Consiste en regir la vida pública con los valores de la religión cristiana, virando usualmente hacia legislaciones conservadoras.",
+  "distractores": ["Es un sistema donde la iglesia toma el control directo del gobierno y elimina el parlamento para gobernar por decreto divino.",
+"Es un tipo de democracia autoritaria donde se prohíbe la libertad de culto y se obliga a todos los ciudadanos a ser católicos.",
+"Se trata de un movimiento socialista que busca eliminar el capitalismo utilizando la religión como una herramienta de manipulación de masas."]},
+{
+  "pregunta": {
+      "contexto": "El texto menciona que, a medida que las sociedades crecen, se generan dificultades que requieren condiciones y garantías para una convivencia pacífica. Si un candidato presidencial propusiera: “Para ser verdaderamente libres, debemos eliminar el Estado y todas sus instituciones de sanción y control”,",
+      "pregunta": "¿cuál sería la consecuencia lógica de esta propuesta según el argumento del texto?"},
+  "respuesta": "Se pondría en riesgo la convivencia pacífica y el bienestar general, pues no habría quién garantice el cumplimiento de derechos ni sancione obligaciones.",
+  "distractores": ["La sociedad alcanzaría inmediatamente su máximo desarrollo moral, pues el ser humano es bueno por naturaleza y no necesita regulación.",
+"Se lograría una democracia directa perfecta, donde cada individuo se gobernaría a sí mismo sin interferencia externa.",
+"La nación se fortalecería, ya que el Estado es un obstáculo artificial que impide la verdadera unión cultural de las personas."]},
+{
+  "pregunta": {
+      "contexto": "Se presenta un caso en el que un gobierno fue elegido democráticamente, pero con el tiempo, el partido dominante comenzó a regular excesivamente aspectos culturales y económicos de los ciudadanos para favorecer a una coalición económica amiga, aunque manteniendo las elecciones.",
+      "pregunta": "El texto clasifica este comportamiento como una señal de democracia autoritaria porque:"},
+  "respuesta": "El gobierno extiende su autoridad más allá de lo necesario, regulando decisiones a su favor bajo una apariencia democrática.",
+  "distractores": ["El gobierno ha decidido suspender las elecciones y cerrar el congreso para declarar un estado de excepción permanente.",
+"Es el paso natural de toda democracia liberal, que inevitablemente termina controlando la economía para proteger a los pobres.",
+"Se ha implementado un sistema de democracia directa donde el pueblo ha decidido voluntariamente ceder su libertad al líder."]}
+  ]
