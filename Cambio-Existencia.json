@@ -1,0 +1,82 @@
+[
+{
+  "pregunta": {
+      "contexto": "Empédocles establece la famosa teoría de los cuatro principios no reducibles unos a otros —agua, aire, fuego y tierra—. Además, postula la existencia del Amor y el Odio o Discordia.",
+      "pregunta": "¿Qué función filosófica cumplen estas dos fuerzas dentro de su explicación de la realidad material?"},
+  "respuesta": "Son las fuerzas que rigen las combinaciones y recombinaciones de los cuatro principios inalterables.",
+  "distractores": ["Son los elementos primigenios sustanciales de los cuales surgen todas las cosas naturales.",
+"Son las metáforas lógicas que explican el perpetuo fluir y la inestabilidad como ley de vida.",
+"Son las apariencias sensoriales que esconden la permanencia profunda y racional del ser."]},
+{
+  "pregunta": {
+      "contexto": "Anaxágoras sostiene que existen tantos elementos primigenios como tipos de cosas, y que en cada cosa está la semilla de todo lo que puede llegar a ser.",
+      "pregunta": "Si todas las cosas contienen porciones de las demás, ¿qué factor determina el predominio de un elemento específico para definir lo que una cosa es en la realidad?"},
+  "respuesta": "La intervención directiva de una fuerza o intelecto a la que denomina nous o mente.",
+  "distractores": ["El paso lógico de ser una determinada cosa a no ser esa misma cosa.",
+"El libre movimiento de los objetos indivisibles que colisionan por acción del azar.",
+"La proporción matemática exacta en la que se combinan el agua, el aire, el fuego y la tierra."]},
+{
+  "pregunta": {
+      "contexto": "Los atomistas Leucipo y Demócrito consideran que la realidad básica está integrada por una infinidad de pequeños objetos duros, invisibles, eternos e inalterables.",
+      "pregunta": "¿Por qué la existencia del “vacío” es una condición lógicamente indispensable para el modelo ontológico de los atomistas?"},
+  "respuesta": "Porque el espacio entre átomo y átomo es lo que hace posibles los cambios o reconfiguraciones de la materia.",
+  "distractores": ["Porque permite que las fuerzas del Amor y la Discordia separen o unan los cuatro principios fundamentales.",
+"Porque es el único elemento primigenio que posee en su interior la simiente de todas las cosas.",
+"Porque representa la confirmación de la verdad incuestionable de Parménides de que el no ser no es."]},
+{
+  "pregunta": {
+      "contexto": "El texto expone dos modelos dominantes de reflexión filosófica representados por Heráclito y Parménides.",
+      "pregunta": "A nivel del método, ¿cuál es la diferencia fundamental en la manera como ambos filósofos construyen su conocimiento sobre el cosmos?"},
+  "respuesta": "Heráclito se fundamenta en la observación del entorno para afirmar el cambio, mientras Parménides cuestiona los sentidos y especula mediante el rigor lógico.",
+  "distractores": ["Heráclito concibe que los humanos son un proceso biológico, mientras Parménides defiende que somos un conglomerado de átomos.",
+"Heráclito propone una pluralidad de elementos originales, mientras Parménides defiende la existencia de un único principio unificador.",
+"Heráclito explica el mundo a través de teoremas matemáticos irrefutables, mientras Parménides utiliza metáforas sobre la justicia y la guerra."]},
+{
+  "pregunta": {
+      "contexto": "Los pluralistas se diferencian conceptualmente de las visiones del mundo arquetípicas que los precedieron.",
+      "pregunta": "¿Cuál es la principal ruptura ontológica que proponen pensadores como Empédocles y Anaxágoras respecto al origen de lo existente?"},
+  "respuesta": "La afirmación de que lo existente surge de una pluralidad de elementos originales y no de un solo y único principio.",
+  "distractores": ["La negación absoluta de cualquier forma de cambio en el mundo físico y natural.",
+"La consideración del fuego como la única metáfora filosófica válida para expresar el dinamismo universal.",
+"La afirmación de que los sentidos son la fuente exclusiva para conocer los elementos inalterables."]},
+{
+  "pregunta": {
+      "contexto": "Heráclito de Éfeso afirma el dinamismo o la movilidad universal y utiliza el fuego como la metáfora que expresa su pensamiento.",
+      "pregunta": "Desde esta perspectiva filosófica, ¿cómo explica la metáfora del fuego la relación entre el cambio y la permanencia en la realidad?"},
+  "respuesta": "Las llamas son procesos o momentos en constante movimiento, pero el fuego como principio fundamental perdura.",
+  "distractores": ["El fuego es una apariencia sensorial que oculta la inmutabilidad radical del mundo, la cual solo es accesible mediante la razón.",
+"El fuego destruye los elementos primigenios para crear semillas de todas las cosas que pueden llegar a ser.",
+"El fuego se mueve libremente por acción del azar gracias al espacio vacío entre los elementos."]},
+{
+  "pregunta": {
+      "contexto": "Para Heráclito, bajo los elementos contrarios en lucha constante se esconde un orden o logos. A partir de esto, concluye que la justicia es enfrentamiento, polémica y guerra.",
+      "pregunta": "¿Qué implicación filosófica tiene esta concepción de la justicia?"},
+  "respuesta": "La relación justa exige la afirmación y la tensión constante entre los opuestos; la imposición de uno sobre otro es injusticia.",
+  "distractores": ["La justicia requiere que el Amor elimine la Discordia entre los elementos opuestos.",
+"La justicia se alcanza cuando la mente o intelecto impone la inmutabilidad sobre las apariencias sensoriales.",
+"La justicia es la combinación pacífica de los átomos en el vacío para evitar el enfrentamiento universal."]},
+{
+  "pregunta": {
+      "contexto": "La especulación filosófica de Parménides cuestiona los datos sensoriales. Él asume la concepción de que, si los sentidos nos dicen una cosa y la razón otra, debemos guiarnos más por la razón.",
+      "pregunta": "¿Cuál es el fundamento epistemológico que justifica esta prioridad de la razón sobre los sentidos en el pensamiento de Parménides?"},
+  "respuesta": "Los sentidos muchas veces nos engañan con apariencias, en cambio, un razonamiento lógico con rigor nunca engaña.",
+  "distractores": ["Los datos sensoriales dependen exclusivamente de la intervención de una fuerza intelectual externa.",
+"La especulación lógica permite observar objetivamente los cambios constantes en la naturaleza.",
+"Los sentidos solo perciben la infinidad de pequeños objetos eternos, pero no el espacio que los separa."]},
+{
+  "pregunta": {
+      "contexto": "Parménides proclama la inmutabilidad radical de la realidad basándose en una verdad incuestionable: «el ser es y el no ser no es».",
+      "pregunta": "A partir de esta premisa ontológica, ¿por qué la afirmación del cambio resulta lógicamente absurda para este pensador?"},
+  "respuesta": "Porque el cambio implicaría el paso de ser una cosa a no serla, o de no ser a ser, contradiciendo que la nada no existe.",
+  "distractores": ["Porque el cambio requiere que los elementos contrarios dejen de estar en lucha constante regida por el logos.",
+"Porque los cambios observables son meramente recombinaciones matemáticas de cuatro principios inmutables.",
+"Porque aceptar el cambio implicaría que el fuego deje de ser el principio unificador de todo lo existente."]},
+{
+  "pregunta": {
+      "contexto": "Los pensadores pluralistas protagonizaron el primer intento de conciliación teórica en la historia del pensamiento griego.",
+      "pregunta": "¿De qué manera lograron integrar las visiones antagónicas del mundo propuestas por Heráclito y Parménides?"},
+  "respuesta": "Aceptando que la physis es un proceso de cambios constantes, pero manteniendo que lo que es no puede venir de lo que no es.",
+  "distractores": ["Rechazando la especulación filosófica lógica y apoyándose únicamente en la observación empírica de los trastornos políticos.",
+"Afirmando que el mundo material es una apariencia sensorial y que solo la multiplicidad del vacío tiene existencia real.",
+"Estableciendo que el ser existe y la nada no existe, negando así definitivamente cualquier dinamismo en el cosmos."]}
+  ]
