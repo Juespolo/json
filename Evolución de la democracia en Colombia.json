@@ -1,0 +1,122 @@
+[
+{
+  "pregunta": {
+      "contexto": "A mediados del siglo XIX, el partido liberal colombiano impulsó una serie de reformas que buscaban transformar la estructura del Estado.",
+      "pregunta": "Según el contexto histórico, ¿cuál de las siguientes medidas fue promovida por los liberales en este periodo?"},
+  "respuesta": "La abolición de la esclavitud y la separación de la Iglesia y el Estado.",
+  "distractores": ["La creación de un Estado centralista, unitario y ligado directamente a la Iglesia católica.",
+"La restricción del derecho al voto únicamente a los hombres alfabetos con altos ingresos económicos.",
+"La eliminación completa de los estados federales para entregar el poder a los gobernadores locales."]},
+{
+  "pregunta": {
+      "contexto": "La Constitución promulgada en 1886 representó un cambio drástico respecto a las ideas liberales radicales previas, reflejando una postura política conservadora.",
+      "pregunta": "¿Cuál fue una característica central de esta Carta Política?"},
+  "respuesta": "Entregó la dirección de la educación pública a la Iglesia católica.",
+  "distractores": ["Estableció la separación total entre la Iglesia católica y el aparato estatal colombiano.",
+"Permitió la creación de múltiples Estados soberanos con la capacidad de dictar sus propias leyes.",
+"Amplió el derecho al voto para incluir a todas las mujeres mayores de edad que supieran leer."]},
+{
+  "pregunta": {
+      "contexto": "Durante el siglo XX, Colombia experimentó varias reformas orientadas a ampliar la participación ciudadana en los escenarios políticos. Una de las reformas más significativas se dio durante el gobierno de Gustavo Rojas Pinilla.",
+      "pregunta": "¿A qué hito histórico se refiere este periodo?"},
+  "respuesta": "La aprobación del voto femenino en Colombia.",
+  "distractores": ["El surgimiento del movimiento estudiantil conocido como la séptima papeleta.",
+"La creación de la Alianza Nacional Popular para enfrentar el sistema bipartidista.",
+"La implementación de la elección popular de alcaldes en todos los municipios del país."]},
+{
+  "pregunta": {
+      "contexto": "El Frente Nacional logró una paz temporal entre los partidos liberal y conservador tras la época de la Violencia.",
+      "pregunta": "Sin embargo, este pacto generó consecuencias políticas y sociales a largo plazo, tales como:"},
+  "respuesta": "La exclusión política de campesinos e indígenas, lo que incrementó la abstención en las elecciones.",
+  "distractores": ["El fortalecimiento de movimientos políticos pluralistas con gran éxito en las elecciones legislativas.",
+"La aprobación inmediata del sufragio universal para garantizar la participación activa de las minorías.",
+"El fin definitivo de la violencia armada y el fortalecimiento de la confianza total en las instituciones del Estado."]},
+{
+  "pregunta": {
+      "contexto": "La profunda crisis social y política que vivió Colombia en los años ochenta impulsó la búsqueda de nuevos pactos sociales.",
+      "pregunta": "¿Qué actor o movimiento sentó las bases directas para la convocatoria de la nueva Constitución de 1991?"},
+  "respuesta": "El movimiento estudiantil de la séptima papeleta.",
+  "distractores": ["Legisladores conservadores que buscaban modernizar el Estado y la Iglesia.",
+"Militares de alto rango preocupados por la corrupción en las instituciones gubernamentales y locales.",
+"Líderes sindicales y obreros de principios del siglo XX inspirados en la Unión Republicana."]},
+{
+  "pregunta": {
+      "contexto": "Para garantizar la protección y la promoción de los derechos consagrados en la nueva Constitución, el Estado colombiano de 1991 estipuló la creación de nuevos organismos de control.",
+      "pregunta": "¿Cuáles son estas entidades?"},
+  "respuesta": "La Procuraduría General y la Defensoría del Pueblo.",
+  "distractores": ["Los ministerios del despacho ejecutivo, el Congreso de la República y la Presidencia.",
+"Las asambleas constituyentes, los cabildos abiertos y los jueces de la rama judicial.",
+"La Alianza Nacional Popular y las organizaciones cívicas del movimiento de la séptima papeleta."]},
+{
+  "pregunta": {
+      "contexto": "A un ciudadano se le impide profesar libremente su religión o expresar sus opiniones de forma pacífica.",
+      "pregunta": "Según el Título II de la Constitución de 1991, los derechos que protegen la libertad de conciencia y de culto se clasifican como derechos:"},
+  "respuesta": "Fundamentales de la autonomía.",
+  "distractores": ["Colectivos y del medioambiente sano, que protegen el bienestar común y la salud pública.",
+"Económicos, sociales y culturales orientados a brindar un nivel de vida digno.",
+"Jurídicos relacionados directamente con la igualdad de todas las personas ante la ley penal."]},
+{
+  "pregunta": {
+      "contexto": "En una comunidad vulnerable, los habitantes exigen al Estado el acceso a servicios de salud, a la educación pública y a una vivienda digna.",
+      "pregunta": "Estas demandas se enmarcan en la categoría constitucional de:"},
+  "respuesta": "Derechos económicos, sociales y culturales.",
+  "distractores": ["Derechos individuales y de la autonomía personal frente a la sociedad civil.",
+"Derechos colectivos, del medioambiente y de la preservación estricta del espacio público.",
+"Derechos democráticos que garantizan la libre manifestación ciudadana y la oposición política."]},
+{
+  "pregunta": {
+      "contexto": "Un grupo de vecinos de un municipio interpone un recurso legal debido a que una fábrica está vertiendo residuos tóxicos en el río local, afectando el ecosistema.",
+      "pregunta": "El derecho que exigen proteger está clasificado como:"},
+  "respuesta": "Un derecho colectivo a gozar de un medioambiente sano.",
+  "distractores": ["Un derecho fundamental a la asistencia de un abogado para asegurar su legítima defensa.",
+"Un derecho económico enfocado en la remuneración mínima, el trabajo y la propiedad privada.",
+"Un derecho democrático que les permite organizarse para elegir y ser elegidos para cargos de control."]},
+{
+  "pregunta": {
+      "contexto": "La Constitución de 1991 representó un quiebre frente a la homogeneidad cultural que promovían constituciones anteriores.",
+      "pregunta": "Una de las decisiones fundamentales respecto a la diversidad nacional fue:"},
+  "respuesta": "La protección de la identidad cultural de los grupos étnicos del país.",
+  "distractores": ["La imposición de una única religión oficial para unificar la educación y la moral de la población.",
+"La creación de un Estado fuertemente centralista que ignorara las marcadas diferencias regionales.",
+"El desconocimiento jurídico de las minorías excluidas históricamente durante la vigencia del sistema bipartidista."]},
+{
+  "pregunta": {
+      "contexto": "El texto constitucional está organizado de manera jerárquica y temática.",
+      "pregunta": "La sección inicial del documento, donde se declaran los principios fundamentales que lo inspiran y que sirven de base para todas las normas del Estado, se denomina:"},
+  "respuesta": "El preámbulo.",
+  "distractores": ["El capítulo de organismos de control de la rama ejecutiva.",
+"Los artículos transitorios con duración limitada.",
+"El título enfocado exclusivamente en los derechos y deberes ciudadanos."]},
+{
+  "pregunta": {
+      "contexto": "El centralismo de la Constitución de 1886 concentró la administración y la política territorial en el gobierno nacional.",
+      "pregunta": "Para revertir esta situación y democratizar las regiones, la Constitución de 1991:"},
+  "respuesta": "Estableció la descentralización otorgando autonomía administrativa a las entidades territoriales.",
+  "distractores": ["Eliminó la figura de los alcaldes y centralizó las decisiones territoriales en el presidente de la República.",
+"Determinó que solo el poder legislativo podría nombrar a los representantes territoriales del Estado colombiano.",
+"Transfirió todo el poder político y administrativo de forma exclusiva a los grupos indígenas y campesinos organizados."]},
+{
+  "pregunta": {
+      "contexto": "Según la teoría constitucional abordada en el documento, para que una Constitución sea genuinamente democrática, no basta con ser dictada por especialistas.",
+      "pregunta": "Debe cumplir con una condición esencial, la cual es:"},
+  "respuesta": "Reflejar los intereses de los diversos grupos de la nación de manera pluralista y ser aprobada por una mayoría.",
+  "distractores": ["Ser completamente inmodificable para garantizar el máximo rango de las leyes y el orden estatal sin interrupciones a lo largo del tiempo.",
+"Redactarse exclusivamente por sectores conservadores para asegurar la defensa de las tradiciones e instituciones del país.",
+"Priorizar los intereses de los grupos hegemónicos para lograr la unificación rápida de la nación en un solo pensamiento inquebrantable."]},
+{
+  "pregunta": {
+      "contexto": "El presidente del país, recién electo, anuncia que eliminará todos los impuestos a la importación de la maquinaria para la minería, la construcción y la industria. De esta manera, quiere disminuir los precios de los carros importados y motivar a que todos los ciudadanos compren uno para transportar con comodidad a sus familias. Además, dice que, con la disponibilidad de maquinaria a bajos precios, se fomentará el desarrollo económico en todo el país, se abrirán caminos, se habilitará más terreno para la industria y la producción agrícola, se generará empleo y se garantizará el bienestar de la ciudadanía.",
+      "pregunta": "De acuerdo con la Constitución Política de Colombia, ¿el presidente está violando algún derecho colectivo de los colombianos con su decisión?"},
+  "respuesta": "Sí, el derecho a un medio ambiente sano, al no tener en cuenta el impacto ambiental de la maquinaria y los carros.",
+  "distractores": ["Sí, el derecho a la igualdad en el acceso a las oportunidades, al privilegiar sectores como la industria y la minería.",
+"No, pues el aumento de empleos generará bienestar para la ciudadanía.",
+"No, pues el aumento de carros generará comodidad para las familias."]},
+{
+  "pregunta": {
+      "contexto": "Debido a los problemas de corrupción presentes en el país, el presidente propone terminar con el Congreso o reducir el número de sus miembros. Al respecto, una parte de la población apoya la idea propuesta, ya que considera que muchos congresistas son corruptos y que, además, reciben un salario muy alto para los resultados que presentan al país. Por su parte, un sector de la oposición advierte que estas ideas son antidemocráticas, puesto que el Congreso es fundamental para garantizar una división equitativa del poder.",
+      "pregunta": "¿Cuál de las siguientes opciones apoya el argumento de la oposición?"},
+  "respuesta": "El Congreso permite representar, de manera indirecta, los múltiples intereses de los diferentes grupos que conforman un país.",
+  "distractores": ["El presidente es la máxima autoridad de una nación, por lo que las decisiones que la afectan no requieren la aprobación del Congreso.",
+"El Congreso no es la única fuente de corrupción e ineficiencia en las instituciones que conforman un Estado.",
+"La reducción del Congreso permitiría que el Estado invierta los recursos de los salarios de los congresistas en obras sociales."]}
+  ]
