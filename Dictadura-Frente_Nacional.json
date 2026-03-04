@@ -1,0 +1,122 @@
+[
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "Durante el gobierno de Laureano Gómez, la agudización de la violencia bipartidista estuvo directamente relacionada con:"},
+  "respuesta": "La negativa del gobierno a permitir la participación política de los liberales, producto de su postura intransigente.",
+  "distractores": ["La división interna del Partido Liberal entre las facciones lideradas por Darío Echandía y Carlos Lleras Restrepo.",
+"La alineación del gobierno colombiano con las políticas antiimperialistas promovidas por los Estados Unidos en el marco de la Guerra Fría.",
+"El envío del Batallón Colombia a la península de Corea, lo que descuidó la seguridad interna."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "En el contexto de la Guerra Fría, Laureano Gómez justificó la represión estatal contra las agrupaciones armadas argumentando que:"},
+  "respuesta": "La violencia bipartidista era una extensión de la lucha anticomunista dada la cercanía del liberalismo con el comunismo.",
+  "distractores": ["Estas agrupaciones representaban una amenaza imperialista financiada directamente por potencias extranjeras que buscaban desestabilizar la región.",
+"Los sectores liderados por Darío Echandía promovían la lucha armada desde la civilidad para desestabilizar el Estado.",
+"La intervención militar de los Estados Unidos en Colombia requería la pacificación previa de los territorios rurales."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "El golpe de Estado militar que llevó al poder al general Gustavo Rojas Pinilla en 1953 contó con el respaldo de las élites tradicionales porque estas buscaban fundamentalmente:"},
+  "respuesta": "Evitar la promulgación de una nueva constitución impulsada por Laureano Gómez y mitigar la violencia partidista.",
+  "distractores": ["Instaurar un régimen militar de largo plazo que eliminara definitivamente la influencia de los partidos tradicionales.",
+"Apoyar la amnistía incondicional para las guerrillas de tendencia comunista que operaban en el departamento del Tolima.",
+"Reemplazar a Roberto Urdaneta Arbeláez, quien se había negado rotundamente a convocar elecciones presidenciales democráticas tras su designación."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "A pesar del apoyo inicial de diversos sectores, la coalición bipartidista que derrocó a Gustavo Rojas Pinilla se gestó principalmente por:"},
+  "respuesta": "Su intención de marginar a los partidos tradicionales mediante la construcción de un movimiento político independiente.",
+  "distractores": ["El fracaso absoluto de su política de amnistía, la cual incrementó drásticamente el número de guerrilleros liberales operando en el territorio nacional.",
+"La fuerte oposición popular generada por la construcción de grandes obras de infraestructura que causaron un profundo déficit fiscal.",
+"La ilegalización del Partido Comunista en 1955, medida que fue rechazada unánimemente por los liberales y conservadores."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "Los pactos de Benidorm (1956) y Sitges (1957) sentaron las bases del Frente Nacional al establecer normativas políticas que:"},
+  "respuesta": "Consolidaron el monopolio bipartidista excluyendo legalmente a fuerzas alternativas.",
+  "distractores": ["Sometieron a referendo popular la continuidad temporal del régimen militar hasta la pacificación total del territorio.",
+"Legalizaron la participación exclusiva de los militares en los ministerios de defensa y gobierno durante doce años.",
+"Permitieron la integración de las disidencias de izquierda en las Asambleas Departamentales y los Concejos Municipales."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "El texto caracteriza a los gobiernos del Frente Nacional como “no plenamente democráticos”. Esta afirmación se sustenta en que durante este período:"},
+  "respuesta": "Se implementó un sistema de cooptación clientelista y se agudizó la represión contra cualquier forma de disidencia política.",
+  "distractores": ["Se suspendieron indefinidamente las elecciones de corporaciones públicas locales como las Asambleas Departamentales.",
+"El poder ejecutivo fue ejercido de facto por una Junta Militar que invalidó sistemáticamente los resultados del plebiscito de 1957.",
+"Se abolió el derecho al voto femenino que había sido institucionalizado previamente durante la dictadura militar."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "Durante el gobierno de Alberto Lleras Camargo, la política agraria materializada en la creación del INCORA tuvo como objetivo subyacente:"},
+  "respuesta": "Frenar el crecimiento de la violencia en las zonas rurales a través de un mecanismo institucional de reforma.",
+  "distractores": ["Desarticular el Pacto de Chicoral mediante la expropiación acelerada de latifundios improductivos.",
+"Consolidar el apoyo económico de la Alianza para el Progreso suprimiendo constitucionalmente la propiedad privada.",
+"Legalizar los movimientos de autodefensas campesinas que posteriormente conformarían agrupaciones insurgentes en el sur del país."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "La aparición de agrupaciones guerrilleras como las FARC y el ELN en 1964 está directamente vinculada con la política de orden público de Guillermo León Valencia, caracterizada por:"},
+  "respuesta": "El intento de recuperar el control territorial estatal mediante la ofensiva militar contra las denominadas “repúblicas independientes”.",
+  "distractores": ["La firma de acuerdos de paz fallidos con las autodefensas campesinas que habitaban el departamento del Tolima.",
+"La exclusión deliberada de los sectores agrarios del sistema de Unidades de Poder Adquisitivo Constante (UPAC).",
+"La persecución política sistemática contra los miembros de la Asociación Nacional de Usuarios Campesinos (ANUC)."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "En el ámbito económico, el gobierno de Guillermo León Valencia enfrentó una severa crisis producto de la caída internacional de los precios del café. Las medidas adoptadas para contrarrestarla provocaron:"},
+  "respuesta": "El aumento de la inflación y el desempleo como consecuencia directa de la devaluación de la moneda y el endeudamiento externo.",
+  "distractores": ["Un crecimiento acelerado de la deuda externa que estabilizó temporalmente la inflación urbana en las ciudades principales.",
+"La declaración de “emergencia económica” que permitió la nacionalización inmediata de las rentas departamentales.",
+"Una transición acelerada hacia la economía campesina impulsada por la entrega masiva de subsidios agrícolas."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "La Reforma Constitucional de 1968, impulsada por Carlos Lleras Restrepo, modificó las dinámicas institucionales al:"},
+  "respuesta": "Extender la paridad burocrática e instituir la figura de la emergencia económica.",
+  "distractores": ["Restringir las facultades presidenciales excepcionales para declarar el Estado de Sitio frente a las continuas manifestaciones y la protesta social.",
+"Establecer la distribución paritaria de los ministerios, pero eliminando la alternancia presidencial obligatoria para fortalecer la democracia.",
+"Reducir la duración del Frente Nacional a doce años, tal como se había estipulado originalmente en el Pacto de Benidorm."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "Para abordar el problema de la distribución de la tierra y fortalecer la organización campesina, el gobierno de Carlos Lleras Restrepo procedió a:"},
+  "respuesta": "Reconocer jurídicamente a la Asociación Nacional de Usuarios Campesinos (ANUC) y promover la repartición de predios.",
+  "distractores": ["Crear el Instituto Colombiano de Reforma Agraria (INCORA) para adjudicar baldíos estatales a las clases menos favorecidas.",
+"Firmar el Pacto de Chicoral con las élites terratenientes para garantizar la seguridad jurídica de la propiedad rural.",
+"Suprimir las políticas de austeridad fiscal para subsidiar integralmente las importaciones de maquinaria agrícola y fertilizantes."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "El sistema de Unidades de Poder Adquisitivo Constante (UPAC), establecido durante el mandato de Misael Pastrana Borrero, fue una estrategia económica diseñada fundamentalmente para:"},
+  "respuesta": "Financiar y dinamizar la construcción de vivienda urbana en el país.",
+  "distractores": ["Subsidiar a los pequeños productores cafeteros gravemente afectados por la caída sostenida de los precios internacionales.",
+"Captar recursos del sector financiero con el propósito exclusivo de pagar la creciente deuda externa contraída en años anteriores.",
+"Establecer un estricto control de precios sobre los productos de la canasta familiar con el fin de detener la inflación galopante."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "La llegada al poder de Misael Pastrana Borrero en 1970 estuvo marcada por un clima de profunda agitación social, laboral y estudiantil. Según el texto, este fenómeno se explica por:"},
+  "respuesta": "Las fuertes denuncias sobre un presunto fraude electoral perpetrado para evitar el triunfo del candidato de la ANAPO, Gustavo Rojas Pinilla.",
+  "distractores": ["El rechazo popular masivo frente a la firma del Pacto de Chicoral que detuvo por completo los avances en materia de reforma agraria.",
+"La decisión del nuevo gobierno de prolongar el Frente Nacional por dieciséis años más mediante la expedición de un polémico decreto de emergencia.",
+"La represión violenta ejercida contra las nutridas manifestaciones que exigían la restitución inmediata de la dictadura militar."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "El Pacto de Chicoral, firmado en 1972 durante el último gobierno del Frente Nacional, representó un hito en la historia agraria de Colombia porque:"},
+  "respuesta": "Paralizó los procesos institucionales de redistribución de tierras impulsados en administraciones anteriores.",
+  "distractores": ["Constituyó el mayor esfuerzo estatal por distribuir equitativamente la tierra entre los miembros activos de la ANUC.",
+"Logró la desmovilización pacífica de las autodefensas campesinas que operaban en las autodenominadas repúblicas independientes.",
+"Transfirió la administración técnica del INCORA a los líderes sindicales del sector agrícola para acelerar la expropiación."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "A partir de la lectura integral del texto, se puede concluir que el Frente Nacional logró su objetivo fundacional de alternarse el poder y repartirse los puestos burocráticos, pero a costa de:"},
+  "respuesta": "Generar nuevas tensiones producto de la exclusión política institucionalizada y el incremento de la represión a las disidencias.",
+  "distractores": ["Entregar el control macroeconómico del Estado a las directrices exclusivas impuestas por el gobierno de los Estados Unidos de América.",
+"Clausurar temporalmente las instituciones democráticas participativas como el Senado de la República y la Cámara de Representantes.",
+"Ceder el monopolio legítimo de las fuerzas armadas a los partidos políticos para que persiguieran sistemáticamente a sus propios opositores."]}
+  ]
