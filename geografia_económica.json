@@ -1,0 +1,82 @@
+[
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "La división de la geografía económica en múltiples áreas de especialización responde principalmente a:"},
+  "respuesta": "La inmensa variedad de recursos naturales y sus distintas formas de organización espacial.",
+  "distractores": ["La separación metodológica estricta entre las ciencias sociales y las ciencias naturales.",
+"La necesidad de unificar todos los modelos productivos por la globalización económica.",
+"El interés de los gobiernos europeos por monopolizar las materias primas del planeta."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "Si un proyecto gubernamental busca transformar las parcelas campesinas tradicionales en empresas agroindustriales, la especialidad que mejor analizaría este impacto sería la:"},
+  "respuesta": "Geografía rural, ya que estudia el impacto de la modernización en los campesinos.",
+  "distractores": ["Geografía de los recursos, porque evalúa únicamente el desgaste físico de la tierra.",
+"Geografía industrial, porque se enfoca en instalar fábricas en territorios despoblados.",
+"Geografía comercial, puesto que facilita el transporte de los productos hacia la ciudad."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "En las últimas décadas, la geografía industrial ha tenido que cambiar su forma de entender el espacio. Este cambio se debe fundamentalmente a que:"},
+  "respuesta": "La globalización de la producción modificó cómo y dónde se ubican las empresas.",
+  "distractores": ["El agotamiento de los recursos naturales detuvo el crecimiento de las grandes fábricas.",
+"El turismo ecológico reemplazó a la industria pesada como motor de la economía.",
+"Los países desarrollados decidieron trasladar sus mercados hacia las colonias de ultramar."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "Históricamente, la geografía del comercio fue una herramienta vital para el colonialismo, debido a que esta disciplina permitía principalmente:"},
+  "respuesta": "Localizar las materias primas, organizar el transporte y asegurar lugares para vender.",
+  "distractores": ["Crear sistemas productivos totalmente independientes para el progreso social de cada colonia.",
+"Proteger el medio ambiente para evitar la sobreexplotación de los recursos naturales.",
+"Disminuir las distancias tecnológicas mediante el uso de redes modernas de comunicación."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "Según el texto, las redes de transporte han “innovado el concepto de espacio-tiempo”. Una consecuencia directa de este avance en el territorio es:"},
+  "respuesta": "La integración de regiones alejadas y el acercamiento comercial entre diferentes lugares.",
+  "distractores": ["El aumento de la pobreza económica extrema en las zonas rurales más aisladas.",
+"La desaparición progresiva del comercio tradicional en las grandes ciudades del mundo.",
+"La sustitución de la explotación de recursos por actividades de turismo ecológico."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "Para que la geografía económica entienda por qué una comunidad prefiere consumir ciertos productos, debe apoyarse obligatoriamente en los estudios e investigaciones de:"},
+  "respuesta": "La sociología y la demografía, ciencias que investigan el comportamiento humano poblacional.",
+  "distractores": ["La economía y la estadística, disciplinas que miden las ganancias financieras generadas.",
+"Las ciencias naturales y la historia, áreas que relatan la explotación física.",
+"La geografía turística y rural, ramas que planifican los viajes de vacaciones."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "El documento diferencia la “planificación” del “ordenamiento” del territorio. La diferencia central es que el ordenamiento se enfoca específicamente en:"},
+  "respuesta": "Recomendar usos adecuados del suelo para disminuir los daños al medio ambiente.",
+  "distractores": ["Conocer los recursos disponibles para administrar mejor la producción de las empresas.",
+"Repartir las riquezas obtenidas entre todos los trabajadores de las fábricas urbanas.",
+"Estudiar la historia de los lugares para trazar nuevas rutas de transporte."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "Un investigador analiza por qué una ciudad concentra la riqueza mientras sus pueblos vecinos viven en la pobreza. Este estudio cumple el objetivo de:"},
+  "respuesta": "Comprender los cambios y los fuertes desequilibrios que existen entre distintas regiones.",
+  "distractores": ["Prohibir el crecimiento industrial desordenado en las grandes capitales de los países.",
+"Utilizar herramientas estadísticas para contar cuántos habitantes residen en la zona.",
+"Evaluar la velocidad del transporte de mercancías desde el centro hasta las afueras."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "Dentro de las etapas del proceso económico, hay una fase dedicada exclusivamente a repartir las ganancias entre empresarios, intermediarios y terratenientes. Esta es la:"},
+  "respuesta": "Distribución, puesto que materializa la entrega de los beneficios económicos a los involucrados.",
+  "distractores": ["Producción, porque allí se transforman directamente los recursos naturales en bienes útiles.",
+"Circulación, ya que garantiza el desplazamiento de los productos hacia el mercado.",
+"Consumo, porque es el momento en que las personas finalmente compran los artículos."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "Una empresa utiliza camiones de carga para llevar los alimentos desde las fincas campesinas hasta los supermercados. Esta acción corresponde a la fase de:"},
+  "respuesta": "Circulación, al facilitar el paso de los bienes desde el productor al comprador.",
+  "distractores": ["Producción, al modificar físicamente la comida para que dure más tiempo almacenada.",
+"Distribución, al repartir el dinero de las ventas entre todos los agricultores.",
+"Consumo, porque los alimentos pierden su valor nutricional durante el largo recorrido."]}
+  ]
