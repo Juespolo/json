@@ -1,0 +1,82 @@
+[
+{
+  "pregunta": {
+      "contexto": "Don Carlos tiene un pequeño taller donde fabrica zapatos en Bogotá. Hace poco, vio en las noticias que el país firmó un Tratado de Libre Comercio (TLC). Ahora está preocupado porque cree que no podrá vender sus zapatos al mismo precio que los que llegarán de otros países.",
+      "pregunta": "Según el texto, ¿por qué los pequeños y medianos productores como Don Carlos sienten temor ante los TLC?"},
+  "respuesta": "Porque los productos extranjeros entran al país pagando impuestos muy bajos o sin pagarlos, lo que hace muy difícil competir con ellos.",
+  "distractores": ["Porque los productores nacionales se niegan a aprender nuevas técnicas de fabricación y prefieren comprar todo en otros países.",
+"Porque el gobierno obliga a las pequeñas fábricas a vender sus maquinarias a las grandes empresas multinacionales extranjeras.",
+"Porque los zapatos fabricados en el extranjero son siempre de mejor calidad, haciendo que los colombianos dejen de comprarlos aquí."]},
+{
+  "pregunta": {
+      "contexto": "En la clase de geografía, la profesora explica que Colombia tiene tierras muy buenas para sembrar. Sin embargo, un estudiante se sorprende al leer que el país tiene que comprar maíz y trigo de otras partes del mundo para poder alimentar a la población.",
+      "pregunta": "¿Qué situación del campo colombiano explica esta contradicción, según la lectura?"},
+  "respuesta": "Los dueños de las tierras prefieren dedicarse a criar ganado porque les da más ganancias que sembrar cultivos como los cereales.",
+  "distractores": ["El clima en Colombia cambió tanto en los últimos años que ahora es totalmente imposible sembrar cualquier tipo de alimento.",
+"Los campesinos olvidaron las técnicas tradicionales para cultivar la tierra y ahora solo saben cómo cuidar animales de granja.",
+"El gobierno prohibió sembrar maíz y trigo para obligar a las personas a consumir únicamente caña de azúcar y banano."]},
+{
+  "pregunta": {
+      "contexto": "Muchas familias campesinas han tenido que huir hacia las grandes ciudades para proteger sus vidas debido a la violencia, dejando abandonadas sus fincas y animales.",
+      "pregunta": "Según el documento, ¿qué suele pasar con las tierras que estas familias dejan abandonadas?"},
+  "respuesta": "Son compradas por nuevos dueños que las utilizan para tener grandes fincas ganaderas o para hacer grandes proyectos agroindustriales.",
+  "distractores": ["Son protegidas por el gobierno para que los campesinos puedan regresar a ellas tan pronto como se acabe por completo la violencia.",
+"Son divididas en pedazos muy pequeños para regalárselas a otras familias que también necesitan un lugar donde vivir y trabajar.",
+"Son convertidas inmediatamente en grandes reservas naturales donde no se permite realizar ningún tipo de actividad económica."]},
+{
+  "pregunta": {
+      "contexto": "María trabaja limpiando las oficinas de un banco, pero ella no es empleada directa del banco. Su jefe es una empresa de aseo que la contrató para prestar ese servicio. A veces, su contrato dura solo unos meses.",
+      "pregunta": "¿Cuál es una consecuencia negativa de esta práctica, llamada “tercerización”, para trabajadores como María?"},
+  "respuesta": "Tienen empleos que son inestables, sus ingresos no son seguros y muchas veces no reciben las prestaciones sociales de ley.",
+  "distractores": ["Tienen que manejar tecnologías de la comunicación muy complicadas que no entienden y que nadie les enseña a utilizar.",
+"Reciben salarios que son exageradamente altos, lo que hace que la empresa principal quiebre y tenga que cerrar rápidamente.",
+"Son obligadas a trabajar únicamente en zonas rurales, lo que les impide vivir con sus familias en las ciudades intermedias."]},
+{
+  "pregunta": {
+      "contexto": "En la región andina (zonas montañosas), es común que un abuelo le deje su finca a sus cuatro hijos. Luego, cada uno de esos hijos le deja su pedacito a sus propios hijos. Así, la tierra se va dividiendo cada vez más con el paso de los años.",
+      "pregunta": "Según el texto, ¿qué problema genera esta constante división de la tierra (minifundio)?"},
+  "respuesta": "Los terrenos se vuelven tan pequeños que la tierra produce menos, es explotada con mucha intensidad y el campesino gana menos.",
+  "distractores": ["Los grandes terratenientes compran todos esos pequeños pedazos para construir fincas gigantescas asociadas a grupos armados.",
+"Las familias empiezan a sembrar únicamente café, lo que provoca la desaparición de todos los demás alimentos importantes.",
+"Los jóvenes son obligados a irse a otros países porque la ley de herencias prohíbe que las tierras se dividan en la zona andina."]},
+{
+  "pregunta": {
+      "contexto": "En una encuesta del barrio, un joven de 14 años responde que él solo se dedica a estudiar en el colegio. Por su parte, su hermana de 20 años responde que está entregando hojas de vida porque necesita conseguir trabajo urgente.",
+      "pregunta": "De acuerdo con la forma de medir el desempleo que explica el texto, ¿cómo se clasifican estas dos personas?"},
+  "respuesta": "La hermana pertenece a la Población Económicamente Activa y el joven a la Población Económicamente Inactiva.",
+  "distractores": ["Ambos pertenecen a la Población Económicamente Activa porque los dos tienen más de 12 años y viven en la misma casa.",
+"La hermana pertenece a la Población Económicamente Inactiva porque aún no tiene trabajo, y el joven a la Población Activa.",
+"Ninguno de los dos hace parte de la población en edad de trabajar porque no están ganando un salario mensual en este momento."]},
+{
+  "pregunta": {
+      "contexto": "Andrés vende dulces en los buses todos los días. Con lo que gana, compra la comida para su casa. Sin embargo, no firmó ningún contrato con nadie y no paga salud ni pensión.",
+      "pregunta": "¿Qué característica del mercado de trabajo colombiano se refleja en el caso de Andrés?"},
+  "respuesta": "La gran cantidad de personas dedicadas a actividades informales, que no tienen contratos ni seguridad social que las proteja.",
+  "distractores": ["El éxito de la flexibilidad laboral, que le permite a las personas ganar mucho más dinero que trabajando en una empresa formal.",
+"La falta total de personas en edad de trabajar, lo que obliga a los jóvenes a salir a las calles para vender dulces en los buses.",
+"La crisis del cultivo del café, que obligó a absolutamente todos los campesinos a irse a las ciudades a vender cosas en la calle."]},
+{
+  "pregunta": {
+      "contexto": "El alcalde de una ciudad decide usar todo el dinero del municipio para construir un parque moderno y un puente nuevo en el centro, pero decide no arreglar las vías de las veredas campesinas porque dice que “allá vive poca gente”.",
+      "pregunta": "Según la lectura, ¿qué consecuencia trae concentrar la inversión del dinero público solo en las ciudades?"},
+  "respuesta": "Produce un gran deterioro en las condiciones de vida de la población rural, dejándola muy atrasada frente a las zonas urbanas.",
+  "distractores": ["Obliga a todos los campesinos a comprar comida importada, ya que no pueden producir nada en sus fincas sin carreteras nuevas.",
+"Hace que las pequeñas fincas se vuelvan increíblemente productivas, pues los campesinos inventan nuevas formas de sobrevivir.",
+"Termina por completo con la violencia armada en el campo, porque los grupos violentos se van a la ciudad a disfrutar el parque."]},
+{
+  "pregunta": {
+      "contexto": "Colombia es famosa por exportar café al mundo. Sin embargo, hace unos años, otros países empezaron a vender café más barato. Esto hizo que los precios internacionales bajaran y los cafeteros colombianos perdieran mucho dinero.",
+      "pregunta": "¿Qué nos enseña este ejemplo sobre el modelo económico de Colombia?"},
+  "respuesta": "Que las cosas que vendemos al extranjero dependen mucho de las condiciones que imponen los países ricos o nuestros competidores.",
+  "distractores": ["Que las ventas a otros países no producen ningún tipo de riqueza, impuestos ni empleos para las personas que viven en Colombia.",
+"Que el gobierno prefiere comprar café de otros países en lugar de apoyar a los pequeños productores que viven en nuestras montañas.",
+"Que los grandes productores colombianos siempre logran imponer sus precios altos en el mercado internacional sin ningún problema."]},
+{
+  "pregunta": {
+      "contexto": "Un noticiero informa: “Este año, las ventas de Colombia a otros países generaron muchas riquezas”. Pero luego, en otra noticia, dicen: “Aún hay millones de colombianos que viven en la pobreza extrema”.",
+      "pregunta": "¿Cómo explica el texto esta aparente contradicción?"},
+  "respuesta": "Aunque vender al extranjero genera ganancias e impuestos, en la economía colombiana sigue existiendo pobreza y riqueza mal repartida.",
+  "distractores": ["Toda la riqueza se gasta comprando máquinas tecnológicas para el campo, dejando al país sin dinero para pagar los sueldos a la gente.",
+"El crecimiento de la economía solo beneficia a los vendedores informales, mientras que los dueños de empresas quedan en la pobreza.",
+"El país produce mucha riqueza, pero toda se la regalan a otros países a través de los tratados de libre comercio, no dejando nada aquí."]}
+  ]
