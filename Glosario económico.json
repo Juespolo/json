@@ -1,0 +1,162 @@
+[
+{
+  "pregunta": {
+      "contexto": "Una comunidad agrícola decide dejar de comprar pesticidas y fertilizantes químicos. En su lugar, comienzan a rotar cultivos y a utilizar compostaje elaborado con residuos orgánicos para nutrir la tierra.",
+      "pregunta": "De acuerdo con los conceptos económicos y productivos, ¿qué modelo están implementando?"},
+  "respuesta": "Agricultura orgánica",
+  "distractores": ["Economía de escala",
+"Reforma agraria",
+"Desarrollismo"]},
+{
+  "pregunta": {
+      "contexto": "El gobierno de un país nota que la industria local de calzado está quebrando porque los zapatos importados son mucho más baratos. Para proteger a los productores nacionales, el Estado decide cobrar un impuesto adicional del 15% a todo el calzado que ingrese desde el exterior.",
+      "pregunta": "Esta medida se conoce como la aplicación de un:"},
+  "respuesta": "Arancel",
+  "distractores": ["Déficit",
+"Bien",
+"Capitalismo"]},
+{
+  "pregunta": {
+      "contexto": "En una clase de economía, el profesor explica que tanto una máquina tractora, un programa de software contable y una asesoría jurídica tienen algo en común: todos poseen una utilidad y producen un beneficio para quien los adquiere.",
+      "pregunta": "En términos económicos, todos ellos son considerados:"},
+  "respuesta": "Bienes",
+  "distractores": ["Valores mobiliarios",
+"Medios de producción",
+"Intereses colectivos"]},
+{
+  "pregunta": {
+      "contexto": "Un joven emprendedor ha ahorrado una suma de dinero y decide no dejarla en el banco, sino adquirir pequeñas fracciones de propiedad de grandes empresas tecnológicas, esperando recibir utilidades anuales.",
+      "pregunta": "El mercado donde este joven debe realizar la compra y venta de estos títulos o acciones se denomina:"},
+  "respuesta": "Bolsa",
+  "distractores": ["Corporativismo",
+"Economía de escala",
+"Especulación"]},
+{
+  "pregunta": {
+      "contexto": "A finales del siglo XVIII, con la Revolución Industrial, se consolidó un sistema donde las fábricas pertenecían a individuos particulares. Estos dueños invertían su dinero para comprar maquinaria y contrataban obreros asalariados para la producción, compitiendo en un mercado libre regido por la oferta y la demanda.",
+      "pregunta": "Este sistema es el:"},
+  "respuesta": "Capitalismo",
+  "distractores": ["Socialismo",
+"Corporativismo",
+"Comunismo"]},
+{
+  "pregunta": {
+      "contexto": "Un Partido Político plantea como objetivo final una sociedad donde no existan explotadores ni explotados. Según los teóricos de esta corriente, para lograrlo es necesario eliminar la propiedad privada de las fábricas y tierras, y que no existan divisiones jerárquicas en la sociedad.",
+      "pregunta": "Este modelo corresponde al:"},
+  "respuesta": "Comunismo",
+  "distractores": ["Socialismo",
+"Reforma agraria",
+"Taylorismo"]},
+{
+  "pregunta": {
+      "contexto": "Al finalizar el año, el Ministro de Hacienda de un país anuncia por televisión: “Este año, nuestra producción agrícola aumentó un 4%, la industria creció un 5% y el sector de servicios un 3%. Nuestra nación está produciendo más riqueza”.",
+      "pregunta": "Esta declaración hace referencia directa a un proceso de:"},
+  "respuesta": "Crecimiento económico",
+  "distractores": ["Desarrollismo",
+"Crecimiento sostenible",
+"Recesión económica"]},
+{
+  "pregunta": {
+      "contexto": "Un país decide fomentar la industria minera para aumentar sus ingresos. Sin embargo, aprueba una ley que obliga a las empresas mineras a usar tecnologías que no contaminen los ríos cercanos, a reforestar las áreas taladas y a proteger la biodiversidad, garantizando que los recursos duren para las futuras generaciones.",
+      "pregunta": "Este enfoque económico es un ejemplo de:"},
+  "respuesta": "Crecimiento sostenible",
+  "distractores": ["Economía de escala",
+"Agricultura orgánica",
+"Perestroika"]},
+{
+  "pregunta": {
+      "contexto": "Durante ciertos regímenes políticos del siglo XX, se eliminaron los sindicatos independientes. En su lugar, el Estado obligó a que dueños de fábricas y trabajadores del mismo sector (por ejemplo, el sector textil) se agruparan en un solo “gremio” vertical controlado por el gobierno, buscando anular la lucha de clases.",
+      "pregunta": "Esta doctrina se denomina:"},
+  "respuesta": "Corporativismo",
+  "distractores": ["Comunismo",
+"Socialismo",
+"Taylorismo"]},
+{
+  "pregunta": {
+      "contexto": "Si el Estado este año recauda 100 billones de pesos en impuestos, pero sus gastos en educación, salud, infraestructura y pago de deudas suman 120 billones, se encuentra frente a un faltante de 20 billones.",
+      "pregunta": "Esta escasez de dinero para sostener los gastos se conoce en economía como:"},
+  "respuesta": "Déficit",
+  "distractores": ["Deuda externa",
+"Recesión económica",
+"Especulación"]},
+{
+  "pregunta": {
+      "contexto": "A mediados del siglo XX, muchos países de América Latina decidieron dejar de comprar productos manufacturados al extranjero (sustitución de importaciones) y a la vez abrieron sus puertas a grandes multinacionales para que instalaran fábricas modernas en sus territorios.",
+      "pregunta": "Este modelo económico y político se denomina:"},
+  "respuesta": "Desarrollismo",
+  "distractores": ["Reforma agraria",
+"Capitalismo",
+"New Deal"]},
+{
+  "pregunta": {
+      "contexto": "Un país en vías de desarrollo necesita construir un sistema de trenes a nivel nacional, pero no tiene los recursos suficientes. Por ello, el gobierno acude al Banco Mundial y al Fondo Monetario Internacional para solicitar un préstamo por varios millones de dólares.",
+      "pregunta": "Al firmar este compromiso, el país está adquiriendo:"},
+  "respuesta": "Deuda externa",
+  "distractores": ["Déficit ",
+"Arancel",
+"Bolsa"]},
+{
+  "pregunta": {
+      "contexto": "Una fábrica de ensamblaje de automóviles invierte millones en brazos robóticos y tecnología de punta. Al comprar acero en cantidades gigantescas, los proveedores le dan descuentos. Esto le permite ensamblar miles de autos al mes, reduciendo drásticamente el costo de producción por cada vehículo.",
+      "pregunta": "Este fenómeno productivo se clasifica como:"},
+  "respuesta": "Economía de escala",
+  "distractores": ["Taylorismo",
+"Crecimiento sostenible",
+"Especulación"]},
+{
+  "pregunta": {
+      "contexto": "En época de escasez de viviendas, un grupo de inversionistas compra rápidamente cientos de apartamentos sobre planos. No tienen la intención de vivir en ellos ni de alquilarlos de inmediato; su único objetivo es esperar tres años para que los precios se disparen y venderlos mucho más caros.",
+      "pregunta": "Esta práctica económica se conoce como:"},
+  "respuesta": "Especulación",
+  "distractores": ["Capitalismo",
+"Bolsa",
+"Crecimiento económico"]},
+{
+  "pregunta": {
+      "contexto": "Tras la devastadora Gran Depresión que inició en 1929, el gobierno de los Estados Unidos se vio obligado a intervenir fuertemente en la economía, creando planes de empleo público, regulando bancos y apoyando a los agricultores.",
+      "pregunta": "A este paquete de políticas impulsadas para superar la crisis se le conoce como:"},
+  "respuesta": "New Deal",
+  "distractores": ["Perestroika",
+"Desarrollismo",
+"Taylorismo"]},
+{
+  "pregunta": {
+      "contexto": "En la década de 1980, la Unión Soviética enfrentaba graves problemas de desabastecimiento y estancamiento productivo. Sus líderes decidieron implementar una reforma profunda para descentralizar decisiones, permitir ciertas libertades de mercado y hacer el sistema más eficaz frente a las necesidades del pueblo.",
+      "pregunta": "Esta histórica política económica fue la:"},
+  "respuesta": "Perestroika",
+  "distractores": ["Reforma agraria",
+"New Deal",
+"Corporativismo"]},
+{
+  "pregunta": {
+      "contexto": "Los noticieros de un país informan que durante dos trimestres consecutivos (seis meses), las fábricas han producido menos, el comercio ha vendido menos y, en general, la tasa del Producto Interno Bruto (PIB) se ha reducido significativamente en comparación con el año anterior.",
+      "pregunta": "El país ha entrado en una fase de:"},
+  "respuesta": "Recesión económica",
+  "distractores": ["Déficit",
+"Deuda externa",
+"Especulación"]},
+{
+  "pregunta": {
+      "contexto": "En un país latinoamericano, históricamente el 80% de las mejores tierras cultivables estaba en manos de solo el 5% de la población. Para corregir esta desigualdad y mejorar la producción campesina, el gobierno expropia latifundios improductivos y reparte parcelas a miles de campesinos.",
+      "pregunta": "Este conjunto de medidas se denomina:"},
+  "respuesta": "Reforma agraria",
+  "distractores": ["Comunismo",
+"Agricultura orgánica",
+"Desarrollismo"]},
+{
+  "pregunta": {
+      "contexto": "A lo largo de la historia, diversos movimientos políticos han luchado para que los servicios básicos, la salud y grandes industrias sean administradas por el Estado o la sociedad en beneficio de todos, argumentando que el bienestar general (colectivo) debe estar por encima de las ganancias individuales de un empresario.",
+      "pregunta": "Estas teorías constituyen la base del:"},
+  "respuesta": "Socialismo",
+  "distractores": ["Capitalismo",
+"Corporativismo",
+"Taylorismo"]},
+{
+  "pregunta": {
+      "contexto": "A principios del siglo XX, un ingeniero observó que los obreros perdían mucho tiempo moviéndose por la fábrica. Decidió dividir la producción en tareas muy simples y cronometradas: un obrero solo apretaba un tornillo, otro solo ponía la llanta.",
+      "pregunta": "Este método científico de trabajo aumentó enormemente la productividad empresarial y se le conoce como:"},
+  "respuesta": "Taylorismo",
+  "distractores": ["Economía de escala",
+"Corporativismo",
+"Desarrollismo"]}
+  ]
