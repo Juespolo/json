@@ -1,0 +1,122 @@
+[
+  {
+    "pregunta": {
+      "contexto": "En un debate sobre la economía del país, el dueño de una gran fábrica afirma que \"solo las grandes empresas mueven la economía y, por lo tanto, no deberían pagar ningún impuesto al gobierno\".",
+      "pregunta": "Según la explicación del texto sobre los agentes económicos, ¿por qué es incorrecta la afirmación del empresario?"
+    },
+    "respuesta": "Porque cualquier persona o familia que trabaja, compra o ahorra también participa activamente en el desarrollo económico del país.",
+    "distractores": [
+      "Porque solamente el gobierno y sus instituciones públicas tienen la capacidad real de generar riqueza y empleo en el territorio.",
+      "Porque únicamente los bancos centrales independientes determinan el crecimiento financiero a través de la impresión de billetes.",
+      "Porque exclusivamente las empresas extranjeras que venden productos importados logran sostener las finanzas de la nación."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Durante una época de crisis económica, miles de familias deciden dejar de comprar ropa, zapatos y salidas a cine para ahorrar su dinero por miedo al futuro. A los pocos meses, muchas fábricas de estos productos empiezan a quebrar.",
+      "pregunta": "Según la lectura, ¿por qué la decisión de las familias afecta tan rápido a las fábricas del país?"
+    },
+    "respuesta": "Porque las familias son la base del consumo, y al dejar de comprar bienes, las empresas se quedan sin a quién venderle sus productos.",
+    "distractores": [
+      "Porque las familias son las encargadas de imprimir billetes, y al dejar de hacerlo, las empresas se quedan sin dinero para funcionar.",
+      "Porque las familias tienen la obligación de cobrar impuestos, y al dejar de hacerlo, el Estado cierra las fábricas inmediatamente.",
+      "Porque las familias controlan los bancos centrales, y al dejar de invertir, prohíben legalmente que las empresas produzcan más."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un político propone que el gobierno solo debe encargarse de pagarle a la policía y al ejército, argumentando que el Estado no debe meterse para nada en la economía ni manejar negocios territoriales.",
+      "pregunta": "Basándose en el texto, ¿qué función económica del Estado demuestra que esta propuesta ignora su verdadero papel en el país?"
+    },
+    "respuesta": "El Estado administra los recursos del país, recauda impuestos para hacer obras y puede ser dueño de sus propias compañías.",
+    "distractores": [
+      "El Estado imprime todos los billetes que circulan en la calle, asegurando que cada persona tenga dinero suficiente para comprar.",
+      "El Estado obliga a todas las fábricas a entregarle sus ganancias, prohibiendo que existan negocios privados en todo el territorio.",
+      "El Estado controla directamente los ahorros de las familias, impidiendo que las personas gasten su sueldo en cosas innecesarias."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Para construir más carreteras rápidas sin tener que subirle los impuestos a la gente, un alcalde le exige al Banco de la República (banco central) que imprima más billetes y se los entregue directamente a su alcaldía.",
+      "pregunta": "Según las características mencionadas en el texto, ¿por qué el banco central no puede cumplir esta orden del alcalde?"
+    },
+    "respuesta": "Porque los bancos centrales son agentes independientes que regulan la moneda y no están obligados a financiar caprichos de políticos.",
+    "distractores": [
+      "Porque los bancos centrales deben entregar todo el dinero nuevo a las familias más pobres para asegurar una igualdad social absoluta.",
+      "Porque los bancos centrales son empresas privadas que solo le prestan dinero a compañías extranjeras que venden productos.",
+      "Porque los bancos centrales tienen prohibido imprimir billetes nuevos y solo pueden usar monedas antiguas de otros países."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Para ganar más dinero rápido, un grupo de grandes empresas decide reemplazar a casi todos sus empleados humanos por máquinas inteligentes, dejando a miles de personas en la ciudad sin trabajo y sin sueldo.",
+      "pregunta": "Teniendo en cuenta cómo se conectan los agentes económicos en el texto, ¿por qué esta decisión podría quebrar a esas mismas empresas en el futuro?"
+    },
+    "respuesta": "Al dejar a tantas familias sin sueldo, las personas no tendrán dinero para comprar los productos que estas empresas fabrican con máquinas.",
+    "distractores": [
+      "Al usar tantas máquinas nuevas, el gobierno les cobrará impuestos tan altos que tendrán que regalar todas sus fábricas al banco central.",
+      "Al despedir a sus empleados, las empresas pierden su permiso legal para existir y el Estado las cerrará de manera definitiva e inmediata.",
+      "Al reemplazar humanos por tecnología, las empresas se quedan sin materiales de la naturaleza para poder fabricar alimentos en el campo."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El dueño de una gran cadena de supermercados se queja constantemente de tener que pagar impuestos al Estado, afirmando que \"ese dinero se pierde y nunca le trae ningún beneficio a los negocios privados\".",
+      "pregunta": "De acuerdo con la lectura, ¿por qué la queja del dueño del supermercado ignora cómo funciona el ciclo de la economía?"
+    },
+    "respuesta": "Porque el Estado usa esos impuestos para mantener calles, puentes y servicios públicos que el mismo supermercado necesita para poder funcionar.",
+    "distractores": [
+      "Porque el Estado ahorra todo ese dinero en bancos extranjeros para garantizar que el valor de los billetes y monedas nunca vaya a bajar.",
+      "Porque el Estado usa ese dinero exclusivamente para imprimir más billetes que luego le regala en secreto a los dueños de negocios privados.",
+      "Porque el Estado le devuelve todo el dinero de los impuestos a las empresas privadas a final del año para que no tengan ninguna pérdida."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una familia trabajadora hace cuentas cada mes para poder pagar la luz, el agua y la comida con el salario que ganan. Al mismo tiempo, una gran fábrica de zapatos hace cuentas para poder pagar la tela, el arriendo y el sueldo de sus trabajadores.",
+      "pregunta": "Según el texto, ¿qué característica principal tienen en común la familia y la fábrica al momento de manejar su dinero?"
+    },
+    "respuesta": "Los dos buscan lograr un equilibrio entre el dinero que reciben y el que gastan para poder sobrevivir y mejorar su situación.",
+    "distractores": [
+      "Los dos buscan gastar todo el dinero que tienen lo más rápido posible para evitar pagarle impuestos de fin de año al gobierno.",
+      "Los dos buscan entregarle el manejo de todas sus cuentas al banco central para que sea esta entidad la que pague sus deudas.",
+      "Los dos buscan pedirle préstamos todos los meses al gobierno nacional para no tener que usar el dinero que se ganaron trabajando."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Cuando un joven consigue su primer empleo formal, se da cuenta de que no le entregan su salario completo, sino que la empresa le descuenta una parte para pagar impuestos y salud pública. Él se molesta porque piensa que ese dinero simplemente se lo roban.",
+      "pregunta": "Según el documento, ¿cuál es la razón verdadera por la que se hace este descuento en la economía del país?"
+    },
+    "respuesta": "Para entregarle fondos al gobierno, de manera que pueda financiar los servicios públicos, hacer obras y ayudar a las demás personas.",
+    "distractores": [
+      "Para devolverle el dinero al dueño de la empresa, de manera que pueda ganar más y abrir nuevos negocios en otras ciudades del país.",
+      "Para enviar el dinero al banco central, de manera que pueda fabricar nuevos billetes y monedas que reemplazarán a los más viejos.",
+      "Para obligar al trabajador a ahorrar dinero a la fuerza, de manera que solo pueda gastarlo en las grandes tiendas de alimentos extranjeras."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un profesor de economía siempre les dice a sus estudiantes de décimo grado: \"El dinero nunca se queda quieto; cada vez que ustedes gastan en la calle, están ayudando a otra persona a generar riqueza\".",
+      "pregunta": "¿Qué ejemplo de la lectura explica mejor esta frase del profesor?"
+    },
+    "respuesta": "Una persona recibe su sueldo y lo usa para comprar mercado, dándole ingresos a una tienda que, a su vez, podrá contratar más empleados.",
+    "distractores": [
+      "El banco central decide guardar millones de billetes nuevos en sus bóvedas fuertes para evitar que las personas compren cosas muy caras.",
+      "El gobierno ordena que ninguna tienda le pueda subir el precio a la comida, logrando que los precios se queden iguales todo el año.",
+      "Una gran empresa decide cerrar sus fábricas en el país y guardar su dinero en el extranjero para no pagarle impuestos al gobierno nacional."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un candidato a la alcaldía promete que su única estrategia para mejorar la economía será darle ayudas económicas a las empresas grandes, pero advierte que no gastará ni un peso en mejorar la educación pública ni en apoyar los salarios de los trabajadores.",
+      "pregunta": "Basándose en cómo dependen unos agentes de otros según el texto, ¿por qué el plan de este candidato terminaría fracasando?"
+    },
+    "respuesta": "Porque las empresas necesitan personas bien capacitadas para poder producir, y familias con buenos salarios para que les compren sus productos.",
+    "distractores": [
+      "Porque las empresas tendrían que pagar todos los impuestos solas, lo que causaría que quebraran rápidamente y se fueran para otro país.",
+      "Porque el gobierno perdería el poder de imprimir billetes, dejándole esa responsabilidad tan grande únicamente a las empresas privadas.",
+      "Porque las familias dejarían de usar el dinero en efectivo y comenzarían a cambiar productos entre ellas para poder conseguir comida."
+    ]
+  }
+]
