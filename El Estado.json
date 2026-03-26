@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "Durante una ola de protestas, un grupo de ciudadanos decide armarse para imponer el orden en su barrio, alegando que la policía no es suficiente. El gobierno nacional interviene, desarma al grupo y establece que solo las fuerzas armadas oficiales pueden patrullar las calles y utilizar la fuerza física para mantener el orden.",
+      "pregunta": "De acuerdo con la definición de Max Weber expuesta en el texto, la acción del gobierno se justifica porque:"
+    },
+    "ayuda": "Recuerda la característica principal que, según Weber, diferencia al Estado de cualquier otra organización dentro de un territorio.",
+    "respuesta": "el Estado posee el monopolio del uso legítimo de la fuerza dentro de su territorio.",
+    "distractores": [
+      "las naciones-estado deben buscar la homogeneidad cultural de sus habitantes.",
+      "la legitimidad del Estado depende de que los ciudadanos actúen voluntariamente.",
+      "el Estado debe delegar el control territorial a los ciudadanos cuando sea necesario."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En un país hipotético, el gobierno cuenta con el ejército más poderoso de la región y dicta leyes estrictas que se cumplen bajo amenaza de castigos severos. Sin embargo, la mayoría de la población considera que el gobierno es injusto, corrupto y no representa sus intereses, lo que genera constantes rebeliones que el ejército debe reprimir a diario.",
+      "pregunta": "Según el texto, este Estado se encuentra en crisis porque:"
+    },
+    "ayuda": "Piensa en lo que necesita un Estado para sobrevivir a largo plazo, más allá de la simple capacidad de castigar.",
+    "respuesta": "carece de legitimidad, ya que la coerción y la fuerza no bastan para sostener el poder a largo plazo.",
+    "distractores": [
+      "no ha logrado extender su jurisdicción territorial sobre los países vecinos.",
+      "ha perdido el monopolio de la violencia legítima frente a otros Estados internacionales.",
+      "no existe un contrato social que le permita recaudar suficientes impuestos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El texto señala que el sistema estatal es \"obligatorio\" y que los Estados son territorios exclusivos que no se solapan.",
+      "pregunta": "¿Cuál de las siguientes situaciones ejemplifica mejor esta característica espacial del Estado moderno?"
+    },
+    "ayuda": "Imagina qué sucede si una persona decide que ya no quiere pertenecer a ningún Estado. ¿A dónde podría ir?",
+    "respuesta": "Una persona que renuncia a su nacionalidad descubre que no existe ningún territorio habitable en el mundo que no sea reclamado por algún Estado.",
+    "distractores": [
+      "Dos países deciden compartir la soberanía de una misma ciudad, permitiendo que ambos cobren impuestos simultáneamente.",
+      "Un ciudadano decide dejar de pagar impuestos argumentando que su lealtad es personal y pasajera.",
+      "Los tribunales de justicia internacionales obligan a un Estado a ceder parte de su territorio a una nación indígena."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Organizaciones internacionales emiten una resolución exigiendo a un país cambiar su sistema de recolección de basuras por considerarlo poco ecológico. El presidente del país rechaza la exigencia argumentando que, en asuntos internos de interés público, su gobierno es el árbitro definitivo y no rinde cuentas a autoridades externas.",
+      "pregunta": "El argumento del presidente se basa en el principio de:"
+    },
+    "ayuda": "Busca el concepto del texto que explica por qué un Estado tiene autoridad suprema sobre sus propios ciudadanos e instituciones.",
+    "respuesta": "Soberanía interna.",
+    "distractores": [
+      "Identidad nacional.",
+      "El contrato social.",
+      "Globalización económica."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Considere el siguiente fragmento: \"Las naciones —entendidas como grupos numerosos de personas unidas por una historia, una cultura, una lengua o una etnia comunes— suelen aspirar a organizarse en entidades territoriales políticamente autónomas... Al mismo tiempo, muchos de los Estados existentes intentan reforzar su unidad... creando una única «nación» unificada\".",
+      "pregunta": "De acuerdo con esto, es posible afirmar que hay una tensión entre Nación y Estado porque:"
+    },
+    "ayuda": "Analiza si todas las personas que viven bajo las fronteras y leyes de un gobierno comparten naturalmente la misma cultura o idioma.",
+    "respuesta": "las fronteras políticas del Estado rara vez coinciden perfectamente con los límites culturales de una sola Nación.",
+    "distractores": [
+      "los Estados buscan eliminar las leyes para imponer la cultura, mientras que las Naciones buscan imponer leyes.",
+      "la Nación posee el monopolio de la violencia legítima, mientras que el Estado solo administra la cultura.",
+      "los Estados modernos se crearon hace 500 años para destruir el concepto de Nación."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un estudiante de ciencias políticas afirma que los gobernantes actuales actúan de manera muy similar a los reyes medievales, ya que el Estado es simplemente el gobierno de turno haciendo su voluntad personal.",
+      "pregunta": "Basándose en la lectura, esta afirmación es:"
+    },
+    "ayuda": "Revisa la parte del texto que habla sobre cómo se percibe el poder del Estado moderno por parte de los ciudadanos (impersonal, frío, abstracto).",
+    "respuesta": "falsa, porque el Estado moderno se percibe como una encarnación del imperio de la ley, distinto e independiente de los gobernantes de turno.",
+    "distractores": [
+      "verdadera, ya que el Estado exige lealtad personal a los líderes que ostentan los cargos públicos.",
+      "verdadera, porque el Estado moderno fue inventado por los monarcas para justificar el monopolio de la violencia.",
+      "falsa, porque los reyes medievales operaban bajo el concepto estricto de soberanía popular y contrato social."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En una asamblea comunitaria, los habitantes debaten sobre por qué deben obedecer las directrices del alcalde, a quien muchos no apoyaron en las elecciones. Un líder social interviene: \"Obedecemos porque nosotros mismos, como pueblo, le otorgamos temporalmente ese poder a las instituciones para que preserven el orden, y si no cumplen, en las próximas elecciones les quitaremos ese respaldo\".",
+      "pregunta": "Esta perspectiva del líder social concuerda con la teoría de:"
+    },
+    "ayuda": "Busca la teoría mencionada al final del texto que explica cómo los ciudadanos ceden voluntariamente parte de su poder.",
+    "respuesta": "el contrato social de la Ilustración.",
+    "distractores": [
+      "el monopolio de la violencia de Weber.",
+      "el nacionalismo excluyente.",
+      "la jurisdicción territorial permanente."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En la Organización de las Naciones Unidas (ONU), el voto de un país con 1.400 millones de habitantes vale exactamente lo mismo que el voto de una pequeña isla con apenas 10.000 habitantes.",
+      "pregunta": "Según la comprensión de soberanía en las relaciones internacionales presentada en el texto, esto ocurre porque:"
+    },
+    "ayuda": "Analiza cómo se reconocen mutuamente los Estados en el escenario internacional, independientemente de su tamaño.",
+    "respuesta": "todos los Estados reconocen los derechos soberanos de sus pares, asumiéndose como autónomos e iguales formalmente.",
+    "distractores": [
+      "los Estados más grandes ceden su poder para evitar que las islas formen sus propias naciones-estado.",
+      "las leyes internacionales prohíben el monopolio de la violencia legítima dentro de los países miembros.",
+      "el contrato social establece que las poblaciones pequeñas necesitan mayor representación para sobrevivir."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Lea el siguiente fragmento del texto: \"El Estado es respetado por la misma razón que no es muy querido, porque se percibe como algo distante, impersonal y frío... como proveedor de principios legales abstractos que son puestos en práctica por una burocracia neutral\".",
+      "pregunta": "¿Qué efecto NO deseado podría generar esta naturaleza impersonal del Estado en la ciudadanía?"
+    },
+    "ayuda": "Si una institución es percibida como 'fría' y manejada por una 'burocracia neutral', ¿cómo podrían sentirse las personas cuando tienen problemas urgentes o humanos?",
+    "respuesta": "Una sensación de desconexión y apatía, al sentir que las instituciones no comprenden las realidades humanas individuales.",
+    "distractores": [
+      "Una garantía absoluta de que los gobernantes usarán la ley para beneficiar a sus familiares.",
+      "El fortalecimiento del nacionalismo, ya que la frialdad de las leyes une a los ciudadanos culturalmente.",
+      "La eliminación inmediata de las fronteras territoriales debido a la neutralidad de la burocracia."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un profesor de historia explica que durante la Edad Media europea, un campesino podía deberle lealtad al señor local, pagar impuestos a la Iglesia y ser juzgado por leyes dictadas por otro noble distinto, solapándose diversas autoridades en el mismo territorio.",
+      "pregunta": "En contraste, el Estado moderno solucionó este solapamiento de poderes al:"
+    },
+    "ayuda": "Considera qué característica del Estado moderno garantiza que no existan dos autoridades supremas compitiendo en el mismo pedazo de tierra.",
+    "respuesta": "establecer un territorio delimitado donde ejerce jurisdicción obligatoria y soberanía exclusiva.",
+    "distractores": [
+      "permitir que los ciudadanos elijan voluntariamente a qué institución pagar sus impuestos.",
+      "eliminar el concepto de contrato social y regresar al sistema de lealtades personales hacia los gobernantes.",
+      "delegar el monopolio de la violencia a organismos internacionales para asegurar la paz interna."
+    ]
+  }
+]
