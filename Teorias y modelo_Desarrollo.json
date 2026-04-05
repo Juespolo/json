@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "Un país decide eliminar los altos aranceles a las importaciones y dejar de intervenir directamente en la economía comercial, argumentando que cada nación debe especializarse en lo que produce mejor y más barato para intercambiarlo libremente.",
+      "pregunta": "Según el texto, esta decisión política se alinea con los postulados de:"
+    },
+    "ayuda": "Recuerda la teoría que criticó el mercantilismo y propuso la división internacional del trabajo.",
+    "respuesta": "El modelo clásico propuesto por Adam Smith.",
+    "distractores": [
+      "La teoría de la dependencia de la CEPAL.",
+      "La teoría de los sistemas mundo.",
+      "El mercantilismo tradicional."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En un debate económico, un asesor gubernamental propone que el Estado debe limitarse exclusivamente a construir carreteras, garantizar la seguridad policial y mantener la estabilidad política, dejando que el mercado resuelva por sí solo los problemas de desempleo y pobreza.",
+      "pregunta": "Este planteamiento es característico del modelo neoclásico porque:"
+    },
+    "ayuda": "Identifica cómo ven los neoclásicos la intervención del Estado frente a las leyes del libre mercado.",
+    "respuesta": "Minimiza el papel del Estado en la economía, limitándolo a garantizar condiciones institucionales para el libre juego del mercado.",
+    "distractores": [
+      "Propone que el Estado asuma el control total de las industrias productivas.",
+      "Exige que el Estado aumente los salarios para impulsar la demanda interna.",
+      "Considera que el mercado es incapaz de corregir sus propias distorsiones."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un equipo de sociólogos estudia una comunidad aislada cuya principal actividad es la agricultura de subsistencia. No utilizan tecnología avanzada, consumen casi todo lo que producen internamente y realizan intercambios comerciales a muy pequeña escala.",
+      "pregunta": "Según las etapas del crecimiento económico de Rostow, esta comunidad se encuentra en la fase de:"
+    },
+    "ayuda": "Piensa en la etapa inicial del desarrollo económico antes de que ocurra cualquier acumulación de capital o especialización.",
+    "respuesta": "Sociedad tradicional.",
+    "distractores": [
+      "Proceso de despegue.",
+      "Precondiciones para el despegue.",
+      "Sociedad de consumo masivo."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un país que dependía históricamente del agro empieza a experimentar un fuerte desplazamiento de su fuerza laboral hacia las ciudades. El gobierno decide apoyar activamente la industrialización mejorando las vías de transporte y protegiendo las fábricas nacionales, lo que aumenta los ingresos de estas industrias.",
+      "pregunta": "De acuerdo con el modelo de la modernización de Rostow, ¿qué etapa del desarrollo económico está experimentando este país?"
+    },
+    "ayuda": "Busca la fase donde ocurre la transición crítica de la agricultura a la industria impulsada por apoyo institucional.",
+    "respuesta": "Proceso de despegue.",
+    "distractores": [
+      "Camino hacia la madurez.",
+      "Sociedad tradicional.",
+      "Sociedad de consumo masivo."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un país latinoamericano exporta toneladas de cobre sin procesar a muy bajo precio hacia una potencia mundial. Meses después, debe importar de esa misma potencia maquinaria electrónica costosa fabricada con su propio cobre, lo que genera un déficit constante en su economía.",
+      "pregunta": "¿Cómo explica la teoría de la dependencia esta situación de atraso económico?"
+    },
+    "ayuda": "Recuerda el concepto que describe la relación desigual entre los países industrializados y los exportadores de materias primas.",
+    "respuesta": "A través del modelo centro-periferia, donde las economías centrales prósperas determinan los términos de intercambio desfavoreciendo a los exportadores mineros o agrarios.",
+    "distractores": [
+      "A través de la falta de división internacional del trabajo propuesta por los clásicos.",
+      "Por la aplicación de excesivas políticas proteccionistas en el país latinoamericano.",
+      "Por la falta de especialización tecnológica en la sociedad de consumo masivo."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Para superar su crisis de subdesarrollo, el gobierno de una nación decide aumentar los impuestos a los productos importados, elevar los salarios de los trabajadores para fomentar el consumo local y crear un seguro social universal para proteger a los sectores vulnerables.",
+      "pregunta": "Estas medidas de política económica corresponden al programa formulado por:"
+    },
+    "ayuda": "Identifica la teoría surgida en América Latina (CEPAL) que promovía el mercado interno y la protección industrial.",
+    "respuesta": "La teoría de la dependencia.",
+    "distractores": [
+      "El modelo neoclásico.",
+      "El mercantilismo europeo.",
+      "La teoría de la modernización de Rostow."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Durante las décadas de los sesenta y setenta, países del sudeste asiático como Corea del Sur, Taiwán y Singapur experimentaron un crecimiento extraordinario, rompiendo esquemas previos, mientras las potencias occidentales enfrentaban crisis. Al mismo tiempo, las telecomunicaciones y el sistema financiero se internacionalizaron.",
+      "pregunta": "Según el texto, este nuevo panorama mundial demostró la necesidad de analizar el desarrollo a través de la teoría de los sistemas mundo, la cual propone que:"
+    },
+    "ayuda": "Reflexiona sobre si el desarrollo depende únicamente del gobierno de cada nación o de factores globales y redes interconectadas.",
+    "respuesta": "Existen fuerzas determinantes de la economía mundial que interactúan con lo local, por lo que se debe pensar el desarrollo desde la noción de región más que de Estado-nación.",
+    "distractores": [
+      "El subdesarrollo se supera únicamente aplicando barreras proteccionistas estrictas frente al mundo.",
+      "El mercado se corrige solo si los Estados asiáticos eliminan por completo sus instituciones.",
+      "Todos los países deben pasar por las mismas cinco fases de desarrollo sin importar su contexto internacional."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un fondo de inversión internacional inyecta millones de dólares en la bolsa de valores de un país en desarrollo buscando ganancias rápidas. Al poco tiempo, retira los fondos tras obtener una alta rentabilidad, sin dejar nuevas fábricas ni mejoras estructurales en la agricultura local.",
+      "pregunta": "Desde la perspectiva de la teoría de los sistemas mundo, esta acción es un ejemplo de:"
+    },
+    "ayuda": "Identifica el tipo de capital que genera beneficios financieros para extranjeros pero no impacta estructuralmente la manufactura o ciencia del país receptor.",
+    "respuesta": "Inversión especulativa, ya que genera amplias ganancias para los inversionistas sin dejar rentabilidad real en la estructura productiva del país subdesarrollado.",
+    "distractores": [
+      "Inversión productiva, pues introduce divisas internacionales en el mercado local a largo plazo.",
+      "Transacción directa, porque impacta la estructura agrícola de manera inmediata.",
+      "Sociedad de consumo masivo, porque fomenta el gasto de la población."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un economista clásico afirma que la libre competencia internacional y la no intervención estatal benefician a todos los países por igual. Por el contrario, un teórico de la dependencia argumenta que ese libre comercio sin intervención del Estado perpetúa la pobreza en los países de la periferia.",
+      "pregunta": "De acuerdo con el texto, la principal discrepancia práctica entre ambas posturas radica en:"
+    },
+    "ayuda": "Observa el rol diametralmente opuesto que le otorga cada teoría al Estado frente a la economía internacional y las industrias nacionales.",
+    "respuesta": "Que la teoría de la dependencia exige políticas estatales proteccionistas y fomento industrial nacional, mientras el modelo clásico confía ciegamente en el libre flujo del mercado sin intervención.",
+    "distractores": [
+      "Que los clásicos defienden el mercantilismo y la dependencia defiende la eliminación total de las aduanas.",
+      "Que los clásicos exigen un modelo de cinco etapas mientras la dependencia solo exige tres etapas agrícolas.",
+      "Que ninguna de las dos teorías reconoce el papel fundamental de la inversión extranjera en la modernidad."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una organización no gubernamental propone un plan de desarrollo para una región africana argumentando que no basta con inyectar dinero; se deben comprender las dinámicas sociales locales, reformar las instituciones políticas y entender los vínculos militares y comerciales de la región en el sistema internacional.",
+      "pregunta": "Este enfoque se corresponde directamente con los postulados de la teoría de los sistemas mundo porque:"
+    },
+    "ayuda": "Busca la característica de esta teoría que resalta la conexión simultánea entre múltiples factores a nivel global y local.",
+    "respuesta": "Considera que el desarrollo se debe analizar desde una perspectiva interdisciplinar, combinando dinámicas económicas, sociales, políticas y culturales.",
+    "distractores": [
+      "Plantea que los países desarrollados deben dictar las reglas de convivencia a los países atrasados de manera unidireccional.",
+      "Propone aislar a la región africana del sistema financiero internacional para proteger exclusivamente su cultura tradicional.",
+      "Afirma que el único motor del desarrollo en cualquier región del planeta es la inversión especulativa a corto plazo."
+    ]
+  }
+]
