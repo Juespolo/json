@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "En una nación, los indicadores muestran que las ventas han comenzado a aumentar constantemente y el tejido empresarial exige nueva mano de obra, generando una creación constante de nuevos puestos de trabajo y mayores salarios.",
+      "pregunta": "¿A qué fase del ciclo económico corresponde la situación descrita?"
+    },
+    "ayuda": "Identifica la etapa donde la confianza es alta y se produce una mejora sustancial sostenida del empleo y las ventas.",
+    "respuesta": "A la expansión, ya que se evidencia vitalidad, incremento del consumo y rápida creación de empleo.",
+    "distractores": [
+      "A la recuperación, pues la economía apenas empieza a mostrar tímidos signos de vida tras un estancamiento.",
+      "Al auge, porque la capacidad productiva de la industria está operando al máximo nivel posible.",
+      "A la recesión, debido a que las empresas están paralizando por completo la contratación de personal."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El mercado laboral de un país ha alcanzado niveles cercanos al pleno empleo, la industria opera al máximo de su capacidad productiva y han comenzado a generarse importantes presiones inflacionistas por el exceso de demanda.",
+      "pregunta": "De acuerdo con el ciclo económico, ¿qué riesgo inminente puede presentarse en esta fase?"
+    },
+    "ayuda": "Esta fase corresponde a la cima del ciclo económico, donde el optimismo es excesivo.",
+    "respuesta": "Que se desaten burbujas especulativas y excesos de crédito debido a la euforia financiera.",
+    "distractores": [
+      "Que la economía entre inmediatamente en un ciclo largo impulsado por una gran revolución tecnológica.",
+      "Que se genere una liquidación masiva de inventarios que resuelva los desequilibrios sin afectar el empleo.",
+      "Que el país experimente tímidos signos de vida que reactiven de manera gradual la producción."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un historiador económico analiza un periodo de 54 años en el que una nación experimentó suaves fluctuaciones económicas impulsadas por el desarrollo e implementación del ferrocarril y la máquina de vapor.",
+      "pregunta": "¿A qué categoría teórica corresponde este movimiento económico?"
+    },
+    "ayuda": "Este ciclo abarca entre 47 y 60 años y está ligado a cambios estructurales profundos.",
+    "respuesta": "A un ciclo largo o de Kondratieff, caracterizado por su larga duración y dependencia de revoluciones tecnológicas.",
+    "distractores": [
+      "A un ciclo medio o de Juglar, generado por la acumulación de desequilibrios financieros a lo largo de los años.",
+      "A un ciclo corto o de Kitchin, vinculado directamente a la acumulación de inventarios industriales.",
+      "A una recesión técnica, ocasionada por la destrucción de riqueza durante al menos dos trimestres."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El Ministerio de Hacienda reporta que, durante los últimos nueve meses, la producción de bienes y servicios del país ha disminuido ininterrumpidamente, configurando tres trimestres consecutivos de caída.",
+      "pregunta": "¿Qué confirmación analítica se deriva de este reporte gubernamental?"
+    },
+    "ayuda": "Se considera la variación de este indicador general para determinar contracciones oficiales de la economía.",
+    "respuesta": "Que la economía ha entrado en una situación de recesión técnica debido al descenso continuo del PIB.",
+    "distractores": [
+      "Que el país enfrenta una depresión profunda caracterizada por quiebras masivas de empresas y miseria.",
+      "Que se ha desatado una crisis financiera global producto de una burbuja especulativa desregulada.",
+      "Que se requiere aumentar agresivamente los tipos de interés para controlar el sobrecalentamiento excesivo."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un conjunto de pequeñas fluctuaciones económicas no resueltas a lo largo de diez años acumuló una serie de desequilibrios internos que finalmente desembocaron en una crisis financiera de gran magnitud a nivel nacional.",
+      "pregunta": "Según las teorías estadísticas del ciclo económico, este patrón temporal corresponde a:"
+    },
+    "ayuda": "Este tipo de ciclo resulta de la concatenación de fluctuaciones menores que no se liquidan completamente.",
+    "respuesta": "Los ciclos medios o ciclos de Juglar, cuya duración media oscila entre 7 y 11 años.",
+    "distractores": [
+      "Los ciclos largos o ciclos de Kondratieff, con duraciones que promedian los 54 años.",
+      "Los ciclos cortos o ciclos de Kitchin, con duraciones cercanas a los 40 meses.",
+      "Las variaciones estacionales puras derivadas de las tendencias a largo plazo en un país."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En el año 2020, una crisis sanitaria global sin precedentes obligó al confinamiento generalizado, precipitando una contracción abrupta de la economía que paralizó tanto la oferta como la demanda en cuestión de semanas.",
+      "pregunta": "¿Qué rasgo fundamental del ciclo económico se evidencia a través de este suceso histórico?"
+    },
+    "ayuda": "Identifica qué tipo de variables, más allá del crédito o la sobreproducción, pueden alterar bruscamente el ciclo.",
+    "respuesta": "Que los ciclos pueden ser determinados por variables externas e impredecibles, y no solo por factores endógenos del mercado.",
+    "distractores": [
+      "Que la fase de depresión es el destino inevitable de toda economía que depende estrictamente de la industria productiva.",
+      "Que las revoluciones tecnológicas son la única y principal causa de las caídas abruptas en la oferta y demanda global.",
+      "Que los ciclos económicos cortos son los únicos movimientos que pueden verse afectados por una pandemia o desastre."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Tras una contracción severa del mercado de valores, el consumo y la inversión disminuyeron drásticamente. Al pasar el tiempo, la situación no se revirtió, entrando en una recesión continua, excepcionalmente profunda y sin previsión alguna de mejora, caracterizada por miseria.",
+      "pregunta": "¿En qué fase se encuentra una economía bajo estas condiciones extremas?"
+    },
+    "ayuda": "Identifica la fase final y más oscura del ciclo económico, donde predominan las quiebras masivas.",
+    "respuesta": "En una fase de Depresión.",
+    "distractores": [
+      "En una fase de Recuperación.",
+      "En una situación de Recesión técnica inicial.",
+      "En el punto máximo conocido como Auge."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Frente a un fuerte incremento de la inflación y niveles de empleo que exceden la capacidad ideal, el Banco Central toma la decisión de modificar los tipos de interés para frenar la demanda desmedida en el mercado.",
+      "pregunta": "¿Qué intención estructural tienen las autoridades económicas al implementar este tipo de políticas en dicha coyuntura?"
+    },
+    "ayuda": "Las políticas fiscales y monetarias buscan atenuar la crudeza extrema en los extremos del ciclo.",
+    "respuesta": "Tratar de evitar el sobrecalentamiento excesivo de la economía durante la etapa de auge.",
+    "distractores": [
+      "Incentivar fuertemente la demanda con el propósito de salir rápidamente de una depresión severa.",
+      "Provocar de manera deliberada una recesión técnica para equilibrar la destrucción de riqueza nacional.",
+      "Acelerar la transición industrial hacia un ciclo económico largo que supere los cuarenta años."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Tras un prolongado período de auge financiero sin la debida regulación, el colapso de una gran entidad financiera desencadenó un efecto dominó que destruyó millones de empleos a nivel internacional, revelando el peligro de los desequilibrios acumulados.",
+      "pregunta": "¿A qué evento histórico expuesto en el texto corresponde este fenómeno?"
+    },
+    "ayuda": "Reflexiona sobre la crisis desencadenada en el siglo XXI por la burbuja inmobiliaria y los excesos bancarios.",
+    "respuesta": "A la Crisis Financiera de 2008 desencadenada por las hipotecas subprime y el colapso de Lehman Brothers.",
+    "distractores": [
+      "A la Gran Depresión del año 1929 tras el intenso auge especulativo y el desplome bursátil en Estados Unidos.",
+      "A la crisis sanitaria de carácter global derivada de la repentina pandemia de COVID-19.",
+      "A las variaciones estacionales normales ocasionadas por la liquidación de inventarios industriales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un equipo de expertos busca determinar en qué coyuntura del ciclo económico se halla la nación actualmente. Para ello, optan por evaluar los reportes de contratación del sector industrial, contrastando la tasa de paro frente a su promedio a largo plazo.",
+      "pregunta": "Si los reportes revelan que la tasa de desempleo se ha elevado drásticamente y las empresas han paralizado toda nueva contratación, el equipo puede deducir que el país atraviesa por:"
+    },
+    "ayuda": "La imposibilidad para encontrar trabajo y la congelación del mercado laboral son síntomas de un tipo de fase específica.",
+    "respuesta": "Una recesión económica severa.",
+    "distractores": [
+      "Una etapa de expansión o bonanza, pues es natural que las industrias requieran menos mano de obra para crear riqueza.",
+      "El punto máximo del ciclo, donde los niveles de contratación alcanzan finalmente el pleno empleo.",
+      "La fase de recuperación, ya que la economía ha comenzado a sembrar semillas para mostrar signos vitales."
+    ]
+  }
+]
