@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "Un investigador asegura que para estudiar un fenómeno social, debe despojarse por completo de sus prejuicios, cultura y emociones, logrando observar los hechos exactamente como ocurren en la realidad pura.",
+      "pregunta": "¿Qué actitud filosófica, mencionada en el texto, está asumiendo este investigador?"
+    },
+    "ayuda": "Identifica la corriente y el método de Husserl que busca suspender todo juicio para acceder a la conciencia pura del fenómeno.",
+    "respuesta": "La epoché trascendental del objetivismo, que consiste en prescindir del mundo del sujeto y suspender todo juicio previo.",
+    "distractores": [
+      "El solipsismo radical del idealismo, que propone ignorar el entorno social para centrarse únicamente en la razón individual objetiva.",
+      "La intuición sensible del pragmatismo, que exige buscar los efectos prácticos y útiles de cualquier fenómeno humano experimental.",
+      "El subjetivismo extremo de Berkeley, que afirma que la realidad material solo existe cuando es percibida activamente por alguien."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En un debate sobre la justicia, un antropólogo afirma que 'el sacrificio humano era una práctica justa y válida para las civilizaciones mesoamericanas, ya que las verdades morales dependen exclusivamente de la época y la sociedad que las establece'.",
+      "pregunta": "De acuerdo con la lectura, esta postura refleja fielmente los postulados del:"
+    },
+    "ayuda": "Recuerda la teoría que sostiene que las verdades dependen del círculo cultural, temporal y social de donde surgen, negando lo absoluto.",
+    "respuesta": "relativismo, porque sostiene que la realidad y el conocimiento dependen directamente de los factores culturales e históricos del sujeto.",
+    "distractores": [
+      "subjetivismo radical, porque afirma que la realidad objetiva simplemente deja de existir si no hay una persona observándola.",
+      "pragmatismo moral, porque establece que la verdad o falsedad de una práctica moral depende de sus efectos prácticos y biológicos.",
+      "realismo ingenuo, porque supone que la percepción natural del mundo nos muestra las propiedades morales tal como existen objetivamente."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un estudiante sostiene con vehemencia en clase: 'Es una regla universal e innegable que no existe absolutamente ninguna verdad universal ni sistema de creencias que sea válido para todos los seres humanos'.",
+      "pregunta": "Según el texto, la principal crítica lógica que se le puede hacer a esta afirmación es que:"
+    },
+    "ayuda": "Analiza la estructura de la frase: ¿puede alguien afirmar de manera categórica que no existen afirmaciones categóricas?",
+    "respuesta": "incurre en una severa contradicción, ya que al negar todas las verdades absolutas, está formulando su propia verdad como absoluta.",
+    "distractores": [
+      "ignora la epoché trascendental, ya que el estudiante no suspendió sus juicios previos antes de analizar la realidad material.",
+      "carece de efectos prácticos reales, ya que la afirmación no contribuye a la conservación de la vida humana biológica.",
+      "asume el concepto del noúmeno kantiano, ya que pretende conocer la esencia íntima de las cosas independientemente de la experiencia."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un físico explica que al observar una manzana roja y dulce, la 'rojez' y la 'dulzura' son creaciones del cerebro humano, mientras que la manzana en la realidad solo posee masa, volumen y átomos ocupando un espacio.",
+      "pregunta": "Esta explicación científica se alinea con la perspectiva filosófica del:"
+    },
+    "ayuda": "Diferencia entre propiedades cuantitativas (propias de la materia) y cualitativas (creadas por la conciencia cognoscente del sujeto).",
+    "respuesta": "Realismo crítico, el cual sostiene que las cualidades como colores y sabores son puramente subjetivas, dejando lo cuantitativo a la materia.",
+    "distractores": [
+      "Idealismo objetivo, el cual plantea que tanto la masa como el color son ideas puras engendradas exclusivamente por el pensamiento.",
+      "Realismo ingenuo, el cual asume que la manzana posee intrínsecamente en su materia la rojez y la dulzura tal como las percibimos.",
+      "Pragmatismo biológico, el cual afirma que vemos la manzana roja únicamente porque reconocer ese color es muy útil para la supervivencia."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Si un árbol cae en medio de un bosque deshabitado donde ningún animal ni ser humano puede escucharlo, verlo o sentirlo, un filósofo afirma que en realidad el árbol ni siquiera ha existido ni ha caído.",
+      "pregunta": "Esta peculiar conclusión ilustra el postulado central del:"
+    },
+    "ayuda": "Identifica la corriente que afirma 'ser es ser percibido', negando la existencia de la materia sin una mente que la observe.",
+    "respuesta": "Subjetivismo extremo de Berkeley, para quien la realidad material sencillamente no existe si carece de un sujeto que la esté percibiendo.",
+    "distractores": [
+      "Idealismo objetivo de Herman Cohen, para quien los objetos en el bosque son creados continuamente por la epoché trascendental del individuo.",
+      "Realismo natural de Aristóteles, para quien las cosas en sí mismas responden exactamente a los contenidos de nuestra experiencia pasada.",
+      "Pragmatismo biológico de William James, para quien la caída del árbol es verdadera solo si la madera se aprovecha para vivir."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Durante una exposición, una profesora dibuja una casa en la pizarra y explica: 'Nosotros jamás podremos conocer la verdadera realidad de esta casa en sí misma, solo podemos conocer la representación o imagen que nuestra mente logra construir sobre ella'.",
+      "pregunta": "Este planteamiento pedagógico reproduce el concepto central del:"
+    },
+    "ayuda": "Recuerda la diferencia establecida por Kant entre el fenómeno (lo que aparece a la conciencia) y el noúmeno (la cosa en sí).",
+    "respuesta": "Idealismo kantiano, el cual distingue entre el noúmeno inalcanzable y el fenómeno, que es lo que aparece realmente en nuestra conciencia.",
+    "distractores": [
+      "Subjetivismo solipsista, el cual sostiene que lo único que existe en el universo es la mente de la profesora impartiendo clase.",
+      "Pragmatismo social, el cual afirma que el dibujo de la casa es verdadero únicamente si motiva al estudiante a estudiar arquitectura.",
+      "Realismo natural, el cual defiende que las propiedades espacio-temporales del dibujo existen de forma independiente del sujeto cognoscente que observa."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un empresario discute con un científico sobre una nueva teoría psicológica. El empresario dice: 'No me importa si los fundamentos metafísicos de esta teoría representan la realidad última o no; lo que me importa es que al aplicarla, mis empleados son mucho más eficientes y felices'.",
+      "pregunta": "La postura del empresario refleja fielmente los principios del:"
+    },
+    "ayuda": "Identifica la corriente que evalúa la verdad de una afirmación basándose exclusivamente en sus consecuencias prácticas y vitales.",
+    "respuesta": "Pragmatismo, ya que juzga la validez de cualquier afirmación o teoría únicamente en función de su utilidad, conveniencia y efectos prácticos.",
+    "distractores": [
+      "Objetivismo, ya que busca aplicar la fenomenología trascendental para comprender la esencia general de la eficiencia laboral y el éxito comercial.",
+      "Realismo, ya que asume de manera espontánea que las emociones de los empleados reflejan fielmente las propiedades ocultas de la materia.",
+      "Relativismo, ya que niega la existencia de cualquier método eficiente para lograr metas empresariales dentro de una misma humanidad o época."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un escritor de ciencia ficción imagina un universo donde la existencia de las estrellas, los planetas y las leyes físicas dependen exclusivamente de que los seres humanos piensen en ellos. Si la humanidad dejara de pensar, el universo entero desaparecería de inmediato.",
+      "pregunta": "¿A qué corriente epistemológica extrema hace alusión esta trama literaria?"
+    },
+    "ayuda": "Busca el nombre del filósofo o corriente extrema donde la realidad entera es engendrada por el pensamiento o deriva del yo cognoscente.",
+    "respuesta": "Al idealismo extremo de Johann Fichte, para quien la realidad entera del universo deriva y se sustenta exclusivamente en el yo cognoscente.",
+    "distractores": [
+      "Al realismo ingenuo de Aristóteles, para quien las propiedades del universo representan la verdad independientemente de cualquier conciencia y mente observadora.",
+      "Al relativismo cultural de los sofistas, para quienes las leyes de la física solo funcionan si la sociedad aprueba sus consecuencias morales.",
+      "Al pragmatismo biológico de William James, para quien los cuerpos celestes existen únicamente para garantizar la conservación fisiológica del ser humano."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un juez debe dictar sentencia en un caso muy mediático. Para ser totalmente imparcial, decide aislarse de las noticias, olvidar sus propias creencias religiosas, ignorar las opiniones de su familia y centrarse pura y exclusivamente en las pruebas materiales presentadas en el tribunal.",
+      "pregunta": "Filosóficamente, el método aplicado por este juez para conocer la verdad de los hechos se asemeja a:"
+    },
+    "ayuda": "Identifica el método de Edmund Husserl que busca suspender juicios y poner el mundo entre paréntesis para alcanzar certezas.",
+    "respuesta": "La actitud radical de la epoché trascendental, pues suspende todo juicio y pone entre paréntesis el mundo para centrarse en el fenómeno.",
+    "distractores": [
+      "La demostración empírica del enfoque pragmático, pues el juez busca dictar una sentencia que simplemente sea útil para calmar la indignación ciudadana.",
+      "La asimilación pura del realismo natural, pues el juez confía ciegamente en que las mentiras de los testigos tienen propiedades físicas cuantitativas.",
+      "La interpretación analítica del relativismo histórico, pues asume que la culpabilidad del acusado depende exclusivamente de su época y de su cultura."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un filósofo argumenta: 'La ciencia demuestra que el mundo existe independientemente de si estamos aquí para verlo'. Otro filósofo responde: 'Te equivocas, lo único de lo que verdaderamente tengo certeza absoluta es de que yo existo; todo lo demás podrían ser solo una ilusión de mi mente'.",
+      "pregunta": "El diálogo anterior representa, respectivamente, un enfrentamiento entre las posturas epistemológicas del:"
+    },
+    "ayuda": "El primer filósofo defiende que el mundo existe sin el sujeto. El segundo defiende que solo existe él mismo (el sujeto que conoce).",
+    "respuesta": "Realismo, que defiende la existencia independiente de la realidad exterior, y el Solipsismo, que reduce toda la existencia al sujeto que conoce.",
+    "distractores": [
+      "Pragmatismo, que evalúa las montañas por su utilidad biológica vital, y el Relativismo, que juzga las ilusiones según la cultura del individuo.",
+      "Idealismo, que busca acceder forzosamente al noúmeno kantiano inalcanzable, y el Subjetivismo, que defiende las intuiciones sensibles como únicas leyes absolutas.",
+      "Objetivismo, que afirma conocer las esencias puras prescindiendo de ideas, y el Fenomenalismo, que exige aplicar una epoché trascendental a la ciencia."
+    ]
+  }
+]
