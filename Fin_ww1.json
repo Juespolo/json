@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "En 1917, el desarrollo de la Primera Guerra Mundial sufrió un giro determinante debido a dos eventos principales: el retiro de Rusia tras la revolución bolchevique y el ingreso de los Estados Unidos al conflicto.",
+      "pregunta": "¿Qué impacto principal tuvo el ingreso de los Estados Unidos a la guerra en favor de las potencias aliadas?"
+    },
+    "respuesta": "Aportó un enorme potencial industrial, recursos bélicos y humanos que fortalecieron a los aliados para la victoria.",
+    "ayuda": "Identifica la ventaja estratégica, económica y militar que representa el ingreso de una potencia emergente en un conflicto desgastado.",
+    "distractores": [
+      "Obligó a Rusia a reintegrarse al conflicto para defender sus territorios orientales.",
+      "Provocó la rendición inmediata de Alemania antes de que pudieran lanzar nuevas ofensivas.",
+      "Facilitó la creación inmediata de la Sociedad de las Naciones para evitar el uso de armas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Tras el fin de la guerra, se firmó el Tratado de Versalles en 1919. En este acuerdo, los países vencedores impusieron duras condiciones a Alemania, entre ellas la pérdida del 13% de su territorio, la desmilitarización de Renania y el pago de altas reparaciones.",
+      "pregunta": "Una consecuencia política a largo plazo de las condiciones impuestas a Alemania en el Tratado de Versalles fue:"
+    },
+    "respuesta": "El fomento de un profundo resentimiento nacionalista que posteriormente facilitaría el ascenso de regímenes extremistas como el nazismo.",
+    "ayuda": "Piensa en cómo las sanciones excesivas y humillantes a un país vencido pueden generar condiciones para futuros conflictos y extremismos.",
+    "distractores": [
+      "La recuperación económica inmediata de Alemania gracias a la ayuda financiera de los países vencedores.",
+      "La consolidación definitiva de la paz en Europa bajo la estricta vigilancia de la Sociedad de las Naciones.",
+      "La unificación de Alemania y Austria en un solo Estado para compensar las pérdidas territoriales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Al finalizar la Primera Guerra Mundial, el mapa político de Europa cambió drásticamente. Imperios centenarios colapsaron y se formaron nuevos Estados bajo la premisa de la autodeterminación y los intereses de las potencias vencedoras.",
+      "pregunta": "¿Cuál de las siguientes es una evidencia directa de la desintegración del Imperio austro-húngaro tras los tratados de paz?"
+    },
+    "respuesta": "La creación y división de su territorio en nuevos Estados como Austria, Hungría, Yugoslavia y Checoslovaquia.",
+    "ayuda": "Relaciona la caída de los grandes imperios centrales con el surgimiento de nuevas repúblicas independientes en la región de Europa Central y los Balcanes.",
+    "distractores": [
+      "La devolución de los territorios de Alsacia y Lorena a la soberanía de Francia.",
+      "La creación de los Estados de Finlandia, Estonia, Letonia y Lituania en Europa del Este.",
+      "La entrega de los territorios de Siria a Francia y de Irak a Gran Bretaña."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Al terminar la Primera Guerra Mundial, Italia enfrentó alta inflación y desempleo, lo que desencadenó huelgas obreras. Temiendo una revolución comunista, las clases medias y altas comenzaron a apoyar a Benito Mussolini y su movimiento fascista.",
+      "pregunta": "Según el contexto, el ascenso del fascismo en Italia se explica principalmente como una reacción:"
+    },
+    "respuesta": "Anticomunista y de preservación del orden social por parte de sectores temerosos de una revolución proletaria.",
+    "ayuda": "Observa quiénes apoyaron a Mussolini (clases medias y altas) y cuál era su mayor temor en ese momento histórico.",
+    "distractores": [
+      "Democrática impulsada por los obreros para exigir mejores condiciones laborales al rey.",
+      "Pacifista que buscaba evitar la participación de Italia en futuros conflictos internacionales.",
+      "Liberal que pretendía abrir la economía italiana a las importaciones de Estados Unidos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una vez en el poder, Mussolini impulsó las leyes 'fascistísimas' entre 1925 y 1928. Estas medidas suprimieron libertades individuales, prohibieron partidos diferentes al fascista y crearon la policía política (OVRA).",
+      "pregunta": "¿Cuál es el propósito principal de estas medidas impuestas por el régimen de Mussolini?"
+    },
+    "respuesta": "Instalar un Estado totalitario mediante el control absoluto de la sociedad y la eliminación de cualquier forma de oposición política.",
+    "ayuda": "Analiza cómo la supresión de libertades y la creación de policías políticas buscan concentrar el poder en una sola ideología y líder.",
+    "distractores": [
+      "Fomentar el multipartidismo y la libre competencia electoral en el Parlamento italiano.",
+      "Proteger los derechos laborales de los sindicatos de izquierda y anarquistas.",
+      "Promover la libertad de prensa y de expresión en los medios de comunicación locales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En 1936, las tensiones sociales y políticas en la Segunda República española desembocaron en un golpe de Estado militar contra el gobierno del Frente Popular, dividiendo al país en dos bandos y dando inicio a la Guerra Civil Española.",
+      "pregunta": "Durante este conflicto, el bando de los militares nacionalistas liderados por Francisco Franco recibió el apoyo internacional decisivo de:"
+    },
+    "respuesta": "La Alemania nazi y la Italia fascista.",
+    "ayuda": "Relaciona la ideología de Franco (autoritaria y anticomunista) con los regímenes totalitarios de derecha que gobernaban Europa en esa época.",
+    "distractores": [
+      "La Unión Soviética y las milicias comunistas europeas.",
+      "Estados Unidos y las potencias democráticas occidentales.",
+      "Gran Bretaña y la Sociedad de las Naciones."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "La crisis económica mundial de 1929 tuvo graves repercusiones en la República de Weimar en Alemania, elevando el desempleo por encima del 40%. Ante esta inestabilidad, partidos extremistas como los nazis y los comunistas ganaron popularidad.",
+      "pregunta": "¿Cómo facilitó la crisis de 1929 el ascenso político de Adolfo Hitler al poder en Alemania?"
+    },
+    "respuesta": "El colapso económico generó desesperación social, lo que llevó a los ciudadanos y hombres de negocios a apoyar opciones políticas radicales.",
+    "ayuda": "Considera cómo las graves crisis económicas (desempleo, inflación) erosionan la confianza en las democracias y abren paso a los discursos extremistas.",
+    "distractores": [
+      "La crisis fortaleció a los partidos democráticos tradicionales, quienes invitaron a Hitler a gobernar en coalición pacífica.",
+      "El gobierno de Estados Unidos financió directamente la campaña del partido nazi para reactivar la economía europea.",
+      "El Tratado de Versalles fue anulado inmediatamente debido a la crisis, otorgándole todo el poder al Führer."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Tras ser nombrado canciller en 1933, Hitler acusó a los comunistas del incendio del Reichstag, declaró ilegales a otros partidos y, posteriormente, en la 'noche de los cuchillos largos', eliminó a sus adversarios internos.",
+      "pregunta": "Estas acciones demuestran que, para consolidar su poder, el régimen nazi recurrió sistemáticamente a:"
+    },
+    "respuesta": "El uso del terror, la persecución estatal y la anulación de las instituciones democráticas.",
+    "ayuda": "Identifica los métodos represivos (encarcelamientos, asesinatos, ilegalización) utilizados por Hitler para eliminar cualquier límite a su autoridad.",
+    "distractores": [
+      "La negociación diplomática y la construcción de consensos con la oposición política.",
+      "La realización de plebiscitos y consultas populares transparentes para aprobar sus leyes.",
+      "La alianza pacífica y el respeto a la independencia de los movimientos sindicales alemanes."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El Estado nazi intervino profundamente en la vida de los ciudadanos: controló la educación, obligó a los jóvenes a unirse a las Juventudes Hitlerianas y utilizó masivamente los medios de comunicación y la propaganda para exaltar al Führer.",
+      "pregunta": "La finalidad de estas estrategias culturales y educativas implementadas por el nazismo era:"
+    },
+    "respuesta": "Adoctrinar a la población desde temprana edad para asegurar la obediencia ciega y la lealtad absoluta a la ideología del Estado.",
+    "ayuda": "El totalitarismo busca controlar no solo la política, sino también el pensamiento; la propaganda y el control juvenil son herramientas clave de adoctrinamiento.",
+    "distractores": [
+      "Fomentar el pensamiento crítico y el debate político abierto entre los estudiantes alemanes.",
+      "Preparar a los jóvenes para que pudieran elegir libremente su partido político al cumplir la mayoría de edad.",
+      "Garantizar el acceso a una educación laica e independiente de cualquier ideología estatal."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Aunque se mantuvieron las empresas privadas, el Estado alemán bajo el mando de Hitler intervino fuertemente en la economía. Implementó obras públicas para reducir el desempleo e impulsó enormemente las industrias química, siderúrgica y armamentística.",
+      "pregunta": "El enfoque del programa económico implementado por Hitler sugiere que Alemania se estaba preparando principalmente para:"
+    },
+    "respuesta": "Un proyecto expansionista militarista que desencadenaría un nuevo conflicto bélico internacional.",
+    "ayuda": "Observa en qué sectores industriales se concentró la inversión del Estado nazi (armamento y siderometalurgia) y deduce su propósito bélico.",
+    "distractores": [
+      "Una integración económica pacífica y de libre comercio con el resto de los países europeos.",
+      "El pago total y voluntario de todas las reparaciones de guerra exigidas en el Tratado de Versalles.",
+      "La transición hacia una economía basada exclusivamente en la agricultura y el desarrollo rural."
+    ]
+  }
+]
