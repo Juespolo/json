@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "A finales de los años ochenta, Colombia enfrentaba una grave crisis de violencia y corrupción impulsada por el narcotráfico. Ante el fracaso de las reformas gubernamentales, un movimiento estudiantil impulsó la inclusión de un voto adicional en las elecciones de 1990.",
+      "pregunta": "¿Cuál fue el propósito principal de la iniciativa ciudadana conocida como la 'Séptima Papeleta' promovida por los jóvenes universitarios?"
+    },
+    "respuesta": "Convocar una Asamblea Nacional Constituyente para redactar una nueva Constitución adaptada a la crisis social del país.",
+    "ayuda": "La 'Séptima Papeleta' fue un mecanismo ciudadano no oficial para exigir un cambio profundo en las leyes e instituciones del país ante la crisis de 1989.",
+    "distractores": [
+      "Promover una elección presidencial anticipada para destituir al gobierno vigente y erradicar la corrupción política del país.",
+      "Aprobar un referendo nacional vinculante para endurecer las leyes penales y permitir la extradición hacia el exterior.",
+      "Exigir la renuncia de todos los congresistas tradicionales para conformar un parlamento exclusivamente integrado por los jóvenes."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El texto establece una diferencia fundamental: el Estado es el conjunto de instituciones oficiales que hacen funcionar un país, mientras que el gobierno está conformado por las personas que administran dichas instituciones temporalmente.",
+      "pregunta": "A partir de esta distinción, ¿por qué es indispensable que áreas vitales como la salud sean 'políticas de Estado' y no 'políticas de gobierno'?"
+    },
+    "respuesta": "Porque deben garantizar una continuidad institucional a largo plazo, independientemente de los cambios de los líderes políticos.",
+    "ayuda": "Las políticas de Estado trascienden los periodos de cuatro años de un gobernante, buscando una estabilidad permanente en sectores vitales para la población.",
+    "distractores": [
+      "Porque deben responder exclusivamente a los intereses ideológicos del partido político que acaba de ganar las elecciones.",
+      "Porque deben modificarse radicalmente cada cuatro años para adaptarse a las promesas de campaña del nuevo mandatario.",
+      "Porque deben ser administradas por empresas privadas internacionales para evitar la corrupción de los funcionarios públicos locales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "La Constitución de 1991 creó nuevos mecanismos de protección. Mientras la Acción de Tutela defiende derechos fundamentales inalienables de un individuo, la Acción Popular se enfoca en proteger los intereses colectivos y difusos de la sociedad.",
+      "pregunta": "Si una empresa constructora está vertiendo desechos tóxicos en el único río que abastece de agua a un municipio entero, ¿qué mecanismo es el adecuado para detener esta situación?"
+    },
+    "respuesta": "Una Acción Popular, ya que el daño ambiental afecta el derecho colectivo a un ambiente sano y salubre.",
+    "ayuda": "Recuerda que la Acción Popular protege intereses que pertenecen a toda la comunidad (como el medio ambiente), a diferencia de la Tutela que protege derechos individuales.",
+    "distractores": [
+      "Una Acción de Tutela, ya que el vertimiento vulnera el derecho al libre desarrollo de la personalidad privada.",
+      "Un Referendo Nacional, ya que toda la población del país debe votar para castigar a la empresa privada.",
+      "Un Cabildo Abierto, ya que los ciudadanos afectados deben discutir pacíficamente con los dueños de la empresa constructora."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "La Constitución reconoce la multiculturalidad y plurietnicidad de Colombia. A diferencia del modelo centralista anterior de 1886, ahora se respeta la idiosincrasia de las minorías y los textos de educación básica no son iguales para todo el país.",
+      "pregunta": "¿Qué principio constitucional refleja la adaptación de los contenidos educativos escolares a la realidad de cada región?"
+    },
+    "respuesta": "El reconocimiento pleno del derecho a la diferencia y el respeto por el enfoque étnico y cultural local.",
+    "ayuda": "Al reconocer a Colombia como un país pluriétnico, la Constitución de 1991 exige que los modelos de enseñanza respeten y se adapten a las costumbres de cada región.",
+    "distractores": [
+      "La imposición de un esquema político centralista que obliga a las regiones a competir por recursos del Estado.",
+      "La falta de presupuesto del gobierno nacional para imprimir un único libro de texto escolar estandarizado y uniforme.",
+      "El interés del sector privado por comercializar múltiples versiones de libros escolares para obtener unas mayores ganancias económicas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Los mecanismos de participación ciudadana introducidos en 1991 permiten a los habitantes hacer valer sus derechos y ejercer control político directo. Uno de ellos faculta a los ciudadanos para terminar anticipadamente el periodo de un gobernante electo.",
+      "pregunta": "Si el alcalde de un distrito incumple de manera reiterada el programa de gobierno que prometió en su campaña, ¿qué mecanismo pueden utilizar sus electores para destituirlo?"
+    },
+    "respuesta": "La revocatoria del mandato, que permite dar por terminado su periodo político debido al incumplimiento de promesas electorales.",
+    "ayuda": "Este mecanismo es exclusivo para alcaldes y gobernadores, y se activa cuando la ciudadanía considera que el mandatario no está cumpliendo el programa prometido en campaña.",
+    "distractores": [
+      "La iniciativa legislativa, que permite a los ciudadanos redactar una nueva ley local para sancionar al alcalde municipal.",
+      "La consulta popular ciudadana, que permite preguntarle al presidente de la república si desea destituir al mandatario regional.",
+      "El plebiscito presidencial, que permite rechazar todas las políticas públicas implementadas por la rama ejecutiva del gobierno local."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "La Constitución de 1991 eliminó la polémica figura del 'Estado de sitio' que permitía legislar por decreto indefinidamente. En su lugar, instauró el 'Estado de Excepción', diseñado específicamente para enfrentar anormalidades o graves emergencias nacionales.",
+      "pregunta": "¿Cuál es el propósito fundamental y limitante que justifica la declaratoria de un Estado de Excepción por parte del presidente?"
+    },
+    "respuesta": "Otorgar facultades extraordinarias y temporales al poder ejecutivo con el único fin de que el país regrese a la normalidad.",
+    "ayuda": "El Estado de Excepción limitó los poderes presidenciales del antiguo Estado de Sitio para que solo se usen temporalmente y con el propósito exclusivo de restaurar el orden.",
+    "distractores": [
+      "Permitir que el presidente disuelva de manera definitiva el parlamento nacional para poder gobernar sin ninguna clase de interferencia política.",
+      "Autorizar a la fuerza pública para censurar a los medios de comunicación y prohibir tajantemente las protestas de ciudadanos.",
+      "Facilitar la reelección presidencial de forma indefinida mediante la modificación rápida de los artículos más centrales de la Constitución Nacional."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "A diferencia de la Constitución de 1886, la Carta Magna de 1991 prohíbe explícitamente la discriminación por género, política, raza o culto. Se estableció la libertad religiosa plena, se permitió el divorcio y se aceptan las uniones de parejas del mismo sexo.",
+      "pregunta": "Desde el punto de vista del desarrollo constitucional, ¿cuál es el principio humano que fundamenta la legalización de estas libertades individuales?"
+    },
+    "respuesta": "Toda persona tiene el derecho constitucional inalienable a elegir libremente su propia identidad, su proyecto de vida y su destino.",
+    "ayuda": "El derecho al libre desarrollo de la personalidad permite que cada ciudadano decida sobre su orientación, religión y estado civil sin sufrir discriminación institucional.",
+    "distractores": [
+      "El Estado busca reducir progresiva y obligatoriamente la influencia política y económica que tiene la Iglesia Católica en la sociedad.",
+      "Los organismos internacionales amenazaron con sancionar severamente al territorio nacional si no modernizaba rápidamente sus leyes sobre el matrimonio civil.",
+      "El gobierno necesita recolectar una mayor cantidad de recursos tributarios al legalizar nuevos tipos de contratos civiles y uniones maritales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Para garantizar el estricto cumplimiento de la ley penal y proteger los derechos, la Constitución de 1991 reformó la estructura de la justicia creando nuevas y poderosas instituciones como la Corte Constitucional, el Consejo Superior de la Judicatura y la Fiscalía.",
+      "pregunta": "De acuerdo con el texto, ¿cuál de estas entidades es la encargada específicamente de investigar la comisión de delitos e iniciar los procesos penales?"
+    },
+    "respuesta": "La Fiscalía General, que asume la inmensa responsabilidad de investigar los hechos delictivos y acusar formalmente a quienes infringen la ley.",
+    "ayuda": "Diferencia las funciones: la Corte Constitucional cuida la Carta Magna, el Consejo de la Judicatura administra recursos, y la Fiscalía es la única responsable de la investigación penal.",
+    "distractores": [
+      "La Corte Constitucional, que asume la inmensa responsabilidad de revisar absolutamente todas las acciones de tutela presentadas por los ciudadanos locales.",
+      "El Consejo Superior, que asume la inmensa responsabilidad de administrar operativamente todos los inmensos recursos financieros de los distintos juzgados nacionales.",
+      "La Registraduría Nacional, que asume la inmensa responsabilidad de contabilizar rigurosamente los votos de las elecciones y sancionar severamente los fraudes."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Para fortalecer la democracia participativa, la Constitución de 1991 introdujo el concepto de 'voto programático' como un avance frente al sistema tradicional de votación partidista que predominó durante el Frente Nacional y la Constitución de 1886.",
+      "pregunta": "¿En qué consiste fundamentalmente el concepto de 'voto programático' introducido para el empoderamiento del electorado territorial colombiano?"
+    },
+    "respuesta": "En elegir democráticamente a un mandatario basándose estrictamente en el plan de gobierno propuesto y no solo en su carismática figura.",
+    "ayuda": "El voto programático busca que los ciudadanos elijan proyectos concretos, obligando al candidato de alcaldías o gobernaciones a cumplir el programa registrado durante su campaña.",
+    "distractores": [
+      "En votar obligatoriamente de forma exclusiva a través de plataformas digitales o sistemas electrónicos para evitar radicalmente cualquier alteración y fraude.",
+      "En sufragar incondicionalmente en las grandes elecciones presidenciales para no perder de forma permanente los beneficios económicos otorgados por entidades oficiales.",
+      "En delegar contractualmente el derecho inalienable al voto a un partido político para que decida libremente por todos sus ciudadanos inscritos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El documento concluye señalando una profunda advertencia: en la actualidad existen cuatro grandes peligros para que los mandatos de la Constitución se cumplan plenamente: la pobreza, la exclusión social, la situación de inseguridad pública y el debilitamiento institucional.",
+      "pregunta": "¿Por qué estos cuatro factores estructurales representan una amenaza tan grave para la vigencia real de la Constitución Política de 1991?"
+    },
+    "respuesta": "Porque impiden directamente que el Estado Social de Derecho garantice las condiciones materiales e institucionales esenciales para una vida digna nacional.",
+    "ayuda": "La pobreza, la exclusión, la inseguridad y las instituciones débiles son barreras reales que anulan en la práctica los derechos, la equidad y las libertades escritas en la Constitución.",
+    "distractores": [
+      "Porque obligan constitucionalmente al presidente de la república a gobernar indefinidamente mediante el uso exclusivo de los diversos decretos de emergencia.",
+      "Porque permiten legalmente que las empresas multinacionales extraigan los recursos naturales del país sin pagar los correspondientes impuestos de protección ambiental.",
+      "Porque promueven socialmente que los ciudadanos eliminen completamente el moderno sistema de participación democrática para instaurar una monarquía de carácter absoluto."
+    ]
+  }
+]
