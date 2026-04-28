@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "El proceso democratizador en América Latina entre 1977 y 1989 estuvo motivado por diversas presiones internas y externas, marcando el fin de múltiples dictaduras que habían gobernado la región apoyadas por sectores civiles y alianzas internacionales.",
+      "pregunta": "De acuerdo con el texto, ¿cuál es el orden lógico que explica el debilitamiento y posterior caída de los regímenes militares latinoamericanos?"
+    },
+    "respuesta": "El fracaso de programas económicos militares, retiro del apoyo internacional estadounidense y surgimiento de participación civil.",
+    "ayuda": "",
+    "distractores": [
+      "La creación de grandes empresas transnacionales, expansión de los regímenes militares y polarización de política extremista.",
+      "La consolidación de programas económicos militares, apoyo incondicional estadounidense y disminución de la participación social civil.",
+      "El surgimiento de un neopopulismo autoritario, incremento de gran deuda externa y el profundo rechazo electoral."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El regreso a la democracia en el continente se impulsó por factores estructurales muy específicos, los cuales transformaron la dinámica de poder entre el Estado, la sociedad civil y la comunidad internacional durante la década de los ochenta.",
+      "pregunta": "De los siguientes fenómenos, ¿cuál NO corresponde a una de las causas que facilitaron la transición hacia el sistema democrático?"
+    },
+    "respuesta": "El total fortalecimiento económico de las dictaduras gracias al respaldo unánime de las diversas empresas transnacionales.",
+    "ayuda": "",
+    "distractores": [
+      "La constante promoción de los derechos humanos y del proceso democratizador por parte del gobierno estadounidense.",
+      "El profundo fracaso de los diversos programas económicos implementados por las múltiples cúpulas y dictaduras militares.",
+      "El progresivo relajamiento de la histórica polarización política entre los diversos partidos de izquierda y de derecha."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Los nuevos gobiernos democráticos heredaron de las dictaduras un complejo panorama caracterizado por un severo endeudamiento internacional y enormes expectativas sociales que, al no ser resueltas rápidamente, generaron una profunda frustración colectiva.",
+      "pregunta": "Analizando la correlación de eventos históricos, ¿cuál fue la principal consecuencia política de las demandas sociales insatisfechas a finales de los ochenta?"
+    },
+    "respuesta": "La desconfianza generalizada hacia el sistema democrático tradicional, facilitando la emergencia política del neoliberalismo y el neopopulismo.",
+    "ayuda": "",
+    "distractores": [
+      "La consolidación absoluta de los partidos políticos tradicionales, asegurando la permanencia y estabilidad del sistema democrático nacional.",
+      "El restablecimiento inmediato de las antiguas dictaduras militares, impulsadas por las transnacionales y el gobierno de Norteamérica.",
+      "La eliminación definitiva del enorme endeudamiento internacional, fortaleciendo la economía de las naciones en vía de desarrollo."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El modelo neoliberal, fundamentado por pensadores como Hayek y Friedman, propuso el libre mercado y la mínima intervención estatal como motores de crecimiento, modernizando algunas economías pero alterando profundamente la estructura social de la región.",
+      "pregunta": "A partir de las bases teóricas del neoliberalismo, ¿qué relación de causalidad explica el incremento de la brecha y desigualdad social?"
+    },
+    "respuesta": "La drástica reducción de la intervención estatal impidió corregir eficazmente los profundos excesos de la liberalización económica.",
+    "ayuda": "",
+    "distractores": [
+      "La fuerte expansión del gasto público en infraestructura provocó un déficit insostenible en la economía nacional latinoamericana.",
+      "La estricta regulación laboral por parte de los diversos gobiernos alejó por completo la inversión extranjera directa.",
+      "La nacionalización masiva de las grandes empresas productivas generó una profunda fragmentación y aislamiento del mercado global."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Para enfrentar la crisis de la deuda, el Fondo Monetario Internacional y el Banco Mundial impulsaron el 'Consenso de Washington', promoviendo reformas estructurales enfocadas en la desregulación, la apertura comercial y la llamada disciplina fiscal.",
+      "pregunta": "¿Qué acción concreta materializó la política de 'disciplina fiscal' en América Latina y qué consecuencia inmediata generó en la población?"
+    },
+    "respuesta": "La severa reducción del gasto público en salud y educación, incrementando la profunda exclusión de los más vulnerables.",
+    "ayuda": "",
+    "distractores": [
+      "El aumento generalizado de los subsidios estatales a la población, disminuyendo radicalmente los altos índices de pobreza extrema.",
+      "La total eliminación de los impuestos a las importaciones, protegiendo fuertemente el desarrollo de la industria local nacional.",
+      "La amplia flexibilización de las distintas condiciones laborales, mejorando significativamente los ingresos y la calidad de vida general."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "La implementación de políticas neoliberales genera intensos debates. Mientras sus defensores destacan avances como la renovación tecnológica y el control monetario, sus críticos advierten sobre el innegable deterioro en las condiciones de vida de las mayorías.",
+      "pregunta": "Al evaluar globalmente el modelo, ¿qué afirmación sintetiza de manera precisa la paradoja económica y social del neoliberalismo latinoamericano?"
+    },
+    "respuesta": "Se logró controlar la alta inflación y aumentar el PIB, pero a costa de la precarización y la inequidad.",
+    "ayuda": "",
+    "distractores": [
+      "Se erradicó completamente la gran pobreza en las áreas urbanas, pero se generó un profundo estancamiento tecnológico e industrial.",
+      "Se fomentó un crecimiento económico socialmente inclusivo y equitativo, pero se incrementó drásticamente el déficit fiscal de las naciones.",
+      "Se protegió fuertemente a las pequeñas industrias de carácter nacional, pero se experimentó una hiperinflación incontrolable y muy severa."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una de las premisas fundamentales del Consenso de Washington fue la apertura de fronteras y el libre comercio, eliminando las barreras arancelarias y los altos impuestos que tradicionalmente protegían a los productores internos de la región.",
+      "pregunta": "Estableciendo una relación directa, ¿cuál fue el resultado inmediato de esta apertura comercial para la industria nacional de los países latinoamericanos?"
+    },
+    "respuesta": "El estancamiento de muchas industrias locales frente a las manufacturas extranjeras, sobreviviendo comercialmente solo las empresas corporativas más grandes.",
+    "ayuda": "",
+    "distractores": [
+      "El fortalecimiento acelerado de la pequeña industria nacional gracias a las altas barreras arancelarias de estricta protección estatal económica.",
+      "El incremento equitativo de la competitividad en absolutamente todos los sectores productivos debido a la gran reducción impositiva general.",
+      "La eliminación completa de los grandes déficits fiscales gracias a la masiva exportación de manufacturas hacia el mercado exterior."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "La década de 1980, conocida habitualmente como la 'década perdida', representó uno de los retrocesos más significativos para América Latina, combinando factores internacionales adversos con severos desequilibrios macroeconómicos internos que paralizaron el progreso continental.",
+      "pregunta": "Al analizar la crisis de los años ochenta, ¿cuál de los siguientes fenómenos NO corresponde a una característica de dicho periodo?"
+    },
+    "respuesta": "El crecimiento sostenido del empleo formal urbano gracias a la explotación intensiva de los diversos recursos naturales estratégicos disponibles.",
+    "ayuda": "",
+    "distractores": [
+      "La elevación drástica de las tasas de interés internacionales que impidió sistemáticamente el pago de la inmensa deuda externa.",
+      "El aumento considerable de la inflación general y la presencia de profundos déficits fiscales en todas las finanzas estatales.",
+      "El estancamiento de la producción interna y la severa afectación del crecimiento económico general de las diferentes naciones dependientes."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Con el avance de las medidas neoliberales, múltiples servicios estatales esenciales como la salud, la educación y la energía eléctrica fueron privatizados, trasladando responsabilidades tradicionalmente públicas hacia los grandes consorcios del ámbito privado internacional.",
+      "pregunta": "A partir del texto, ¿cómo afectó la mercantilización de los servicios básicos y la privatización a la percepción de la ciudadanía sobre el Estado?"
+    },
+    "respuesta": "Socavó su legitimidad política al perder progresivamente la capacidad real de funcionar como el garante efectivo del bien social común.",
+    "ayuda": "",
+    "distractores": [
+      "Fortaleció su autoridad moral al delegar eficientemente toda la gestión social a las corporaciones transnacionales y los mercados globales.",
+      "Incrementó su protagonismo económico al nacionalizar de forma inmediata los principales medios de producción industrial y los servicios públicos.",
+      "Consolidó su papel regulador al imponer rápidamente estrictas normativas laborales que beneficiaron a la inmensa mayoría de los trabajadores."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Aunque algunos informes señalan una aparente disminución en los porcentajes generales de pobreza durante ciertas etapas del neoliberalismo, entidades como la CEPAL advierten que la concentración de la riqueza se agudizó de manera alarmante en toda la región.",
+      "pregunta": "¿Qué factor económico explica de manera concluyente la aparente reducción de la pobreza a pesar del aumento simultáneo de la desigualdad social?"
+    },
+    "respuesta": "Se debió estrictamente al control de la inflación y a la explotación minera, sin generar un verdadero aumento del empleo formal.",
+    "ayuda": "",
+    "distractores": [
+      "Se logró mediante la distribución sumamente equitativa de los nuevos ingresos fiscales provenientes de las masivas exportaciones de manufacturas tecnológicas.",
+      "Se impulsó gracias a las exitosas y amplias políticas de intervención estatal que garantizaron servicios universales a los más vulnerables.",
+      "Se fundamentó en el sólido fortalecimiento de los grandes sindicatos, los cuales negociaron excelentes condiciones salariales para las clases trabajadoras."
+    ]
+  }
+]
