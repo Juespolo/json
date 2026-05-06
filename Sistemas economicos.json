@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "Los sistemas económicos funcionan gracias a la constante interacción comercial entre tres agentes fundamentales: las empresas, las familias y el sector público. Cada uno de ellos cumple un rol indispensable para garantizar el equilibrio.",
+      "pregunta": "Teniendo en cuenta la dinámica del mercado de factores, ¿cuál es la relación económica que se establece entre familias y empresas?"
+    },
+    "respuesta": "Las familias venden sus recursos productivos disponibles para obtener ingresos, mientras que las empresas compran dichos recursos para generar los bienes.",
+    "ayuda": "Identifica quién posee los factores de producción (tierra, trabajo, capital) y quién los necesita comprar para poder fabricar bienes comerciales.",
+    "distractores": [
+      "Las familias compran sus insumos industriales disponibles para obtener ahorros, mientras que las empresas venden dichos insumos para acumular los fondos.",
+      "Las familias donan sus bienes acumulados disponibles para obtener subsidios, mientras que las empresas rechazan dichos bienes para evitar los gastos.",
+      "Las familias exigen sus derechos laborales disponibles para obtener ventajas, mientras que las empresas limitan dichos derechos para reducir los costos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En un sistema de economía autoritaria, el Estado asume la enorme responsabilidad de planificar la producción y fijar los precios mediante decretos. Esta centralización requiere conocer a fondo todas las posibilidades tecnológicas y recursos.",
+      "pregunta": "¿Qué consecuencia directa y estructural genera un error de cálculo estatal al estimar la demanda ciudadana en una economía centralizada?"
+    },
+    "respuesta": "Se produce un grave desabastecimiento que genera enormes colas ciudadanas o se acumulan grandes excedentes de productos que nadie desea comprar.",
+    "ayuda": "Si un gobierno no calcula bien cuántos bienes quiere realmente la gente, habrá faltantes (escasez y colas) o sobrantes que se desperdician.",
+    "distractores": [
+      "Se genera un rápido crecimiento que impulsa enormes ventas nacionales o se exportan grandes cantidades de manufacturas que todos desean adquirir.",
+      "Se produce un fuerte endeudamiento que frena enormes obras públicas o se cancelan grandes contratos de servicios que nadie desea aprobar.",
+      "Se genera un alto proteccionismo que bloquea enormes importaciones extranjeras o se imponen grandes aranceles de aduana que todos desean evadir."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Todo sistema económico debe responder al interrogante de cómo producir los bienes. En la economía de mercado, los productores tienen la libertad de elegir los medios, las materias primas y las diversas tecnologías a emplear.",
+      "pregunta": "Según la lógica del sistema de mercado, ¿qué criterio fundamental utilizan los productores privados para decidir cómo fabricar un bien determinado?"
+    },
+    "respuesta": "Eligen siempre el método productivo más económico posible para minimizar los altos costos y lograr obtener el mayor beneficio financiero personal.",
+    "ayuda": "El principal incentivo de una empresa en una economía de mercado es la rentabilidad, por lo que buscará el método más eficiente y barato.",
+    "distractores": [
+      "Buscan siempre el modelo tecnológico más avanzado posible para maravillar los exigentes mercados y lograr obtener el mayor reconocimiento social internacional.",
+      "Acatan siempre el decreto gubernamental más riguroso posible para satisfacer los altos mandos y lograr obtener el mayor subsidio estatal nacional.",
+      "Siguen siempre el proceso artesanal más tradicional posible para conservar los viejos legados y lograr obtener el mayor respeto cultural regional."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un titular de prensa internacional reciente informa: 'El gobierno del país X decretó un tope máximo al precio de la leche, fijándolo muy por debajo de sus costos de producción, con el fin de ayudar a las clases populares'.",
+      "pregunta": "Analizando este caso real a partir de la teoría de sistemas económicos, ¿qué efecto colateral generará inevitablemente esta medida autoritaria gubernamental?"
+    },
+    "respuesta": "Los productores reducirán drásticamente la oferta disponible del alimento lácteo, generando una grave escasez comercial que terminará perjudicando a los consumidores.",
+    "ayuda": "Si el precio impuesto por el gobierno es menor a lo que cuesta producirlo, las empresas dejarán de fabricarlo, provocando escasez del producto.",
+    "distractores": [
+      "Los compradores rechazarán masivamente la compra barata del alimento lácteo, generando una enorme crisis financiera que terminará quebrando a los supermercados.",
+      "Los empresarios aumentarán rápidamente la calidad nutritiva del alimento lácteo, generando una fuerte demanda internacional que terminará enriqueciendo a los exportadores.",
+      "Los extranjeros prohibirán legalmente la entrada aduanera del alimento lácteo, generando una tensa disputa diplomática que terminará aislando a los ciudadanos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una noticia económica nacional señala: 'El Congreso aprobó una nueva ley antimonopolio para regular a las grandes empresas tecnológicas, al mismo tiempo que autorizó un millonario paquete de subsidios directos para proteger a los pequeños agricultores locales'.",
+      "pregunta": "Esta noticia ilustra el funcionamiento de una economía mixta moderna. ¿Qué rol específico está asumiendo el sector público en este escenario?"
+    },
+    "respuesta": "Actúa como un agente regulador que interviene directamente en el mercado para corregir profundos desequilibrios comerciales y proteger ciertos sectores vulnerables.",
+    "ayuda": "En una economía mixta, el Estado no controla todo, pero sí interviene dictando leyes y entregando apoyos para asegurar una competencia más justa.",
+    "distractores": [
+      "Funciona como un ente planificador que elimina completamente el comercio para imponer estrictos mandatos autoritarios y controlar ciertos monopolios extranjeros.",
+      "Sirve como un actor pasivo que observa silenciosamente en el sistema para permitir grandes libertades financieras y enriquecer ciertos bancos privados.",
+      "Opera como un simple consumidor que gasta descontroladamente en el exterior para importar masivos productos tecnológicos y endeudar ciertos ministerios públicos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Históricamente, las sociedades primitivas organizaron su supervivencia mediante sistemas de economía tradicional. En este modelo, las decisiones sobre qué, cómo y para quién producir se resolvían a través de costumbres heredadas de generación en generación.",
+      "pregunta": "De las siguientes características socioeconómicas, ¿cuál NO corresponde en absoluto a la lógica fundamental que rige un sistema de economía tradicional?"
+    },
+    "respuesta": "Promover la constante innovación tecnológica industrial para maximizar enormemente los beneficios financieros privados y dominar rápidamente los mercados comerciales de exportación.",
+    "ayuda": "Busca la opción que describa una economía capitalista moderna. La economía tradicional se basa en la costumbre y la subsistencia, no en la innovación rentable.",
+    "distractores": [
+      "Mantener la estricta herencia cultural productiva para garantizar pacíficamente los sustentos alimentarios básicos y preservar largamente las costumbres sociales de subsistencia.",
+      "Realizar la justa distribución agrícola comunitaria para satisfacer equitativamente las necesidades familiares vitales y fortalecer solidariamente los lazos vecinales de cooperación.",
+      "Utilizar la antigua metodología artesanal heredada para fabricar lentamente los bienes materiales necesarios y respetar profundamente los ciclos naturales de recolección."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En el sistema de mercado, cuando los productores ofrecen una cantidad mayor de bienes de la que los consumidores desean comprar, se produce un fenómeno económico conocido técnicamente como excedente de producción.",
+      "pregunta": "¿Qué secuencia de efectos encadenados provoca inevitablemente un excedente de bienes para lograr restablecer el equilibrio comercial entre oferentes y demandantes?"
+    },
+    "respuesta": "El precio desciende progresivamente, lo que motiva a los consumidores a comprar más mercancía y obliga a los productores a fabricar menos.",
+    "ayuda": "Cuando sobra un producto, la única forma de venderlo es bajando su precio. Esto atrae compradores, pero desmotiva a quienes lo fabrican.",
+    "distractores": [
+      "El gobierno interviene agresivamente, lo que motiva a los empresarios a exportar más mercancía y obliga a los ciudadanos a consumir menos.",
+      "El impuesto aumenta drásticamente, lo que motiva a los comerciantes a ocultar más mercancía y obliga a los fabricantes a producir menos.",
+      "El salario disminuye rápidamente, lo que motiva a los trabajadores a ahorrar más mercancía y obliga a los inversores a gastar menos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Las economías autoritarias y las economías de mercado difieren radicalmente en quién toma las decisiones fundamentales sobre la asignación de recursos. Este poder de decisión define la naturaleza misma de las instituciones políticas y comerciales.",
+      "pregunta": "Estableciendo una relación directa sobre el control económico, ¿quiénes ejercen la soberanía real para decidir qué bienes deben producirse en cada sistema?"
+    },
+    "respuesta": "En el autoritario la ejerce el Estado mediante decretos, mientras que en el mercado la ejercen los consumidores mediante sus demandas.",
+    "ayuda": "Recuerda que en el mercado, el consumidor es el 'rey' porque dicta con su compra qué debe fabricarse. En el autoritarismo, lo dicta el Estado.",
+    "distractores": [
+      "En el autoritario la ejercen las empresas mediante monopolios, mientras que en el mercado la ejercen los bancos mediante sus intereses.",
+      "En el autoritario la ejercen los alcaldes mediante impuestos, mientras que en el mercado la ejercen los sindicatos mediante sus huelgas.",
+      "En el autoritario la ejercen las milicias mediante extorsiones, mientras que en el mercado la ejercen los políticos mediante sus campañas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El mecanismo de los precios en el mercado funciona como un sistema de señales. Cuando la demanda de un factor de producción es repentinamente mayor que su oferta disponible, el mercado reacciona de manera automática.",
+      "pregunta": "¿Cuál es la función específica que cumple el aumento de precio de un factor de producción cuando ocurre una fuerte escasez?"
+    },
+    "respuesta": "Sirve como un claro incentivo económico para que los productores aumenten inmediatamente la oferta y desvíen valiosos recursos hacia esa industria rentable.",
+    "ayuda": "Un precio alto indica que un bien es escaso y muy deseado, lo que actúa como un imán para que más empresas quieran producirlo.",
+    "distractores": [
+      "Actúa como un fuerte obstáculo financiero para que los consumidores reduzcan progresivamente la compra y busquen diversos productos hacia esa economía paralela.",
+      "Funciona como un duro castigo comercial para que los intermediarios detengan temporalmente la venta y exijan mayores subsidios hacia esa entidad pública.",
+      "Opera como un firme mandato gubernamental para que los importadores frenen totalmente la entrada y pagen grandes aranceles hacia esa aduana nacional."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El texto concluye afirmando que en la actualidad no existen economías autoritarias totales ni economías de mercado absolutamente puras. El mundo contemporáneo está dominado por sistemas económicos mixtos donde conviven múltiples fuerzas y regulaciones.",
+      "pregunta": "¿Qué afirmación explica adecuadamente por qué prácticamente todos los países modernos han adoptado finalmente un sistema de economía con carácter mixto?"
+    },
+    "respuesta": "Porque el libre mercado genera gran eficiencia productiva, pero requiere indispensablemente la intervención del Estado para corregir graves injusticias y desigualdades sociales.",
+    "ayuda": "La economía mixta busca lo mejor de ambos mundos: la capacidad de generar riqueza del mercado libre, combinada con la protección social del Estado.",
+    "distractores": [
+      "Porque el comunismo global impone una total igualdad financiera, pero necesita obligatoriamente la tecnología de Occidente para superar fuertes embargos y bloqueos comerciales.",
+      "Porque el sector privado evita toda responsabilidad ambiental, pero demanda constantemente la ayuda de fundaciones para lavar grandes capitales y fortunas empresariales.",
+      "Porque el proteccionismo aduanero asegura una total independencia nacional, pero exige continuamente la importación de alimentos para calmar profundas hambrunas y crisis internas."
+    ]
+  }
+]
