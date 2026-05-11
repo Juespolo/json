@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "La Gran Depresión se originó como consecuencia indirecta de la aparente prosperidad económica norteamericana de la posguerra. Los ciudadanos se dedicaron a la especulación y compraron títulos valores a crédito asumiendo que el crecimiento sería infinito.",
+      "pregunta": "¿Cuál fue el factor financiero estructural que transformó una época de aparente prosperidad en la peor crisis económica del sistema capitalista?"
+    },
+    "respuesta": "La descontrolada especulación financiera y la compra masiva de diversas acciones utilizando créditos sin poseer solvencia económica real.",
+    "ayuda": "Identifica la relación entre el exceso de confianza de los años veinte, el endeudamiento irresponsable y la caída del mercado bursátil.",
+    "distractores": [
+      "La repentina paralización industrial y la venta masiva de pesados armamentos utilizando barcos sin poseer ninguna autorización legal.",
+      "La incontrolable inflación europea y la emisión masiva de nuevos billetes utilizando bancos sin poseer respaldo monetario oficial.",
+      "La constante devaluación comercial y la exportación masiva de múltiples productos utilizando trenes sin poseer demanda comercial global."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "La Segunda Guerra Mundial derivó de los conflictos previos y de los movimientos nacionalistas producidos en las naciones que fueron derrotadas. En Alemania, el nacionalsocialismo apeló a los profundos resentimientos ocasionados por el Tratado de Versalles.",
+      "pregunta": "¿De qué manera el Tratado de Versalles funcionó como un catalizador directo para el estallido de la Segunda Guerra Mundial?"
+    },
+    "respuesta": "Al imponer condiciones humillantes y deudas astronómicas, fomentó profundos resentimientos que impulsaron el surgimiento de nacionalismos de extrema derecha.",
+    "ayuda": "Analiza cómo las sanciones desproporcionadas a las potencias derrotadas crearon el ambiente político ideal para los discursos radicales y populistas.",
+    "distractores": [
+      "Al promover alianzas comerciales y ayudas económicas, fomentó profundos conformismos que impulsaron el surgimiento de democracias de extrema izquierda.",
+      "Al exigir reparaciones simbólicas y perdones internacionales, fomentó profundos patriotismos que impulsaron el surgimiento de monarquías de extrema derecha.",
+      "Al otorgar territorios adicionales y colonias estratégicas, fomentó profundos imperialismos que impulsaron el surgimiento de repúblicas de extrema izquierda."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un analista internacional contemporáneo afirma: 'Hoy en día, las potencias ya no se enfrentan enviando sus ejércitos a combatir directamente; en su lugar, arman a facciones locales en países en desarrollo para proteger sus intereses geopolíticos'.",
+      "pregunta": "¿Qué estrategia característica de la Guerra Fría, mencionada en el texto, ilustra perfectamente esta dinámica descrita por el analista?"
+    },
+    "respuesta": "La imposición de severas hegemonías mediante el apoyo indirecto a gobiernos o rebeldes armados en zonas estratégicas del tercer mundo.",
+    "ayuda": "Relaciona el concepto de 'guerra subsidiaria' (proxy war) con la decisión de las superpotencias de evitar el conflicto atómico directo.",
+    "distractores": [
+      "La resolución de grandes conflictos mediante el debate diplomático entre presidentes o ministros civiles en zonas neutrales del primer mundo.",
+      "La declaración de fuertes hostilidades mediante el ataque nuclear a capitales o industrias locales en zonas enemigas del segundo mundo.",
+      "La construcción de inmensas infraestructuras mediante el préstamo económico a dictadores o militares corruptos en zonas pacíficas del cuarto mundo."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Corea era una nación que compartía una misma lengua y cultura, pero tras la intervención de Estados Unidos y la Unión Soviética fue dividida en dos partes opuestas. Hoy en día continúa una tensa paz entre ambas.",
+      "pregunta": "El caso de la península de Corea, dividida artificialmente en dos naciones, evidencia de manera directa que los conflictos bipolares:"
+    },
+    "respuesta": "Fracturaron irreversiblemente la identidad histórica y cultural de las naciones periféricas para satisfacer las ambiciones de las superpotencias.",
+    "ayuda": "Evalúa cómo la intervención de los bloques hegemónicos ignoró los lazos culturales internos, priorizando exclusivamente sus intereses geopolíticos globales.",
+    "distractores": [
+      "Fomentaron pacíficamente la integración económica y social de las naciones periféricas para satisfacer las necesidades de las superpotencias.",
+      "Respetaron estrictamente la soberanía política y territorial de las naciones periféricas para satisfacer las demandas de las superpotencias.",
+      "Impulsaron aceleradamente la modernización tecnológica y militar de las naciones periféricas para satisfacer las promesas de las superpotencias."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Durante la reciente crisis financiera de 2008, muchas naciones adoptaron rápidamente medidas de protección comercial y cerraron sus fronteras económicas a los productos extranjeros, recordando exactamente las mismas políticas aplicadas tras la depresión de 1929.",
+      "pregunta": "Según el texto base y la situación contemporánea, ¿cuál es la consecuencia directa de aplicar el 'proteccionismo' tras una crisis global?"
+    },
+    "respuesta": "La contracción severa del comercio internacional, debido a que cada país intenta aislar su mercado de la competencia extranjera.",
+    "ayuda": "Analiza cómo el proteccionismo busca defender la industria nacional, pero a nivel global provoca una reducción del flujo comercial entre naciones.",
+    "distractores": [
+      "La expansión acelerada del comercio internacional, debido a que cada país intenta integrar su mercado con la competencia extranjera.",
+      "La estabilización rápida del comercio internacional, debido a que cada país intenta regular su mercado ante la competencia extranjera.",
+      "La diversificación total del comercio internacional, debido a que cada país intenta compartir su mercado junto a la competencia extranjera."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Occidente en un principio no tomó acciones fuertes en contra de gobiernos nacionalistas de extrema derecha, porque estaban enmarcados dentro del capitalismo y veían con buenos ojos a aquellos que se oponían abiertamente al modelo comunista.",
+      "pregunta": "A pesar del radicalismo de líderes como Hitler y Mussolini, las potencias occidentales no tomaron acciones inmediatas en su contra porque:"
+    },
+    "respuesta": "Privilegiaron la defensa del sistema capitalista, tolerando a estos líderes totalitarios al considerarlos una barrera efectiva contra el comunismo.",
+    "ayuda": "Identifica el pragmatismo político de las potencias capitalistas que, por temor a la Unión Soviética, permitieron el crecimiento inicial del fascismo.",
+    "distractores": [
+      "Desconocieron la gravedad del sistema capitalista, ignorando a estos líderes totalitarios al considerarlos una amenaza mínima contra el comunismo.",
+      "Rechazaron la expansión del sistema capitalista, financiando a estos líderes totalitarios al considerarlos una herramienta útil contra el comunismo.",
+      "Promovieron la reforma del sistema capitalista, educando a estos líderes totalitarios al considerarlos una pieza clave contra el comunismo."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El descubrimiento de bases nucleares soviéticas en territorio cubano en octubre de 1962 desató el episodio más tenso de la historia moderna, poniendo al planeta entero al borde de una catástrofe bélica a escala global.",
+      "pregunta": "La Crisis de los Misiles es considerada el punto más crítico. ¿Qué factor fundamental impidió que este episodio desencadenara la Tercera Guerra Mundial?"
+    },
+    "respuesta": "El mutuo y profundo temor a la destrucción total asegurada, derivado de la inmensa capacidad atómica que poseían ambas potencias enfrentadas.",
+    "ayuda": "En el contexto de la Guerra Fría, la 'disuasión nuclear' garantizaba que un ataque directo resultaría en la aniquilación absoluta de ambos bandos.",
+    "distractores": [
+      "El rápido y efectivo tratado de integración comercial asegurada, derivado de la inmensa dependencia económica que poseían ambas potencias enfrentadas.",
+      "El fuerte y constante llamado a la intervención pacífica asegurada, derivado de la inmensa autoridad moral que poseían ambas potencias enfrentadas.",
+      "El lento y complejo proceso de descolonización territorial asegurada, derivado de la inmensa inestabilidad política que poseían ambas potencias enfrentadas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "La Guerra Fría no solo produjo conflictos armados y tensiones políticas en el Tercer Mundo. La rivalidad entre el bloque capitalista y el socialista se trasladó también a los laboratorios, las universidades y los centros espaciales.",
+      "pregunta": "La competencia bipolar no se limitó al ámbito militar. ¿Qué otro escenario de confrontación resultó paradójicamente beneficioso para la humanidad?"
+    },
+    "respuesta": "La acelerada e intensa carrera espacial e investigativa, que impulsó enormes avances tecnológicos y permitió la histórica llegada a la Luna.",
+    "ayuda": "Identifica cómo la rivalidad hegemónica obligó a ambas potencias a invertir masivamente en ciencia, generando saltos tecnológicos sin precedentes históricos.",
+    "distractores": [
+      "La controlada y pacífica carrera nuclear e investigativa, que impulsó enormes debates filosóficos y permitió la histórica llegada a la paz.",
+      "La prolongada y costosa carrera armamentista e investigativa, que impulsó enormes gastos financieros y permitió la histórica llegada a la quiebra.",
+      "La silenciosa y oculta carrera diplomática e investigativa, que impulsó enormes tratados comerciales y permitió la histórica llegada a la equidad."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "A diferencia del orden bipolar de la Guerra Fría o del monopolio norteamericano de los años 90, el siglo XXI muestra un escenario diferente donde países como China, India y Brasil se posicionan con fuerza.",
+      "pregunta": "Tras el fin de la Guerra Fría y la caída soviética, el orden mundial del siglo XXI se caracteriza actualmente por:"
+    },
+    "respuesta": "Una progresiva y evidente transición hacia el multipolarismo, donde nuevas potencias económicas emergentes desafían la antigua hegemonía absoluta estadounidense.",
+    "ayuda": "Relaciona el ascenso sostenido de países como China, India y Brasil con la pérdida progresiva del monopolio de poder global norteamericano.",
+    "distractores": [
+      "Una regresiva y repentina transición hacia el bipolarismo, donde antiguas potencias europeas emergentes desafían la reciente hegemonía absoluta estadounidense.",
+      "Una constante y fuerte transición hacia el unilateralismo, donde grandes potencias militares emergentes defienden la histórica hegemonía absoluta estadounidense.",
+      "Una estancada y lenta transición hacia el colonialismo, donde pequeñas potencias regionales emergentes aceptan la futura hegemonía absoluta estadounidense."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Hoy en día, las cadenas de suministro globales dependen de fábricas en Asia, tecnología de Occidente y materias primas de América Latina. Una caída en la bolsa de valores de un solo país afecta a todos casi inmediatamente.",
+      "pregunta": "Comparando este fenómeno contemporáneo con la crisis de 1929, se puede concluir de manera crítica que el sistema capitalista:"
+    },
+    "respuesta": "Funciona mediante una red de profunda interdependencia global, donde el colapso de un actor dominante arrastra inevitablemente a las demás naciones.",
+    "ayuda": "Evalúa cómo la globalización económica y el endeudamiento mutuo crean un 'efecto dominó' que vuelve vulnerables a todos los mercados internacionales.",
+    "distractores": [
+      "Funciona mediante una red de estricta independencia global, donde el éxito de un actor dominante salva inevitablemente a las demás naciones.",
+      "Funciona mediante una red de constante aislamiento global, donde el fracaso de un actor dominante ignora inevitablemente a las demás naciones.",
+      "Funciona mediante una red de absoluta competencia global, donde el declive de un actor dominante fortalece inevitablemente a las demás naciones."
+    ]
+  }
+]
