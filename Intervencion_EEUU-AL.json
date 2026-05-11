@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "Un analista político internacional afirma en un noticiero actual: 'Las grandes potencias mundiales tienen el deber moral de intervenir militarmente en aquellos países vecinos que sufren constantes guerras civiles, para garantizar la paz regional y proteger las inversiones'.",
+      "pregunta": "Analizando la historia, ¿qué concepto estadounidense fundamenta exactamente esta perspectiva intervencionista sobre los países del continente?"
+    },
+    "respuesta": "El principio político de Theodore Roosevelt, que justificó un imperialismo protector ante la inestabilidad.",
+    "ayuda": "El presidente Roosevelt justificaba la intervención militar argumentando que las continuas guerras civiles demostraban la incapacidad de los gobiernos latinoamericanos para mantener la paz.",
+    "distractores": [
+      "El acuerdo comercial de los europeos, que impulsó un intercambio financiero ante la pobreza.",
+      "El mandato militar de Augusto Sandino, que organizó un ejército nacional ante la dictadura.",
+      "El proyecto económico de los banqueros, que financió un mercado agrícola ante la escasez."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El expansionismo norteamericano se sustentó en la Doctrina Monroe y el Destino Manifiesto. Estas ideas no solo prevenían la colonización europea, sino que definían el rol comercial de Estados Unidos.",
+      "pregunta": "¿Qué consecuencia económica directa buscaban estos dos postulados sobre todo el territorio de América Latina?"
+    },
+    "respuesta": "Convertir a las naciones del sur en el mercado exclusivo para los excedentes norteamericanos.",
+    "ayuda": "El Destino Manifiesto y la Doctrina Monroe buscaban que América Latina fuera el sitio donde Estados Unidos pudiera vender y ubicar sus excedentes productivos y agrícolas.",
+    "distractores": [
+      "Transformar a las potencias de Europa en el aliado principal para los negocios internacionales.",
+      "Organizar a las poblaciones del norte en el centro industrial para los obreros latinoamericanos.",
+      "Financiar a las empresas de España en el proyecto comercial para los bancos caribeños."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Tras la Guerra hispano-estadounidense de 1898, Cuba logró expulsar a los españoles. Sin embargo, Estados Unidos garantizó el orden imponiendo la llamada Enmienda Platt sobre la naciente república antillana.",
+      "pregunta": "¿De qué manera esta enmienda afectó estructuralmente el desarrollo económico y político del estado de Cuba?"
+    },
+    "respuesta": "Instauró un dominio militar extranjero y limitó su producción exclusivamente a la industria azucarera.",
+    "ayuda": "La Enmienda Platt permitió establecer bases navales estadounidenses y provocó un gran desequilibrio al forzar a Cuba a producir solo azúcar e importar el resto.",
+    "distractores": [
+      "Fomentó un desarrollo tecnológico nacional y amplió su exportación rápidamente a la región europea.",
+      "Generó un bloque comercial independiente y redujo su dependencia totalmente a la ayuda financiera.",
+      "Provocó un estancamiento agrícola general y orientó su economía únicamente a la minería local."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una noticia actual titula: 'Gobierno extranjero financia y entrena a grupos armados en un país vecino para derrocar a un presidente opositor y colocar a un líder fuertemente aliado'.",
+      "pregunta": "¿Qué caso histórico del intervencionismo estadounidense en América Latina ejemplifica perfectamente esta misma dinámica de poder?"
+    },
+    "respuesta": "El derrocamiento del presidente nicaragüense para instaurar una dictadura aliada y entrenar guardias nacionales.",
+    "ayuda": "En Nicaragua, EE.UU. depuso al presidente Zelaya, entrenó a la guardia nacional para combatir revolucionarios como Sandino y dejó en el poder al dictador Anastasio Somoza.",
+    "distractores": [
+      "El financiamiento del ejército dominicano para establecer una democracia pacífica y construir puertos comerciales.",
+      "El fortalecimiento del gobierno colombiano para construir una franja canalera y asegurar rutas marítimas.",
+      "El aislamiento del territorio guatemalteco para evitar una guerra civil y proteger minorías extranjeras."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "A menudo, el gobierno estadounidense utilizaba excusas diplomáticas para movilizar sus tropas hacia el sur, ocultando sus verdaderos objetivos geopolíticos y comerciales en la estratégica región del gran Mar Caribe.",
+      "pregunta": "Según el texto analizado, ¿qué contraste existía usualmente entre la excusa oficial y el interés real?"
+    },
+    "respuesta": "Cobrar las deudas internacionales atrasadas ocultaba el deseo de controlar los puertos y aduanas.",
+    "ayuda": "Las intervenciones solían justificarse con el cobro de deudas, pero el fin real era apropiarse del control político, puertos, azúcar e infraestructura de las naciones.",
+    "distractores": [
+      "Frenar las graves epidemias tropicales ocultaba el interés de expropiar los hospitales y medicinas.",
+      "Proteger las antiguas fronteras coloniales ocultaba el plan de expulsar los campesinos y obreros.",
+      "Apoyar las nuevas reformas educativas ocultaba el afán de censurar los libros y periódicos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Entre 1916 y 1922, la República Dominicana sufrió una ocupación militar estadounidense directa, la cual fue motivada por el desconocimiento de acuerdos financieros previos y por otros factores externos mundiales.",
+      "pregunta": "Además de la actividad azucarera, ¿qué factor geoestratégico global obligó a Estados Unidos a intervenir militarmente?"
+    },
+    "respuesta": "El inicio de la Primera Guerra requería un sistema defensivo para proteger el canal.",
+    "ayuda": "La Primera Guerra Mundial generó la necesidad urgente de establecer un sistema de defensa regional en el Caribe para garantizar el tránsito por el Canal de Panamá.",
+    "distractores": [
+      "El avance de la Revolución Rusa demandaba un bloqueo comercial para aislar el Caribe.",
+      "El colapso de la Corona Española exigía un control marítimo para evitar el contrabando.",
+      "El triunfo de la rebelión cubana obligaba un cerco diplomático para pacificar el continente."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Las acciones norteamericanas en América Latina no se limitaron al uso de la fuerza armada. La dominación se ejecutó combinando múltiples estrategias diplomáticas, diversas presiones financieras y constante presencia territorial.",
+      "pregunta": "¿Cómo se clasificaron principalmente las formas concretas de intervención de los Estados Unidos en el continente latinoamericano?"
+    },
+    "respuesta": "Mediante la agresiva injerencia económica comercial y la constante invasión territorial de índole militar.",
+    "ayuda": "El texto especifica que las intervenciones norteamericanas se presentaron en dos formas principales: la injerencia económica (protectorados) y las invasiones territoriales (objetivos puramente militares).",
+    "distractores": [
+      "Mediante la pacífica cooperación educativa regional y la esporádica asistencia humanitaria de carácter médico.",
+      "Mediante la estricta regulación aduanera europea y la progresiva integración cultural de tipo religioso.",
+      "Mediante la masiva exportación tecnológica moderna y la constante protección ambiental de origen federal."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un artículo de análisis geopolítico menciona: 'Para controlar las rutas marítimas clave, las superpotencias suelen fomentar fuertemente movimientos separatistas en países soberanos, asegurando así tratados favorables con los nuevos gobiernos'.",
+      "pregunta": "¿Qué evento del imperialismo norteamericano descrito en el texto ilustra exactamente esta agresiva estrategia separatista global?"
+    },
+    "respuesta": "La instigación de la separación panameña para lograr la soberanía sobre el canal interoceánico.",
+    "ayuda": "Estados Unidos instigó activamente la separación de Panamá de Colombia para lograr negociar con el nuevo gobierno el uso y fortificación militar del canal.",
+    "distractores": [
+      "La promoción de la rebelión mexicana para obtener el control sobre el petróleo fronterizo.",
+      "La financiación de la resistencia cubana para asegurar el monopolio sobre el azúcar antillano.",
+      "La organización de la guerrilla nicaragüense para mantener el dominio sobre el café centroamericano."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Antes de consolidar su hegemonía absoluta en el continente americano, Estados Unidos tuvo que enfrentarse diplomática y económicamente a otras grandes potencias que también buscaban expandir sus inmensos imperios mercantiles.",
+      "pregunta": "Durante gran parte del siglo XIX e inicios del XX, ¿cuál fue el principal rival del expansionismo estadounidense?"
+    },
+    "respuesta": "El poderoso imperio de Gran Bretaña, con quien disputó activamente el control territorial latinoamericano.",
+    "ayuda": "A lo largo de todo el siglo XIX e inicios del XX, el principal rival de Estados Unidos por el control de América Latina fue Gran Bretaña.",
+    "distractores": [
+      "El antiguo reino de la España, con quien negoció secretamente el dominio comercial caribeño.",
+      "El gran estado de la Francia, con quien acordó pacíficamente el reparto financiero sudamericano.",
+      "El naciente gobierno de la Alemania, con quien compartió militarmente el poder aduanero antillano."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Aunque el interés primordial siempre fue económico, en algunos casos excepcionales las intervenciones militares de Estados Unidos tomaron la forma de violentas operaciones de retaliación o castigo militar directo.",
+      "pregunta": "Según el documento analizado, ¿qué motivo específico desencadenó la expedición militar estadounidense hacia el interior de México?"
+    },
+    "respuesta": "El repentino ataque del líder Pancho Villa a las poblaciones fronterizas del territorio norteamericano.",
+    "ayuda": "Las expediciones militares hacia México se dieron como castigo, específicamente cuando el líder popular Pancho Villa atacó territorio estadounidense y fue perseguido intensamente.",
+    "distractores": [
+      "El continuo bloqueo del puerto de Veracruz a las grandes embarcaciones del estado estadounidense.",
+      "El grave impago del tesoro de México a los poderosos bancos del sistema neoyorquino.",
+      "El fuerte apoyo del general Porfirio Díaz a las agresivas tropas del ejército europeo."
+    ]
+  }
+]
