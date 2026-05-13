@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "Un analista menciona hoy: 'Cuando un grupo armado hace la transición a la política legal y gana elecciones, el mayor riesgo para la paz es la intolerancia armada de los sectores extremistas tradicionales'.",
+      "pregunta": "¿Qué evento de la década de los ochenta en Colombia ejemplifica trágicamente esta advertencia sobre la participación democrática?"
+    },
+    "respuesta": "El exterminio sistemático de todos los miembros y líderes de la Unión Patriótica por parte de sectores de extrema derecha.",
+    "ayuda": "El exterminio de la UP es el ejemplo histórico del asesinato sistemático de un partido político surgido de un proceso de paz, frenando la apertura democrática.",
+    "distractores": [
+      "El encarcelamiento masivo de varios jueces y fiscales de la corte suprema nacional por parte de agentes de seguridad oficial.",
+      "El secuestro sistemático de varios alcaldes y concejales de la zona central nacional por parte de guerrillas de extrema izquierda.",
+      "El destierro definitivo de varios periodistas y académicos de la universidad pública nacional por parte de fuerzas de seguridad militar."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un documental sobre el campo colombiano muestra haciendas inmensas junto a familias que no tienen dónde sembrar. El narrador afirma: 'La paz no se firma en un papel si no se resuelve la tierra'.",
+      "pregunta": "Desde una perspectiva histórica, ¿por qué la concentración de la tierra fue la raíz del surgimiento de guerrillas como las FARC?"
+    },
+    "respuesta": "Porque la violenta exclusión y la falta de tierras productivas obligaron a los campesinos a organizar grupos de autodefensa armada.",
+    "ayuda": "Las FARC nacieron como autodefensa campesina para exigir tierras, demostrando que la desigualdad en la tenencia de la propiedad rural es la raíz del conflicto.",
+    "distractores": [
+      "Porque la fuerte industrialización y la creación de grandes ciudades motivaron a los obreros a formar sindicatos de resistencia urbana.",
+      "Porque la masiva importación y la venta de alimentos extranjeros impulsaron a los comerciantes a fundar milicias de protección comercial.",
+      "Porque la agresiva minería y la extracción de recursos naturales forzaron a los indígenas a crear frentes de choque ambiental."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Estadísticas recientes revelan que millones de hectáreas fueron abandonadas en Colombia durante los años noventa. Los desplazados afirman que fueron obligados a vender sus fincas a precios irrisorios bajo severas amenazas de muerte.",
+      "pregunta": "Relacionando estos datos con el desarrollo del paramilitarismo, ¿cuál fue uno de sus principales impactos socioeconómicos en el país?"
+    },
+    "respuesta": "La apropiación violenta de tierras, provocando el desplazamiento forzado de campesinos y consolidando el dominio territorial de las extremas derechas.",
+    "ayuda": "Los paramilitares, buscando controlar el territorio, desplazaron a millones de personas y se apropiaron de millones de hectáreas, empeorando la desigualdad rural en Colombia.",
+    "distractores": [
+      "La destrucción sistemática de industrias, generando el desempleo masivo de trabajadores y debilitando el crecimiento económico de las grandes capitales.",
+      "La ocupación planificada de ciudades, causando el hacinamiento urbano de migrantes y destruyendo el tejido social de las clases populares.",
+      "La nacionalización forzada de empresas, motivando el éxodo masivo de inversionistas y quebrando el sistema financiero de las regiones prósperas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En las noticias de crónicas judiciales se relata cómo, en los años ochenta, capos del narcotráfico llegaron a financiar campañas políticas y a tener escaños en el parlamento nacional bajo un falso discurso filantrópico.",
+      "pregunta": "De acuerdo con el texto, ¿qué efecto institucional tuvo esta inmensa acumulación de capital ilegal por parte de los carteles?"
+    },
+    "respuesta": "Permitió corromper a muchos funcionarios públicos, penetrar los círculos sociales exclusivos y desafiar directamente al Estado utilizando el terrorismo armado.",
+    "ayuda": "El dinero del narcotráfico permitió a los carteles penetrar la política, financiar ejércitos de sicarios y retar la autoridad del Estado mediante actos de terrorismo.",
+    "distractores": [
+      "Permitió subsidiar a múltiples empresarios privados, reactivar los proyectos industriales detenidos y dominar rápidamente al mercado utilizando el comercio legal.",
+      "Permitió sobornar a varios jueces internacionales, bloquear los acuerdos aduaneros externos y someter silenciosamente al gobierno utilizando el chantaje financiero.",
+      "Permitió financiar a pequeños productores agrícolas, modernizar los cultivos rurales tradicionales y enriquecer pacíficamente al campesino utilizando el mercado informal."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un estudiante debate en clase: 'Para presionar por un acuerdo de paz o denunciar incumplimientos, un grupo rebelde toma un edificio lleno de civiles. La fuerza pública responde con tanques y explosivos sin negociar'.",
+      "pregunta": "Históricamente, ¿qué evento de la década del ochenta ilustra este trágico choque de fuerzas donde el objetivo político culminó en desastre?"
+    },
+    "respuesta": "La catastrófica toma del Palacio de Justicia por el grupo insurgente M-19 y la desproporcionada respuesta militar del ejército nacional.",
+    "ayuda": "La toma del Palacio de Justicia por el M-19 y la cruenta retoma militar evidencian cómo un acto de presión política terminó en una tragedia incalculable.",
+    "distractores": [
+      "La violenta ocupación de la embajada dominicana por el grupo guerrillero FARC y la desproporcionada respuesta judicial del gobierno nacional.",
+      "La sorpresiva captura del Congreso de Colombia por el grupo subversivo ELN y la desproporcionada respuesta policial del estado nacional.",
+      "La sangrienta invasión del cuartel de seguridad por el grupo paramilitar AUC y la desproporcionada respuesta naval del comando nacional."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En una serie de televisión sobre los años ochenta, se muestra a los jefes de los carteles colocando bombas en supermercados y aviones comerciales tras la firma de un acuerdo bilateral entre Colombia y Estados Unidos.",
+      "pregunta": "Según los hechos históricos, ¿qué política estatal específica provocó que los narcotraficantes recurrieran al terrorismo indiscriminado contra la sociedad civil?"
+    },
+    "respuesta": "La amenaza inminente de aplicar la extradición para juzgarlos y encarcelarlos en las estrictas y temidas prisiones de Norteamérica.",
+    "ayuda": "El tratado de extradición a EE. UU. fue la mayor amenaza para los capos, quienes respondieron con una brutal ola de terrorismo contra el Estado.",
+    "distractores": [
+      "La decisión repentina de nacionalizar los cultivos para controlarlos y regularizarlos en las antiguas y olvidadas granjas de Sudamérica.",
+      "La prohibición absoluta de importar los químicos para fabricarlos y procesarlos en las ocultas y lejanas montañas de Centroamérica.",
+      "La campaña agresiva de erradicar los terrenos para destruirlos y eliminarlos en las ricas y productivas sabanas de Latinoamérica."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Expertos agrarios debaten sobre la Ley 100 de 1994, diseñada para redistribuir la propiedad rural en Colombia. Sin embargo, los censos actuales muestran que las mejores tierras siguen concentradas en muy pocas manos.",
+      "pregunta": "Al analizar la eficacia histórica de las reformas agrarias mencionadas en el texto, ¿qué conclusión crítica se deriva sobre la desigualdad rural?"
+    },
+    "respuesta": "Que la implementación de las leyes ha sido sistemáticamente limitada, permitiendo que la concentración de tierras persista socialmente intacta.",
+    "ayuda": "A pesar de leyes como la Ley 100 de 1994, la falta de voluntad política impidió una verdadera redistribución, manteniendo intacta la histórica concentración de tierras.",
+    "distractores": [
+      "Que la expropiación de las fincas ha sido absolutamente exitosa, garantizando que la distribución de riquezas funcione económicamente perfecta.",
+      "Que la importación de las semillas ha sido tecnológicamente avanzada, logrando que la producción de alimentos mejore productivamente rápido.",
+      "Que la pavimentación de las vías ha sido financieramente rentable, asegurando que la exportación de cosechas aumente logísticamente pronto."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Las Autodefensas Unidas de Colombia (AUC) se justificaron originalmente como un mecanismo de protección ciudadana frente a los secuestros y extorsiones de la guerrilla, presentándose en público como los verdaderos defensores del orden.",
+      "pregunta": "Considerando sus acciones descritas en el texto, ¿por qué el discurso protector del paramilitarismo resultó ser una contradicción histórica y social?"
+    },
+    "respuesta": "Porque en lugar de garantizar seguridad, sembraron terror extremo mediante masacres, perpetraron desplazamientos forzados y robaron inmensas cantidades de tierra.",
+    "ayuda": "Aunque se justificaban como defensores, las AUC multiplicaron la violencia mediante masacres sistemáticas, despojo de tierras y desplazamiento forzado de la población civil.",
+    "distractores": [
+      "Porque en lugar de combatir directamente, firmaron tratados secretos mediante sobornos, organizaron elecciones fraudulentas y financiaron grandes campañas de políticos.",
+      "Porque en lugar de proteger campesinos, armaron ejércitos regulares mediante reclutamientos, construyeron cárceles clandestinas y cobraron altísimos impuestos de guerra.",
+      "Porque en lugar de invertir recursos, destruyeron infraestructuras públicas mediante bombardeos, quemaron bibliotecas nacionales y sabotearon inmensas cantidades de cultivos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El actual mandatario de Colombia, Gustavo Petro, fue en su juventud militante del M-19. Su trayectoria desde la insurgencia armada hasta la presidencia suele citarse en diversos foros internacionales de resolución de conflictos.",
+      "pregunta": "Desde una perspectiva histórica, ¿qué particularidad política destaca al proceso de paz firmado entre el Estado colombiano y la guerrilla del M-19?"
+    },
+    "respuesta": "Constituye el único ejemplo de desmovilización guerrillera plenamente consolidado que culminó con una pacífica e histórica integración a la política.",
+    "ayuda": "El M-19 destaca históricamente por haber logrado una desmovilización completa, una exitosa transición a la vida civil y una activa participación en la Asamblea Constituyente.",
+    "distractores": [
+      "Representa el primer intento de negociación paramilitar totalmente fallido que terminó con una violenta y trágica expulsión de la ciudad.",
+      "Simboliza el mejor acuerdo de rendición internacional ampliamente reconocido que finalizó con una rápida y efectiva extradición a la justicia.",
+      "Evidencia el mayor fracaso de pacificación gubernamental tristemente recordado que derivó en una sangrienta y cruel persecución en la región."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En el año 2023, la Agencia de la ONU para los Refugiados (ACNUR) reportó que millones de colombianos viven en barrios de invasión en las periferias de las ciudades, sin servicios básicos ni títulos de propiedad.",
+      "pregunta": "Al correlacionar esta profunda crisis urbana con el conflicto agrario, ¿cuál es la causa estructural que originó este fenómeno de desplazamiento masivo?"
+    },
+    "respuesta": "La presencia de actores armados que, empleando una extrema y constante violencia, forzaron a miles de comunidades campesinas a huir.",
+    "ayuda": "Las cifras de ACNUR evidencian que el desplazamiento forzado es la consecuencia directa del terror sembrado por grupos armados, obligando al campesino a huir a las ciudades.",
+    "distractores": [
+      "La ausencia de subsidios estatales que, provocando una severa y rápida quiebra, motivaron a miles de empresarios agrícolas a migrar.",
+      "La escasez de maquinaria industrial que, generando una grave y profunda pobreza, obligaron a miles de jóvenes rurales a salir.",
+      "La importación de alimentos extranjeros que, destruyendo una antigua y próspera economía, indujeron a miles de trabajadores locales a viajar."
+    ]
+  }
+]
