@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "Un alcalde recién elegido anuncia en televisión que creará un 'Impuesto a las bicicletas' para financiar el deporte local, argumentando que la Constitución le otorga autonomía territorial.",
+      "pregunta": "¿Por qué la iniciativa de este mandatario local es inconstitucional según las normas de financiación territorial?"
+    },
+    "respuesta": "Los municipios carecen de facultades legales para inventar nuevos tributos y solo pueden cobrar los impuestos autorizados directamente por el Congreso.",
+    "ayuda": "Identifica el mandato constitucional: los alcaldes no legislan impuestos, esa es una atribución exclusiva del Congreso de la República de Colombia.",
+    "distractores": [
+      "Los gobernadores carecen de herramientas financieras para recaudar nuevos aranceles y solo pueden cobrar los impuestos aprobados directamente por el Presidente.",
+      "Las asambleas carecen de capacidades técnicas para diseñar nuevos cobros y solo pueden cobrar los impuestos regulados directamente por el Ministerio.",
+      "Los concejales carecen de permisos constitucionales para exigir nuevos pagos y solo pueden cobrar los impuestos avalados directamente por el Juzgado."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un concejal advierte que el municipio lleva diez años sin actualizar su información sobre los lotes y viviendas construidas, lo que afecta directamente el recaudo del impuesto predial unificado.",
+      "pregunta": "Según el texto, ¿qué medida específica debe implementar la alcaldía para solucionar estructuralmente este grave rezago en la información tributaria?"
+    },
+    "respuesta": "Contratar a un gestor catastral especializado para implementar el catastro multipropósito y mantener todos los datos territoriales permanentemente actualizados.",
+    "ayuda": "Para actualizar predios y cobrar el impuesto justo de forma permanente, la norma exige delegar esta tarea a un gestor catastral certificado.",
+    "distractores": [
+      "Contratar a un juez administrativo local para dictar las medidas cautelares y mantener todos los cobros prediales estrictamente congelados.",
+      "Contratar a un banco internacional privado para financiar el déficit municipal y mantener todos los pagos ciudadanos completamente garantizados.",
+      "Contratar a un ministro económico nacional para intervenir la alcaldía central y mantener todos los recursos fiscales totalmente protegidos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "A pesar de que en un municipio hay un enorme movimiento comercial de artesanías y alimentos, la Secretaría de Hacienda reporta un recaudo per cápita muy bajo en Industria y Comercio (ICA).",
+      "pregunta": "¿Qué factor estructural explica esta aparente contradicción entre la alta actividad económica y el bajo recaudo de impuestos locales?"
+    },
+    "respuesta": "La inmensa mayoría de los comerciantes opera en la informalidad, lo que les impide declarar y pagar sus obligaciones tributarias al municipio.",
+    "ayuda": "Si hay mucho comercio pero poco impuesto recaudado, el problema radica en la falta de formalización empresarial, lo que oculta las transacciones al Estado.",
+    "distractores": [
+      "La enorme cantidad de los productos extranjeros inunda la localidad, lo que les impide competir y vender sus mercancías agrícolas al mercado.",
+      "La extrema corrupción de las aduanas nacionales retiene la mercancía, lo que les impide exportar y recibir sus pagos internacionales al banco.",
+      "La escasa capacitación de los consumidores rurales reduce la demanda, lo que les impide comprar y generar sus dinámicas comerciales al empresario."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El hospital público de un distrito reporta pérdidas millonarias cada año. El gerente argumenta que las empresas estatales no están diseñadas para ser rentables, sino únicamente para prestar servicios sociales.",
+      "pregunta": "A partir de la guía sobre financiación territorial, ¿por qué el argumento de este directivo resulta perjudicial para las finanzas locales?"
+    },
+    "respuesta": "Las entidades públicas ineficientes se convierten en pesadas anclas financieras que terminan arruinando gravemente los recursos generales de la respectiva alcaldía municipal.",
+    "ayuda": "Analiza cómo el sostenimiento de entidades ineficientes y deficitarias consume los recursos que el municipio debería destinar a inversiones públicas estratégicas.",
+    "distractores": [
+      "Las fundaciones sociales independientes se transforman en poderosos rivales económicos que terminan quebrando rápidamente los mercados privados de la respectiva alcaldía municipal.",
+      "Las corporaciones médicas internacionales se vuelven en estrictos entes reguladores que terminan multando severamente los servicios básicos de la respectiva alcaldía municipal.",
+      "Las instituciones educativas universitarias se convierten en grandes focos políticos que terminan dividiendo profundamente los sectores sociales de la respectiva alcaldía municipal."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Para modernizar el cobro de impuestos, el alcalde ordena a su Secretario de Hacienda que cruce periódicamente las bases de datos de los contribuyentes locales con la información oficial de la DIAN.",
+      "pregunta": "¿Qué objetivo principal busca alcanzar la administración municipal al implementar este cruce constante de información tributaria con entidades de orden nacional?"
+    },
+    "respuesta": "Detectar rápidamente posibles fraudes, identificar graves inconsistencias financieras y aumentar eficientemente la recuperación sistemática de todos los impuestos evadidos.",
+    "ayuda": "Cruzar la información municipal con los datos de la DIAN permite descubrir a los evasores que declaran ingresos a nivel nacional pero los ocultan localmente.",
+    "distractores": [
+      "Reducir drásticamente enormes gastos operativos, disminuir grandes contrataciones burocráticas y mejorar notablemente la imagen pública de todos los alcaldes salientes.",
+      "Promover masivamente nuevas inversiones extranjeras, facilitar rápidos trámites aduaneros y fortalecer económicamente la exportación agrícola de todos los productos locales.",
+      "Generar automáticamente mayores subsidios sociales, entregar rápidas ayudas humanitarias y proteger financieramente la economía familiar de todos los sectores pobres."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un municipio modifica su Plan de Ordenamiento Territorial (POT), convirtiendo varias hectáreas de suelo rural en suelo urbano y comercial, lo que multiplica de forma inmediata el valor económico de esos terrenos.",
+      "pregunta": "¿Qué instrumento financiero legal permite a la alcaldía captar parte de esta nueva riqueza generada por sus decisiones administrativas?"
+    },
+    "respuesta": "El cobro del impuesto de plusvalía, que grava el incremento del valor del suelo derivado directamente de los cambios normativos en su regulación.",
+    "ayuda": "Busca el tributo diseñado específicamente para capturar la ganancia extraordinaria que obtiene un propietario cuando el Estado cambia el uso de su suelo.",
+    "distractores": [
+      "La creación del arancel de exportación, que grava el envío de los insumos agrícolas derivado directamente de los tratados comerciales en la aduana.",
+      "El aumento del tributo sobre la renta, que grava el salario de los campesinos derivado directamente de los contratos laborales en su parcela.",
+      "La emisión de bonos de deuda pública, que grava el patrimonio de los inversionistas derivado directamente de los préstamos bancarios en la nación."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una alcaldía decide implementar estrategias de 'Gobierno Abierto', publicando todos sus contratos en línea y realizando rendiciones de cuentas mensuales junto a los diversos líderes de la comunidad local.",
+      "pregunta": "Según el documento, ¿qué impacto económico positivo genera directamente esta mayor transparencia en la gestión de los recursos públicos municipales?"
+    },
+    "respuesta": "Fomenta la confianza de todos los ciudadanos, lo que facilita el pago de impuestos y permite apalancar más recursos del sector económico privado.",
+    "ayuda": "La transparencia y la rendición de cuentas (Gobierno Abierto) generan confianza ciudadana, lo que disminuye la evasión fiscal y atrae más inversión privada.",
+    "distractores": [
+      "Obliga la reducción de todos los presupuestos, lo que frena el gasto de ministerios y permite ahorrar más dineros del sistema financiero nacional.",
+      "Impide la participación de todos los empresarios, lo que bloquea el flujo de capitales y permite aislar más contratos del mercado internacional externo.",
+      "Aumenta la dependencia de todos los gobernantes, lo que exige el cobro de aranceles y permite solicitar más préstamos del fondo monetario global."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un municipio pequeño necesita construir una carretera vital para sacar sus productos, pero su presupuesto anual no alcanza ni para cubrir el treinta por ciento del costo total del ambicioso proyecto infraestructural.",
+      "pregunta": "¿Qué figura financiera sugiere la guía para materializar grandes obras de infraestructura cuando los recursos públicos son totalmente insuficientes?"
+    },
+    "respuesta": "Establecer estratégicas alianzas de tipo público-privado para lograr atraer capitales externos que viabilicen las grandes obras de inmenso y positivo impacto regional.",
+    "ayuda": "Cuando el presupuesto local no alcanza, la alianza con el sector privado es la herramienta financiera ideal para compartir los altos costos de infraestructura.",
+    "distractores": [
+      "Promulgar inmediatas leyes de emergencia civil para lograr expropiar capitales privados que financien las grandes obras de inmenso y positivo impacto regional.",
+      "Solicitar constantes donaciones de beneficencia social para lograr recolectar capitales ciudadanos que subsidien las grandes obras de inmenso y positivo impacto regional.",
+      "Imprimir nuevos billetes de circulación nacional para lograr generar capitales internos que paguen las grandes obras de inmenso y positivo impacto regional."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un barrio popular organiza un comité para construir su propio acueducto veredal en alianza con la alcaldía local. La comunidad aportará mano de obra y vigilará estrictamente la compra de los materiales.",
+      "pregunta": "¿Qué doble beneficio económico y administrativo genera este tipo de integración directa entre el municipio y los sectores populares organizados?"
+    },
+    "respuesta": "Abarata drásticamente los altos costos de construcción y previene eficientemente la grave corrupción al garantizar una fuerte veeduría ciudadana permanente.",
+    "ayuda": "El trabajo conjunto con la comunidad aporta mano de obra que reduce gastos y establece controles sociales que evitan el desvío de los dineros públicos.",
+    "distractores": [
+      "Incrementa exponencialmente los grandes ingresos de tributación y asegura jurídicamente la total legalidad al eliminar una débil fiscalía nacional operante.",
+      "Disminuye rápidamente los fuertes gastos de representación y protege militarmente la gran frontera al instalar una fuerte guardia campesina permanente.",
+      "Multiplica financieramente los bajos rendimientos de inversión y acelera burocráticamente la gran exportación al crear una fuerte empresa multinacional dominante."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un alcalde gestiona fondos ante una embajada europea para implementar un proyecto de reforestación y cuidado de fuentes de agua en las montañas de su jurisdicción rural.",
+      "pregunta": "Este tipo de gestión administrativa se enmarca dentro de las estrategias de apalancamiento recomendadas por el texto oficial, específicamente conocidas como:"
+    },
+    "respuesta": "La cooperación internacional, que permite acceder a importantes fondos externos destinados a fortalecer y desarrollar vitales temas sociales, educativos y ambientales.",
+    "ayuda": "Las embajadas y ONGs extranjeras ofrecen recursos financieros no reembolsables mediante la cooperación internacional para apoyar proyectos de impacto social, ecológico o educativo.",
+    "distractores": [
+      "La nacionalización empresarial, que permite expropiar a grandes fondos privados destinados a monopolizar y controlar rentables temas mineros, petroleros y aduaneros.",
+      "La centralización financiera, que permite trasladar a inmensos fondos nacionales destinados a regular y dominar estrictos temas militares, penales y judiciales.",
+      "La flexibilización tributaria, que permite perdonar a millonarios fondos corporativos destinados a encarecer y especular complejos temas comerciales, bancarios y bursátiles."
+    ]
+  }
+]
