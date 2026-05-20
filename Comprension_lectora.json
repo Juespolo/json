@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "El texto señala que la lectura depende profundamente de los conocimientos y experiencias previas del sujeto. En la hermenéutica filosófica de Gadamer, esto se conoce como el 'horizonte de expectativas' o los prejuicios con los que abordamos una obra.",
+      "pregunta": "De acuerdo con este enfoque hermenéutico y las estrategias leídas, ¿cuál es la función principal de activar nuestros conocimientos previos antes de leer?"
+    },
+    "respuesta": "Permite establecer un diálogo crítico entre las experiencias históricas del lector y los múltiples significados ocultos del texto.",
+    "ayuda": "La hermenéutica enseña que nuestros conocimientos previos no son errores, sino el punto de partida necesario para dialogar y comprender cualquier texto.",
+    "distractores": [
+      "Obliga imponer un prejuicio dogmático sobre las intenciones originales del autor y los distintos postulados teóricos del libro.",
+      "Impide desarrollar un análisis objetivo sobre las verdades universales del mundo y los diversos argumentos lógicos del autor.",
+      "Promueve asimilar un concepto inalterable desde las creencias religiosas del sujeto y los antiguos dogmas morales del grupo."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El filósofo Paul Ricoeur propuso la 'hermenéutica de la sospecha' como el método para dudar de lo evidente y buscar verdades ocultas. Paralelamente, el documento establece que un lector crítico no se centra solo en lo explícito, sino en elementos implícitos y propósitos ideológicos.",
+      "pregunta": "Si aplicamos esta 'sospecha hermenéutica' a la lectura de un discurso político contemporáneo, ¿cuál sería la acción fundamental del estudiante crítico?"
+    },
+    "respuesta": "Identificar las intenciones ideológicas implícitas que subyacen estratégicamente bajo las palabras literales pronunciadas por el hábil líder político.",
+    "ayuda": "El lector crítico (sospechoso) lee 'entre líneas' para descubrir propósitos no evidentes, ideologías e intereses ocultos tras el lenguaje explícito oficial.",
+    "distractores": [
+      "Aceptar las verdades absolutas evidentes que resplandecen claramente sobre las frases retóricas construidas por el buen líder político.",
+      "Memorizar las promesas económicas oficiales que aparecen textualmente en las páginas impresas publicadas por el gran líder político.",
+      "Rechazar las estructuras gramaticales complejas que confunden visualmente a las masas ciudadanas dirigidas por el nuevo líder político."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un profesor de filosofía entrega el siguiente aforismo de Heráclito: 'Nadie se baña dos veces en el mismo río'. Un estudiante con nivel de lectura acrítica concluye inmediatamente que el texto trata exclusivamente sobre las normas de higiene en la antigua Grecia.",
+      "pregunta": "Basados en el cuadro comparativo del documento y los principios hermenéuticos, ¿qué error metodológico está cometiendo el estudiante al interpretar este fragmento?"
+    },
+    "respuesta": "Asume un único significado literal evidente, ignorando que los textos poseen múltiples interpretaciones dinámicas dependientes del contexto filosófico.",
+    "ayuda": "El lector acrítico busca un solo significado literal, mientras que el lector crítico reconoce la pluralidad de sentidos adaptables al contexto.",
+    "distractores": [
+      "Busca un falso argumento científico moderno, olvidando que las obras requieren diversas comprobaciones empíricas derivadas del método deductivo.",
+      "Exige un claro propósito moral religioso, rechazando que los escritos contienen distintas enseñanzas éticas adaptables al mundo contemporáneo.",
+      "Finge un breve resumen textual exacto, omitiendo que las frases exigen extensas traducciones lingüísticas enfocadas al análisis sintáctico."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El documento sugiere 'formular hipótesis' imaginando de qué tratará el texto a partir de los títulos. En hermenéutica, esto equivale a proyectar un sentido anticipado. Al leer el título 'El mito de Sísifo' de Albert Camus, un estudiante formula una hipótesis inicial sobre dioses griegos.",
+      "pregunta": "Durante el desarrollo de su lectura crítica y filosófica, ¿qué debe hacer el estudiante con esta primera hipótesis anticipada?"
+    },
+    "respuesta": "Debe confrontarla constantemente con la nueva información encontrada para confirmar, modificar o refutar su comprensión estructural del texto.",
+    "ayuda": "La comprensión es dinámica. Las hipótesis iniciales deben someterse a prueba a medida que se avanza, permitiendo ajustar la interpretación hermenéutica.",
+    "distractores": [
+      "Debe mantenerla rígidamente ante la nueva información encontrada para conservar, proteger o defender su interpretación personal del texto.",
+      "Debe ignorarla completamente ante la nueva información encontrada para olvidar, descartar o borrar su percepción inicial del texto.",
+      "Debe publicarla inmediatamente ante la nueva información encontrada para debatir, exponer o imponer su visión particular del texto."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El documento clasifica las acciones del lector en cognitivas y metacognitivas. Las actividades metacognitivas se refieren a la autoconciencia, la supervisión y el control del propio proceso mental, un concepto fundamental para la reflexión filosófica.",
+      "pregunta": "Si un estudiante está leyendo la 'Crítica de la razón pura' de Kant y nota que perdió la concentración, ¿qué acción metacognitiva debe aplicar?"
+    },
+    "respuesta": "Detener su lectura inmediatamente, evaluar qué proceso mental falló estructuralmente y retroceder para releer cuidadosamente el complejo argumento.",
+    "ayuda": "La metacognición implica monitorear la propia comprensión. Darse cuenta de que no se entiende y tomar medidas correctoras es su función.",
+    "distractores": [
+      "Continuar su lectura rápidamente, suponer qué concepto ideal surgió naturalmente y avanzar para terminar velozmente el extenso argumento.",
+      "Ignorar su lectura temporalmente, preguntar qué profesor local explicó superficialmente y copiar para entregar puntualmente el simple argumento.",
+      "Resumir su lectura parcialmente, adivinar qué filósofo alemán pensó históricamente y escribir para aprobar fácilmente el difícil argumento."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El autor Cassany establece que un lector crítico 'identifica que hay diferencias entre comprender un texto y asumir una postura frente a este'. En un acalorado debate sobre 'El Príncipe' de Maquiavelo, un estudiante argumenta: 'El texto es falso porque sus consejos políticos son inmorales'.",
+      "pregunta": "Desde la perspectiva de las estrategias de lectura propuestas, ¿por qué el juicio valorativo del estudiante resulta hermenéuticamente inválido?"
+    },
+    "respuesta": "Porque confunde su valoración ética personal con la comprensión objetiva del significado ideológico propuesto originalmente por el autor.",
+    "ayuda": "Comprender un texto no significa estar de acuerdo con él. La lectura crítica exige separar la interpretación rigurosa de la valoración moral.",
+    "distractores": [
+      "Porque separa su creencia moral religiosa de la traducción literal del vocabulario histórico escrito inicialmente por el autor.",
+      "Porque mezcla su ideología política moderna con la estructura gramatical del lenguaje clásico utilizado antiguamente por el autor.",
+      "Porque olvida su identidad cultural propia ante la persuasión psicológica del argumento falaz diseñado astutamente por el autor."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El documento indica que el lector crítico 'busca una interpretación social del texto, a partir del diálogo con otros lectores y otros escritos'. En filosofía, la verdad interpretativa no es un acto aislado (solipsista), sino que se construye mediante la intertextualidad.",
+      "pregunta": "Al analizar un ensayo sobre la libertad de Jean-Paul Sartre, ¿qué estrategia refleja verdaderamente una interpretación social y crítica?"
+    },
+    "respuesta": "Contrastar el ensayo existencialista con otras fuentes filosóficas contemporáneas y debatir sus profundas implicaciones éticas con otros lectores.",
+    "ayuda": "La interpretación crítica supera el aislamiento; requiere contrastar fuentes (intertextualidad) y discutir con otras personas para construir un significado social amplio.",
+    "distractores": [
+      "Resumir el ensayo existencialista con sus propias palabras individuales y memorizar sus complejas definiciones teóricas sin otros lectores.",
+      "Copiar el ensayo existencialista con sus exactas estructuras gramaticales y repetir sus extensas frases retóricas ante otros lectores.",
+      "Ignorar el ensayo existencialista con sus densas reflexiones abstractas y buscar sus breves conclusiones lógicas mediante otros lectores."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un principio fundamental del lector crítico es que 'lee cada texto de forma diferente, de acuerdo con la situación que se presenta'. Por ende, leer un tratado de Platón no exige la misma actitud mental que leer una simple noticia económica en redes sociales.",
+      "pregunta": "¿Cómo debe adaptar un estudiante su estrategia hermenéutica al enfrentarse por primera vez a un texto de filosofía metafísica?"
+    },
+    "respuesta": "Debe planificar una lectura lenta, analítica y reflexiva, ajustando sus procesos cognitivos al enorme grado de exigencia teórica.",
+    "ayuda": "Cada texto exige una estrategia distinta. Un texto académico filosófico requiere planificar el tiempo, evaluar la exigencia y aplicar lectura profunda.",
+    "distractores": [
+      "Debe realizar una lectura rápida, superficial y mecánica, limitando sus procesos mentales al mínimo grado de esfuerzo físico.",
+      "Debe ejecutar una lectura visual, estética y poética, enfocando sus procesos creativos al alto grado de belleza literaria.",
+      "Debe rechazar una lectura densa, aburrida y extensa, desviando sus procesos lógicos al bajo grado de interés personal."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Cassany advierte que el lector crítico 'se fija en las imágenes del autor y del lector, así como en las estrategias que usa el escritor'. En la argumentación, esto se relaciona con el 'ethos' (cómo se muestra el autor) y el 'pathos' (cómo manipula al lector).",
+      "pregunta": "Al leer un panfleto político donde un autor defiende la igualdad utilizando un tono extremadamente paternalista, ¿qué debe develar el lector crítico?"
+    },
+    "respuesta": "Que el autor proyecta una imagen de superioridad intelectual, construyendo estratégicamente a un lector subordinado para manipularlo psicológicamente.",
+    "ayuda": "El análisis crítico del discurso implica develar cómo el autor se posiciona a sí mismo y cómo trata de posicionar al lector.",
+    "distractores": [
+      "Que el autor proyecta una imagen de inferioridad emocional, construyendo estratégicamente a un lector dominante para empoderarlo políticamente.",
+      "Que el autor proyecta una imagen de neutralidad científica, construyendo estratégicamente a un lector objetivo para informarlo académicamente.",
+      "Que el autor proyecta una imagen de complicidad amistosa, construyendo estratégicamente a un lector fraterno para entretenerlo literariamente."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El texto académico propone la fase de Analizar: 'Identificar temas' (el todo del documento) e 'Identificar ideas principales' (las partes). En la tradición interpretativa, a este proceso bidireccional se le conoce formalmente como el 'Círculo Hermenéutico'.",
+      "pregunta": "Durante esta fase de análisis y síntesis estructural del texto, ¿qué relación de interdependencia debe construir el estudiante crítico?"
+    },
+    "respuesta": "Debe comprender que las ideas particulares complementan directamente el tema general, y el tema unifica lógicamente las ideas.",
+    "ayuda": "El Círculo Hermenéutico dicta que las partes (ideas) solo se entienden por el todo (tema), y el todo gracias a las partes.",
+    "distractores": [
+      "Debe suponer que las ideas secundarias contradicen directamente el tema general, y el tema elimina lógicamente las ideas.",
+      "Debe ignorar que las ideas abstractas reemplazan directamente el tema general, y el tema oscurece lógicamente las ideas.",
+      "Debe fingir que las ideas inconexas destruyen directamente el tema general, y el tema fragmenta lógicamente las ideas."
+    ]
+  }
+]
