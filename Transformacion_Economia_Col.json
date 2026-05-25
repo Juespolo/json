@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "Un alcalde de un municipio cafetero anuncia en las noticias locales: 'Gracias a los impuestos recaudados por la histórica venta de nuestro grano en el exterior, construiremos nuevas carreteras y puentes para conectar nuestras veredas con la ciudad'.",
+      "pregunta": "Según el texto sobre la historia económica colombiana, ¿qué beneficio directo obtuvo el Estado con el auge exportador del café?"
+    },
+    "respuesta": "Pudo invertir el dinero de los impuestos cobrados para construir importantes obras de infraestructura nacional.",
+    "ayuda": "El auge cafetero generó ingresos fiscales a través de impuestos, permitiendo al gobierno invertir en obras de infraestructura fundamentales.",
+    "distractores": [
+      "Logró regalar el capital de los subsidios donados para financiar grandes campañas de propaganda política.",
+      "Pudo ahorrar el saldo de los préstamos pedidos para comprar costosas armas de guerra europea.",
+      "Logró ocultar el fondo de los tributos exigidos para pagar antiguas deudas de bancos privados."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Durante una crisis global, una noticia internacional informa que los barcos con ropa y alimentos han dejado de llegar al país. Los empresarios locales deciden construir fábricas propias para abastecer los mercados que quedaron vacíos.",
+      "pregunta": "Relacionando este escenario con el texto, ¿qué evento histórico obligó a Colombia a impulsar la creación de fábricas internas?"
+    },
+    "respuesta": "Las profundas crisis económicas mundiales ocurridas tras la Primera Guerra Mundial y la Gran Depresión.",
+    "ayuda": "Las crisis mundiales de 1914 y 1929 frenaron las importaciones, obligando a los países no industrializados a fabricar sus propios bienes.",
+    "distractores": [
+      "Las constantes guerras civiles regionales desatadas tras la Separación de Panamá y la Gran Violencia.",
+      "Las grandes sequías climáticas globales reportadas tras la Segunda Guerra Mundial y la Gran Escasez.",
+      "Las fuertes presiones políticas internacionales surgidas tras la Guerra Fría Militar y la Gran Revolución."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El presidente actual emite un decreto que aumenta los impuestos a los zapatos importados desde Asia, con el objetivo de proteger a las pequeñas empresas locales que fabrican calzado en el territorio nacional.",
+      "pregunta": "¿A qué medida histórica utilizada por los gobiernos conservadores de la época se asemeja esta decisión presidencial actual?"
+    },
+    "respuesta": "A la implementación de diversas políticas de corte proteccionista para incentivar la incipiente industria nacional.",
+    "ayuda": "El proteccionismo económico busca proteger a las empresas nacionales de la competencia externa mediante la imposición de medidas restrictivas.",
+    "distractores": [
+      "A la promoción de múltiples tratados de libre comercio para estimular la antigua exportación rural.",
+      "A la cancelación de varios subsidios de tipo financiero para frenar la gran inflación estatal.",
+      "A la creación de estrictas normas de control ambiental para sancionar la nueva minería ilegal."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un reportaje investigativo revela que un país entregó la explotación de sus minas de oro a una empresa extranjera, recibiendo apenas una mínima parte de las ganancias y perdiendo el control absoluto de la zona.",
+      "pregunta": "En la historia de Colombia, ¿qué situación económica de principios del siglo XX refleja exactamente este modelo de negocio desventajoso?"
+    },
+    "respuesta": "La entrega de las ricas concesiones petroleras nacionales a las grandes compañías extranjeras de Norteamérica.",
+    "ayuda": "La concesión petrolera a la Tropical Oil y Colombian Petroleum dejó escasas ganancias al Estado y cedió el control territorial.",
+    "distractores": [
+      "La venta de las extensas plantaciones bananeras costeras a las nuevas empresas familiares de Sudamérica.",
+      "La donación de las antiguas minas esmeraldíferas regionales a las pequeñas organizaciones campesinas de Centroamérica.",
+      "La cesión de las grandes haciendas cafeteras andinas a las poderosas industrias textiles de Europa."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una empresa multinacional de alimentos se instala en una región caribeña. Nunca compra fincas, sino que obliga a los campesinos a venderle sus cosechas, convirtiéndose en la verdadera autoridad económica de toda la zona.",
+      "pregunta": "¿Cuál fue el papel real que desempeñó la empresa norteamericana United Fruit Company en la Costa Atlántica colombiana?"
+    },
+    "respuesta": "Actuó como la gran comercializadora mundial del banano y operó como administradora de la región.",
+    "ayuda": "La United Fruit no compró la tierra, solo comercializaba el banano producido por locales, pero dominaba la economía regional.",
+    "distractores": [
+      "Sirvió como la principal constructora nacional del ferrocarril y funcionó como defensora de la ciudad.",
+      "Trabajó como la única explotadora legal del petróleo y gobernó como propietaria de la tierra.",
+      "Laboró como la mayor productora textil del continente y rindió como financiadora de la capital."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En las noticias de economía, un presentador explica que después de treinta años de explotación extranjera, los pozos de un importante recurso natural finalmente han regresado a ser propiedad exclusiva del Estado colombiano.",
+      "pregunta": "¿Qué acción gubernamental se llevó a cabo para recibir y administrar los recursos petroleros que fueron devueltos al país?"
+    },
+    "respuesta": "Se creó la Empresa Colombiana de Petróleos para asumir exitosamente el control nacional del recurso.",
+    "ayuda": "Ecopetrol fue fundada en 1948-1951 precisamente para administrar las concesiones petroleras (como la de Mares) cuando estas revirtieron al Estado.",
+    "distractores": [
+      "Se fundó el Banco Central de Reservas para guardar secretamente el dinero extranjero del negocio.",
+      "Se formó el Ministerio Nacional de Comercio para regular estrictamente el precio internacional del barril.",
+      "Se armó el Sindicato Regional de Trabajadores para exigir violentamente el pago justo del salario."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un censo poblacional muestra que las grandes ciudades colombianas duplicaron su tamaño rápidamente, mientras los pueblos campesinos perdieron habitantes. Los sociólogos afirman que la gente busca donde están las nuevas fábricas y los puertos.",
+      "pregunta": "Según la lectura, ¿cuál fue el motor principal que impulsó esta enorme migración del campo a las ciudades?"
+    },
+    "respuesta": "La urgente necesidad de contratar mucha mano de obra para operar las nuevas industrias manufactureras.",
+    "ayuda": "La industrialización urbana requirió contingentes masivos de trabajadores, motivando la migración rural-urbana conocida como el proceso de urbanización en Colombia.",
+    "distractores": [
+      "La fuerte presión de buscar nuevas tierras de siembra para escapar de constantes guerras partidistas.",
+      "La falsa promesa de recibir mucha ayuda del gobierno para construir las grandes viviendas urbanas.",
+      "La inmensa facilidad de importar muchas máquinas de coser para vender los antiguos tejidos artesanales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En una feria empresarial nacional, un pabellón destaca la historia de la moda y la ropa en el país, exhibiendo los primeros telares que fabricaron los famosos productos de Coltejer, Fabricato y Tejicóndor.",
+      "pregunta": "¿En qué zona específica del país se desarrolló de manera más fuerte e importante esta industria de los textiles?"
+    },
+    "respuesta": "En la gran región de Antioquia, siendo este territorio el núcleo más destacado del país.",
+    "ayuda": "Aunque la industria creció en Bogotá, Barranquilla y Antioquia, esta última fue la más importante, destacándose en el sector textilero.",
+    "distractores": [
+      "En la zona sur de Barranquilla, siendo este territorio el puerto más destacado del país.",
+      "En el gran valle de Bogotá, siendo este territorio el centro más destacado del país.",
+      "En la rica costa de Santa Marta, siendo este territorio el mar más destacado del país."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un empresario moderno invierte las enormes ganancias que obtuvo de su exitosa cadena de restaurantes para fundar una nueva y gran fábrica de zapatos de cuero en su ciudad natal.",
+      "pregunta": "Estableciendo un paralelo histórico, ¿qué grupo social colombiano utilizó este mismo mecanismo para iniciar la industrialización nacional a principios de siglo?"
+    },
+    "respuesta": "Los ricos comerciantes y grandes cultivadores del café utilizaron sus altos ingresos para abrir fábricas.",
+    "ayuda": "Las grandes ganancias obtenidas de las exportaciones de café proporcionaron el capital semilla necesario para fundar las primeras industrias nacionales.",
+    "distractores": [
+      "Los pobres artesanos y pequeños vendedores del carbón utilizaron sus bajos ahorros para abrir escuelas.",
+      "Los fuertes militares y altos dirigentes del gobierno utilizaron sus grandes sueldos para abrir bancos.",
+      "Los viejos caciques y grandes propietarios de ganado utilizaron sus amplias tierras para abrir mercados."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un libro de historia titula su primer capítulo: 'De las mulas a los trenes y de las fincas a las fábricas: el salto que cambió nuestro país para siempre'.",
+      "pregunta": "En términos generales, ¿cómo resume el texto esta enorme transformación económica y social sufrida por Colombia durante la primera mitad del siglo XX?"
+    },
+    "respuesta": "El país logró unirse fuertemente al comercio exterior, pasando de un modelo agrícola a industrial.",
+    "ayuda": "La principal transformación del país fue su inserción al mercado global, cambiando su perfil rural agropecuario hacia una sociedad urbano-industrial.",
+    "distractores": [
+      "El país buscó aislarse totalmente del comercio exterior, pasando de un modelo industrial a agrícola.",
+      "El país decidió separarse legalmente del comercio exterior, pasando de un modelo minero a pesquero.",
+      "El país intentó alejarse rápidamente del comercio exterior, pasando de un modelo urbano a forestal."
+    ]
+  }
+]
