@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "Una grave crisis económica golpea al país y la popularidad del presidente cae drásticamente. Un grupo de ciudadanos, argumentando que el mandatario ha incumplido todas sus promesas de campaña, decide recolectar firmas para convocar una 'Revocatoria del Mandato' y sacarlo del poder.",
+      "pregunta": "Teniendo en cuenta los límites constitucionales de los mecanismos de participación ciudadana, ¿por qué esta iniciativa ciudadana fracasará legalmente?"
+    },
+    "respuesta": "Es improcedente porque este mecanismo de participación ciudadana aplica exclusivamente para destituir a los alcaldes y a los gobernadores regionales.",
+    "ayuda": "La revocatoria del mandato es una herramienta de control político que la ley reserva únicamente para mandatarios locales y departamentales, no nacionales.",
+    "distractores": [
+      "Es inoperante porque este mecanismo de participación ciudadana aplica exclusivamente para sancionar a los ministros y a los senadores nacionales.",
+      "Es inaplicable porque este mecanismo de participación ciudadana aplica exclusivamente para reemplazar a los jueces y a los magistrados supremos.",
+      "Es innecesario porque este mecanismo de participación ciudadana aplica exclusivamente para investigar a los concejales y a los diputados distritales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El presidente de la República ha negociado un histórico pero controversial tratado de paz con un grupo insurgente. Para darle legitimidad política y asegurar que la ciudadanía respalde esta decisión ejecutiva antes de implementarla, decide someter el acuerdo a votación en las urnas.",
+      "pregunta": "¿Qué mecanismo de participación ciudadana debe utilizar el presidente para refrendar exclusivamente esta decisión política con el pueblo?"
+    },
+    "respuesta": "El plebiscito, ya que es la herramienta exclusiva del presidente para consultar decisiones políticas directamente con los ciudadanos.",
+    "ayuda": "Recuerda que el plebiscito es el único mecanismo diseñado específicamente para que el presidente someta a consideración del pueblo una decisión de su gobierno.",
+    "distractores": [
+      "El referendo, ya que es la herramienta exclusiva del congreso para redactar decisiones judiciales directamente con los magistrados.",
+      "El sufragio, ya que es la herramienta exclusiva del electorado para imponer decisiones económicas directamente con los empresarios.",
+      "El cabildo, ya que es la herramienta exclusiva del municipio para debatir decisiones administrativas directamente con los concejales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En un municipio se planea construir un inmenso relleno sanitario cerca de una zona residencial. Los habitantes, profundamente preocupados por el impacto ambiental y de salud, exigen una reunión formal cara a cara con el concejo municipal para debatir públicamente el proyecto.",
+      "pregunta": "¿Qué mecanismo de participación deben usar los habitantes para obligar a las autoridades a escucharlos en sesión pública?"
+    },
+    "respuesta": "Deben solicitar un cabildo abierto para participar directamente en las sesiones públicas frente a las autoridades administrativas locales.",
+    "ayuda": "El cabildo abierto es la reunión pública de los concejos municipales donde los ciudadanos pueden participar activamente en la discusión de asuntos de interés comunitario.",
+    "distractores": [
+      "Deben convocar un paro cívico para protestar directamente en las plazas públicas frente a las autoridades administrativas locales.",
+      "Deben instaurar un bloque social para legislar directamente en las audiencias públicas frente a las autoridades administrativas locales.",
+      "Deben tramitar un fallo penal para demandar directamente en las cortes públicas frente a las autoridades administrativas locales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El Congreso de la República acaba de aprobar una ley que impone altos impuestos a los alimentos de la canasta familiar básica. La indignación es nacional y un fuerte comité ciudadano se organiza para anular y dejar sin efecto esa ley específica.",
+      "pregunta": "¿Qué acción legal y participativa debe emprender el comité ciudadano para eliminar dicha ley del ordenamiento jurídico?"
+    },
+    "respuesta": "Organizar un referendo derogatorio que permita al pueblo unido rechazar formalmente la aplicación de ese injusto marco normativo.",
+    "ayuda": "El referendo derogatorio es la herramienta exacta para someter a votación la anulación o eliminación de una ley que ya fue aprobada.",
+    "distractores": [
+      "Redactar un mandato legislativo que obligue al senado local debatir formalmente la modificación de ese injusto marco normativo.",
+      "Convocar un cabildo municipal que ayude al alcalde actual suspender formalmente la ejecución de ese injusto marco normativo.",
+      "Instaurar un recurso colectivo que exija al tribunal penal castigar formalmente la redacción de ese injusto marco normativo."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un estudiante de último grado es expulsado abruptamente de un colegio público debido a que sus creencias religiosas no coinciden con las directivas de la institución. Sus padres necesitan un mecanismo urgente e inmediato para evitar la vulneración de sus derechos.",
+      "pregunta": "¿A qué mecanismo de la Constitución de 1991 deben acudir los padres para garantizar la educación del menor?"
+    },
+    "respuesta": "Interponer una tutela judicial para reclamar ante los jueces la protección inmediata de sus derechos constitucionales vulnerados.",
+    "ayuda": "La acción de tutela protege los derechos fundamentales (como la educación y la libertad de culto) de manera inmediata cuando son amenazados o vulnerados.",
+    "distractores": [
+      "Convocar una marcha pacífica para reclamar ante los alcaldes la protección inmediata de sus derechos constitucionales vulnerados.",
+      "Solicitar una orden plenaria para reclamar ante los fiscales la protección inmediata de sus derechos constitucionales vulnerados.",
+      "Promover una ley popular para reclamar ante los congresos la protección inmediata de sus derechos constitucionales vulnerados."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un colectivo de biólogos y ambientalistas redacta un riguroso documento que prohíbe el uso de plásticos de un solo uso en todo el país. Tras recolectar un millón de firmas válidas, desean que este documento se convierta en una ley nacional.",
+      "pregunta": "¿Qué mecanismo deben activar para obligar al Congreso de la República a debatir su propuesta ambiental ciudadana?"
+    },
+    "respuesta": "Presentar una iniciativa popular para lograr que los senadores debatan directamente el respectivo proyecto legal ambiental nacional.",
+    "ayuda": "La iniciativa popular legislativa permite que un grupo de ciudadanos presente directamente proyectos de ley ante el Congreso para su obligatorio debate y votación.",
+    "distractores": [
+      "Organizar una consulta vecinal para lograr que los alcaldes aprueben directamente el respectivo proyecto legal ambiental nacional.",
+      "Convocar una asamblea sindical para lograr que los gerentes financien directamente el respectivo proyecto legal ambiental nacional.",
+      "Tramitar una tutela judicial para lograr que los magistrados impongan directamente el respectivo proyecto legal ambiental nacional."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Durante una clase de ciencias políticas, un joven expresa su apatía hacia las elecciones presidenciales afirmando que votar no le aporta nada a su vida personal. El profesor interviene para explicarle que la ley incentiva la participación ofreciendo ventajas tangibles.",
+      "pregunta": "Además de la incidencia política, ¿qué otros beneficios directos otorga el Estado colombiano a quienes ejercen el voto?"
+    },
+    "respuesta": "Permite adquirir beneficios personales concretos como rebajas de tiempo militar, descuentos en pensiones e importantes días de descanso.",
+    "ayuda": "El sistema electoral colombiano otorga beneficios concretos al sufragante, como medios días de descanso remunerado, descuentos en pensiones estatales y reducción del servicio militar.",
+    "distractores": [
+      "Permite adquirir beneficios financieros concretos como rebajas de altos impuestos, descuentos en aranceles e importantes pagos de subsidio.",
+      "Permite adquirir beneficios judiciales concretos como rebajas de largas condenas, descuentos en multas e importantes fallos de indulto.",
+      "Permite adquirir beneficios académicos concretos como rebajas de años escolares, descuentos en matrículas e importantes bonos de beca."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El país atraviesa una crisis institucional profunda. El presidente considera que la única salida es convocar una Asamblea Constituyente para reescribir la Constitución por completo. Para lograrlo, necesita plantearle esta trascendental pregunta al pueblo y obtener su aprobación mayoritaria.",
+      "pregunta": "¿Qué mecanismo de participación ciudadana es el idóneo para consultar a la nación sobre la convocatoria de dicha Asamblea?"
+    },
+    "respuesta": "La consulta popular, mediante la cual formula una pregunta trascendental para convocar oficialmente a la respectiva asamblea ciudadana.",
+    "ayuda": "La consulta popular es el mecanismo mediante el cual el ejecutivo plantea una pregunta general, y la ley especifica que sirve para convocar Asambleas Constituyentes.",
+    "distractores": [
+      "La tutela judicial, mediante la cual formula una demanda trascendental para condenar oficialmente a la respectiva asamblea ciudadana.",
+      "La huelga general, mediante la cual formula una queja trascendental para rechazar oficialmente a la respectiva asamblea ciudadana.",
+      "La reforma interna, mediante la cual formula una regla trascendental para censurar oficialmente a la respectiva asamblea ciudadana."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un alcalde recién electo propone emitir un decreto para suspender temporalmente todos los mecanismos de participación ciudadana en su municipio, argumentando que estos procesos retrasan las obras públicas y generan gastos innecesarios que afectan el presupuesto del desarrollo territorial.",
+      "pregunta": "Desde el derecho constitucional colombiano, ¿por qué la justificación administrativa del alcalde es completamente inválida y anticonstitucional?"
+    },
+    "respuesta": "Poseen una profunda naturaleza de derecho político fundamental atribuido directamente para controlar pacíficamente el ejercicio del poder público.",
+    "ayuda": "Los mecanismos de participación no son simples trámites administrativos; tienen rango de derecho político fundamental inalienable protegido directamente por la Constitución de 1991.",
+    "distractores": [
+      "Poseen una profunda naturaleza de deber moral opcional atribuido directamente para sancionar pacíficamente el ejercicio del poder público.",
+      "Poseen una profunda naturaleza de castigo penal obligatorio atribuido directamente para vigilar pacíficamente el ejercicio del poder público.",
+      "Poseen una profunda naturaleza de pacto civil temporal atribuido directamente para financiar pacíficamente el ejercicio del poder público."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En un debate televisado, dos analistas confunden constantemente dos figuras participativas. Uno insiste en que el pueblo aprueba leyes a través del plebiscito, mientras que el otro afirma que las decisiones del presidente se refrendan mediante un referendo nacional.",
+      "pregunta": "Desde la rigurosidad de la ciencia política colombiana, ¿cuál es la diferencia técnica fundamental entre estas dos herramientas democráticas?"
+    },
+    "respuesta": "El plebiscito apoya decisiones ejecutivas del mandatario, mientras que el referendo aprueba textos normativos del sistema legislativo nacional.",
+    "ayuda": "El plebiscito avala o rechaza decisiones políticas del poder ejecutivo (presidente), mientras que el referendo aprueba, modifica o deroga leyes formales (legislativo).",
+    "distractores": [
+      "El plebiscito anula sentencias judiciales del magistrado, mientras que el referendo impone textos normativos del sistema legislativo nacional.",
+      "El plebiscito elige representantes locales del municipio, mientras que el referendo evalúa textos normativos del sistema legislativo nacional.",
+      "El plebiscito revoca gobernantes corruptos del territorio, mientras que el referendo castiga textos normativos del sistema legislativo nacional."
+    ]
+  }
+]
