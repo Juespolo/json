@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "Un documental sobre historia antigua relata: 'Antes de los grandes descubrimientos fósiles, la sociedad estaba absolutamente convencida de que los seres vivos nunca habían experimentado modificaciones anatómicas desde el origen mismo de los tiempos'.",
+      "pregunta": "¿Qué modelo de pensamiento antiguo se opuso radicalmente a las modernas teorías evolutivas descritas en el texto sobre la realidad humana?"
+    },
+    "respuesta": "La teoría del fixismo propuesta por Cuvier, considerando que todas las especies permanecen completamente inalterables y siempre estáticas a través del tiempo.",
+    "ayuda": "Identifica la teoría clásica que negaba el cambio y la adaptación biológica, defendiendo que las especies permanecían exactamente iguales desde su origen.",
+    "distractores": [
+      "La doctrina del mutacionismo defendida por Vries, afirmando que todos los individuos sufren alteraciones genéticas al azar que mejoran repentinamente su entorno.",
+      "El principio del transformismo propuesto por Buffon, planteando que todos los organismos adquieren constantemente nuevas características físicas para sobrevivir al ambiente local.",
+      "El modelo de lamarquismo propuesto por Lamarck, argumentando que todas las jirafas estiran su cuello prolongadamente logrando heredar ese rasgo a crías."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un biólogo moderno observa que ciertas aves cambian la forma de su pico en solo tres generaciones para alcanzar semillas escondidas. Al explicar este fenómeno, un estudiante afirma: 'Los pájaros desearon tener picos más largos, los estiraron usándolos mucho y así nacieron sus crías'.",
+      "pregunta": "Desde la historia de la ciencia biológica, ¿qué postura teórica está asumiendo el estudiante al ofrecer esta explicación evolutiva del ave?"
+    },
+    "respuesta": "El clásico postulado de Lamarck, afirmando que el uso constante crea un nuevo órgano y estas características adquiridas siempre se transmiten heredadas.",
+    "ayuda": "Recuerda la teoría pre-darwiniana que hizo célebre la frase 'la función crea el órgano' y que defendía la herencia de los caracteres adquiridos.",
+    "distractores": [
+      "El riguroso mecanismo de Darwin, señalando que la lucha constante define al mejor individuo y estas características favorables siempre garantizan mayor descendencia.",
+      "El complejo modelo de Dobzhansky, demostrando que la mutación casual mejora un genotipo interno y estas características genéticas siempre se fusionan lentamente.",
+      "El antiguo esquema de Maupertuis, indicando que el ambiente extremo destruye un rasgo antiguo y estas características primitivas siempre se eliminan rápido."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Charles Darwin propuso que en la naturaleza se entabla una brutal lucha por la supervivencia porque siempre nacen más individuos de los que el ambiente puede alimentar, generando una inevitable selección de los más aptos.",
+      "pregunta": "Sin embargo, el darwinismo original presentaba un vacío conceptual importante. ¿Qué interrogante fundamental no logró explicar la teoría inicial de Darwin?"
+    },
+    "respuesta": "No lograba explicar detalladamente cómo las variaciones físicas beneficiosas de un individuo sobreviviente se transmitían exactamente mediante la herencia hacia sus descendientes.",
+    "ayuda": "La selección natural explicaba quién sobrevivía, pero Darwin carecía de una teoría genética para explicar cómo se heredaban esas ventajas físicas.",
+    "distractores": [
+      "No lograba demostrar científicamente por qué las alteraciones climáticas extremas de un ecosistema aislado se frenaban repentinamente afectando la migración hacia otros continentes.",
+      "No lograba clasificar taxonómicamente dónde las familias de primates primitivos de un ancestro común se separaban geográficamente limitando su alimentación hacia otras regiones.",
+      "No lograba predecir matemáticamente cuándo las mutaciones genéticas espontáneas de un animal doméstico se manifestaban visiblemente cambiando su morfología hacia otras formas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "La 'Teoría Sintética' o neodarwinismo resolvió la histórica pugna entre quienes defendían únicamente la selección natural y quienes apoyaban exclusivamente el mutacionismo, integrando además datos de la paleontología y la biología molecular contemporánea.",
+      "pregunta": "De acuerdo con el documento, ¿cómo logra el neodarwinismo armonizar estos dos mecanismos evolutivos aparentemente contradictorios dentro de la naturaleza viva?"
+    },
+    "respuesta": "Las mutaciones genéticas proveen las variaciones físicas casuales, mientras que la selección natural dirige permanentemente el curso evolutivo preservando individuos biológicamente aptos.",
+    "ayuda": "La síntesis une dos fuerzas: la mutación (que da variedad genética al azar) y la selección natural (que elige la mejor variación adaptativa).",
+    "distractores": [
+      "Las alteraciones climáticas generan las extinciones biológicas masivas, mientras que la herencia genética mantiene temporalmente el equilibrio natural salvando individuos físicamente aptos.",
+      "Las competencias alimenticias causan las migraciones poblacionales rápidas, mientras que la reproducción sexual frena progresivamente el proceso geográfico eliminando individuos lentamente lentos.",
+      "Las presiones ambientales dictan las costumbres sociales complejas, mientras que la memoria biológica borra automáticamente el instinto animal aislando individuos socialmente débiles."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un filósofo contemporáneo debate en una conferencia: 'No basta con entender cómo nuestros huesos cambiaron al caminar erguidos; la verdadera revolución ocurrió cuando dejamos de depender únicamente de los instintos y comenzamos a usar símbolos'.",
+      "pregunta": "A partir del texto leído, ¿qué concepto antropológico describe este distanciamiento progresivo de las presiones biológicas mediante la creación de la cultura?"
+    },
+    "respuesta": "El profundo proceso de humanización, donde el hombre crea un mundo cultural abstracto que transforma permanentemente su manera de adaptarse y existir.",
+    "ayuda": "Diferencia la hominización (cambios biológicos/anatómicos) de la humanización (cambios cognitivos/culturales que liberan al ser humano de la simple presión natural).",
+    "distractores": [
+      "El complejo proceso de hominización, donde el primate sufre un cambio genético interno que altera radicalmente su estructura de caminar y cazar.",
+      "El antiguo proceso de mutacionismo, donde el animal adquiere un rasgo anatómico nuevo que asegura rápidamente su forma de alimentarse y sobrevivir.",
+      "El rápido proceso de colonización, donde el nómada descubre un nuevo continente inexplorado que aumenta notablemente su capacidad de poblar y reproducirse."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una expedición paleontológica descubre herramientas complejas de caza, vestimentas elaboradas con pieles cosidas y un entierro ceremonial adornado con flores y collares de hueso en una caverna profunda del continente europeo.",
+      "pregunta": "Relacionando estos hallazgos culturales y simbólicos, ¿a qué especie del proceso de evolución humana corresponde más probablemente este nivel de complejidad social?"
+    },
+    "respuesta": "Al evolucionado Homo sapiens, caracterizado por fabricar armas muy elaboradas, usar ropa perfectamente cosida y tratar respetuosamente a sus difuntos con rituales.",
+    "ayuda": "El Homo sapiens es la especie asociada con la explosión simbólica: arte (pinturas rupestres), herramientas complejas, ropa cosida y ritos funerarios elaborados.",
+    "distractores": [
+      "Al primitivo Homo habilis, caracterizado por tener frentes muy anchas, construir chozas sumamente simples y vivir exclusivamente en sabanas abiertas sin rituales.",
+      "Al robusto Homo erectus, caracterizado por caminar siempre erguido, descubrir fuegos totalmente naturales y construir hachas rudimentarias de piedra sin rituales.",
+      "Al antiguo Australopithecus, caracterizado por habitar selvas muy tupidas, tener cerebros sumamente pequeños y moverse ágilmente en áreas boscosas sin rituales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "La anatomía comparada muestra que la evolución del bipedismo (caminar sobre dos piernas) obligó a estrechar la pelvis humana, dificultando el parto. Sin embargo, liberó las manos, permitiendo una revolución cognitiva y social sin precedentes en el reino animal.",
+      "pregunta": "¿Qué especie homínida mencionada en el texto representa el primer salto evolutivo caracterizado no solo por ser bípedo, sino por caminar completamente erguido y usar el fuego?"
+    },
+    "respuesta": "El llamado Homo erectus, que habitó hace un millón de años y desarrolló la invaluable capacidad de controlar progresivamente herramientas líticas complejas.",
+    "ayuda": "Recuerda la especie cuyo nombre indica su postura erguida, que dominó el fuego y perteneció a la cultura achelense (hachas bifaces).",
+    "distractores": [
+      "El denominado Homo sapiens, que pintó hace diez mil años y demostró la inmensa necesidad de expresar artísticamente creencias mitológicas complejas.",
+      "El nombrado Homo habilis, que vivió hace tres millones de años y originó la rudimentaria técnica de construir rápidamente pequeñas chozas simples.",
+      "El conocido Australopithecus, que trepó hace cinco millones de años y mantuvo la instintiva tendencia de buscar ansiosamente alimentos vegetales simples."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un artículo científico señala que los chimpancés actuales comparten el 98.8% de su ADN con los humanos. Sin embargo, un chimpancé no puede escribir un libro ni transmitir conocimientos complejos mediante instituciones educativas a sus futuras crías.",
+      "pregunta": "Desde la perspectiva filosófica de la evolución, ¿qué diferencia estructural y de origen fundamenta esta brecha abismal entre humanos y póngidos?"
+    },
+    "respuesta": "Mientras los antropoides permanecen estrictamente limitados por sus instintos biológicos naturales, la especie humana transforma profundamente su entorno mediante la construcción cultural.",
+    "ayuda": "La diferencia clave entre el ser humano y el resto de los animales superiores (póngidos) es la capacidad de crear y heredar cultura.",
+    "distractores": [
+      "Mientras los mamíferos crecen velozmente condicionados por sus ciclos hormonales temporales, la especie nómada migra lentamente buscando nuevos hábitats mediante la exploración constante.",
+      "Mientras los primates cazan instintivamente motivados por sus necesidades digestivas internas, la especie bípeda camina ágilmente escapando de grandes depredadores mediante la carrera rápida.",
+      "Mientras los animales compiten brutalmente dominados por sus estructuras jerárquicas rígidas, la especie moderna caza cooperativamente logrando mejores dietas mediante la nutrición animal."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El texto expone que la teoría de la evolución generó inicialmente un choque ideológico masivo. Antes del evolucionismo, la explicación sobre el origen del hombre descansaba en respuestas completamente alejadas del método científico u observacional.",
+      "pregunta": "¿Por qué las primeras teorías de la evolución, como el transformismo o el darwinismo, resultaron ser tan problemáticas frente a las tradiciones hegemónicas de la época?"
+    },
+    "respuesta": "Porque contradecían profundamente los antiguos textos bíblicos tradicionales, los cuales consideraban dogmáticamente que el hombre resultaba ser una creación inmediata de origen divino.",
+    "ayuda": "El evolucionismo desafió frontalmente el relato creacionista bíblico, el cual afirmaba que el ser humano fue creado directamente por acción divina, sin cambios.",
+    "distractores": [
+      "Porque ignoraban completamente los nuevos estudios anatómicos europeos, los cuales demostraban científicamente que el hombre resultaba ser un descendiente lejano de origen asiático.",
+      "Porque rechazaban absolutamente los modernos principios matemáticos clásicos, los cuales calculaban estadísticamente que el hombre resultaba ser una mutación casual de origen cósmico.",
+      "Porque criticaban fuertemente los primeros sistemas filosóficos griegos, los cuales argumentaban racionalmente que el hombre resultaba ser un pensamiento eterno de origen abstracto."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Analizando la línea de tiempo de la hominización, se observa que especies robustas y físicamente fuertes, como el neandertal, terminaron desapareciendo. Paradójicamente, la especie que finalmente colonizó el planeta entero no fue la más musculosa ni la más resistente al frío.",
+      "pregunta": "Según el texto base sobre los antepasados del hombre, ¿qué factor estratégico favoreció la supremacía y expansión mundial del Homo sapiens sapiens sobre los neandertales?"
+    },
+    "respuesta": "La progresiva capacidad para perfeccionar sofisticadas armas líticas, organizarse socialmente y diezmar brutalmente a sus antiguos competidores tras arrebatar sus valiosos terrenos cinegéticos.",
+    "ayuda": "El Homo sapiens sapiens superó al neandertal al perfeccionar sus herramientas (piedra y hueso) y arrebatarle sus terrenos de caza, provocando su extinción.",
+    "distractores": [
+      "La instintiva habilidad para desarrollar veloces carreras físicas, esconderse rápidamente y engañar visualmente a sus grandes depredadores tras abandonar sus antiguos refugios boscosos.",
+      "La misteriosa inmunidad para resistir letales enfermedades tropicales, curarse naturalmente y sanar milagrosamente a sus múltiples enfermos tras consumir sus extraños remedios vegetales.",
+      "La sorprendente resistencia para soportar frías glaciaciones extremas, abrigarse fácilmente y sobrevivir largamente a sus duros inviernos tras construir sus profundas cavernas heladas."
+    ]
+  }
+]
