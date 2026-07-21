@@ -1,0 +1,421 @@
+```json
+[
+  {
+    "pregunta": {
+      "contexto": "Un politólogo explica en un debate: 'Los presidentes cambian cada cuatro años, pero las instituciones que conforman la Rama Ejecutiva, Legislativa y Judicial, junto con el monopolio legítimo de la fuerza, permanecen inalterables'[cite: 11].",
+      "pregunta": "¿A qué concepto fundamental de las ciencias sociales hace referencia exclusiva la descripción del analista político?"
+    },
+    "respuesta": "Al concepto de Estado, porque representa una entidad política soberana y permanente sobre un territorio poblado[cite: 11].",
+    "ayuda": "Este concepto hace referencia a la organización política que, a diferencia de los mandatarios de turno, tiene carácter permanente e institucional[cite: 11].",
+    "distractores": [
+      "Al concepto de Gobierno, porque describe una administración pública transitoria y delegada sobre un distrito comercial[cite: 11].",
+      "Al concepto de Nación, porque define una comunidad social homogénea y cultural sobre un espacio geográfico[cite: 11].",
+      "Al concepto de Imperio, porque detalla una estructura militar expansiva y autoritaria sobre un continente dominado[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Tras unas elecciones, un noticiero afirma: 'El nuevo gabinete presidencial asumirá la administración del país por un período limitado de cuatro años, dirigiendo las políticas públicas del nivel nacional'[cite: 11].",
+      "pregunta": "De acuerdo con la estructura del poder en Colombia, ¿qué concepto define a este grupo transitorio?"
+    },
+    "respuesta": "El concepto de Gobierno, que agrupa personas e instituciones dirigiendo transitoriamente la administración del Estado[cite: 11].",
+    "ayuda": "Recuerda que este concepto se refiere a quienes administran y dirigen temporalmente, como el Presidente y sus ministros[cite: 11].",
+    "distractores": [
+      "El concepto de Soberano, que reúne líderes y autoridades controlando permanentemente la legislación del pueblo[cite: 11].",
+      "El concepto de Congreso, que convoca senadores y representantes aprobando lentamente la regulación del mercado[cite: 11].",
+      "El concepto de Tribunal, que nombra jueces y magistrados vigilando estrictamente la jurisdicción del territorio[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un juez ordena mediante una tutela que el Estado debe financiar el tratamiento médico de un niño de bajos recursos, argumentando que las instituciones deben asumir un rol activo para promover la igualdad material[cite: 11].",
+      "pregunta": "¿Qué modelo político e institucional fundamenta jurídicamente la decisión garantista tomada por este juez de la república?"
+    },
+    "respuesta": "El Estado Social de Derecho, porque obliga a las autoridades a garantizar condiciones de vida dignas[cite: 11].",
+    "ayuda": "Busca el modelo estatal, definido en el Artículo 1 de la Constitución, que promueve la igualdad material y asegura derechos sociales[cite: 11].",
+    "distractores": [
+      "El Estado Liberal de Mercado, porque impulsa a las empresas a competir ofreciendo servicios médicos privados[cite: 11].",
+      "El Estado Federal de Naciones, porque permite a las regiones a legislar creando sistemas médicos propios[cite: 11].",
+      "El Estado Absoluto de Poder, porque somete a las instituciones a obedecer dictando normas médicas reales[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un abogado debate: 'Cualquier ley aprobada por el Congreso que viole los derechos a la diversidad étnica o restrinja la Acción de Tutela será anulada inmediatamente por la Corte Suprema'[cite: 11].",
+      "pregunta": "¿Qué concepto jurídico superior justifica que una norma recién aprobada pueda ser invalidada por proteger derechos?"
+    },
+    "respuesta": "La Constitución Política, siendo la norma suprema que organiza el poder público y consagra derechos inalienables[cite: 11].",
+    "ayuda": "Conocida como 'norma de normas', es la base legal que refundó el pacto social colombiano en 1991[cite: 11].",
+    "distractores": [
+      "La Legislación Penal, siendo la regla estricta que castiga el delito privado y prohíbe actos internacionales[cite: 11].",
+      "La Ordenanza Local, siendo la pauta regional que financia el gasto público y recauda impuestos departamentales[cite: 11].",
+      "La Directiva Civil, siendo la ley ordinaria que regula el contrato privado y resuelve conflictos familiares[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una comunidad se organiza para decidir mediante votación directa el destino del presupuesto municipal. El líder señala: 'La Constitución nos permitió pasar de simplemente elegir representantes a tomar decisiones directamente'[cite: 11].",
+      "pregunta": "¿Qué sistema político y de gobierno se está transformando hacia un modelo más participativo en este escenario?"
+    },
+    "respuesta": "La democracia, un sistema donde el poder reside auténticamente en el pueblo para tomar sus decisiones[cite: 11].",
+    "ayuda": "Identifica el sistema de gobierno que la Constitución de 1991 buscó evolucionar de representativo a participativo[cite: 11].",
+    "distractores": [
+      "La autocracia, un régimen donde el control recae exclusivamente en un líder para imponer sus decisiones[cite: 11].",
+      "La oligarquía, un modelo donde el mando pertenece únicamente a una élite para asegurar sus decisiones[cite: 11].",
+      "La monarquía, un formato donde el trono corresponde legítimamente a un rey para dictar sus decisiones[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una joven cumple 18 años y tramita su documento de identidad. Un funcionario le indica que este acto le confiere derechos políticos plenos y le impone nuevos deberes sociales[cite: 11].",
+      "pregunta": "¿Qué estatus político y legal acaba de adquirir plenamente la joven al alcanzar su mayoría de edad?"
+    },
+    "respuesta": "La ciudadanía, una condición indispensable para votar y ser elegido en cargos públicos de la nación[cite: 11].",
+    "ayuda": "Es el estatus que otorga derechos y deberes para participar activamente como miembro pleno del Estado[cite: 11].",
+    "distractores": [
+      "La nacionalidad, una característica geográfica para viajar y ser recibido en países vecinos de la región[cite: 11].",
+      "La diplomacia, una investidura oficial para negociar y ser escuchado en foros externos de la región[cite: 11].",
+      "La inmunidad, una garantía judicial para obrar y ser protegido en procesos legales de la nación[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Los habitantes de un departamento, cansados de la mala gestión de su gobernador, deciden utilizar la Ley 134 de 1994 para convocar una votación que permita removerlo de su cargo[cite: 11].",
+      "pregunta": "¿A qué categoría constitucional pertenecen estas herramientas que permiten incidir directamente en las decisiones públicas del país?"
+    },
+    "respuesta": "A los mecanismos de participación ciudadana, creados para incentivar directamente la movilización electoral del pueblo colombiano[cite: 11].",
+    "ayuda": "Son herramientas constitucionales como el plebiscito, referendo o revocatoria del mandato que permiten incidir en decisiones[cite: 11].",
+    "distractores": [
+      "A los sistemas de investigación judicial, diseñados para castigar severamente la corrupción financiera del funcionario público[cite: 11].",
+      "A los procesos de mediación laboral, propuestos para conciliar pacíficamente la protesta sindical del gremio obrero[cite: 11].",
+      "A los proyectos de reforma legislativa, formulados para modificar rápidamente la estructura comercial del mercado libre[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Analistas critican que las normas del derecho internacional y los tratados de libre comercio han limitado la independencia del Estado colombiano para gobernar su territorio sin subordinación a poderes externos[cite: 11].",
+      "pregunta": "¿Qué característica fundamental del poder político estatal se ve redefinida o limitada por la actual intervención internacional?"
+    },
+    "respuesta": "La soberanía del Estado, entendida como el poder supremo e independiente para gobernar un territorio libremente[cite: 11].",
+    "ayuda": "Se refiere al poder supremo que no admite subordinación a entes externos, muy redefinido por la globalización[cite: 11].",
+    "distractores": [
+      "La diplomacia del Estado, definida como el arte formal y negociador para mantener un territorio pacíficamente[cite: 11].",
+      "La geopolítica del Estado, concebida como el estudio geográfico e histórico para expandir un territorio militarmente[cite: 11].",
+      "La jurisdicción del Estado, planteada como el deber legal e institucional para vigilar un territorio estrictamente[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Durante un seminario internacional, un defensor afirma: 'A pesar de la Constitución, las persistentes violaciones en medio del conflicto armado demuestran que las garantías inherentes a todo ser humano siguen siendo vulneradas'[cite: 11].",
+      "pregunta": "¿A qué conjunto normativo universal e inherente hace referencia la denuncia del defensor en este contexto violento?"
+    },
+    "respuesta": "A los Derechos Humanos, consagrados universalmente desde el año mil novecientos cuarenta y ocho internacionalmente[cite: 11].",
+    "ayuda": "Son los derechos inherentes a todas las personas, sin distinción, proclamados universalmente en el año 1948[cite: 11].",
+    "distractores": [
+      "A los Tratados Comerciales, negociados bilateralmente desde el año mil novecientos noventa y uno regionalmente[cite: 11].",
+      "A los Acuerdos Militares, firmados secretamente desde el año dos mil doce y catorce nacionalmente[cite: 11].",
+      "A los Códigos Penales, redactados estrictamente desde el año mil ochocientos ochenta y seis formalmente[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En medio de enfrentamientos internos, un grupo armado ataca un hospital civil y secuestra a médicos. La comunidad internacional condena el hecho argumentando que los métodos de guerra tienen límites[cite: 11].",
+      "pregunta": "¿Qué marco jurídico específico fue violado gravemente al atacar a civiles y personal médico que no participaba?"
+    },
+    "respuesta": "El Derecho Internacional Humanitario, que busca limitar estrictamente los daños directos de todo conflicto armado[cite: 11].",
+    "ayuda": "Es la norma aplicable en tiempos de guerra interna para proteger a quienes no participan en hostilidades[cite: 11].",
+    "distractores": [
+      "El Derecho Comercial Internacional, que busca regular estrictamente los daños económicos de todo mercado financiero[cite: 11].",
+      "El Derecho Civil Constitucional, que busca proteger estrictamente los daños morales de todo ciudadano pacífico[cite: 11].",
+      "El Derecho Penal Acusatorio, que busca castigar estrictamente los daños delictivos de todo infractor urbano[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un investigador documenta un prolongado enfrentamiento entre las fuerzas del Estado y múltiples grupos armados organizados que han luchado por el control de tierras y rentas ilícitas dentro del país[cite: 11].",
+      "pregunta": "¿Qué fenómeno histórico y social de larga duración se describe en esta investigación sobre la violencia nacional?"
+    },
+    "respuesta": "Un conflicto armado interno, originado históricamente por la exclusión política y la disputa territorial agraria profunda[cite: 11].",
+    "ayuda": "Se trata del enfrentamiento prolongado entre fuerzas estatales y grupos armados ilegales dentro del propio territorio nacional[cite: 11].",
+    "distractores": [
+      "Un disturbio civil urbano, causado repentinamente por la crisis económica y la inflación monetaria severa aguda[cite: 11].",
+      "Un golpe militar estatal, ejecutado sorpresivamente por la élite castrense y la oposición política derechista radical[cite: 11].",
+      "Un debate político electoral, impulsado pacíficamente por la reforma constitucional y la participación ciudadana juvenil masiva[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Millones de campesinos y comunidades indígenas colombianas han tenido que abandonar sus tierras tras ser amenazados y despojados por actores armados, huyendo hacia grandes ciudades sin cruzar las fronteras internacionales[cite: 11].",
+      "pregunta": "¿Qué crisis humanitaria específica caracteriza esta migración masiva de personas desarraigadas de sus hogares por la violencia?"
+    },
+    "respuesta": "El fenómeno del desplazamiento forzado, que desarraiga poblaciones vulnerables evitando efectos crueles del conflicto armado[cite: 11].",
+    "ayuda": "Se refiere a la huida obligada de comunidades campesinas e indígenas de sus tierras por amenazas armadas[cite: 11].",
+    "distractores": [
+      "El proceso de urbanización acelerada, que reubica poblaciones jóvenes buscando beneficios económicos del mercado libre[cite: 11].",
+      "El sistema de asilo político, que protege poblaciones disidentes escapando efectos legales del gobierno actual[cite: 11].",
+      "El programa de migración laboral, que traslada poblaciones profesionales persiguiendo efectos positivos del empleo formal[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En las décadas pasadas, el comercio ilegal a gran escala de drogas tóxicas financió a numerosos grupos armados ilegales y corrompió profundamente la política y la sociedad colombiana en general[cite: 11].",
+      "pregunta": "¿Qué actividad ilícita se consolidó como el factor clave en la persistencia y degradación del conflicto colombiano?"
+    },
+    "respuesta": "El destructivo negocio del narcotráfico, operado mediante carteles organizados con altísima capacidad financiera ilícita y violenta[cite: 11].",
+    "ayuda": "Identifica el negocio ilícito de drogas que corrompió el país y financió la violencia desde los ochenta[cite: 11].",
+    "distractores": [
+      "El antiguo negocio del contrabando, operado mediante comerciantes organizados con altísima capacidad naviera comercial y pacífica[cite: 11].",
+      "El polémico negocio del latifundio, operado mediante hacendados organizados con altísima capacidad agrícola productiva y formal[cite: 11].",
+      "El reciente negocio del cibercrimen, operado mediante estafadores organizados con altísima capacidad tecnológica global y secreta[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Durante años, grupos de civiles armados con estructura militar operaron al margen de la ley bajo el pretexto de defender a terratenientes, cometiendo masivas violaciones a los derechos humanos brutalmente[cite: 11].",
+      "pregunta": "¿Cómo se denomina sociopolíticamente a esta estrategia violenta de autodefensas que operó como actor del conflicto armado?"
+    },
+    "respuesta": "Se denomina paramilitarismo, constituyendo escuadrones armados organizados que actuaron frecuentemente con complicidad de fuerzas militares estatales[cite: 11].",
+    "ayuda": "Es el término para los grupos de extrema derecha, inicialmente 'autodefensas', que cometieron graves violaciones a derechos[cite: 11].",
+    "distractores": [
+      "Se denomina insurgencia, conformando guerrillas armadas organizadas que actuaron frecuentemente con apoyo de potencias socialistas extranjeras[cite: 11].",
+      "Se denomina anarquismo, estableciendo colectivos armados organizados que actuaron frecuentemente con respaldo de sindicatos obreros clandestinos[cite: 11].",
+      "Se denomina mercenarismo, reclutando soldados armados organizados que actuaron frecuentemente con financiamiento de empresas privadas multinacionales[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Tras el Acuerdo Final de 2016, académicos explican que no basta con silenciar los fusiles; se requiere equidad y transformar las disputas sociales mediante mecanismos de participación no violentos estructuralmente[cite: 11].",
+      "pregunta": "Según este enfoque integral, ¿qué concepto social y político se busca alcanzar mediante reformas y justicia transicional?"
+    },
+    "respuesta": "La paz positiva plena, que implica la presencia de justicia distributiva y la transformación no violenta[cite: 11].",
+    "ayuda": "El Acuerdo de 2016 busca ir más allá de la paz negativa, logrando justicia, equidad y participación[cite: 11].",
+    "distractores": [
+      "La paz negativa simple, que implica la firma de treguas temporales y la rendición incondicionada militar[cite: 11].",
+      "La paz imperial estricta, que implica la imposición de leyes autoritarias y la obediencia no cuestionada[cite: 11].",
+      "La paz económica global, que implica la apertura de mercados financieros y la competencia no regulada[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El CNMH recopila relatos de víctimas de masacres para que la sociedad reflexione colectivamente sobre el pasado violento, comprenda sus causas estructurales y garantice un futuro sin repetición armada nacional[cite: 11].",
+      "pregunta": "¿Qué proceso de justicia transicional busca esclarecer la verdad priorizando la narrativa de quienes sufrieron el conflicto?"
+    },
+    "respuesta": "La construcción de memoria histórica, que permite una reflexión crítica colectiva para asegurar la no repetición[cite: 11].",
+    "ayuda": "Busca el concepto central para la verdad y reconciliación impulsado por el Centro Nacional de Memoria Histórica[cite: 11].",
+    "distractores": [
+      "La creación de mitología nacional, que permite una celebración heroica colectiva para asegurar la gran cohesión[cite: 11].",
+      "La redacción de historia oficial, que permite una educación patriótica colectiva para asegurar la total obediencia[cite: 11].",
+      "La formulación de amnistía legal, que permite una absolución jurídica colectiva para asegurar la rápida impunidad[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un ensayo sociológico explica que ciertos grupos de poder en Colombia no solo usan la fuerza, sino que controlan la escuela y los medios para que su visión del mundo predomine[cite: 11].",
+      "pregunta": "¿Qué tipo de dominación se basa en lograr el consentimiento ciudadano para convertir sus ideas en sentido común?"
+    },
+    "respuesta": "La hegemonía cultural, donde un grupo dominante impone su visión logrando aceptación mayoritaria y voluntaria ciudadana[cite: 11].",
+    "ayuda": "Es el tipo de control donde el poder se ejerce logrando el consentimiento y dominando el 'sentido común'[cite: 11].",
+    "distractores": [
+      "La coerción militar, donde un grupo armado impone su visión logrando aceptación terrorífica y obligada ciudadana[cite: 11].",
+      "La diplomacia externa, donde un grupo extranjero impone su visión logrando aceptación política y financiera ciudadana[cite: 11].",
+      "La anarquía social, donde un grupo rebelde impone su visión logrando aceptación marginal y aislada ciudadana[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un historiador narra que desde el siglo XIX hasta finales del XX, la política colombiana se resumía en la confrontación violenta y la exclusión de terceros por parte de dos partidos[cite: 11].",
+      "pregunta": "¿Qué sistema político hegemónico caracterizó a Colombia desencadenando numerosas guerras civiles y el período de La Violencia?"
+    },
+    "respuesta": "Un férreo sistema bipartidista, donde dos fuerzas principales excluyeron sistemáticamente otras alternativas políticas pacíficas e independientes[cite: 11].",
+    "ayuda": "Se refiere a la polarización exclusiva e histórica entre el Partido Liberal y el Partido Conservador[cite: 11].",
+    "distractores": [
+      "Un naciente sistema pluripartidista, donde múltiples fuerzas principales incluyeron sistemáticamente otras alternativas políticas pacíficas e independientes[cite: 11].",
+      "Un estricto sistema unipartidista, donde una fuerza principal persiguió sistemáticamente otras alternativas políticas pacíficas e independientes[cite: 11].",
+      "Un frágil sistema monárquico, donde cortes reales principales ignoraron sistemáticamente otras alternativas políticas pacíficas e independientes[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un libro de historia señala que entre 1886 y 1930 se estableció un Estado centralizado y confesional, apoyado en el clero, gobernando de manera ininterrumpida sin dar paso a fuerzas opositoras[cite: 11].",
+      "pregunta": "¿Cómo se conoce históricamente a este largo período de gobierno ininterrumpido fundamentado en la Constitución de 1886?"
+    },
+    "respuesta": "Como la Hegemonía Conservadora, caracterizada por sostener continuamente el estricto poder político nacional absolutista y confesional[cite: 11].",
+    "ayuda": "Identifica el período de dominio exclusivo de un solo partido que comenzó con el proyecto de Regeneración[cite: 11].",
+    "distractores": [
+      "Como la República Liberal, caracterizada por reformar continuamente el estricto poder político nacional absolutista y confesional[cite: 11].",
+      "Como el Frente Nacional, caracterizado por compartir continuamente el estricto poder político nacional absolutista y confesional[cite: 11].",
+      "Como la Patria Boba, caracterizada por dividir continuamente el estricto poder político nacional absolutista y confesional[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Entre 1958 y 1974, liberales y conservadores sellaron un pacto para alternarse pacíficamente la presidencia y repartir los cargos públicos equitativamente, logrando reducir la violencia pero cerrando puertas a opositores[cite: 11].",
+      "pregunta": "¿Qué nombre recibe este acuerdo político que, por su exclusión democrática, impulsó el surgimiento de guerrillas modernas?"
+    },
+    "respuesta": "El histórico Frente Nacional, diseñado para terminar la sangrienta guerra bipartidista mediante alternancia pactada y equitativa[cite: 11].",
+    "ayuda": "Se trata del pacto entre dos partidos tradicionales para alternarse el poder, excluyendo a terceras fuerzas[cite: 11].",
+    "distractores": [
+      "El radical Paro Cívico, diseñado para terminar la sangrienta guerra bipartidista mediante movilización masiva y equitativa[cite: 11].",
+      "El polémico Bogotazo Urbano, diseñado para terminar la sangrienta guerra bipartidista mediante insurrección armada y equitativa[cite: 11].",
+      "El fallido Proceso Pacificador, diseñado para terminar la sangrienta guerra bipartidista mediante intervención militar y equitativa[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un analista expone que entre 1953 y 1957, el poder estatal se concentró exclusivamente en el General Gustavo Rojas Pinilla tras un golpe militar, quien gobernó reprimiendo duramente los derechos ciudadanos[cite: 11].",
+      "pregunta": "¿Qué tipo de régimen político instauró este líder militar gobernando mediante censura y sin someterse a leyes?"
+    },
+    "respuesta": "Una dictadura militar centralista, concentrando el poder ejecutivo autoritariamente y reprimiendo fuertemente libertades ciudadanas civiles[cite: 11].",
+    "ayuda": "Régimen represivo, liderado por un militar, sin respeto a las leyes ni a los derechos humanos[cite: 11].",
+    "distractores": [
+      "Una democracia participativa moderna, distribuyendo el poder ejecutivo equitativamente y protegiendo fuertemente libertades ciudadanas civiles[cite: 11].",
+      "Una monarquía parlamentaria clásica, delegando el poder ejecutivo legislativamente y regulando fuertemente libertades ciudadanas civiles[cite: 11].",
+      "Una república federalista autónoma, fragmentando el poder ejecutivo regionalmente y expandiendo fuertemente libertades ciudadanas civiles[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un historiador compara procesos históricos violentos y rápidos que transformaron radicalmente las estructuras políticas y económicas de Francia en el siglo XVIII y de Cuba en el siglo XX de raíz[cite: 11].",
+      "pregunta": "¿Qué concepto sociopolítico define estos cambios sociales fundamentales que destruyen un orden establecido para instaurar uno nuevo?"
+    },
+    "respuesta": "El concepto de revolución, que describe transformaciones sociopolíticas profundas ejecutadas mediante acciones muy radicales y violentas[cite: 11].",
+    "ayuda": "Proceso de transformación profunda, rápida y estructural, ejemplificado en casos como el proceso francés, ruso o cubano[cite: 11].",
+    "distractores": [
+      "El concepto de reforma, que describe transformaciones sociopolíticas profundas ejecutadas mediante leyes muy pacíficas y violentas[cite: 11].",
+      "El concepto de transición, que describe transformaciones sociopolíticas profundas ejecutadas mediante negociaciones muy lentas y violentas[cite: 11].",
+      "El concepto de golpe, que describe transformaciones sociopolíticas profundas ejecutadas mediante traiciones muy elitistas y violentas[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un economista explica que Colombia pasó de exportar productos primarios en el siglo XIX a sustituir importaciones en el siglo XX, y luego adoptó la apertura neoliberal en los años noventa[cite: 11].",
+      "pregunta": "¿Qué herramientas teóricas emplea el economista para explicar estos cambios y diseñar las políticas nacionales de desarrollo?"
+    },
+    "respuesta": "Emplea un modelo económico, como representación simplificada que describe el funcionamiento macroeconómico del país para estudiarlo[cite: 11].",
+    "ayuda": "Concepto que sirve como representación de cómo funciona una economía para explicar fenómenos y dictar políticas[cite: 11].",
+    "distractores": [
+      "Emplea un modelo cultural, como representación simplificada que describe el funcionamiento antropológico del país para estudiarlo[cite: 11].",
+      "Emplea un modelo geográfico, como representación simplificada que describe el funcionamiento topográfico del país para estudiarlo[cite: 11].",
+      "Emplea un modelo ambiental, como representación simplificada que describe el funcionamiento ecosistémico del país para estudiarlo[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un debate sindical resalta que el trabajador colombiano ofrece su mano de obra a cambio de un salario a empresas privadas que poseen los medios productivos bajo una amplia libertad comercial[cite: 11].",
+      "pregunta": "¿A qué modo de producción pertenece este sistema mixto, donde el Estado garantiza servicios pero prima la propiedad?"
+    },
+    "respuesta": "Al sistema histórico capitalista, fundamentado sobre la innegable propiedad privada mercantil y continua acumulación salarial monetaria[cite: 11].",
+    "ayuda": "Sistema fundamentado en el mercado libre, el salario y la posesión privada de los medios de producción[cite: 11].",
+    "distractores": [
+      "Al sistema histórico socialista, fundamentado sobre la innegable propiedad pública estatal y continua distribución salarial monetaria[cite: 11].",
+      "Al sistema histórico feudalista, fundamentado sobre la innegable propiedad noble rural y continua servidumbre salarial monetaria[cite: 11].",
+      "Al sistema histórico esclavista, fundamentado sobre la innegable propiedad humana forzada y continua explotación salarial monetaria[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Durante los años noventa, el gobierno implementó la 'Apertura Económica', privatizando empresas estatales y desregulando el comercio internacional, lo que modernizó sectores pero debilitó drásticamente la industria nacional según varios críticos[cite: 11].",
+      "pregunta": "¿Qué teoría macroeconómica impulsó estas reformas abogando por reducir al mínimo la intervención estatal en la economía?"
+    },
+    "respuesta": "El paradigma del neoliberalismo, diseñado para impulsar fuertemente la privatización comercial y liberalización aduanera del mercado[cite: 11].",
+    "ayuda": "Teoría económica que apoya la mínima intervención del Estado, la privatización y la desregulación total del mercado[cite: 11].",
+    "distractores": [
+      "El paradigma del proteccionismo, diseñado para impulsar fuertemente la restricción comercial y nacionalización aduanera del mercado[cite: 11].",
+      "El paradigma del mercantilismo, diseñado para impulsar fuertemente la acumulación comercial y monopolización aduanera del mercado[cite: 11].",
+      "El paradigma del estructuralismo, diseñado para impulsar fuertemente la planificación comercial y regulación aduanera del mercado[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Hoy en día, un campesino colombiano debe competir con productos agrícolas importados subsidiados gracias a la tecnología de transporte y comunicaciones que integran a todas las economías a escala mundial velozmente[cite: 11].",
+      "pregunta": "¿Qué proceso de interdependencia mundial genera un impacto ambivalente aumentando bienes pero agudizando la desigualdad productiva local?"
+    },
+    "respuesta": "El fenómeno creciente de globalización, que interconecta mercados mundiales afectando directamente la difícil competencia local agrícola[cite: 11].",
+    "ayuda": "Proceso caracterizado por la creciente integración global de economías y culturas que ha impactado fuertemente a Colombia[cite: 11].",
+    "distractores": [
+      "El fenómeno creciente de regionalización, que fragmenta mercados mundiales afectando directamente la difícil competencia local agrícola[cite: 11].",
+      "El fenómeno creciente de balcanización, que divide mercados mundiales afectando directamente la difícil competencia local agrícola[cite: 11].",
+      "El fenómeno creciente de colonización, que domina mercados mundiales afectando directamente la difícil competencia local agrícola[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un proyecto minero es cancelado por la Corte argumentando que extraer el mineral generará beneficios económicos presentes, pero destruirá fuentes hídricas vitales, comprometiendo irreparablemente la supervivencia de las futuras generaciones poblacionales[cite: 11].",
+      "pregunta": "¿Qué principio consagrado en la Constitución Ecológica de 1991 busca equilibrar el crecimiento económico con la protección ambiental?"
+    },
+    "respuesta": "El principio de desarrollo sostenible, que satisface urgencias actuales garantizando plenamente recursos naturales futuros y limpios[cite: 11].",
+    "ayuda": "Se asocia a las políticas y objetivos (ODS) orientados a crecer sin afectar los recursos ambientales futuros[cite: 11].",
+    "distractores": [
+      "El principio de desarrollo extractivista, que satisface urgencias actuales sacrificando plenamente recursos naturales futuros y limpios[cite: 11].",
+      "El principio de desarrollo industrial, que satisface urgencias actuales consumiendo plenamente recursos naturales futuros y limpios[cite: 11].",
+      "El principio de desarrollo financiero, que satisface urgencias actuales hipotecando plenamente recursos naturales futuros y limpios[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Estadísticas muestran que Colombia presenta profundas brechas entre ciudadanos ricos y pobres, zonas urbanas con servicios óptimos y áreas rurales abandonadas, lo que alimenta tensiones y constituye causas estructurales del conflicto[cite: 11].",
+      "pregunta": "¿Qué concepto socioeconómico describe esta distribución inequitativa de recursos, oportunidades y poder dentro de la sociedad contemporánea?"
+    },
+    "respuesta": "La enorme desigualdad social estructural, evidenciada por profundas brechas persistentes entre diferentes grupos poblacionales y económicos[cite: 11].",
+    "ayuda": "Colombia posee altas tasas de esta problemática, marcada por grandes distancias económicas entre ricos y muy pobres[cite: 11].",
+    "distractores": [
+      "La enorme movilidad social estructural, evidenciada por profundas brechas persistentes entre diferentes grupos poblacionales y económicos[cite: 11].",
+      "La enorme cohesión social estructural, evidenciada por profundas brechas persistentes entre diferentes grupos poblacionales y económicos[cite: 11].",
+      "La enorme integración social estructural, evidenciada por profundas brechas persistentes entre diferentes grupos poblacionales y económicos[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En el pacífico colombiano, las comunidades transmiten sus creencias, valores y prácticas musicales de generación en generación. La Constitución de 1991 reconoce estas expresiones diversas como el verdadero fundamento de nuestra riqueza[cite: 11].",
+      "pregunta": "¿Qué dimensión sociológica agrupa todas estas creencias, normas y símbolos compartidos que caracterizan a los grupos sociales?"
+    },
+    "respuesta": "La rica cultura inmaterial, entendida como conjunto invaluable de creencias identitarias transmitidas activamente entre generaciones sucesivas[cite: 11].",
+    "ayuda": "Es el marco de normas, valores y prácticas que caracterizan a una sociedad y forman su fundamento[cite: 11].",
+    "distractores": [
+      "La rica raza inmaterial, entendida como conjunto invaluable de características genéticas transmitidas activamente entre generaciones sucesivas[cite: 11].",
+      "La rica economía inmaterial, entendida como conjunto invaluable de transacciones mercantiles transmitidas activamente entre generaciones sucesivas[cite: 11].",
+      "La rica geografía inmaterial, entendida como conjunto invaluable de delimitaciones espaciales transmitidas activamente entre generaciones sucesivas[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un sociólogo entrevista a un joven que se siente orgulloso de ser afrocolombiano (pertenencia social), pero también cultiva intereses únicos que lo diferencian de su comunidad, en un país fuertemente fragmentado[cite: 11].",
+      "pregunta": "¿Qué construcción psicológica y social define el sentido de sí mismo que edifica el individuo en sociedad?"
+    },
+    "respuesta": "La construcción de su identidad, compuesta simultáneamente por rasgos estrictamente personales y membresías grupales históricas fundamentales[cite: 11].",
+    "ayuda": "Concepto compuesto por lo que nos hace únicos (personal) y la pertenencia a un grupo determinado (social)[cite: 11].",
+    "distractores": [
+      "La construcción de su estatus, compuesta simultáneamente por rasgos estrictamente personales y membresías grupales históricas fundamentales[cite: 11].",
+      "La construcción de su patrimonio, compuesta simultáneamente por rasgos estrictamente personales y membresías grupales históricas fundamentales[cite: 11].",
+      "La construcción de su fenotipo, compuesta simultáneamente por rasgos estrictamente personales y membresías grupales históricas fundamentales[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El Artículo 7 de la Carta Magna protege legalmente a cabildos indígenas, palenqueros y comunidades raizales, garantizando la coexistencia de diferentes sistemas en el territorio nacional sin forzarlos a asimilarse culturalmente[cite: 11].",
+      "pregunta": "¿A qué concepto clave hace referencia este reconocimiento estatal de la diversidad pluriétnica como un hecho legal?"
+    },
+    "respuesta": "A la reconocida multiculturalidad nacional, que acepta oficialmente la coexistencia armónica de diversas poblaciones pacíficamente integradas[cite: 11].",
+    "ayuda": "Concepto que marca el paso en la Constitución de 1991 al reconocimiento de diversas culturas coexistiendo juntas[cite: 11].",
+    "distractores": [
+      "A la reconocida homogeneidad nacional, que acepta oficialmente la coexistencia armónica de diversas poblaciones pacíficamente integradas[cite: 11].",
+      "A la reconocida xenofobia nacional, que acepta oficialmente la coexistencia armónica de diversas poblaciones pacíficamente integradas[cite: 11].",
+      "A la reconocida segregación nacional, que acepta oficialmente la coexistencia armónica de diversas poblaciones pacíficamente integradas[cite: 11]."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una abogada invoca la Ley 1257 de 2008 para defender a una mujer discriminada laboralmente, argumentando que los roles sociales impuestos a las mujeres no derivan de la biología, sino culturalmente[cite: 11].",
+      "pregunta": "¿Qué concepto analítico permite comprender las desigualdades originadas por los comportamientos y oportunidades socialmente asignados según sexo?"
+    },
+    "respuesta": "La construcción cultural del género, que examina críticamente las asimetrías de poder entre individuos socialmente categorizados[cite: 11].",
+    "ayuda": "Se refiere a la construcción social que asigna roles o comportamientos diferenciados basándose en el sexo biológico[cite: 11].",
+    "distractores": [
+      "La construcción cultural del instinto, que examina críticamente las asimetrías de poder entre individuos socialmente categorizados[cite: 11].",
+      "La construcción cultural del fenotipo, que examina críticamente las asimetrías de poder entre individuos socialmente categorizados[cite: 11].",
+      "La construcción cultural del carisma, que examina críticamente las asimetrías de poder entre individuos socialmente categorizados[cite: 11]."
+    ]
+  }
+]
+
+```
