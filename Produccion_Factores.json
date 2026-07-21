@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "Un carpintero compra madera cruda en el mercado local y, tras varios días de trabajo detallado, construye una hermosa mesa de comedor que vende a un precio mucho mayor que los materiales originales.",
+      "pregunta": "Según el texto, ¿qué concepto económico fundamental ilustra directamente esta transformación de recursos naturales en un bien mucho más valioso?"
+    },
+    "respuesta": "El proceso productivo, porque el carpintero logra agregar valor significativo transformando los insumos básicos comprados.",
+    "ayuda": "La producción en economía no es solo hacer cosas, sino transformar materias primas (inputs) para agregarles valor y convertirlas en productos útiles (outputs).",
+    "distractores": [
+      "El sector primario, porque el carpintero logra extraer valor significativo cortando los troncos básicos comprados.",
+      "El capital financiero, porque el carpintero logra invertir valor significativo guardando los billetes básicos comprados.",
+      "El método continuo, porque el carpintero logra operar valor significativo ensamblando los plásticos básicos comprados."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una empresa de energía instala modernos paneles solares en una región desértica para aprovechar la intensa luz del sol y generar electricidad constante para las comunidades cercanas.",
+      "pregunta": "En la teoría de los factores de producción, ¿a qué categoría específica pertenece la luz solar utilizada por esta moderna empresa de energía?"
+    },
+    "respuesta": "Al factor tierra, ya que este concepto agrupa todos aquellos recursos puramente naturales provenientes del entorno físico.",
+    "ayuda": "El factor Tierra no se limita al suelo agrícola; incluye cualquier recurso natural aprovechable, como minerales, agua, aire y luz solar.",
+    "distractores": [
+      "Al factor trabajo, ya que este concepto agrupa todos aquellos esfuerzos puramente humanos provenientes del entorno físico.",
+      "Al factor capital, ya que este concepto agrupa todos aquellos bienes puramente materiales provenientes del entorno físico.",
+      "Al factor método, ya que este concepto agrupa todos aquellos pasos puramente técnicos provenientes del entorno físico."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un emprendedor recibe un préstamo millonario del banco y decide utilizar ese dinero exclusivamente para comprar hornos industriales y batidoras gigantes para su nueva panadería comercial.",
+      "pregunta": "Según la teoría de los factores de producción, ¿qué transición económica específica ocurre al realizar estas grandes compras para el negocio?"
+    },
+    "respuesta": "El simple capital financiero se transforma efectivamente en un capital físico diseñado estrictamente para producir mayores bienes alimenticios.",
+    "ayuda": "El dinero por sí solo es capital financiero; solo al comprar bienes duraderos (máquinas, hornos) se convierte en capital físico productivo.",
+    "distractores": [
+      "El simple factor tierra se transforma efectivamente en un factor humano diseñado estrictamente para producir mayores bienes alimenticios.",
+      "El simple sector primario se transforma efectivamente en un sector terciario diseñado estrictamente para producir mayores bienes alimenticios.",
+      "El simple trabajo manual se transforma efectivamente en un trabajo mental diseñado estrictamente para producir mayores bienes alimenticios."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una ingeniera identifica que muchos agricultores pierden sus cosechas por plagas. Ella organiza a varios técnicos, consigue inversión y diseña una aplicación móvil que detecta plagas tempranamente, asumiendo el riesgo del proyecto.",
+      "pregunta": "¿Qué factor de producción está liderando la ingeniera al coordinar recursos, identificar oportunidades comerciales y asumir importantes riesgos financieros?"
+    },
+    "respuesta": "La gran capacidad empresarial, porque logra combinar organizadamente los demás factores asumiendo el riesgo del nuevo negocio.",
+    "ayuda": "La capacidad empresarial actúa como el 'chef': identifica la oportunidad, organiza la tierra, el trabajo y el capital, y asume el riesgo del proyecto.",
+    "distractores": [
+      "La gran infraestructura física, porque logra combinar organizadamente los demás sectores asumiendo el riesgo del nuevo negocio.",
+      "La gran rentabilidad agraria, porque logra combinar organizadamente los demás cultivos asumiendo el riesgo del nuevo negocio.",
+      "La gran sostenibilidad social, porque logra combinar organizadamente los demás gremios asumiendo el riesgo del nuevo negocio."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En un balance financiero anual, una fábrica registra distintos pagos: abona mensualidades a sus obreros, paga arrendamientos por el uso del lote donde opera y distribuye ganancias entre sus creadores fundadores.",
+      "pregunta": "Según los conceptos económicos del texto, ¿cuáles son los nombres técnicos que reciben estas tres remuneraciones productivas mencionadas respectivamente?"
+    },
+    "respuesta": "El salario mensual por trabajar, la renta territorial por alquilar y el beneficio empresarial por emprender proyectos.",
+    "ayuda": "Cada factor tiene su pago: el trabajo recibe salario, la tierra (recursos naturales) genera renta, y la capacidad empresarial obtiene beneficios.",
+    "distractores": [
+      "El interés mensual por trabajar, la deuda territorial por alquilar y el capital empresarial por emprender proyectos.",
+      "El ahorro mensual por trabajar, la cuota territorial por alquilar y el subsidio empresarial por emprender proyectos.",
+      "El activo mensual por trabajar, la venta territorial por alquilar y el impuesto empresarial por emprender proyectos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una compañía maderera descubre que puede duplicar su producción talando indiscriminadamente un bosque nativo en tiempo récord. Sin embargo, deciden talar solo áreas específicas y replantar tres árboles por cada uno cortado.",
+      "pregunta": "¿Qué característica moderna de la producción está priorizando fuertemente esta compañía al rechazar la rápida tala masiva forestal?"
+    },
+    "respuesta": "La sostenibilidad ambiental, buscando satisfacer las demandas actuales sin llegar a destruir los recursos naturales del futuro.",
+    "ayuda": "La sostenibilidad es la característica no negociable hoy en día: producir para el presente garantizando que las futuras generaciones también tendrán recursos.",
+    "distractores": [
+      "La escalabilidad comercial, buscando satisfacer las demandas actuales sin llegar a disminuir los ingresos financieros del futuro.",
+      "La flexibilidad productiva, buscando satisfacer las demandas actuales sin llegar a alterar los modelos industriales del futuro.",
+      "La eficiencia operativa, buscando satisfacer las demandas actuales sin llegar a encarecer los bienes materiales del futuro."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En la economía colombiana, una región extrae esmeraldas de las montañas, otra ensambla vehículos familiares en grandes plantas, y otra ofrece servicios turísticos y hoteleros a los visitantes internacionales durante todo el año.",
+      "pregunta": "De acuerdo con el documento estudiado, ¿a qué sectores económicos pertenecen exclusivamente estas tres actividades mencionadas respectivamente?"
+    },
+    "respuesta": "Al sector primario extractivo, al sector secundario industrial y al sector terciario enfocado hacia los servicios.",
+    "ayuda": "El primario extrae (minería), el secundario transforma (ensamblaje), y el terciario ofrece bienes intangibles (turismo y hotelería).",
+    "distractores": [
+      "Al sector secundario extractivo, al sector primario industrial y al sector terciario enfocado hacia los servicios.",
+      "Al sector terciario extractivo, al sector secundario industrial y al sector primario enfocado hacia los servicios.",
+      "Al sector continuo extractivo, al sector artesanal industrial y al sector masivo enfocado hacia los servicios."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un taller de barrio diseña trajes a la medida, cosiendo cada prenda a mano según las tallas del cliente. Simultáneamente, una fábrica internacional produce diez mil camisetas idénticas usando máquinas automáticas.",
+      "pregunta": "¿Cuáles son los métodos específicos de fabricación utilizados por el taller de barrio y la fábrica internacional respectivamente?"
+    },
+    "respuesta": "El método artesanal enfocado en lotes pequeños y el método masivo enfocado en altos volúmenes idénticos.",
+    "ayuda": "La producción artesanal se enfoca en pocas unidades personalizadas, mientras que la producción en masa genera grandes cantidades de artículos idénticos a bajo costo.",
+    "distractores": [
+      "El método continuo enfocado en lotes pequeños y el método primario enfocado en altos volúmenes idénticos.",
+      "El método terciario enfocado en lotes pequeños y el método secundario enfocado en altos volúmenes idénticos.",
+      "El método espacial enfocado en lotes pequeños y el método temporal enfocado en altos volúmenes idénticos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una compañía de ingeniería civil gana una licitación gubernamental para diseñar y construir un gigantesco puente colgante sobre el río Magdalena, una obra única que tomará cuatro años en ser finalizada por completo.",
+      "pregunta": "Según las clasificaciones de los procesos de fabricación, ¿qué método de producción está aplicando esta compañía de ingeniería?"
+    },
+    "respuesta": "La producción por proyecto, ya que se concentra en fabricar un producto único, temporal y sumamente complejo.",
+    "ayuda": "La producción por proyecto se utiliza para bienes de gran envergadura y únicos, como edificios, películas o puentes.",
+    "distractores": [
+      "La producción en cadena, ya que se concentra en fabricar un producto seriado, permanente y sumamente complejo.",
+      "La producción por lotes, ya que se concentra en fabricar un producto masivo, regular y sumamente complejo.",
+      "La producción en red, ya que se concentra en fabricar un producto digital, virtual y sumamente complejo."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un país decide invertir gran parte de sus recursos en construir cientos de hospitales equipados con maquinaria avanzada y en mejorar radicalmente la nutrición escolar de todos los niños del territorio nacional.",
+      "pregunta": "¿Qué factor de producción se verá directamente beneficiado y potenciado a largo plazo gracias a estas importantes inversiones estatales?"
+    },
+    "respuesta": "El factor trabajo, debido a que la excelente salud poblacional determina la calidad del capital humano.",
+    "ayuda": "El capital humano, que es la calidad del factor trabajo, depende directamente de la salud y educación de la población.",
+    "distractores": [
+      "El factor tierra, debido a que la excelente salud poblacional determina la fertilidad del entorno natural.",
+      "El factor capital, debido a que la excelente salud poblacional determina la durabilidad del equipo físico.",
+      "El factor riesgo, debido a que la excelente salud poblacional determina la seguridad del modelo empresarial."
+    ]
+  }
+]
