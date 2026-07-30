@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "En 1948, la creación de la Organización de los Estados Americanos (OEA) buscó fortalecer el panamericanismo. Un historiador afirma en una conferencia: 'La creación de estas organizaciones continentales no fue un simple acto de hermandad, sino una estrategia geopolítica para alinear a la región bajo el manto de una superpotencia'.",
+      "pregunta": "Según la lectura, ¿qué contexto global determinó la fuerte y marcada influencia estadounidense sobre la recién creada OEA?"
+    },
+    "respuesta": "La entrada de todos los países americanos en la órbita de los estados capitalistas durante la tensa Guerra Fría mundial.",
+    "ayuda": "El texto indica que la OEA tuvo influencia estadounidense porque América Latina quedó bajo la órbita del bloque capitalista al entrar en la Guerra Fría.",
+    "distractores": [
+      "La creación de todos los movimientos populares en la zona de las naciones socialistas durante la tensa Guerra Fría mundial.",
+      "La influencia de todos los partidos opositores en la órbita de las naciones comunistas durante la tensa Guerra Fría mundial.",
+      "La expulsión de todos los líderes sindicales en la zona de los estados imperialistas durante la tensa Guerra Fría mundial."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El texto explica que, a pesar de algunas reformas, América Latina mantenía condiciones de pobreza extrema, lo que impulsó la creación de movimientos revolucionarios. En un debate, un estudiante argumenta que las revoluciones estallaron porque los gobiernos populistas no habían hecho absolutamente ninguna reforma social.",
+      "pregunta": "De acuerdo con la comprensión lectora del documento, ¿cuál es el error histórico en la afirmación del estudiante?"
+    },
+    "respuesta": "Los gobiernos populistas sí implementaron algunas reformas sociales, pero estas resultaron insuficientes ante la inmensa dominación de las pequeñas élites económicas.",
+    "ayuda": "La lectura aclara que los populistas introdujeron algunas reformas, pero la dominación de pequeñas élites y la pobreza extrema continuaron motivando las revoluciones.",
+    "distractores": [
+      "Los partidos comunistas sí ejecutaron algunas expropiaciones rurales, pero estas resultaron insuficientes ante la inmensa dominación de las pequeñas élites económicas.",
+      "Los líderes dictatoriales sí promovieron algunas intervenciones militares, pero estas resultaron insuficientes ante la inmensa dominación de las pequeñas élites económicas.",
+      "Los movimientos estudiantiles sí organizaron algunas protestas pacíficas, pero estas resultaron insuficientes ante la inmensa dominación de las pequeñas élites económicas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En Guatemala, tras la revolución de 1944, Juan José Arévalo y posteriormente Jacobo Arbenz intentaron democratizar la sociedad. Un noticiero internacional de los años cincuenta reporta: 'El gobierno ha expropiado vastos terrenos agrícolas, provocando la ira de corporaciones extranjeras que operan en la región'.",
+      "pregunta": "Según el texto, ¿qué acción radical desencadenó la invasión militar estadounidense hacia el territorio guatemalteco?"
+    },
+    "respuesta": "La expropiación de las tierras bananeras que estaban en propiedad exclusiva de la gran compañía estadounidense United Fruit Company.",
+    "ayuda": "El detonante de la intervención militar fue el proceso de reforma agraria que expropió tierras a la United Fruit Company.",
+    "distractores": [
+      "La expropiación de los recursos minerales que estaban en propiedad exclusiva de la gran compañía estadounidense United Fruit Company.",
+      "La expropiación de los pozos petroleros que estaban en propiedad exclusiva de la gran compañía estadounidense United Fruit Company.",
+      "La expropiación de los ingenios azucareros que estaban en propiedad exclusiva de la gran compañía estadounidense United Fruit Company."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En Bolivia, el candidato del Movimiento Nacional Revolucionario (MNR) ganó legítimamente las elecciones presidenciales de 1951. Sin embargo, las élites económicas, apoyadas por el ejército, ejecutaron un rápido golpe de Estado para impedir su posesión oficial.",
+      "pregunta": "Relacionando este evento con el texto, ¿qué consecuencia social y política generó directamente este golpe militar?"
+    },
+    "respuesta": "Causó el levantamiento armado de los obreros y campesinos bolivianos, haciendo posible el anhelado retorno de Víctor Paz Estenssoro al poder.",
+    "ayuda": "El golpe de Estado para evitar que Paz Estenssoro asumiera el poder provocó un levantamiento popular que impulsó la revolución de 1952.",
+    "distractores": [
+      "Causó el bloqueo naval de los obreros y campesinos bolivianos, haciendo posible el anhelado retorno de líder Fulgencio Batista al poder.",
+      "Causó el avance militar de los obreros y campesinos bolivianos, haciendo posible el anhelado retorno de Carlos Castilla Armas al poder.",
+      "Causó el desfile pacífico de los obreros y campesinos bolivianos, haciendo posible el anhelado retorno de Juan José Arévalo al poder."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "La isla de Cuba soportó años de intervencionismo. Una crónica periodística sobre La Habana en 1954 describe lujosos casinos, grandes hoteles y negocios turbios manejados por norteamericanos bajo la mirada cómplice de las autoridades locales.",
+      "pregunta": "Según la lectura, ¿qué política del dictador Fulgencio Batista facilitó el establecimiento de este tipo de negocios?"
+    },
+    "respuesta": "Batista permitió a los empresarios y mafiosos estadounidenses la amplia instalación de diversos negocios a cambio del firme apoyo del gobierno norteamericano.",
+    "ayuda": "El apoyo de Estados Unidos al régimen dictatorial de Batista fue retribuido permitiendo que empresarios y mafiosos estadounidenses instalaran toda clase de negocios.",
+    "distractores": [
+      "Batista permitió a los mineros y campesinos bolivianos la amplia instalación de diversos negocios a cambio del firme apoyo del gobierno norteamericano.",
+      "Batista permitió a los estudiantes y políticos guatemaltecos la amplia instalación de diversos negocios a cambio del firme apoyo del gobierno norteamericano.",
+      "Batista permitió a los guerrilleros y líderes comunistas la amplia instalación de diversos negocios a cambio del firme apoyo del gobierno norteamericano."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Fidel Castro atacó el Cuartel Moncada, fue encarcelado, posteriormente liberado y más tarde viajó a México a organizar su guerrilla a bordo del Granma. Un investigador inexperto afirma en un ensayo que 'Castro fundó el Movimiento 26 de julio (M-26) inmediatamente después de regresar de su exilio en México'.",
+      "pregunta": "Aplicando la comprensión lectora sobre la cronología del documento, ¿por qué es totalmente errónea esta afirmación histórica?"
+    },
+    "respuesta": "Porque Castro organizó este movimiento en la isla inmediatamente después de recibir su amnistía carcelaria, mucho antes de emprender su viaje hacia territorio mexicano.",
+    "ayuda": "La cronología del texto establece claramente que Castro fue amnistiado, creó el Movimiento 26 de julio y, dos meses después, viajó a México.",
+    "distractores": [
+      "Porque Castro organizó este movimiento en la montaña inmediatamente después de recibir su amnistía carcelaria, mucho antes de emprender su viaje hacia territorio estadounidense.",
+      "Porque Castro organizó este movimiento en la capital inmediatamente después de recibir su amnistía carcelaria, mucho antes de emprender su viaje hacia territorio soviético.",
+      "Porque Castro organizó este movimiento en la selva inmediatamente después de recibir su amnistía carcelaria, mucho antes de emprender su viaje hacia territorio guatemalteco."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Tras el triunfo rebelde en Cuba, un importante país decide cortar repentinamente la compra de azúcar y detener los envíos de petróleo hacia la isla caribeña, con la intención estratégica de asfixiarla económicamente.",
+      "pregunta": "De acuerdo con el texto, ¿qué impacto geopolítico directo y contundente tuvo este severo bloqueo económico impuesto por los Estados Unidos?"
+    },
+    "respuesta": "Ocasionó que la Unión Soviética ofreciera importante ayuda económica, haciendo que la isla caribeña girara rápidamente hacia la órbita de los países orientales.",
+    "ayuda": "El bloqueo de Estados Unidos provocó que la Unión Soviética ofreciera ayuda económica, haciendo que Cuba se alineara definitivamente con el bloque oriental.",
+    "distractores": [
+      "Ocasionó que la Organización Americana ofreciera importante ayuda económica, haciendo que la isla caribeña girara rápidamente hacia la órbita de los países occidentales.",
+      "Ocasionó que la Agencia Central ofreciera importante ayuda económica, haciendo que la isla caribeña girara rápidamente hacia la órbita de los países capitalistas.",
+      "Ocasionó que la United Fruit ofreciera importante ayuda económica, haciendo que la isla caribeña girara rápidamente hacia la órbita de los países nacionalistas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En una operación encubierta, un grupo de emigrantes armados desembarca en Bahía Cochinos esperando que la población local se una a su rebelión para derrocar al gobierno cubano establecido, pero la respuesta ciudadana fue totalmente opuesta.",
+      "pregunta": "Según el texto, ¿qué consecuencia ideológica inesperada generó el rotundo fracaso militar de esta invasión orquestada desde el exterior?"
+    },
+    "respuesta": "El fracaso militar exaltó el orgullo nacional y motivó que la revolución fuera declarada oficialmente bajo la influencia ideológica del bloque comunista.",
+    "ayuda": "Lejos de derrocar a Castro, el fracaso de la invasión en Bahía Cochinos radicalizó la revolución, llevando a declarar formalmente su carácter comunista.",
+    "distractores": [
+      "El fracaso militar exaltó el orgullo nacional y motivó que la revolución fuera declarada oficialmente bajo la influencia ideológica del bloque capitalista.",
+      "El fracaso militar exaltó el orgullo nacional y motivó que la revolución fuera declarada oficialmente bajo la influencia ideológica del bloque panamericano.",
+      "El fracaso militar exaltó el orgullo nacional y motivó que la revolución fuera declarada oficialmente bajo la influencia ideológica del bloque populista."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Fotografías aéreas revelan la construcción secreta de bases de lanzamiento de misiles nucleares en Cuba, provocando que el presidente John F. Kennedy ordene un estricto bloqueo naval inmediato en torno a la isla caribeña.",
+      "pregunta": "Analizando este grave conflicto histórico denominado 'crisis de los misiles', ¿cuál fue el desenlace final de esta extrema tensión militar global?"
+    },
+    "respuesta": "La Unión Soviética accedió pacíficamente a retirar sus misiles de la isla, terminando así la situación más tensa del conflicto.",
+    "ayuda": "La crisis de los misiles, catalogada como el punto más tenso de la Guerra Fría, concluyó cuando la URSS accedió pacíficamente a retirar sus misiles.",
+    "distractores": [
+      "El gobierno estadounidense accedió pacíficamente a retirar sus misiles de la isla, terminando así la situación más tensa del conflicto.",
+      "El ejército guatemalteco accedió pacíficamente a retirar sus misiles de la isla, terminando así la situación más tensa del conflicto.",
+      "El movimiento revolucionario accedió pacíficamente a retirar sus misiles de la isla, terminando así la situación más tensa del conflicto."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "A lo largo de las descripciones de las revueltas en Guatemala, Bolivia y Cuba durante la década de los cincuenta, se relatan motivaciones locales y movilizaciones sociales que parecían tener un origen en común.",
+      "pregunta": "Desde una lectura crítica y global del texto, ¿qué factor estructural compartían verdaderamente estos tres países antes de sus respectivas revoluciones?"
+    },
+    "respuesta": "La dominación de pequeñas élites, la pobreza extrema y la nula participación política de las clases populares en la sociedad.",
+    "ayuda": "El texto establece que, a nivel general, América Latina estaba dominada por pequeñas élites, albergaba pobreza extrema y ofrecía una mínima participación política.",
+    "distractores": [
+      "La dominación de grandes empresas, la riqueza extrema y la nula participación política de las clases populares en la sociedad.",
+      "La dominación de países soviéticos, la pobreza extrema y la nula participación política de las clases burguesas en la sociedad.",
+      "La dominación de líderes militares, la pobreza extrema y la nula participación política de las fuerzas castrenses en la sociedad."
+    ]
+  }
+]
