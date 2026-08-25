@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "Un periodista publica un artículo incitando a la violencia y a la discriminación contra una minoría étnica, justificando su acción bajo su 'libertad de opinión y expresión'. La minoría afectada exige al Estado que censure dicho contenido apelando a su dignidad.",
+      "pregunta": "Según los principios de la Declaración, ¿cómo se resuelve constitucionalmente esta fuerte tensión entre derechos?"
+    },
+    "respuesta": "La libertad de expresión nunca ampara la grave incitación al odio porque ningún derecho permite suprimir las garantías fundamentales de las otras personas.",
+    "ayuda": "El último artículo de la Declaración y los límites de la libre expresión prohíben usar un derecho para destruir los derechos de los demás.",
+    "distractores": [
+      "El derecho de asilo nunca justifica la rápida invasión del territorio porque ninguna ley permite rechazar las garantías fundamentales de las otras personas.",
+      "La presunción de inocencia nunca autoriza la falsa acusación del delito porque ningún juez permite ignorar las garantías fundamentales de las otras personas.",
+      "La libertad de movimiento nunca promueve la masiva ocupación del espacio porque ningún Estado permite vulnerar las garantías fundamentales de las otras personas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El gobierno necesita construir urgentemente un hospital público en una zona marginada, pero el único terreno adecuado pertenece a un millonario que se niega a vender. Ante esto, el Estado decide expropiar el terreno pagando el valor comercial correspondiente.",
+      "pregunta": "Basándose en los límites del derecho a la propiedad descritos en el documento, ¿la acción del Estado está justificada?"
+    },
+    "respuesta": "Sí, porque el Estado puede privar legalmente de la propiedad privada si demuestra utilidad pública y paga una justa indemnización económica.",
+    "ayuda": "El derecho a la propiedad prohíbe la privación 'arbitraria'. Si hay utilidad pública y se paga indemnización justa, la acción estatal es legítima.",
+    "distractores": [
+      "No, porque el Estado debe abstenerse totalmente de la propiedad privada si demuestra voluntad pública y firma una justa documentación económica.",
+      "Sí, porque el Estado logra disponer socialmente de la propiedad privada si demuestra necesidad pública y exige una justa tributación económica.",
+      "No, porque el Estado suele depender internacionalmente de la propiedad privada si demuestra seguridad pública y cobra una justa penalización económica."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un analista económico debate en televisión: 'Es injusto que el sistema de seguridad social cubra con servicios de salud y subsidios a personas vulnerables que jamás pagaron impuestos, pues esto desangra el presupuesto nacional'.",
+      "pregunta": "De acuerdo con el enfoque de la Declaración Universal, ¿por qué el derecho a la seguridad social desestima el argumento de este analista?"
+    },
+    "respuesta": "Porque busca proteger financieramente a todos los miembros de la sociedad en momentos de vulnerabilidad para asegurarles una vida digna.",
+    "ayuda": "La seguridad social no es un premio financiero por pagar impuestos, sino una red de protección universal indispensable para la dignidad humana.",
+    "distractores": [
+      "Porque busca educar académicamente a todos los miembros de la sociedad en momentos de vulnerabilidad para asegurarles una vida digna.",
+      "Porque busca juzgar penalmente a todos los miembros de la sociedad en momentos de vulnerabilidad para asegurarles una vida digna.",
+      "Porque busca emplear laboralmente a todos los miembros de la sociedad en momentos de vulnerabilidad para asegurarles una vida digna."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una empresa de tecnología exige a sus empleados estar disponibles en sus teléfonos las 24 horas del día. El gerente afirma que la 'libertad de elección de trabajo' implica que los empleados aceptan libremente estas duras condiciones por un buen salario.",
+      "pregunta": "¿Cómo rebate la Declaración de los Derechos Humanos este argumento corporativo sobre las condiciones laborales?"
+    },
+    "respuesta": "Estableciendo que toda persona tiene derecho a una limitación razonable del tiempo laboral para garantizar el descanso y el disfrute.",
+    "ayuda": "El derecho al descanso impone límites innegociables a la jornada laboral, protegiendo el bienestar físico y mental del trabajador frente a la explotación.",
+    "distractores": [
+      "Estableciendo que toda persona tiene derecho a una remuneración equitativa del tiempo laboral para garantizar el ahorro y el disfrute.",
+      "Estableciendo que toda persona tiene derecho a una elección pacífica del tiempo laboral para garantizar el estudio y el disfrute.",
+      "Estableciendo que toda persona tiene derecho a una protección judicial del tiempo laboral para garantizar el asilo y el disfrute."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una comunidad campesina descubre que un laboratorio extranjero patentó de forma exclusiva una medicina tradicional botánica que ellos han utilizado ancestralmente, impidiéndoles ahora producirla y comercializarla localmente.",
+      "pregunta": "Basándose en el derecho a la vida cultural, ¿qué garantía específica le está siendo vulnerada a esta comunidad campesina?"
+    },
+    "respuesta": "El derecho de la comunidad a participar activamente en el progreso científico y beneficiarse libremente de sus propias creaciones tradicionales.",
+    "ayuda": "El derecho a la vida cultural incluye participar de los beneficios científicos y gozar del reconocimiento y uso de las creaciones comunitarias.",
+    "distractores": [
+      "El derecho de la comunidad a movilizarse pacíficamente en el territorio nacional y beneficiarse libremente de sus propias creaciones tradicionales.",
+      "El derecho de la comunidad a asociarse legalmente en el sistema político y beneficiarse libremente de sus propias creaciones tradicionales.",
+      "El derecho de la comunidad a educarse gratuitamente en el nivel fundamental y beneficiarse libremente de sus propias creaciones tradicionales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un alcalde destituido por graves pruebas de desvío de fondos públicos huye a una embajada extranjera solicitando 'asilo', argumentando que el sistema judicial de su país lo persigue debido a que pertenece a un partido político de oposición.",
+      "pregunta": "Atendiendo a la rigurosa definición del texto, ¿por qué esta solicitud de protección diplomática debería ser rechazada legalmente?"
+    },
+    "respuesta": "Porque el asilo protege exclusivamente a quienes enfrentan graves persecuciones por motivos ideológicos, no a quienes evaden juicios por delitos comunes.",
+    "ayuda": "El derecho de asilo aplica frente a persecuciones por raza, religión, nacionalidad o ideas políticas, no ampara a prófugos de la justicia penal común.",
+    "distractores": [
+      "Porque el destierro protege exclusivamente a quienes enfrentan largas condenas por motivos ideológicos, no a quienes evaden juicios por delitos comunes.",
+      "Porque el proceso protege exclusivamente a quienes enfrentan falsas acusaciones por motivos ideológicos, no a quienes evaden juicios por delitos comunes.",
+      "Porque el tribunal protege exclusivamente a quienes enfrentan rápidas sentencias por motivos ideológicos, no a quienes evaden juicios por delitos comunes."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un alto funcionario es acusado de corrupción mediante un video anónimo en redes sociales. Sin iniciar un juicio formal, el gobierno lo destituye inmediatamente y congela sus cuentas argumentando que 'la presión ciudadana exige respuestas rápidas y ejemplares'.",
+      "pregunta": "Desde la perspectiva de los derechos humanos, ¿qué garantía procesal fundamental está siendo ignorada por el gobierno?"
+    },
+    "respuesta": "La presunción de inocencia, que exige probar la culpabilidad del acusado mediante un juicio público con todas las garantías necesarias.",
+    "ayuda": "La carga de la prueba recae en el acusador. Ninguna presión social o mediática justifica imponer condenas sin agotar el debido proceso legal.",
+    "distractores": [
+      "La libertad de expresión, que exige probar la veracidad del mensaje mediante un juicio público con todas las garantías necesarias.",
+      "La protección de privacidad, que exige probar la intimidad del hogar mediante un juicio público con todas las garantías necesarias.",
+      "La igualdad de condiciones, que exige probar la equidad del trato mediante un juicio público con todas las garantías necesarias."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un régimen totalitario firma formalmente la Declaración Universal de los Derechos Humanos, pero emite un decreto nacional estableciendo: 'El Estado se reserva el derecho de suspender indefinidamente la libertad de asociación si esta llega a amenazar el modelo de desarrollo económico'.",
+      "pregunta": "¿Por qué este polémico decreto resulta ser un mecanismo jurídicamente incompatible con el último artículo del documento?"
+    },
+    "respuesta": "Porque prohíbe que el Estado utilice cualquier excusa legal para suprimir o destruir los derechos y libertades proclamados en el documento.",
+    "ayuda": "El artículo final establece un candado hermenéutico: ninguna norma interna o poder estatal puede interpretarse para destruir los derechos ya reconocidos.",
+    "distractores": [
+      "Porque prohíbe que el Estado utilice cualquier fuerza militar para suprimir o destruir los derechos y libertades proclamados en el documento.",
+      "Porque prohíbe que el Estado utilice cualquier recurso económico para suprimir o destruir los derechos y libertades proclamados en el documento.",
+      "Porque prohíbe que el Estado utilice cualquier presión política para suprimir o destruir los derechos y libertades proclamados en el documento."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En una nación determinada, todos los ciudadanos mayores de edad tienen derecho a ejercer el voto en las urnas; sin embargo, la ley electoral estipula que únicamente los miembros afiliados al partido oficialista pueden postularse como candidatos a la presidencia.",
+      "pregunta": "¿De qué manera esta restrictiva normativa electoral vulnera directamente el derecho a participar en el gobierno del país?"
+    },
+    "respuesta": "Al impedir que toda persona pueda postularse a los altos cargos públicos compitiendo en condiciones de plena y auténtica igualdad electoral.",
+    "ayuda": "El derecho a la participación no se limita a votar; incluye la garantía democrática de postularse y ser elegido en condiciones de igualdad.",
+    "distractores": [
+      "Al impedir que toda persona pueda asociarse a los grandes grupos sindicales compitiendo en condiciones de plena y auténtica igualdad electoral.",
+      "Al impedir que toda persona pueda expresarse a los amplios medios masivos compitiendo en condiciones de plena y auténtica igualdad electoral.",
+      "Al impedir que toda persona pueda educarse a los mejores niveles académicos compitiendo en condiciones de plena y auténtica igualdad electoral."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Para frenar una crisis financiera interna, un gobierno decide aplicar medidas de austeridad radical eliminando por completo los subsidios de alimentación y los fondos de la red hospitalaria pública, argumentando que la única obligación estatal real es garantizar la seguridad militar.",
+      "pregunta": "¿Qué derecho económico y social fundamental está siendo estructuralmente vulnerado al implementar esta drástica medida presupuestal?"
+    },
+    "respuesta": "El derecho a un nivel de vida adecuado, que asegura acceso a la alimentación, la asistencia médica y los servicios sociales.",
+    "ayuda": "El nivel de vida adecuado obliga al Estado a garantizar mínimos vitales innegociables (comida, vivienda, salud) para la dignidad de las familias.",
+    "distractores": [
+      "El derecho a un recurso de defensa efectivo, que asegura acceso a la justicia, la asistencia médica y los servicios sociales.",
+      "El derecho a un trabajo de calidad equitativo, que asegura acceso a la profesión, la asistencia médica y los servicios sociales.",
+      "El derecho a un orden de paz internacional, que asegura acceso a la seguridad, la asistencia médica y los servicios sociales."
+    ]
+  }
+]
