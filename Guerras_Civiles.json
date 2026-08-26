@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "Un historiador lee un artículo que describe a la Colombia del siglo XIX como un país caracterizado siempre por la institucionalidad republicana, la paz y la democracia constante.",
+      "pregunta": "Según el texto analizado, ¿por qué la realidad histórica de esa época contradice directamente la visión tradicional expuesta en el artículo?"
+    },
+    "respuesta": "Porque ocurrieron múltiples guerras civiles que deterioraron profundamente la nación, involucrando como víctimas y victimarios a miles de ciudadanos inocentes.",
+    "ayuda": "El texto indica que la visión de una vida republicana pacífica y democrática es contradecida por las múltiples guerras civiles del siglo XIX.",
+    "distractores": [
+      "Porque surgieron pequeñas guerras cívicas que fortalecieron rápidamente la milicia, consolidando como líderes y caudillos a varios de militares venezolanos.",
+      "Porque estallaron fuertes luchas ideológicas que dividieron radicalmente la iglesia, posicionando como jueces y defensores a cientos de abogados neogranadinos.",
+      "Porque fracasaron grandes reformas educativas que excluyeron drásticamente la religión, afectando como estudiantes y maestros a grupos de artesanos draconianos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Tras alcanzar la Independencia, la administración de la naciente república quedó dividida: mientras las tropas estaban comandadas por generales venezolanos, la administración civil fue asumida por abogados neogranadinos.",
+      "pregunta": "Según la lectura, ¿qué tipo de disputa específica originó esta clara división de poderes durante el período inmediatamente posterior a la Independencia?"
+    },
+    "respuesta": "Desató los primeros y graves conflictos con fuertes matices de clase entre los militares y la dirigencia civil.",
+    "ayuda": "Tras la Independencia, el control del ejército por venezolanos y el poder administrativo por neogranadinos generó los primeros conflictos de clase documentados.",
+    "distractores": [
+      "Desató los primeros y graves conflictos con fuertes matices de dogma entre los sacerdotes y la jerarquía eclesial.",
+      "Desató los primeros y graves conflictos con fuertes matices de renta entre los artesanos y la clase terrateniente.",
+      "Desató los primeros y graves conflictos con fuertes matices de voto entre los caudillos y la alianza política."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Los ideólogos republicanos y federalistas propusieron un modelo de Estado laico y civil, buscando desmantelar activamente a la Iglesia católica y reducir el tamaño del ejército central colombiano.",
+      "pregunta": "De acuerdo con el texto, ¿por qué los líderes civiles ilustrados consideraban indispensable debilitar y desmantelar el poder excesivo de la milicia?"
+    },
+    "respuesta": "Porque un ejército central fuerte amenazaba la autonomía regional, servía como instrumento de dominación política y consumía los escasos recursos fiscales.",
+    "ayuda": "Los civiles federalistas temían que un ejército central anulara su autonomía, fuera usado para dominarlos y gastara los pocos recursos estatales.",
+    "distractores": [
+      "Porque un ejército central fuerte destruía la educación religiosa, servía como instrumento de adoctrinamiento moral y consumía los escasos recursos educativos.",
+      "Porque un ejército central fuerte obstaculizaba la política librecambista, servía como instrumento de explotación agraria y consumía los escasos recursos comerciales.",
+      "Porque un ejército central fuerte impedía la alianza conservadora, servía como instrumento de represión social y consumía los escasos recursos nacionales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un analista político señala que, en el siglo XIX, el Estado no solo dictaba leyes, sino que era la entidad económica más importante frente a la precariedad del mercado laboral y comercial.",
+      "pregunta": "Según el análisis del documento, ¿qué consecuencia política generó esta dependencia laboral y económica hacia el naciente Estado colombiano?"
+    },
+    "respuesta": "Provocó que tomar y controlar el Estado nacional se convirtiera en una absoluta prioridad para los dos partidos políticos tradicionales.",
+    "ayuda": "Debido a la precariedad económica, el Estado era la principal fuente de empleos y recursos, haciéndolo el botín político más codiciado.",
+    "distractores": [
+      "Provocó que tomar y controlar el Estado nacional se convirtiera en una absoluta desgracia para los grandes terratenientes agrícolas sureños.",
+      "Provocó que tomar y controlar el Estado nacional se convirtiera en una absoluta imposibilidad para los caudillos militares regionales radicales.",
+      "Provocó que tomar y controlar el Estado nacional se convirtiera en una absoluta indiferencia para los nuevos artesanos gremiales gólgotas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Durante el gobierno de José Hilario López se implementaron reformas liberales profundas que alteraron el orden colonial, afectando directamente los intereses económicos de las élites terratenientes del sur de Colombia.",
+      "pregunta": "De acuerdo con el texto, ¿qué par de medidas específicas decretadas por este gobierno desencadenaron la violenta guerra del año 1851?"
+    },
+    "respuesta": "La completa abolición legal de la esclavitud humana y las radicales medidas anticlericales impulsadas por el gobierno liberal.",
+    "ayuda": "La guerra de 1851 enfrentó a los terratenientes del sur contra José Hilario López debido a la liberación de los esclavos y los ataques a la Iglesia.",
+    "distractores": [
+      "La completa separación legal de la iglesia católica y las radicales reformas educativas impulsadas por el gobierno liberal.",
+      "La completa disolución legal de la milicia central y las radicales políticas librecambistas impulsadas por el gobierno liberal.",
+      "La completa exclusión legal de la élite conservadora y las radicales propuestas centralistas impulsadas por el gobierno liberal."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El general José María Melo organizó un golpe de Estado en 1854. Durante este conflicto, el liberalismo colombiano demostró estar profundamente fragmentado, apoyando bandos contrarios según sus propios intereses económicos.",
+      "pregunta": "Según el documento, ¿cómo se manifestó ideológicamente esta grave división del partido liberal durante la rebelión militar liderada por Melo?"
+    },
+    "respuesta": "Los gólgotas defendían las medidas del mercado librecambista, mientras que los draconianos respaldaban activamente a Melo para proteger a los artesanos locales vulnerables.",
+    "ayuda": "El liberalismo se partió en dos: gólgotas (comerciantes a favor del librecambio) y draconianos (aliados de los artesanos que apoyaron el golpe proteccionista de Melo).",
+    "distractores": [
+      "Los conservadores defendían las reformas del modelo centralista, mientras que los radicales respaldaban activamente a Núñez para proteger a los terratenientes sureños vulnerables.",
+      "Los venezolanos defendían las normas del régimen independentista, mientras que los neogranadinos respaldaban activamente a Obando para proteger a los caudillos regionales vulnerables.",
+      "Los federalistas defendían las leyes del modelo descentralizado, mientras que los clérigos respaldaban activamente a Ospina para proteger a los colegios católicos vulnerables."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Al revisar el listado de las principales guerras civiles del siglo XIX, un historiador nota un patrón recurrente respecto al bando que logra la victoria, con una única y destacada excepción ocurrida a mediados de siglo.",
+      "pregunta": "Analizando los resultados de los conflictos bélicos descritos, ¿qué característica excepcional presenta la guerra civil librada entre los años 1859 y 1862?"
+    },
+    "respuesta": "Es el único gran conflicto bélico del documento donde las fuerzas rebeldes opositoras lograron derrotar militarmente al gobierno nacional establecido.",
+    "ayuda": "En la guerra de 1859 a 1862, el rebelde federalista Tomás Cipriano de Mosquera triunfó sobre el presidente Ospina, siendo la única derrota del gobierno.",
+    "distractores": [
+      "Es el único gran conflicto bélico del documento donde las facciones conservadoras radicales lograron derrotar políticamente al partido liberal establecido.",
+      "Es el único gran conflicto bélico del documento donde las milicias extranjeras aliadas lograron derrotar económicamente al grupo artesanal establecido.",
+      "Es el único gran conflicto bélico del documento donde las tropas religiosas católicas lograron derrotar legalmente al estado laico establecido."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Hacia finales del siglo XIX, Rafael Núñez y el Partido Nacional impulsaron el proyecto político de la Regeneración. Durante este período estallaron la Guerra de 1895 y la trágica Guerra de los Mil Días.",
+      "pregunta": "De acuerdo con el texto, ¿qué factor político estructural compartieron como causa principal estas dos últimas guerras del siglo XIX?"
+    },
+    "respuesta": "La constante exclusión en la política que marginaba fuertemente a los líderes liberales de las decisiones gubernamentales.",
+    "ayuda": "Tanto la rebelión liberal radical de 1895 como la Guerra de los Mil Días (1899) tuvieron como origen la exclusión política promovida por el gobierno.",
+    "distractores": [
+      "La repentina abolición en la esclavitud que arruinaba fuertemente a los líderes hacendados de las regiones productivas.",
+      "La obligatoria exclusión en la educación que afectaba fuertemente a los líderes religiosos de las escuelas católicas.",
+      "La drástica reducción en la milicia que enojaba fuertemente a los líderes militares de las tropas centrales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Algunos historiadores modernos como Clement Thibaud y George Lomné proponen reevaluar el sangriento período conocido como la Patria Boba, debatiendo sobre si debe considerarse estrictamente como la primera guerra civil colombiana.",
+      "pregunta": "¿Por qué el investigador francés Clement Thibaud sugiere catalogar los enfrentamientos de la Patria Boba como simples 'guerras cívicas'?"
+    },
+    "respuesta": "Porque este conflicto inicial no alcanzó una intensidad tan grande ni presentó unos actores armados tan diferenciados como las guerras posteriores del siglo.",
+    "ayuda": "Thibaud argumenta que, al carecer de la alta intensidad armada y de actores claramente definidos, la Patria Boba fue más una serie de guerras cívicas.",
+    "distractores": [
+      "Porque este conflicto inicial no impulsó una economía tan grande ni presentó unos acuerdos comerciales tan diferenciados como las industrias posteriores del siglo.",
+      "Porque este conflicto inicial no promovió una educación tan grande ni presentó unos colegios católicos tan diferenciados como las leyes posteriores del siglo.",
+      "Porque este conflicto inicial no organizó una milicia tan grande ni presentó unos generales venezolanos tan diferenciados como las dictaduras posteriores del siglo."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un profesor de historia resume el siglo XIX colombiano afirmando que 'fue un laboratorio de sangre y tinta, donde el país se construyó más a punta de disparos que de leyes consensuadas'.",
+      "pregunta": "¿Qué rasgo característico de las guerras civiles de este siglo confirma tajantemente la afirmación metafórica expresada por el docente académico?"
+    },
+    "respuesta": "Que estallaron múltiples y constantes rebeliones armadas entre diversos estados y territorios, incluyendo ocho inmensos conflictos que adquirieron un desolador y trágico carácter nacional.",
+    "ayuda": "El texto confirma que, además de las guerras locales entre estados, ocho de ellas alcanzaron un destructivo carácter nacional que afectó toda la población.",
+    "distractores": [
+      "Que fracasaron múltiples y constantes reformas educativas entre diversos colegios y universidades, incluyendo ocho inmensos debates que adquirieron un desolador y trágico carácter laico.",
+      "Que quebraron múltiples y constantes industrias textileras entre diversos artesanos y comerciantes, incluyendo ocho inmensos mercados que adquirieron un desolador y trágico carácter libre.",
+      "Que desertaron múltiples y constantes brigadas militares entre diversos generales y suboficiales, incluyendo ocho inmensos regimientos que adquirieron un desolador y trágico carácter central."
+    ]
+  }
+]
