@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "Un filósofo contemporáneo analiza cómo las antiguas civilizaciones estructuraron su moralidad. En su estudio, menciona que los antiguos egipcios utilizaban el peso de una pluma de avestruz para determinar el destino final del espíritu.",
+      "pregunta": "Según el documento, ¿qué concepto fundamental buscaba evaluar simbólicamente la civilización egipcia al pesar el espíritu contra una pluma?"
+    },
+    "respuesta": "La ligereza moral de la bondad, determinando si el individuo merecía ser salvado o condenado a un averno de monstruos.",
+    "ayuda": "La balanza de Osiris comparaba el espíritu humano con una pluma porque se consideraba que la bondad era muy ligera.",
+    "distractores": [
+      "La inmensa carga de la sabiduría, determinando si el individuo merecía ser enviado directamente a la presencia de Tot.",
+      "La absoluta pureza de la memoria, determinando si el individuo merecía ser reencarnado en la forma de un ave sagrada.",
+      "La eterna resistencia de la voluntad, determinando si el individuo merecía ser ascendido a los dominios del dios solar."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En una clase de filosofía de la religión, un estudiante afirma que la idea de someter las acciones terrenales a un juicio post-mortem ha estado presente idénticamente en la religión judía desde sus primeros asentamientos en el 1200 a.C.",
+      "pregunta": "De acuerdo con el texto, ¿por qué la afirmación de este estudiante sobre el judaísmo primitivo es históricamente incorrecta?"
+    },
+    "respuesta": "Porque los primeros libros hebreos describían un descanso subterráneo común sin juicios, incorporando el concepto de evaluación moral mucho después.",
+    "ayuda": "El texto explica que el antiguo reino de Israel (1200 a.C.) creía en el 'sheol' (descanso general) y solo incorporó el juicio en el siglo VIII a.C.",
+    "distractores": [
+      "Porque los primeros libros hebreos describían un paraíso celestial común sin juicios, incorporando el concepto de reencarnación física mucho después.",
+      "Porque los primeros libros hebreos describían un averno monstruoso común sin juicios, incorporando el concepto de redención divina mucho después.",
+      "Porque los primeros libros hebreos describían un purgatorio temporal común sin juicios, incorporando el concepto de liberación eterna mucho después."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un pensador budista y un monje cristiano debaten sobre la existencia después de la muerte. Mientras el cristiano describe un cielo definitivo, el documento describe una 'sala de espera' o estado intermedio aceptado por el cristianismo desde el medievo.",
+      "pregunta": "A partir de la lectura, ¿qué implicación filosófica y teológica tiene la existencia cristiana de este estado intermedio llamado purgatorio?"
+    },
+    "respuesta": "Que el destino final no es inmediato y los vivos pueden intervenir rezando para asegurar la salvación eterna de sus difuntos.",
+    "ayuda": "El purgatorio justifica celebraciones donde los creyentes rezan para que se conceda la gracia del cielo a las almas de sus parientes.",
+    "distractores": [
+      "Que el castigo final no es inmediato y los vivos pueden intervenir pagando para asegurar la condena eterna de sus enemigos.",
+      "Que el juicio final no es inmediato y los muertos pueden regresar encarnando para cambiar la acción terrenal de sus familias.",
+      "Que el premio final no es inmediato y los ángeles pueden descender sanando para borrar la culpa original de los humanos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un joven entusiasta de las filosofías orientales le comenta a su profesor: '¡La reencarnación es fascinante! Nos da infinitas oportunidades para disfrutar diferentes formas de vida material y experimentar los placeres del mundo terrenal'.",
+      "pregunta": "Basándonos en la concepción del 'samsara' de los Upanishad, ¿cómo refutaría el profesor esta visión idealizada de la reencarnación?"
+    },
+    "respuesta": "Explicando que la reencarnación es esencialmente un castigo cíclico que evidencia el fracaso del alma en alcanzar la verdadera liberación espiritual.",
+    "ayuda": "Para los hindúes, el ciclo del samsara no es solo una oportunidad, sino un castigo, pues significa que el creyente aún no ha alcanzado la liberación definitiva (moksa).",
+    "distractores": [
+      "Explicando que la reencarnación es esencialmente un regalo divino que asegura el bienestar del cuerpo en alcanzar la verdadera armonía natural.",
+      "Explicando que la reencarnación es esencialmente un proceso biológico que demuestra el avance de la mente en alcanzar la verdadera madurez humana.",
+      "Explicando que la reencarnación es esencialmente un premio cósmico que facilita la conexión del espíritu en alcanzar la verdadera paz social."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "San Agustín, uno de los pensadores más influyentes del cristianismo antiguo, advirtió firmemente contra los intentos de describir cómo sería el paraíso o la vida eterna.",
+      "pregunta": "Según el texto, ¿qué postura filosófica asumió san Agustín respecto a la comprensión y descripción del cielo cristiano?"
+    },
+    "respuesta": "Sostuvo que el cielo era una realidad completamente inefable que solo podía ser descrita mediante el uso de imperfectas metáforas humanas.",
+    "ayuda": "San Agustín insistía en que el cielo era inefable (imposible de describir con palabras) y que solo podía abordarse mediante metáforas.",
+    "distractores": [
+      "Sostuvo que el cielo era una ciudad completamente tangible que solo podía ser construida mediante el esfuerzo de imperfectos líderes humanos.",
+      "Sostuvo que el cielo era una ilusión completamente mental que solo podía ser comprendida mediante el uso de complejas ecuaciones humanas.",
+      "Sostuvo que el cielo era una utopía completamente social que solo podía ser alcanzada mediante el uso de antiguas revoluciones humanas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un sociólogo analiza cómo las promesas de la vida después de la muerte impactan el comportamiento presente de las personas. En su estudio, resalta la concepción de la 'moksa' descrita en la antigua tradición hindú.",
+      "pregunta": "En el contexto de la filosofía hindú del texto, ¿qué representa el estado supremo denominado como 'moksa'?"
+    },
+    "respuesta": "Representa el instante liberador en que el alma abandona su prisión corporal alcanzando un estado mental de absoluto y puro autoabandono.",
+    "ayuda": "La moksa es el momento en que el alma abandona la prisión del cuerpo, descrito como un estado mental de autoabandono.",
+    "distractores": [
+      "Representa el lago purificador en que la mente abandona su carga emocional alcanzando un estado físico de absoluta y pura resistencia.",
+      "Representa el valle paradisíaco en que la familia abandona su dolor terrenal alcanzando un estado divino de absoluta y pura abundancia.",
+      "Representa el juicio divino en que el espíritu abandona su culpa original alcanzando un estado judicial de absoluta y pura inocencia."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "La literatura medieval europea popularizó relatos sobre el 'país de Cucaña', un lugar mítico de abundancia infinita, manjares y placeres físicos desmedidos.",
+      "pregunta": "De acuerdo con el documento, ¿cuál fue el origen histórico y literario que inspiró esta particular visión terrenal del paraíso en Occidente?"
+    },
+    "respuesta": "Las exageraciones y traducciones occidentales de los relatos sobre el paraíso islámico, las cuales enfatizaban un marcado y excesivo erotismo terrenal.",
+    "ayuda": "El texto señala que las exageraciones occidentales sobre el erotismo del al-janna islámico parecen haber inspirado la fantasía del país de Cucaña.",
+    "distractores": [
+      "Las descripciones y traducciones occidentales de los textos sobre el infierno griego, las cuales enfatizaban un marcado y excesivo heroísmo terrenal.",
+      "Las interpretaciones y traducciones occidentales de los mitos sobre el paraíso budista, las cuales enfatizaban un marcado y excesivo ascetismo terrenal.",
+      "Las narraciones y traducciones occidentales de los poemas sobre el paraíso cristiano, las cuales enfatizaban un marcado y excesivo misticismo terrenal."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En la metáfora del Kausitaki Upanishad, el alma que logra la sabiduría cruza el río Vijara únicamente con su mente. Durante este tránsito, el texto detalla el destino de los actos buenos y malos acumulados en la Tierra.",
+      "pregunta": "Según este pasaje religioso, ¿qué sucede filosóficamente con la moralidad terrenal acumulada por el individuo que avanza hacia el Brahmán?"
+    },
+    "respuesta": "El individuo se desprende de todos sus actos, los cuales recaen directamente sobre los familiares que le gustaban y los que le disgustaban.",
+    "ayuda": "El texto explica que en el río Vijara, el individuo se sacude de encima los actos buenos y malos, que caen sobre sus familiares.",
+    "distractores": [
+      "El individuo se arrepiente de todos sus actos, los cuales recaen directamente sobre los dioses que le juzgaban y los que le perdonaban.",
+      "El individuo se enorgullece de todos sus actos, los cuales recaen directamente sobre los sacerdotes que le guiaban y los que le castigaban.",
+      "El individuo se olvida de todos sus actos, los cuales recaen directamente sobre los enemigos que le odiaban y los que le ignoraban."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El poeta italiano Dante Alighieri creó una de las representaciones más famosas del universo post-mortem en su obra literaria clásica. Sin embargo, su modelo estructural no era completamente exclusivo del pensamiento cristiano europeo.",
+      "pregunta": "Según la lectura, ¿qué otra antigua tradición religiosa compartía la misma estructura de niveles celestiales e infernales utilizada por Dante?"
+    },
+    "respuesta": "El jainismo, que concebía estructuralmente un universo dividido entre dos niveles celestiales superiores y dos profundos niveles infernales bajo la tierra.",
+    "ayuda": "El texto señala que la representación de Dante de niveles descendentes es común con el jainismo indio.",
+    "distractores": [
+      "El taoísmo, que concebía estructuralmente un universo dividido entre dos niveles celestiales superiores y dos profundos niveles infernales bajo la tierra.",
+      "El islamismo, que concebía estructuralmente un universo dividido entre dos niveles celestiales superiores y dos profundos niveles infernales bajo la tierra.",
+      "El sintoísmo, que concebía estructuralmente un universo dividido entre dos niveles celestiales superiores y dos profundos niveles infernales bajo la tierra."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un filósofo contemporáneo concluye que, históricamente, el ser humano no ha podido escapar de su propia naturaleza al momento de imaginar lo inmaterial. El texto apoya esta idea al afirmar que las representaciones del paraíso se dividen en dos escuelas principales.",
+      "pregunta": "Además de la visión de san Agustín (lo inefable), ¿cuál es la otra gran escuela de pensamiento que define las múltiples tentativas humanas de imaginar la vida después de la muerte?"
+    },
+    "respuesta": "La escuela que imagina la deseada inmortalidad simplemente como una versión mejorada, idealizada y adecentada de la conocida vida en la Tierra.",
+    "ayuda": "El texto resume que las tentativas se dividen en dos: lo inefable (san Agustín) y una versión 'adecentada de la vida en la Tierra'.",
+    "distractores": [
+      "La escuela que imagina la temida inmortalidad simplemente como una versión empeorada, corrupta y degradada de la conocida vida en la Tierra.",
+      "La escuela que imagina la negada inmortalidad simplemente como una versión paralela, invisible y etérea de la conocida vida en la Tierra.",
+      "La escuela que imagina la olvidada inmortalidad simplemente como una versión pasada, histórica y estática de la conocida vida en la Tierra."
+    ]
+  }
+]
