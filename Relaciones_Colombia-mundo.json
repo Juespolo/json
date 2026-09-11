@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "Tras alcanzar su independencia definitiva en 1819, la naciente república colombiana tuvo que reordenar todas sus alianzas internacionales para consolidarse como nación.",
+      "pregunta": "Según el texto, ¿qué potencias extranjeras seleccionó el nuevo país para buscar asesoría económica, principios culturales y asistencia técnica respectivamente?"
+    },
+    "respuesta": "Gran Bretaña para recibir la guía económica, Francia para buscar los principios culturales y Estados Unidos para solicitar la obligada asistencia técnica.",
+    "ayuda": "Identifica cómo la nueva nación distribuyó sus necesidades internacionales entre las tres potencias occidentales dominantes tras romper con España.",
+    "distractores": [
+      "Estados Unidos para recibir la guía económica, Gran Bretaña para buscar los principios culturales y Francia para solicitar la obligada asistencia técnica.",
+      "Francia para recibir la guía económica, Estados Unidos para buscar los principios culturales y Gran Bretaña para solicitar la obligada asistencia técnica.",
+      "Gran Bretaña para recibir la guía económica, Estados Unidos para buscar los principios culturales y Francia para solicitar la obligada asistencia técnica."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Thomas Jefferson expresó profunda preocupación por los movimientos de independencia que se gestaban en América Latina durante los primeros años del siglo XIX.",
+      "pregunta": "Según el análisis del documento, ¿por qué este político estadounidense desconfiaba del éxito independentista en las naciones latinoamericanas?"
+    },
+    "respuesta": "Porque consideraba que la ignorancia fomentada por reyes y curas había descalificado a los ciudadanos para gobernar sus propios territorios.",
+    "ayuda": "Jefferson opinaba que el legado de ignorancia dejado por el dominio monárquico y religioso incapacitaba a los latinoamericanos para la verdadera libertad.",
+    "distractores": [
+      "Porque consideraba que la riqueza acumulada por ingleses y franceses había descalificado a los ciudadanos para gobernar sus propios territorios.",
+      "Porque consideraba que la violencia impulsada por mercenarios y militares había descalificado a los ciudadanos para gobernar sus propios territorios.",
+      "Porque consideraba que la ambivalencia mostrada por caudillos y líderes había descalificado a los ciudadanos para gobernar sus propios territorios."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Simón Bolívar sentía una fuerte ambivalencia hacia los Estados Unidos, reconociendo su buen gobierno pero desconfiando de sus futuras intenciones.",
+      "pregunta": "A partir de sus proféticos comentarios de 1829, ¿cuál era el mayor temor del Libertador respecto a la influencia norteamericana?"
+    },
+    "respuesta": "Que Estados Unidos estaba destinado por la gran providencia a plagar toda la región de enormes miserias utilizando falsamente la palabra libertad.",
+    "ayuda": "Revisa la famosa cita de Bolívar en 1829 donde advierte proféticamente sobre el destino que los Estados Unidos traerían al continente.",
+    "distractores": [
+      "Que Gran Bretaña estaba destinada por la gran providencia a plagar toda la región de enormes miserias utilizando falsamente la palabra libertad.",
+      "Que Thomas Jefferson estaba destinado por la gran providencia a plagar toda la región de enormes miserias utilizando falsamente la palabra libertad.",
+      "Que James Monroe estaba destinado por la gran providencia a plagar toda la región de enormes miserias utilizando falsamente la palabra libertad."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En 1823, el presidente estadounidense James Monroe emitió una famosa doctrina que advertía firmemente en contra de futuros intentos de recolonización continental.",
+      "pregunta": "Según el texto, ¿qué situación histórica global motivaba a Estados Unidos a proclamar esta agresiva advertencia diplomática sobre América Latina?"
+    },
+    "respuesta": "La inmensa presencia militar de Gran Bretaña y el miedo a que potencias europeas recuperaran territorios independentistas en la fase final bélica.",
+    "ayuda": "La Doctrina Monroe fue una reacción directa ante los intentos de recolonización europea mientras las guerras de independencia finalizaban.",
+    "distractores": [
+      "La inmensa presencia francesa de Fernando Lesseps y el miedo a que potencias asiáticas recuperaran territorios independentistas en la fase final bélica.",
+      "La inmensa presencia comercial de Thomas Jefferson y el miedo a que potencias africanas recuperaran territorios independentistas en la fase final bélica.",
+      "La inmensa presencia naval de Simón Bolívar y el miedo a que potencias occidentales recuperaran territorios independentistas en la fase final bélica."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "La consolidación de la independencia permitió que Nueva Granada abriera puertos estratégicos en el Caribe, inundando sus mercados con mercancías importadas británicas.",
+      "pregunta": "¿Qué consecuencia económica directa sufrió el nuevo país al permitir que los comerciantes británicos dirigieran gran parte de su comercio exterior marítimo?"
+    },
+    "respuesta": "El nuevo país contrajo una deuda externa exorbitante, viéndose absolutamente incapaz de pagar los altísimos intereses financieros cobrados.",
+    "ayuda": "El flujo desmedido de importaciones británicas y los préstamos iniciales generaron una gigantesca deuda que el nuevo país no pudo sostener.",
+    "distractores": [
+      "El nuevo país construyó una empresa ferroviaria exorbitante, viéndose absolutamente incapaz de pagar los altísimos intereses financieros cobrados.",
+      "El nuevo país aprobó una ruta interoceánica exorbitante, viéndose absolutamente incapaz de pagar los altísimos intereses financieros cobrados.",
+      "El nuevo país financió una doctrina presidencial exorbitante, viéndose absolutamente incapaz de pagar los altísimos intereses financieros cobrados."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "A mediados del siglo XIX, las potencias extranjeras centraron fuertemente su atención diplomática en el istmo de Panamá, considerándolo un punto vital.",
+      "pregunta": "Según el documento, ¿qué motivación estratégica principal compartían Francia, Gran Bretaña y los Estados Unidos respecto a este específico territorio caribeño?"
+    },
+    "respuesta": "Buscaban consolidar una ruta interoceánica a través del territorio istmeño como la mejor forma para extender sus enormes redes comerciales.",
+    "ayuda": "El istmo de Panamá representaba el puente natural ideal para conectar océanos y expandir el comercio global para estas potencias.",
+    "distractores": [
+      "Buscaban consolidar una monarquía constitucional a través del territorio istmeño como la mejor forma para extender sus enormes redes comerciales.",
+      "Buscaban consolidar una agencia diplomática a través del territorio istmeño como la mejor forma para extender sus enormes redes comerciales.",
+      "Buscaban consolidar una alianza militar a través del territorio istmeño como la mejor forma para extender sus enormes redes comerciales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El descubrimiento de vastos yacimientos de oro en el lejano oeste norteamericano durante 1849 generó una masiva estampida internacional de exploradores ricos.",
+      "pregunta": "¿De qué manera afectó este lejano descubrimiento minero al desarrollo de la infraestructura de transporte en el actual territorio centroamericano panameño?"
+    },
+    "respuesta": "Motivó directamente la rápida inauguración del privado Ferrocarril de Panamá, brindando la ruta interoceánica más segura para los especuladores dorados.",
+    "ayuda": "La fiebre del oro californiana impulsó a los estadounidenses a construir el ferrocarril transístmico para cruzar hacia el oeste rápidamente.",
+    "distractores": [
+      "Motivó directamente la rápida construcción del lejano Canal de Suez, brindando la ruta interoceánica más segura para los especuladores dorados.",
+      "Motivó directamente la rápida proclamación del famoso Tratado de Monroe, brindando la ruta interoceánica más segura para los especuladores dorados.",
+      "Motivó directamente la rápida expansión del antiguo Colonialismo de Francia, brindando la ruta interoceánica más segura para los especuladores dorados."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "La fuerte presencia de una compañía ferroviaria norteamericana en Panamá desató numerosas y constantes fricciones administrativas entre panameños, bogotanos y estadounidenses.",
+      "pregunta": "Según el texto, ¿qué situación absurda detonó violentamente el famoso “incidente de la tajada de sandía” dejando múltiples muertos fallecidos?"
+    },
+    "respuesta": "El agresivo altercado originado porque un ciudadano norteamericano se negó arrogantemente a pagar una simple porción frutal consumida.",
+    "ayuda": "Este trágico episodio de 1856 estalló simplemente por el impago de una porción de sandía, demostrando la alta tensión reinante.",
+    "distractores": [
+      "El agresivo altercado originado porque un mercenario británico se negó arrogantemente a pagar una simple porción frutal consumida.",
+      "El agresivo altercado originado porque un especulador francés se negó arrogantemente a pagar una simple porción frutal consumida.",
+      "El agresivo altercado originado porque un ingeniero egipcio se negó arrogantemente a pagar una simple porción frutal consumida."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Tras el gran éxito del Canal de Suez en 1869, la urgente discusión global sobre construir un paso acuático americano se intensificó.",
+      "pregunta": "Antes de concentrarse en Panamá, ¿qué curioso e innovador sistema técnico estudiaron los Estados Unidos para atravesar el istmo de Tehuantepec?"
+    },
+    "respuesta": "Utilizar un ingenioso sistema terrestre levantando los barcos caribeños sobre grandes plataformas ferroviarias paralelas para transportarlos físicamente hacia el océano Pacífico.",
+    "ayuda": "Estados Unidos evaluó una ruta mexicana en Tehuantepec que implicaba subir barcos enteros en trenes paralelos de costa a costa.",
+    "distractores": [
+      "Utilizar un ingenioso sistema terrestre levantando los vagones mineros sobre grandes plataformas ferroviarias paralelas para transportarlos físicamente hacia el océano Atlántico.",
+      "Utilizar un ingenioso sistema terrestre levantando los trenes franceses sobre grandes plataformas ferroviarias paralelas para transportarlos físicamente hacia el océano Pacífico.",
+      "Utilizar un ingenioso sistema terrestre levantando los puentes británicos sobre grandes plataformas ferroviarias paralelas para transportarlos físicamente hacia el océano Atlántico."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "A pesar de la profunda desconfianza diplomática existente entre Bogotá y Washington a mediados del siglo XIX, las inversiones norteamericanas continuaron creciendo fuertemente en territorio colombiano.",
+      "pregunta": "Según el documento, ¿qué sector tecnológico y de infraestructura resultó ser el principal beneficiado por las inversiones estadounidenses tras finalizar 1865?"
+    },
+    "respuesta": "Los vitales medios de transporte interno, destacando principalmente la navegación impulsada a vapor y los nuevos proyectos ferroviarios.",
+    "ayuda": "Tras la Guerra Civil estadounidense (1865), las inversiones en Colombia crecieron priorizando proyectos de transporte como barcos a vapor y ferrocarriles.",
+    "distractores": [
+      "Los vitales medios de comunicación masiva, destacando principalmente la imprenta impulsada a vapor y los nuevos proyectos periodísticos.",
+      "Los vitales medios de producción agrícola, destacando principalmente la recolección impulsada a vapor y los nuevos proyectos bananeros.",
+      "Los vitales medios de extracción minera, destacando principalmente la excavación impulsada a vapor y los nuevos proyectos auríferos."
+    ]
+  }
+]
