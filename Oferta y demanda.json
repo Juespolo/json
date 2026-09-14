@@ -1,82 +1,132 @@
 [
-{
-  "pregunta": {
-      "contexto": "Inspirado en los mercados andinos, el gobierno de una ciudad turística decide fijar un precio máximo de venta para las artesanías locales, argumentando que esto las hará más asequibles para los visitantes y aumentará las ventas totales. El precio fijado es inferior al que la mayoría de los artesanos habían encontrado como su punto de equilibrio.",
-      "pregunta": "Desde la perspectiva de la ley de la oferta y la demanda, ¿cuál es el efecto más probable de esta regulación?"},
-  "respuesta": "Se producirá una escasez de artesanías, pues la cantidad demandada superará la cantidad que los artesanos están dispuestos a ofrecer a ese precio.",
-  "distractores": ["Los artesanos venderán toda su producción rápidamente, aumentando sus ganancias y mejorando la economía local.",
-"La calidad de las artesanías mejorará para justificar el nuevo precio y atraer a más compradores exigentes.",
-"El mercado se autorregulará y el precio fijado por el gobierno se convertirá naturalmente en el nuevo punto de equilibrio."]},
-{
-  "pregunta": {
-      "contexto": "Una marca de ropa lanza dos camisetas de la misma calidad y material. Una es blanca y cuesta 20 USD. La otra es idéntica pero de color negro, se etiqueta como edición limitada y cuesta 100 USD. Un ejecutivo de la marca afirma: “Respondemos a la demanda de un público que paga por la exclusividad y la diferenciación”. Un activista por el consumo responsable responde: “Esta es una estrategia que crea necesidades artificiales y promueve un consumismo insostenible basado en el estatus y no en el valor real”.",
-      "pregunta": "¿Cuál de las siguientes opciones sintetiza adecuadamente el núcleo del desacuerdo entre el ejecutivo y el activista?"},
-  "respuesta": "El ejecutivo ve el precio como una respuesta a la demanda de exclusividad, mientras el activista lo critica por crear un consumismo insostenible.",
-  "distractores": ["El desacuerdo se centra en si los consumidores están realmente dispuestos a pagar más por la camiseta negra o si la empresa se equivocó en su estrategia.",
-"El activista considera que la empresa debería bajar el precio de la camiseta negra para que más personas puedan comprarla y ser exclusivas.",
-"El conflicto demuestra que todas las empresas de moda manipulan a sus clientes para que compren productos que no necesitan."]},
-{
-  "pregunta": {
-      "contexto": "En un municipio costero cuya economía se ha basado históricamente en la pesca artesanal, una cadena hotelera internacional propone construir un gran resort. El proyecto promete generar cientos de empleos y dinamizar la economía local a través del turismo. Sin embargo, la construcción implicaría restringir el acceso de los pescadores a una parte de la playa y, según ambientalistas, podría afectar los arrecifes de coral cercanos.",
-      "pregunta": "La situación descrita evidencia principalmente un conflicto entre las dimensiones"},
-  "respuesta": "económica (inversión y empleo), sociocultural (modos de vida tradicionales) y ambiental (protección de ecosistemas).",
-  "distractores": ["política (decisión de la alcaldía) y económica (intereses de los pescadores), ya que el gobierno debe decidir quién gana más dinero.",
-"económica (desarrollo turístico) y ambiental (conservación de la naturaleza), dejando de lado el impacto en la comunidad.",
-"social, que se resume en la lucha entre los ricos dueños del hotel y los pobres pescadores del municipio."]},
-{
-  "pregunta": {
-      "contexto": "En Colombia, durante los periodos de paro agrario, los bloqueos en las carreteras suelen impedir el transporte de alimentos como la papa desde los centros de producción en Boyacá hacia las grandes ciudades como Bogotá. Como consecuencia, el precio de la papa en la ciudad aumenta considerablemente, mientras que, en las zonas de cultivo, los agricultores a menudo deben vender su producto a precios muy bajos o incluso perder la cosecha.",
-      "pregunta": "Esta situación evidencia que la ley de la oferta y la demanda se ve directamente afectada por factores externos al mercado. En este caso, ¿cómo afecta el paro agrario a la oferta de papa en Bogotá?"},
-  "respuesta": "La reduce, porque aunque el producto existe no puede llegar al consumidor y aumenta los precios.",
-  "distractores": ["La aumenta, porque los agricultores envían más productos para compensar las pérdidas de los bloqueos.",
-"No la afecta, porque la cantidad de papa producida en el campo sigue siendo la misma.",
-"La hace más elástica, pues los consumidores pueden reemplazar fácilmente la papa por otros alimentos."]},
-{
-  "pregunta": {
-      "contexto": "En una región cafetera de Colombia, se debate la implementación de un “precio de sustentación”, un valor mínimo garantizado que se pagaría a los caficultores por su cosecha, sin importar las fluctuaciones del mercado internacional. Un líder del gremio cafetero local apoya la medida, argumentando que “aseguraría un ingreso digno para miles de familias”. Por otro lado, el gerente de una empresa exportadora de café advierte que “nos sacaría del mercado global, pues no podríamos competir con los precios más bajos de otros países”.",
-      "pregunta": "El conflicto de perspectivas entre el líder gremial y el gerente exportador se origina fundamentalmente en que..."},
-  "respuesta": "el líder prioriza la estabilidad del productor y el gerente la competitividad en el mercado.",
-  "distractores": ["el gerente exportador no se preocupa por el bienestar de los caficultores.",
-"el líder gremial desconoce los principios básicos del comercio internacional.",
-"los precios internacionales del café son siempre justos y no necesitan regulación."]},
-{
-  "pregunta": {
-      "contexto": "El auge de las aplicaciones de domicilios ha transformado la forma en que los colombianos consumen alimentos. Restaurantes que antes dependían de su ubicación ahora pueden llegar a clientes en toda la ciudad. Sin embargo, las pequeñas tiendas de barrio, que tradicionalmente vendían productos básicos, han visto una disminución en sus ventas de snacks y bebidas, ya que los consumidores ahora los piden junto con sus almuerzos o cenas a través de las apps.",
-      "pregunta": "¿Cuál es una consecuencia sistémica no intencionada de este cambio de hábito en el ecosistema comercial de los barrios?"},
-  "respuesta": "El debilitamiento del tejido local, ya que las tiendas de barrio son centros de interacción social.",
-  "distractores": ["Un aumento en la competencia que obliga a las tiendas de barrio a modernizarse y ofrecer mejores productos.",
-"La desaparición total de los restaurantes, que ya no necesitan un local físico para operar.",
-"La mejora de la movilidad en las ciudades, pues las personas ya no necesitan salir de casa para comprar."]},
-{
-  "pregunta": {
-      "contexto": "Analice la siguiente cita del historiador Thomas Carlyle, incluida en el documento: «Enseñe a un loro los términos “oferta” y “demanda” y habrá creado un economista.»",
-      "pregunta": "¿Cuál es la crítica principal que Carlyle hace a la ciencia económica a través de esta afirmación?"},
-  "respuesta": "Que puede ser reducida a la repetición de conceptos básicos, ignorando la complejidad del comportamiento humano y el contexto social.",
-  "distractores": ["Que los economistas no son inteligentes y cualquiera puede hacer su trabajo.",
-"Que la oferta y la demanda son conceptos tan sencillos que hasta un animal los puede entender.",
-"Que la economía es la ciencia más importante y sus principios deberían ser memorizados por todos."]},
-{
-  "pregunta": {
-      "contexto": "El Gobierno Nacional anuncia un aumento del salario mínimo. El presidente de un gremio de pequeños empresarios declara: “Este aumento nos obliga a despedir personal o a no contratar nuevos empleados, pues nuestros costos se elevan demasiado”. Por su parte, un líder sindical responde: “El aumento es indispensable para que las familias trabajadoras puedan cubrir sus necesidades básicas ante el aumento del costo de vida”.",
-      "pregunta": "La diferencia fundamental en las perspectivas del empresario y el líder sindical se explica mejor porque…"},
-  "respuesta": "uno analiza desde los costos de producción y el otro desde el bienestar del trabajador.",
-  "distractores": ["los empresarios siempre se oponen a cualquier medida que beneficie a los trabajadores por naturaleza.",
-"los líderes sindicales no comprenden cómo funciona la administración de una empresa.",
-"el Gobierno busca perjudicar a los pequeños empresarios con sus políticas populistas."]},
-{
-  "pregunta": {
-      "contexto": "Un artículo de un portal de noticias afirma: “La reciente caída en el precio del aguacate es una excelente noticia para todos. Los consumidores pagan menos en el supermercado y los agricultores, al vender más unidades, sin duda verán sus ganancias totales aumentar. ¡Todos ganan!”",
-      "pregunta": "¿Qué aspecto crucial de la teoría económica ignora la conclusión optimista del artículo sobre las ganancias de los agricultores?"},
-  "respuesta": "La elasticidad del precio, la caída de precios puede disminuir el ingreso de los agricultores aunque vendan más.",
-  "distractores": ["La ley de la oferta, que indica que a menor precio los agricultores siempre querrán vender menos.",
-"El hecho de que los costos de producción siempre se incrementan cuando se vende un mayor número de unidades.",
-"La posibilidad de que los supermercados se queden con todo el margen de ganancia adicional y no paguen más a los agricultores."]},
-{
-  "pregunta": {
-      "contexto": "Durante la pandemia, la demanda de alcohol antiséptico y tapabocas se disparó. Al inicio, hubo una gran escasez y los precios se multiplicaron. Con el tiempo, muchas empresas, incluso de licores o textiles, adaptaron su producción para fabricar estos productos. Meses después, la oferta aumentó masivamente y los precios se estabilizaron e incluso bajaron.",
-      "pregunta": "Esta secuencia de eventos en el mercado es un ejemplo claro de cómo..."},
-  "respuesta": "los precios altos y la demanda incentivan a nuevos productores a entrar en un mercado, aumentando la oferta.",
-  "distractores": ["la especulación y el acaparamiento son inevitables y la única solución es el control de precios por parte del Estado.",
-"el mercado es incapaz de responder a las crisis sociales, generando siempre desabastecimiento de bienes básicos.",
-"las empresas aprovechan cualquier crisis para obtener ganancias excesivas a costa de la necesidad de la gente."]}
-  ]
+  {
+    "pregunta": {
+      "contexto": "Un corredor de la Bolsa de Valores de Colombia y una artesana en Ráquira operan en mundos aparentemente opuestos. Sin embargo, la economía moderna clasifica sus lugares de trabajo exactamente bajo el mismo concepto técnico.",
+      "pregunta": "Según el texto, ¿qué característica fundamental unifica a estos dos espacios tan distintos bajo la categoría de mercado?"
+    },
+    "respuesta": "Ambos espacios reúnen físicamente o virtualmente a múltiples compradores y vendedores interactuando constantemente mediante el establecimiento de un precio determinado.",
+    "ayuda": "Identifica el nexo fundamental que define cualquier mercado en la economía, independientemente de si los tenderetes son físicos o son redes informáticas.",
+    "distractores": [
+      "Ambos espacios reúnen productivamente o financieramente a múltiples campesinos y banqueros interactuando constantemente mediante el establecimiento de un coste determinado.",
+      "Ambos espacios reúnen superficialmente o estructuralmente a múltiples familias y compañías interactuando constantemente mediante el establecimiento de un valor determinado.",
+      "Ambos espacios reúnen estacionalmente o ruidosamente a múltiples productores y consumidores interactuando constantemente mediante el establecimiento de un límite determinado."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una empresa tecnológica cobra un recargo de seiscientos mil pesos por un portátil negro de edición especial, el cual posee exactamente la misma velocidad y capacidad que su versión blanca más económica.",
+      "pregunta": "¿Qué principio económico justifica que la compañía logre ventas magníficas a pesar de ofrecer un producto técnicamente idéntico pero más costoso?"
+    },
+    "respuesta": "La existencia de una demanda suficiente conformada por personas plenamente dispuestas a pagar altos recargos para diferenciarse socialmente de sus vecinos.",
+    "ayuda": "El precio no solo refleja utilidad técnica, sino la disposición de los compradores a pagar más por factores como la exclusividad y la diferenciación.",
+    "distractores": [
+      "La existencia de una oferta suficiente conformada por empresas plenamente dispuestas a pagar altos recargos para diferenciarse socialmente de sus vecinos.",
+      "La existencia de una elasticidad suficiente conformada por familias plenamente dispuestas a pagar altos recargos para diferenciarse socialmente de sus vecinos.",
+      "La existencia de una sustitución suficiente conformada por compañías plenamente dispuestas a pagar altos recargos para diferenciarse socialmente de sus vecinos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Animadas por subsidios de vivienda colombianos, miles de familias deciden comprar casas simultáneamente. Los constructores responden edificando masivamente, pero terminan inundando el sector inmobiliario con demasiadas propiedades disponibles en el mercado.",
+      "pregunta": "De acuerdo con la dinámica de las fuerzas del mercado, ¿qué impacto directo genera esta repentina superabundancia habitacional?"
+    },
+    "respuesta": "Provoca que los precios de las viviendas caigan rápidamente porque la enorme oferta de casas supera ampliamente la demanda de compradores.",
+    "ayuda": "Cuando la cantidad de bienes disponibles (oferta) supera a la cantidad de personas dispuestas a comprar (demanda), el mercado ajusta los precios a la baja.",
+    "distractores": [
+      "Provoca que los precios de las viviendas suban rápidamente porque la enorme oferta de casas supera ampliamente la demanda de compradores.",
+      "Provoca que los costes de las viviendas caigan rápidamente porque la enorme calidad de casas supera ampliamente la necesidad de compradores.",
+      "Provoca que los costes de las viviendas suban rápidamente porque la enorme calidad de casas supera ampliamente la necesidad de compradores."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un florista colombiano nota que durante los meses de sequía extrema o en los días previos a Amor y Amistad, el valor de las rosas sufre fuertes altibajos, alejándose considerablemente de su valor habitual.",
+      "pregunta": "¿Cómo denomina la teoría económica a estas predecibles alteraciones temporales que evitan que los precios permanezcan inmóviles?"
+    },
+    "respuesta": "Los economistas llaman a este fenómeno estacionalidad o ruido, demostrando que en la realidad los precios raramente encuentran un equilibrio perfecto.",
+    "ayuda": "Las alteraciones cíclicas (como festividades o cambios de clima) desestabilizan los precios temporalmente, impidiendo que el mercado alcance un equilibrio estático duradero.",
+    "distractores": [
+      "Los economistas llaman a este fenómeno elasticidad o ruido, demostrando que en la realidad los mercados raramente encuentran un equilibrio perfecto.",
+      "Los economistas llaman a este fenómeno sustitución o ruido, demostrando que en la realidad los productores raramente encuentran un equilibrio perfecto.",
+      "Los economistas llaman a este fenómeno rentabilidad o ruido, demostrando que en la realidad los consumidores raramente encuentran un equilibrio perfecto."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Durante un acalorado debate, un analista financiero insiste vehementemente en que el valor absoluto de cualquier producto moderno está determinado única y exclusivamente por los consumidores, minimizando a los fabricantes.",
+      "pregunta": "Utilizando la clásica metáfora del economista victoriano Alfred Marshall, ¿cómo se refuta estructuralmente la postura sesgada de este analista financiero?"
+    },
+    "respuesta": "Explicando que discutir si determina el valor la oferta o la demanda es tan inútil como discutir cuál hoja corta el papel.",
+    "ayuda": "Alfred Marshall usó la inteligente analogía de las tijeras para demostrar que la oferta y la demanda son fuerzas igualmente indispensables e inseparables.",
+    "distractores": [
+      "Explicando que discutir si determina el precio la elasticidad o la sustitución es tan inútil como discutir cuál hoja corta el papel.",
+      "Explicando que discutir si determina el mercado el comprador o el vendedor es tan inútil como discutir cuál hoja corta el papel.",
+      "Explicando que discutir si determina el coste la escasez o la abundancia es tan inútil como discutir cuál hoja corta el papel."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Si una telefónica nacional sube sus tarifas, los usuarios cambian de empresa casi inmediatamente. Sin embargo, cuando los precios de la gasolina subieron abruptamente, los conductores colombianos tardaron meses en buscar opciones de transporte alternativas.",
+      "pregunta": "Desde el análisis microeconómico presentado, ¿qué concepto define esta notable diferencia en la velocidad de respuesta del consumidor frente a los precios?"
+    },
+    "respuesta": "El concepto de la demanda elástica, demostrando que algunos consumidores logran reaccionar con bastante rapidez mientras otros enfrentan opciones marcadamente lentas.",
+    "ayuda": "La elasticidad mide la rapidez de reacción; cuando no existen alternativas inmediatas o económicas (como con los carburantes), la demanda se vuelve inelástica.",
+    "distractores": [
+      "El concepto de la oferta inelástica, demostrando que algunos productores logran reaccionar con bastante rapidez mientras otros enfrentan opciones marcadamente lentas.",
+      "El concepto de la sustitución comercial, demostrando que algunos consumidores logran reaccionar con bastante rapidez mientras otros enfrentan opciones marcadamente lentas.",
+      "El concepto de la estacionalidad cíclica, demostrando que algunos productores logran reaccionar con bastante rapidez mientras otros enfrentan opciones marcadamente lentas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una artesana boyacense inicia vendiendo sus ruanas a ciento cincuenta mil pesos sin éxito alguno. Al bajar progresivamente su tarifa hasta noventa mil pesos, descubre que puede vender exactamente las cuarenta ruanas que logra producir.",
+      "pregunta": "¿Qué condición económica perfecta alcanzó la artesana al fijar estratégicamente su precio final en noventa mil pesos por unidad?"
+    },
+    "respuesta": "Encontró el precio correcto donde la cantidad de bienes producidos coincide milimétricamente con el número exacto de compradores dispuestos a pagarlo.",
+    "ayuda": "El precio es perfecto o equilibrado únicamente cuando la cantidad ofrecida por el vendedor es matemáticamente igual a la cantidad exigida por los compradores.",
+    "distractores": [
+      "Encontró el coste correcto donde la cantidad de bienes producidos coincide milimétricamente con el número exacto de vendedores dispuestos a pagarlo.",
+      "Encontró el valor correcto donde la cantidad de bienes producidos coincide milimétricamente con el número exacto de productores dispuestos a pagarlo.",
+      "Encontró el límite correcto donde la cantidad de bienes producidos coincide milimétricamente con el número exacto de intermediarios dispuestos a pagarlo."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Frente a una grave crisis, una multinacional sobrevive despidiendo ágilmente a cientos de trabajadores. Por el contrario, un pequeño productor de plátano en Urabá se declara en bancarrota al no lograr ajustar sus elevados gastos.",
+      "pregunta": "Basándose en las dinámicas del mercado, ¿por qué el pequeño productor agrícola fracasó frente a los cambios repentinos de la industria?"
+    },
+    "respuesta": "Porque su oferta resulta ser marcadamente inelástica, encontrando extremadamente difícil recortar sus gastos empresariales para sobrevivir compitiendo contra adversarios productivos grandes.",
+    "ayuda": "Así como existe la demanda inelástica, la oferta también puede serlo. Las empresas con poca capacidad de adaptación no pueden ajustar sus gastos rápidamente.",
+    "distractores": [
+      "Porque su demanda resulta ser marcadamente inelástica, encontrando extremadamente difícil recortar sus gastos empresariales para sobrevivir compitiendo contra adversarios productivos grandes.",
+      "Porque su sustitución resulta ser marcadamente inelástica, encontrando extremadamente difícil recortar sus gastos empresariales para sobrevivir compitiendo contra adversarios productivos grandes.",
+      "Porque su estacionalidad resulta ser marcadamente inelástica, encontrando extremadamente difícil recortar sus gastos empresariales para sobrevivir compitiendo contra adversarios productivos grandes."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un empresario paisa entusiasta decide triplicar la producción de sus mercancías asumiendo altos gastos, creyendo ciegamente que al inundar los tenderetes físicos obligará a las personas a interesarse masivamente por su exclusiva marca.",
+      "pregunta": "Desde la teoría económica fundamental abordada en el texto, ¿por qué la arriesgada estrategia productiva de este empresario está destinada al fracaso?"
+    },
+    "respuesta": "Porque aumentar ciegamente la oferta productiva sin evaluar la demanda correspondiente generará inevitablemente que los precios de sus bienes se desplomen rápidamente.",
+    "ayuda": "La ley del mercado es clara: aumentar la disponibilidad de un producto sin que existan compradores interesados provoca un exceso de oferta y la caída del precio.",
+    "distractores": [
+      "Porque aumentar ciegamente la elasticidad productiva sin evaluar la sustitución correspondiente generará inevitablemente que los costes de sus bienes se desplomen rápidamente.",
+      "Porque aumentar ciegamente la estacionalidad productiva sin evaluar la inversión correspondiente generará inevitablemente que los salarios de sus bienes se desplomen rápidamente.",
+      "Porque aumentar ciegamente la rentabilidad productiva sin evaluar la estacionalidad correspondiente generará inevitablemente que los valores de sus bienes se desplomen rápidamente."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un fabricante antioqueño de embutidos de calidad superior decide incrementar continuamente sus precios, creyendo ingenuamente que sus consumidores más fieles jamás abandonarán su marca por ser exclusiva.",
+      "pregunta": "De acuerdo con la precisa definición del comportamiento de la demanda, ¿qué límite económico ineludible enfrentará este ambicioso fabricante?"
+    },
+    "respuesta": "Llegará al punto donde las personas sencillamente se negarán a comprar totalmente sus embutidos debido al coste exagerado fijado en el mercado.",
+    "ayuda": "La curva de demanda dicta que cuanto más alto es el precio, menor será el número de personas dispuestas a pagarlo, hasta que las compras se anulan.",
+    "distractores": [
+      "Llegará al punto donde las empresas sencillamente se negarán a vender totalmente sus embutidos debido al coste exagerado fijado en el mercado.",
+      "Llegará al punto donde las familias sencillamente se negarán a sustituir totalmente sus embutidos debido al coste exagerado fijado en el mercado.",
+      "Llegará al punto donde las compañías sencillamente se negarán a invertir totalmente sus embutidos debido al coste exagerado fijado en el mercado."
+    ]
+  }
+]
