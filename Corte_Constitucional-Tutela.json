@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "En 1990, un movimiento estudiantil promovió la 'séptima papeleta' en respuesta a la crisis institucional, la violencia y el narcotráfico, exigiendo profundos cambios en la estructura del Estado para garantizar la paz.",
+      "pregunta": "Según el texto, ¿qué consecuencia estructural generó esta movilización ciudadana unida a la coyuntura histórica de aquella última década?"
+    },
+    "respuesta": "Promovió la instalación de la asamblea nacional constituyente para estructurar una renovada constitución política y fundar la nueva corte constitucional garantista.",
+    "ayuda": "La crisis institucional y el movimiento de la séptima papeleta impulsaron la Asamblea de 1991, origen de la actual Constitución y la Corte Constitucional.",
+    "distractores": [
+      "Promovió la desmovilización de la guerrilla armada insurgente para estructurar una renovada constitución política y fundar la nueva corte constitucional garantista.",
+      "Promovió la eliminación de la coalición política conservadora para estructurar una renovada constitución política y fundar la nueva corte constitucional garantista.",
+      "Promovió la suspensión de la estructura judicial penal para estructurar una renovada constitución política y fundar la nueva corte constitucional garantista."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un presidente declara el 'Estado de Excepción' debido a una grave crisis de orden público y emite un decreto suspendiendo temporalmente todos los mecanismos judiciales de defensa ciudadana para facilitar las operaciones militares.",
+      "pregunta": "Con base en las reglas de la acción de tutela, ¿por qué este decreto presidencial resulta ser flagrantemente inconstitucional?"
+    },
+    "respuesta": "Porque el ejercicio de la tutela jamás puede ser suspendido institucionalmente, incluso durante periodos declarados como estados de extrema emergencia nacional.",
+    "ayuda": "El documento aclara expresamente que el ejercicio de la acción de tutela no puede suspenderse ni siquiera durante los estados de excepción.",
+    "distractores": [
+      "Porque el ejercicio de la tutela siempre debe ser autorizado judicialmente, incluso durante periodos declarados como estados de extrema emergencia nacional.",
+      "Porque el ejercicio de la tutela solamente puede ser modificado legislativamente, incluso durante periodos declarados como estados de extrema emergencia nacional.",
+      "Porque el ejercicio de la tutela únicamente puede ser delegado territorialmente, incluso durante periodos declarados como estados de extrema emergencia nacional."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un anciano en estado de coma no recibe atención vital en una clínica. Al no tener familiares, un vecino preocupado decide interponer una acción legal para salvarle la vida sin tener un poder notarial.",
+      "pregunta": "¿Bajo qué figura jurídica puede el vecino presentar legítimamente esta demanda sin necesidad de ser un representante legal formal?"
+    },
+    "respuesta": "Mediante la figura de agente oficioso, permitiendo intervenir legalmente por alguien que sufre vulneraciones y está físicamente impedido para defenderse solo.",
+    "ayuda": "El agente oficioso es una persona cercana que interviene cuando la víctima no está en condiciones físicas o mentales de promover su propia defensa.",
+    "distractores": [
+      "Mediante la figura de personero municipal, permitiendo intervenir legalmente por alguien que sufre vulneraciones y está físicamente impedido para defenderse solo.",
+      "Mediante la figura de procurador general, permitiendo intervenir legalmente por alguien que sufre vulneraciones y está físicamente impedido para defenderse solo.",
+      "Mediante la figura de defensor público, permitiendo intervenir legalmente por alguien que sufre vulneraciones y está físicamente impedido para defenderse solo."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un ciudadano interpone una tutela para obligar a su inquilino a pagarle meses de arriendo atrasados. El juez rechaza la tutela argumentando que existen demandas civiles ordinarias diseñadas específicamente para cobrar deudas económicas.",
+      "pregunta": "¿Qué principio o característica central de la tutela está aplicando el juez para desestimar este reclamo netamente comercial?"
+    },
+    "respuesta": "La subsidiariedad, porque este mecanismo únicamente procede cuando el ciudadano carece absolutamente de otro medio ordinario para buscar su defensa judicial.",
+    "ayuda": "La tutela es un mecanismo subsidiario; solo procede cuando no existe otro medio de defensa judicial ordinario para resolver el conflicto.",
+    "distractores": [
+      "La informalidad, porque este mecanismo únicamente avanza cuando el ciudadano carece absolutamente de otro medio ordinario para buscar su defensa judicial.",
+      "La celeridad, porque este mecanismo únicamente funciona cuando el ciudadano carece absolutamente de otro medio ordinario para buscar su defensa judicial.",
+      "La emergencia, porque este mecanismo únicamente opera cuando el ciudadano carece absolutamente de otro medio ordinario para buscar su defensa judicial."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un grupo de vecinos presenta una tutela exigiendo que la alcaldía les construya un parque de diversiones en su barrio, alegando que el esparcimiento es positivo. El tribunal niega la solicitud por improcedente.",
+      "pregunta": "De acuerdo con el documento, ¿por qué la tutela resulta ser el mecanismo equivocado para tramitar esta solicitud particular?"
+    },
+    "respuesta": "Porque la acción de tutela fue creada para proteger exclusivamente los derechos constitucionales fundamentales vulnerados directamente por autoridades públicas o particulares.",
+    "ayuda": "La tutela no sirve para peticiones generales o de infraestructura básica, su objetivo exclusivo es proteger los derechos constitucionales fundamentales amenazados o vulnerados.",
+    "distractores": [
+      "Porque la acción de tutela fue creada para defender exclusivamente los acuerdos políticos tradicionales vulnerados directamente por autoridades públicas o particulares.",
+      "Porque la acción de tutela fue creada para resolver exclusivamente los conflictos territoriales históricos vulnerados directamente por autoridades públicas o particulares.",
+      "Porque la acción de tutela fue creada para sancionar exclusivamente los delitos financieros complejos vulnerados directamente por autoridades públicas o particulares."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Antes de 1991, los ciudadanos enfrentaban obstáculos instrumentales tortuosos y los recursos judiciales eran ineficaces e incomprensibles para el pueblo, lo que dejaba múltiples vulneraciones de derechos en la absoluta impunidad.",
+      "pregunta": "¿Cómo logró la acción de tutela solucionar estructuralmente esta grave barrera histórica de acceso a la justicia para las personas?"
+    },
+    "respuesta": "Incorporando la informalidad legal, permitiendo que cualquier ciudadano pueda ejercerla sin necesidad de contratar costosos abogados ni cumplir complejas exigencias probatorias.",
+    "ayuda": "La tutela eliminó los obstáculos tortuosos al ser informal: no requiere abogados, ni autenticaciones, y su exigencia probatoria es mínima.",
+    "distractores": [
+      "Incorporando la subsidiariedad legal, permitiendo que cualquier ciudadano pueda ejercerla sin necesidad de contratar costosos abogados ni cumplir complejas exigencias probatorias.",
+      "Incorporando la celeridad legal, permitiendo que cualquier ciudadano pueda ejercerla sin necesidad de contratar costosos abogados ni cumplir complejas exigencias probatorias.",
+      "Incorporando la virtualidad legal, permitiendo que cualquier ciudadano pueda ejercerla sin necesidad de contratar costosos abogados ni cumplir complejas exigencias probatorias."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Con el fin de asegurar que al menos un juez falle a su favor rápidamente, un ciudadano decide redactar e interponer cinco tutelas idénticas en cinco juzgados diferentes al mismo tiempo.",
+      "pregunta": "¿Qué requisito mínimo y obligatorio de la tutela está violando deliberadamente este ciudadano al emplear dicha estrategia judicial?"
+    },
+    "respuesta": "El juramento obligatorio de no haber presentado previamente ninguna otra acción de tutela fundamentada exactamente sobre los mismos hechos jurídicos reclamados.",
+    "ayuda": "Toda acción de tutela debe contener el juramento de que no se ha presentado otra acción idéntica por los mismos hechos.",
+    "distractores": [
+      "El registro obligatorio de no haber contactado previamente ninguna otra autoridad de control fundamentada exactamente sobre los mismos hechos jurídicos reclamados.",
+      "El documento obligatorio de no haber contratado previamente ninguna otra defensa de abogados fundamentada exactamente sobre los mismos hechos jurídicos reclamados.",
+      "El anexo obligatorio de no haber reportado previamente ninguna otra emergencia de salud fundamentada exactamente sobre los mismos hechos jurídicos reclamados."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una clínica privada se niega a atender una urgencia vital alegando que el paciente no tiene seguro médico. El director de la clínica afirma que la Constitución solo castiga a las entidades estatales.",
+      "pregunta": "Según la definición constitucional de la tutela, ¿por qué el argumento jurídico de este director médico es completamente falso?"
+    },
+    "respuesta": "Porque el mecanismo constitucional procede legítimamente tanto contra autoridades públicas gubernamentales como contra actores particulares privados cuando estos vulneran derechos fundamentales.",
+    "ayuda": "La tutela no solo aplica contra el Estado; también protege a los ciudadanos frente a particulares (como una clínica privada) que vulneren derechos fundamentales.",
+    "distractores": [
+      "Porque el mecanismo constitucional procede legítimamente tanto contra autoridades públicas gubernamentales como contra actores particulares privados cuando estos incumplen acuerdos comerciales.",
+      "Porque el mecanismo constitucional procede legítimamente tanto contra autoridades públicas gubernamentales como contra actores particulares privados cuando estos evaden impuestos locales.",
+      "Porque el mecanismo constitucional procede legítimamente tanto contra autoridades públicas gubernamentales como contra actores particulares privados cuando estos financian protestas sociales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un indígena que no sabe leer ni escribir necesita interponer una tutela urgente para detener el desalojo de su vivienda. Al llegar al juzgado, siente temor porque no puede redactar el documento exigido.",
+      "pregunta": "De acuerdo con las reglas de presentación, ¿cómo puede este ciudadano vulnerable superar legalmente esta barrera de acceso a la justicia?"
+    },
+    "respuesta": "Puede presentar la solicitud verbalmente, ya que la ley permite omitir los requisitos escritos cuando existen extremas urgencias o incapacidades comprobadas.",
+    "ayuda": "Aunque la regla general exige un documento escrito, la ley permite presentar la tutela verbalmente en casos de urgencia, minoría de edad o analfabetismo.",
+    "distractores": [
+      "Puede presentar la solicitud virtualmente, ya que la ley permite omitir los requisitos escritos cuando existen extremas urgencias o incapacidades comprobadas.",
+      "Puede presentar la solicitud subsidiariamente, ya que la ley permite omitir los requisitos escritos cuando existen extremas urgencias o incapacidades comprobadas.",
+      "Puede presentar la solicitud extrajudicialmente, ya que la ley permite omitir los requisitos escritos cuando existen extremas urgencias o incapacidades comprobadas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Durante un debate político, un candidato propone cerrar la Corte Constitucional, argumentando que sus fallos interfieren con los grandes proyectos económicos y que los jueces no deberían tener tanto poder sobre el gobierno.",
+      "pregunta": "Teniendo en cuenta el origen histórico de este tribunal, ¿qué objetivo supremo del Estado estaría ignorando este candidato con su propuesta?"
+    },
+    "respuesta": "Su objetivo supremo es velar íntegramente por la verdadera supremacía de la Constitución garantizando materialmente los sagrados derechos de los ciudadanos.",
+    "ayuda": "La Corte Constitucional nació en 1991 con el objetivo principal de velar por la integridad y supremacía de la Constitución y proteger los derechos fundamentales.",
+    "distractores": [
+      "Su objetivo supremo es velar íntegramente por la verdadera supremacía de la Procuraduría garantizando materialmente los sagrados derechos de los ciudadanos.",
+      "Su objetivo supremo es velar íntegramente por la verdadera supremacía de la Personería garantizando materialmente los sagrados derechos de los ciudadanos.",
+      "Su objetivo supremo es velar íntegramente por la verdadera supremacía de la Defensoría garantizando materialmente los sagrados derechos de los ciudadanos."
+    ]
+  }
+]
