@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "Un sociólogo conservador argumenta en una conferencia que el comportamiento agresivo de los hombres y la docilidad de las mujeres son características inalterables porque responden estrictamente a la biología evolutiva natural.",
+      "pregunta": "Desde el enfoque académico de los estudios de género, ¿cómo se rebate teóricamente esta afirmación determinista sobre el comportamiento humano?"
+    },
+    "respuesta": "Argumentando que ambas identidades son verdaderamente una compleja red de prácticas culturales, socialmente construidas y permanentemente reforzadas mediante distintos procesos socializadores diarios.",
+    "ayuda": "Los estudios de género nacieron cuestionando que el género fuera un simple hecho biológico, planteándolo como una red de significados y prácticas construidas culturalmente.",
+    "distractores": [
+      "Argumentando que ambas identidades son verdaderamente una compleja red de instintos naturales, médicamente diagnosticados y permanentemente reforzados mediante distintos procesos hormonales diarios.",
+      "Argumentando que ambas identidades son verdaderamente una compleja red de leyes nacionales, judicialmente impuestas y permanentemente reforzadas mediante distintos procesos constitucionales diarios.",
+      "Argumentando que ambas identidades son verdaderamente una compleja red de dogmas religiosos, espiritualmente revelados y permanentemente reforzados mediante distintos procesos eclesiásticos diarios."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Durante un debate sobre las políticas públicas modernas, un analista critica que el Estado invierta presupuesto en investigar la interseccionalidad del género, afirmando que es suficiente con garantizar leyes que traten exactamente igual a hombres y mujeres.",
+      "pregunta": "Según la naturaleza de los estudios de género descrita en el documento, ¿por qué la postura de este analista resulta académicamente insuficiente?"
+    },
+    "respuesta": "Porque desconoce que el género interactúa dinámicamente con otras categorías sociales definitorias, requiriendo un análisis crítico estructural más profundo para desafiar prejuicios.",
+    "ayuda": "La lectura señala que los estudios de género no solo buscan equidad, sino explorar la interseccionalidad del género con otras categorías sociales y analizar dinámicas de poder.",
+    "distractores": [
+      "Porque desconoce que la familia interactúa dinámicamente con otras instituciones educativas locales, requiriendo un análisis escolar básico más rápido para fomentar valores.",
+      "Porque desconoce que el gobierno interactúa dinámicamente con otras potencias económicas globales, requiriendo un análisis comercial directo más ágil para reducir aranceles.",
+      "Porque desconoce que el sindicato interactúa dinámicamente con otras agrupaciones campesinas nacionales, requiriendo un análisis laboral simple más claro para convocar huelgas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En los relatos tradicionales de la Revolución mexicana, la imagen de la mujer suele limitarse al papel de acompañante sumisa o cuidadora de los soldados varones en los grandes campamentos militares.",
+      "pregunta": "Tomando en cuenta la evidencia histórica del documento, ¿qué hecho concreto contradice rotundamente esta narrativa tradicional sobre la participación femenina mexicana?"
+    },
+    "respuesta": "La historia de Carmen Serdán, quien activamente organizó valiente resistencia armada, protegió rebeldes estratégicamente e incluso salió a combatir en Puebla militarmente.",
+    "ayuda": "El documento resalta a Carmen Serdán como un caso emblemático que organizó propaganda, adquirió armas y combatió en Puebla, desmintiendo el papel sumiso de la mujer.",
+    "distractores": [
+      "La historia de Georgina Fletcher, quien activamente organizó valiente resistencia sindical, protegió artesanos estratégicamente e incluso salió a protestar en Bogotá políticamente.",
+      "La historia de Manuela Chafloque, quien activamente organizó valiente resistencia obrera, protegió campesinos estratégicamente e incluso salió a marchar en Lima socialmente.",
+      "La historia de María Cano, quien activamente organizó valiente resistencia intelectual, protegió estudiantes estratégicamente e incluso salió a debatir en Antioquia públicamente."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "A mediados del siglo XX en Colombia, el Congreso realizó debates sobre la condición laboral de la mujer, y aunque aumentaron su presencia en cargos públicos y mejoraron ciertas garantías, el sufragio femenino universal siguió negado.",
+      "pregunta": "Analizando la cronología política colombiana expuesta, ¿qué paradoja institucional refleja esta situación gubernamental ocurrida exactamente en el año 1945?"
+    },
+    "respuesta": "Que el parlamento colombiano intentó modernizar las normas del desempeño laboral femenino, pero contradictoriamente reservó el derecho político electoral exclusivamente para varones.",
+    "ayuda": "En 1945, el Congreso intentó reformar la Constitución para mejorar el desempeño laboral femenino, pero paradójicamente restringió el sufragio a los varones.",
+    "distractores": [
+      "Que el parlamento colombiano intentó modernizar las normas del régimen familiar patrimonial, pero contradictoriamente reservó el manejo civil económico exclusivamente para varones.",
+      "Que el parlamento colombiano intentó modernizar las normas de la educación universitaria pública, pero contradictoriamente reservó el ingreso académico profesional exclusivamente para varones.",
+      "Que el parlamento colombiano intentó modernizar las normas de la actividad sindical obrera, pero contradictoriamente reservó el fuero laboral protector exclusivamente para varones."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una organización internacional elogia a los países latinoamericanos por crear múltiples Ministerios de la Mujer y diversas Oficinas de Familia durante las últimas tres décadas del siglo XX.",
+      "pregunta": "De acuerdo con el documento, ¿qué evento global consolidó el compromiso de los Estados nacionales para estructurar esta importante institucionalidad estatal femenina?"
+    },
+    "respuesta": "La masiva celebración internacional de la Cuarta Conferencia Mundial de las Mujeres desarrollada históricamente en Beijing durante el influyente año de 1995.",
+    "ayuda": "El texto indica que a raíz de la Cuarta Conferencia Mundial de las Mujeres en Beijing (1995), muchos Estados se comprometieron a crear instituciones como el Ministerio de la Mujer.",
+    "distractores": [
+      "La masiva celebración internacional del Cuarto Congreso Internacional de las Obreras desarrollado históricamente en Bogotá durante el influyente año de 1930.",
+      "La masiva celebración internacional de la Primera Asamblea Nacional del Voto desarrollada históricamente en Colombia durante el influyente año de 1954.",
+      "La masiva celebración internacional del Primer Plebiscito Popular del Frente desarrollado históricamente en Colombia durante el influyente año de 1957."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En la década de 1930, Colombia experimentó cambios en la legislación civil de la mujer bajo el liderazgo de figuras pioneras, permitiendo por primera vez a las mujeres manejar sus propios bienes.",
+      "pregunta": "Basándose en los datos del documento, ¿qué importante ley colombiana y qué lideresas lograron finalmente este avance material patrimonial para las mujeres?"
+    },
+    "respuesta": "La conocida Ley 28 del año 1934, impulsada decisivamente por las primeras grandes lideresas feministas del territorio nacional llamadas Georgina Fletcher y Clotilde García.",
+    "ayuda": "Georgina Fletcher y Clotilde García lideraron el proyecto del Régimen de Capitulaciones, que finalmente derivó en la Ley 28 de 1934 para el manejo de bienes.",
+    "distractores": [
+      "El conocido Decreto 3 del año 1954, impulsado decisivamente por las primeras grandes lideresas feministas del territorio nacional llamadas Irene Salvador y Manuela Chafloque.",
+      "El conocido Acuerdo 8 del año 1917, impulsado decisivamente por las primeras grandes lideresas feministas del territorio nacional llamadas Carmen Serdán y María Cano.",
+      "La conocida Norma 4 del año 1995, impulsada decisivamente por las primeras grandes lideresas feministas del territorio nacional llamadas Naciones Unidas y Banco Mundial."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un artículo opina: 'Los estudios de género actuales ya no son útiles, pues la liberación femenina de los años 70 ya logró que la mujer entrara a la educación y al trabajo formalmente'.",
+      "pregunta": "Desde el enfoque interdisciplinario actual de esta ciencia, ¿por qué la visión del articulista es reduccionista y francamente obsoleta para la modernidad?"
+    },
+    "respuesta": "Porque actualmente el campo trasciende enormemente a las mujeres, estudiando también exhaustivamente complejas identidades masculinas, realidades no binarias y diversas poblaciones completamente transgénero.",
+    "ayuda": "El texto aclara que hoy en día el campo se ha ampliado para abarcar roles masculinos, experiencias no binarias y transgénero, y no solo los derechos de las mujeres.",
+    "distractores": [
+      "Porque actualmente el campo trasciende enormemente a las mujeres, estudiando también exhaustivamente complejas historias nacionales, realidades del sufragio y diversas políticas completamente constitucionales.",
+      "Porque actualmente el campo trasciende enormemente a las mujeres, estudiando también exhaustivamente complejas instituciones estatales, realidades del ministerio y diversas burocracias completamente gubernamentales.",
+      "Porque actualmente el campo trasciende enormemente a las mujeres, estudiando también exhaustivamente complejas alianzas sindicales, realidades del proletariado y diversas movilizaciones completamente campesinas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un líder sindical de la década de 1920 en Colombia redacta un manifiesto reconociendo a una mujer intelectual como la principal voz y líder política de las arduas movilizaciones en favor de artesanos y obreros.",
+      "pregunta": "Según la historia social descrita en el documento, ¿a qué importante personaje histórico femenino hace referencia exacta este reconocimiento obrero del siglo pasado?"
+    },
+    "respuesta": "A la inmensa líder intelectual y política María Cano, reconocida popularmente en múltiples escenarios sindicales bajo el célebre apelativo de la flor del trabajo.",
+    "ayuda": "María Cano fue la principal representante de las movilizaciones obreras en las décadas de 1920 y 1930, siendo reconocida por los obreros como 'La Flor del trabajo'.",
+    "distractores": [
+      "A la inmensa líder intelectual y militar Carmen Serdán, reconocida popularmente en múltiples escenarios sindicales bajo el célebre apelativo de la voz del pueblo.",
+      "A la inmensa líder intelectual y civil Georgina Fletcher, reconocida popularmente en múltiples escenarios sindicales bajo el célebre apelativo de la dama del derecho.",
+      "A la inmensa líder intelectual y obrera Irene Salvador, reconocida popularmente en múltiples escenarios sindicales bajo el célebre apelativo de la mártir de huachana."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Se afirma que el sufragio femenino en Colombia fue un proceso rápido y directo consolidado en la década de los cincuenta, otorgado como un simple regalo del establecimiento tradicional conservador de la época.",
+      "pregunta": "Basándose en la lectura rigurosa de los textos, ¿por qué esta narrativa minimiza el verdadero contexto social y temporal del voto colombiano?"
+    },
+    "respuesta": "Porque desconoce absolutamente que los derechos políticos fueron el resultado definitivo de largas y duras movilizaciones femeninas previas ocurridas junto a obreros y campesinos.",
+    "ayuda": "Las mujeres carecían de derechos, pero estaban presentes en procesos políticos y movilizaciones (con obreros y campesinos) que finalmente presionaron la consecución del voto.",
+    "distractores": [
+      "Porque desconoce absolutamente que los derechos políticos fueron el resultado definitivo de largas y duras negociaciones femeninas previas ocurridas junto al clero y obispos.",
+      "Porque desconoce absolutamente que los derechos políticos fueron el resultado definitivo de largas y duras revoluciones femeninas previas ocurridas junto a milicias y soldados.",
+      "Porque desconoce absolutamente que los derechos políticos fueron el resultado definitivo de largas y duras diplomacias femeninas previas ocurridas junto a foráneos y embajadores."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una empresa de publicidad se niega a cambiar sus anuncios donde los hombres aparecen liderando negocios y las mujeres lavando ropa, argumentando que simplemente reflejan las inofensivas preferencias naturales del consumidor moderno.",
+      "pregunta": "De acuerdo con el vasto alcance de los estudios de género, ¿qué acción crítica busca ejercer esta disciplina frente a este tipo de representaciones masivas mediáticas?"
+    },
+    "respuesta": "El área busca analizar y cuestionar frontalmente cómo estas nocivas narrativas mediáticas intentan reforzar históricamente perjudiciales estereotipos limitantes sobre las diversas identidades humanas colectivas.",
+    "ayuda": "Los estudios de género examinan de forma crítica la representación de género en los medios de comunicación y las artes, buscando desafiar los prejuicios y estereotipos de género.",
+    "distractores": [
+      "El área busca analizar y cuestionar frontalmente cómo estas nocivas políticas laborales intentan reforzar históricamente perjudiciales estereotipos limitantes sobre las diversas identidades humanas colectivas.",
+      "El área busca analizar y cuestionar frontalmente cómo estas nocivas constituciones estatales intentan reforzar históricamente perjudiciales estereotipos limitantes sobre las diversas identidades humanas colectivas.",
+      "El área busca analizar y cuestionar frontalmente cómo estas nocivas doctrinas religiosas intentan reforzar históricamente perjudiciales estereotipos limitantes sobre las diversas identidades humanas colectivas."
+    ]
+  }
+]
