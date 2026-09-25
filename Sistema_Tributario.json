@@ -1,132 +1,132 @@
 [
   {
     "pregunta": {
-      "contexto": "Un ciudadano decide realizar sus compras exclusivamente en mercados informales para evitar pagar el IVA, argumentando que de esta forma maximiza sus ingresos personales[cite: 14].",
-      "pregunta": "Desde la perspectiva del contrato social expuesta en el documento, ¿qué consecuencia estructural genera esta evasión individual sobre el funcionamiento del Estado?[cite: 14]"
+      "contexto": "Un acaudalado empresario decide realizar todas sus compras corporativas utilizando exclusivamente efectivo en mercados informales no regulados. Él argumenta públicamente que esta práctica fortalece directamente la economía local de los pequeños vendedores, aunque en realidad su principal motivación es evadir deliberadamente el pago de cualquier impuesto.",
+      "pregunta": "Desde la perspectiva del contrato social explicada en el texto, ¿qué grave consecuencia estructural genera realmente esta justificada evasión individual sobre el Estado?"
     },
-    "respuesta": "Destruye el ciclo virtuoso de contribución debilitando la capacidad del Estado para invertir los recursos en el bien común de la sociedad[cite: 14].",
-    "ayuda": "La evasión rompe el ciclo fundamental de retribución, dejando los recursos en manos privadas e impidiendo al Estado proveer servicios esenciales[cite: 14].",
+    "respuesta": "Destruye el ciclo virtuoso de contribución solidaria, debilitando profundamente la capacidad operativa del Estado para financiar e invertir los recursos en el bien común.",
+    "ayuda": "La evasión rompe el ciclo de retribución fundamental, dejando los recursos en manos privadas e impidiendo al Estado proveer servicios esenciales.",
     "distractores": [
-      "Fomenta el círculo vicioso de recaudación fortaleciendo la capacidad del mercado para invertir los recursos en el bien común de la sociedad[cite: 14].",
-      "Fractura el sistema regresivo de tributación limitando la capacidad del municipio para invertir los recursos en el bien común de la sociedad[cite: 14].",
-      "Altera el contrato social de redistribución expandiendo la capacidad del gobierno para invertir los recursos en el bien común de la sociedad[cite: 14]."
+      "Fomenta el círculo vicioso de recaudación territorial, fortaleciendo profundamente la capacidad comercial del mercado para financiar e invertir los recursos en el bien común.",
+      "Fractura el sistema regresivo de tributación nacional, limitando profundamente la capacidad municipal del alcalde para financiar e invertir los recursos en el bien común.",
+      "Altera el contrato social de redistribución privada, expandiendo profundamente la capacidad financiera del gobierno para financiar e invertir los recursos en el bien común."
     ]
   },
   {
     "pregunta": {
-      "contexto": "Un candidato presidencial propone financiar un nuevo sistema de salud aumentando universalmente el Impuesto al Valor Agregado (IVA) aplicable a la canasta básica[cite: 14].",
-      "pregunta": "Teniendo en cuenta la definición de impuestos regresivos, ¿por qué esta propuesta fiscal agravaría profundamente la desigualdad económica del país?[cite: 14]"
+      "contexto": "Para cubrir un inmenso déficit fiscal, el Ministerio de Hacienda propone aplicar un Impuesto al Valor Agregado (IVA) uniforme del diecinueve por ciento a absolutamente todos los productos de la canasta familiar básica. El ministro defiende la medida argumentando que cobrarle exactamente el mismo porcentaje a todos los ciudadanos garantiza una verdadera igualdad frente a la ley.",
+      "pregunta": "Teniendo en cuenta la definición de impuestos regresivos, ¿por qué el argumento igualitario del ministro es considerado una falacia que agravaría profundamente la desigualdad?"
     },
-    "respuesta": "Porque aplica una tarifa tributaria totalmente fija que siempre exige un sacrificio económico desproporcionadamente mayor para las familias de rentas muy bajas[cite: 14].",
-    "ayuda": "El IVA, al ser un impuesto al consumo sin diferenciar la capacidad de pago, impacta severamente a quienes destinan más presupuesto a bienes básicos[cite: 14].",
+    "respuesta": "Porque aplicar una tarifa fija al consumo exige un sacrificio económico desproporcionadamente mayor para todas las familias de rentas bajas que gastan su salario.",
+    "ayuda": "El IVA grava el consumo sin diferenciar la capacidad de pago, castigando severamente a quienes destinan todo su ingreso a sobrevivir.",
     "distractores": [
-      "Porque aplica una base gravable totalmente variable que siempre exige un beneficio económico desproporcionadamente mayor para las familias de rentas muy altas[cite: 14].",
-      "Porque aplica una renta líquida totalmente exenta que siempre exige un esfuerzo económico desproporcionadamente mayor para las personas de rentas muy altas[cite: 14].",
-      "Porque aplica una cuota municipal totalmente progresiva que siempre exige un ahorro económico desproporcionadamente mayor para las empresas de rentas muy bajas[cite: 14]."
+      "Porque aplicar una base variable al comercio exige un beneficio económico desproporcionadamente mayor para todas las empresas de rentas altas que invierten su salario.",
+      "Porque aplicar una renta exenta al patrimonio exige un esfuerzo económico desproporcionadamente mayor para todas las personas de rentas altas que ahorran su salario.",
+      "Porque aplicar una cuota local al municipio exige un recaudo económico desproporcionadamente mayor para todas las industrias de rentas bajas que exportan su salario."
     ]
   },
   {
     "pregunta": {
-      "contexto": "Para el año gravable en curso, la ley determina que un empleado con salario mínimo estará exento del pago, mientras un alto ejecutivo pagará el 35% de sus ingresos[cite: 14].",
-      "pregunta": "¿Qué principio constitucional fundamenta este diseño fiscal directo utilizado específicamente en el impuesto sobre la renta colombiano?[cite: 14]"
+      "contexto": "En el congreso, un senador propone eliminar las complejas tablas del impuesto sobre la renta y reemplazarlas por un cobro plano y universal del quince por ciento aplicable a todos los trabajadores, sin importar si ganan el salario mínimo o si perciben honorarios multimillonarios.",
+      "pregunta": "Según los principios del sistema tributario progresivo, ¿qué fundamento constitucional esencial estaría siendo violado si se aprueba esta propuesta de tarifa plana universal?"
     },
-    "respuesta": "El principio de equidad vertical, sosteniendo que aquellos sujetos con mayor capacidad económica deben contribuir tributariamente en una proporción significativamente mayor siempre[cite: 14].",
-    "ayuda": "Este impuesto busca redistribuir la riqueza gravando progresivamente a quienes poseen mayores rentas, fundamentado en el principio de equidad vertical[cite: 14].",
+    "respuesta": "El principio de equidad vertical, el cual sostiene que aquellos sujetos con mayor capacidad económica deben contribuir tributariamente en una proporción significativamente mayor siempre.",
+    "ayuda": "Los impuestos progresivos buscan la redistribución de la riqueza cobrando un mayor porcentaje a las rentas altas (equidad vertical).",
     "distractores": [
-      "El mandato de equidad horizontal, sosteniendo que aquellos ciudadanos con menor capacidad económica deben tributar financieramente en una proporción significativamente menor siempre[cite: 14].",
-      "El concepto de competencia fiscal, sosteniendo que aquellos municipios con mayor capacidad económica deben recaudar comercialmente en una proporción significativamente mayor siempre[cite: 14].",
-      "El mecanismo de moral tributaria, sosteniendo que aquellos contribuyentes con menor capacidad económica deben evadir legalmente en una proporción significativamente menor siempre[cite: 14]."
+      "El mandato de equidad horizontal, el cual sostiene que aquellos ciudadanos con menor capacidad económica deben tributar financieramente en una proporción significativamente menor siempre.",
+      "El concepto de competencia fiscal, el cual sostiene que aquellos municipios con mayor capacidad económica deben recaudar comercialmente en una proporción significativamente mayor siempre.",
+      "El mecanismo de moral tributaria, el cual sostiene que aquellos contribuyentes con menor capacidad económica deben evadir legalmente en una proporción significativamente menor siempre."
     ]
   },
   {
     "pregunta": {
-      "contexto": "Aunque más de la mitad del recaudo fiscal en Colombia proviene de impuestos indirectos y regresivos como el IVA, el Estado asegura lograr reducir la pobreza extrema anual[cite: 14].",
-      "pregunta": "De acuerdo con la dinámica de la política fiscal explicada, ¿cómo se logra un efecto redistributivo positivo partiendo de un recaudo esencialmente regresivo?[cite: 14]"
+      "contexto": "Diferentes centros de análisis económico demuestran que el sistema tributario colombiano es estructuralmente regresivo debido a su altísima dependencia de impuestos indirectos como el IVA, los cuales afectan duramente a la clase trabajadora. Paradójicamente, las cifras oficiales del gobierno muestran una ligera reducción en la brecha de desigualdad económica al finalizar cada año fiscal.",
+      "pregunta": "A partir de la lectura sobre la política fiscal, ¿cómo es matemáticamente posible lograr un efecto redistributivo positivo en medio de un recaudo regresivo?"
     },
-    "respuesta": "Invirtiendo esos fondos recaudados de manera muy focalizada y verdaderamente eficiente mediante programas de gasto social destinados hacia los sectores más vulnerables[cite: 14].",
-    "ayuda": "El efecto neto de la política fiscal depende del balance entre el recaudo y un gasto público progresivo y bien focalizado[cite: 14].",
+    "respuesta": "Invirtiendo esos enormes fondos recaudados de manera muy focalizada y verdaderamente eficiente mediante programas de gasto social destinados directamente hacia los sectores más vulnerables.",
+    "ayuda": "El efecto final de la política fiscal depende del balance entre el recaudo y un gasto público progresivo y eficientemente focalizado.",
     "distractores": [
-      "Ahorrando esos recursos territoriales de manera muy generalizada y verdaderamente ineficiente mediante proyectos de control aduanero destinados hacia los sectores más industriales[cite: 14].",
-      "Transfiriendo esos tributos nacionales de manera muy centralizada y verdaderamente burocrática mediante reformas de libre comercio destinadas hacia los sectores más comerciales[cite: 14].",
-      "Distribuyendo esos ingresos municipales de manera muy desigual y verdaderamente restrictiva mediante acuerdos de reducción fiscal destinados hacia los sectores más privilegiados[cite: 14]."
+      "Ahorrando esos inmensos recursos territoriales de manera muy generalizada y verdaderamente ineficiente mediante proyectos de control aduanero destinados directamente hacia los sectores más industriales.",
+      "Transfiriendo esos valiosos tributos nacionales de manera muy centralizada y verdaderamente burocrática mediante reformas de libre comercio destinadas directamente hacia los sectores más comerciales.",
+      "Distribuyendo esos cuantiosos ingresos municipales de manera muy desigual y verdaderamente restrictiva mediante acuerdos de reducción fiscal destinados directamente hacia los sectores más privilegiados."
     ]
   },
   {
     "pregunta": {
-      "contexto": "Una multinacional tecnológica decide instalar su sede principal en un municipio altamente desarrollado comercialmente, ignorando otras regiones rurales que ofrecen menores beneficios de infraestructura[cite: 14].",
-      "pregunta": "¿Qué efecto estructural a largo plazo genera esta dinámica de competencia fiscal sobre los municipios que poseen un menor desarrollo comercial e industrial?[cite: 14]"
+      "contexto": "Un municipio próspero decide reducir la tarifa de su Impuesto de Industria y Comercio (ICA) al uno por ciento para atraer grandes multinacionales. Su municipio vecino, predominantemente rural y con graves carencias presupuestales en infraestructura, se ve forzado a mantener su tarifa en el cinco por ciento, perdiendo todas las nuevas inversiones comerciales.",
+      "pregunta": "¿Qué efecto estructural a largo plazo genera esta dinámica de competencia fiscal sobre las entidades territoriales que poseen un menor desarrollo comercial e industrial?"
     },
-    "respuesta": "Profundiza graves desigualdades regionales, originando un ciclo vicioso donde la escasa recaudación territorial imposibilita financiar las inversiones necesarias para atraer nuevo crecimiento[cite: 14].",
-    "ayuda": "La dependencia del ICA y el Predial hace que los municipios menos desarrollados recauden menos, impidiéndoles invertir para atraer nuevas empresas[cite: 14].",
+    "respuesta": "Profundiza las graves desigualdades regionales, originando un ciclo vicioso donde la escasa recaudación territorial imposibilita financiar grandes inversiones necesarias para atraer importante crecimiento empresarial.",
+    "ayuda": "Los municipios menos desarrollados recaudan menos ICA, impidiéndoles invertir en infraestructura para atraer nuevas empresas, agravando las desigualdades.",
     "distractores": [
-      "Disminuye fuertes competencias departamentales, originando un ciclo virtuoso donde la inmensa recaudación territorial imposibilita financiar las inversiones necesarias para atraer nuevo crecimiento[cite: 14].",
-      "Incrementa claras oportunidades municipales, originando un contrato social donde la abundante recaudación territorial imposibilita financiar las inversiones necesarias para atraer nuevo crecimiento[cite: 14].",
-      "Promueve amplias libertades distritales, originando un estado funcional donde la mínima recaudación territorial imposibilita financiar las inversiones necesarias para atraer nuevo crecimiento[cite: 14]."
+      "Disminuye las fuertes competencias departamentales, originando un ciclo virtuoso donde la inmensa recaudación territorial imposibilita financiar grandes inversiones necesarias para atraer importante crecimiento empresarial.",
+      "Incrementa las claras oportunidades municipales, originando un contrato social donde la abundante recaudación territorial imposibilita financiar grandes inversiones necesarias para atraer importante crecimiento empresarial.",
+      "Promueve las amplias libertades distritales, originando un estado funcional donde la mínima recaudación territorial imposibilita financiar grandes inversiones necesarias para atraer importante crecimiento empresarial."
     ]
   },
   {
     "pregunta": {
-      "contexto": "Un empresario pierde todo su dinero en un mal negocio y sus ingresos caen a cero. Sin embargo, al ser propietario de una lujosa mansión, la alcaldía le exige el pago de un alto tributo[cite: 14].",
-      "pregunta": "¿Qué característica fundamental del Impuesto Predial Unificado justifica jurídicamente este oneroso cobro a pesar de la quiebra financiera del ciudadano?[cite: 14]"
+      "contexto": "Una anciana jubilada hereda una inmensa mansión en una zona de altísima valorización comercial. Sin embargo, su única fuente de ingresos es una pensión equivalente a un salario mínimo, el cual apenas le alcanza para su alimentación básica. Al iniciar el año, la secretaría de hacienda le notifica el cobro de un Impuesto Predial multimillonario.",
+      "pregunta": "¿Qué característica fundamental del Impuesto Predial Unificado justifica jurídicamente este oneroso cobro a pesar de la inminente quiebra financiera en la que se encuentra la ciudadana?"
     },
-    "respuesta": "Que es un impuesto de naturaleza puramente real, el cual grava económicamente la propiedad misma independientemente de la situación financiera del dueño[cite: 14].",
-    "ayuda": "El Impuesto Predial recae directamente sobre el bien inmueble (naturaleza real), sin considerar si el dueño genera o no ingresos[cite: 14].",
+    "respuesta": "Que es un impuesto de naturaleza puramente real, el cual grava económicamente la propiedad misma independientemente de la situación financiera del dueño del inmueble.",
+    "ayuda": "El Impuesto Predial recae directamente sobre el bien inmueble (naturaleza real), sin considerar los ingresos o la liquidez del propietario.",
     "distractores": [
-      "Que es un gravamen de naturaleza puramente comercial, el cual grava económicamente la actividad misma independientemente de la situación financiera del dueño[cite: 14].",
-      "Que es un arancel de naturaleza puramente nacional, el cual grava económicamente la importación misma independientemente de la situación financiera del dueño[cite: 14].",
-      "Que es un tributo de naturaleza puramente indirecta, el cual grava económicamente la compra misma independientemente de la situación financiera del dueño[cite: 14]."
+      "Que es un gravamen de naturaleza puramente comercial, el cual grava económicamente la actividad misma independientemente de la situación financiera del dueño del inmueble.",
+      "Que es un arancel de naturaleza puramente nacional, el cual grava económicamente la importación misma independientemente de la situación financiera del dueño del inmueble.",
+      "Que es un tributo de naturaleza puramente indirecta, el cual grava económicamente la compra misma independientemente de la situación financiera del dueño del inmueble."
     ]
   },
   {
     "pregunta": {
-      "contexto": "Un contador prepara la declaración anual de un contribuyente, sumando todos los salarios percibidos pero restando cuidadosamente los aportes obligatorios a salud y pensión realizados durante el año[cite: 14].",
-      "pregunta": "Según el mecanismo del Impuesto sobre la Renta, ¿qué concepto contable se busca calcular al realizar estas sustracciones permitidas por la ley?[cite: 14]"
+      "contexto": "Un reconocido arquitecto independiente recibe ingresos brutos exorbitantes por el diseño de varios rascacielos. Al presentar su declaración de impuestos nacionales, su contador resta cuidadosamente los altísimos aportes realizados a la seguridad social, los gastos demostrables de su oficina y los cuantiosos intereses pagados por el crédito hipotecario de su residencia principal.",
+      "pregunta": "Según la estructura técnica del Impuesto sobre la Renta, ¿qué concepto contable exacto se busca determinar al realizar todas estas sustracciones permitidas por la ley?"
     },
-    "respuesta": "El valor final correspondiente a la renta líquida gravable, sobre la cual el Estado calculará directamente el porcentaje del impuesto nacional progresivo[cite: 14].",
-    "ayuda": "La renta líquida gravable es el resultado de restar a los ingresos brutos todos los costos, deducciones y rentas exentas permitidas[cite: 14].",
+    "respuesta": "El valor final correspondiente a la renta líquida gravable, sobre la cual el Estado calculará directamente el porcentaje del impuesto nacional altamente progresivo aplicable.",
+    "ayuda": "Restar costos, deducciones y rentas exentas de los ingresos brutos permite obtener la renta líquida gravable para calcular el impuesto.",
     "distractores": [
-      "El monto inicial correspondiente a la base gravable indirecta, sobre la cual el Estado calculará directamente el porcentaje del impuesto nacional progresivo[cite: 14].",
-      "El saldo negativo correspondiente a la deducción fiscal exenta, sobre la cual el Estado calculará directamente el porcentaje del impuesto nacional progresivo[cite: 14].",
-      "El ingreso bruto correspondiente a la actividad comercial gravada, sobre la cual el Estado calculará directamente el porcentaje del impuesto nacional progresivo[cite: 14]."
+      "El monto inicial correspondiente a la base gravable indirecta, sobre la cual el Estado calculará directamente el porcentaje del impuesto nacional altamente progresivo aplicable.",
+      "El saldo negativo correspondiente a la deducción fiscal exenta, sobre la cual el Estado calculará directamente el porcentaje del impuesto nacional altamente progresivo aplicable.",
+      "El ingreso bruto correspondiente a la actividad comercial gravada, sobre la cual el Estado calculará directamente el porcentaje del impuesto nacional altamente progresivo aplicable."
     ]
   },
   {
     "pregunta": {
-      "contexto": "Una familia de salario mínimo gasta casi todo su ingreso en bienes de consumo básico, mientras que una familia rica ahorra la mitad de su salario, consumiendo el resto en los mismos bienes[cite: 14].",
-      "pregunta": "¿Por qué el pago del IVA impacta de manera mucho más severa a la economía de la familia de rentas bajas?[cite: 14]"
+      "contexto": "Una familia campesina con ingresos equivalentes al mínimo legal vigente gasta la totalidad de su dinero en bienes de consumo básico para sobrevivir. Simultáneamente, una familia rica gasta exactamente esa misma cantidad de dinero en los mismos productos, pero ahorra el noventa por ciento restante de su altísimo salario mensual en cuentas bancarias.",
+      "pregunta": "Aunque ambas familias pagan exactamente la misma cantidad absoluta de dinero al cajero, ¿por qué el IVA castiga con mayor dureza la economía campesina?"
     },
-    "respuesta": "Porque destinan una proporción significativamente mayor de todo su presupuesto mensual para poder adquirir diversos bienes y servicios básicos gravados con impuestos[cite: 14].",
-    "ayuda": "Las familias de bajos ingresos consumen casi toda su renta en bienes básicos, pagando IVA por un porcentaje mayor de su ingreso total[cite: 14].",
+    "respuesta": "Porque destinan una proporción significativamente mayor de todo su presupuesto mensual para poder adquirir diversos bienes y servicios básicos gravados con impuestos al consumo.",
+    "ayuda": "Las familias de rentas bajas consumen casi todo su ingreso en bienes básicos, pagando proporcionalmente mucho más impuesto indirecto.",
     "distractores": [
-      "Porque invierten una proporción significativamente mayor de todo su patrimonio mensual para poder evadir diversos bienes y servicios básicos gravados con impuestos[cite: 14].",
-      "Porque deducen una proporción significativamente mayor de todo su capital mensual para poder exportar diversos bienes y servicios básicos gravados con impuestos[cite: 14].",
-      "Porque recaudan una proporción significativamente mayor de todo su salario mensual para poder importar diversos bienes y servicios básicos gravados con impuestos[cite: 14]."
+      "Porque invierten una proporción significativamente mayor de todo su patrimonio mensual para poder evadir diversos bienes y servicios básicos gravados con impuestos al consumo.",
+      "Porque deducen una proporción significativamente mayor de todo su capital mensual para poder exportar diversos bienes y servicios básicos gravados con impuestos al consumo.",
+      "Porque recaudan una proporción significativamente mayor de todo su salario mensual para poder importar diversos bienes y servicios básicos gravados con impuestos al consumo."
     ]
   },
   {
     "pregunta": {
-      "contexto": "Diversos reportajes exponen desfalcos millonarios en la construcción de hospitales. Meses después, las estadísticas del ministerio de hacienda registran un alarmante aumento en las tasas de evasión fiscal ciudadana[cite: 14].",
-      "pregunta": "Desde la teoría del contrato social, ¿qué fenómeno psicosocial y político explica este drástico aumento en el incumplimiento de las obligaciones tributarias?[cite: 14]"
+      "contexto": "Un noticiero revela que importantes políticos desviaron miles de millones de pesos provenientes de los impuestos destinados a la construcción de acueductos regionales. Semanas después de este enorme escándalo nacional, la Dirección de Impuestos y Aduanas Nacionales (DIAN) reporta un drástico y preocupante aumento en las estadísticas de evasión tributaria ciudadana a nivel nacional.",
+      "pregunta": "Desde la frágil teoría del contrato social, ¿qué fenómeno psicosocial explica directamente este repentino aumento en el incumplimiento masivo de las obligaciones tributarias ciudadanas?"
     },
-    "respuesta": "La profunda erosión de la confianza en las instituciones estatales genera una baja moral tributaria que incentiva directamente la evasión fiscal masiva[cite: 14].",
-    "ayuda": "La percepción de ineficiencia y corrupción destruye la confianza ciudadana, reduciendo la moral tributaria e incrementando dramáticamente la evasión de impuestos[cite: 14].",
+    "respuesta": "La profunda erosión de la confianza en las instituciones estatales genera una baja moral tributaria que incentiva directamente la evasión fiscal masiva de recursos.",
+    "ayuda": "La corrupción y el despilfarro destruyen la confianza ciudadana, reduciendo la moral tributaria y fomentando activamente la evasión fiscal.",
     "distractores": [
-      "La severa aplicación de la regresividad en los impuestos locales genera una alta moral tributaria que incentiva directamente la evasión fiscal masiva[cite: 14].",
-      "La rápida construcción de la infraestructura en los municipios apartados genera una nula moral tributaria que incentiva directamente la evasión fiscal masiva[cite: 14].",
-      "La clara transparencia de la administración en los recursos públicos genera una fuerte moral tributaria que incentiva directamente la evasión fiscal masiva[cite: 14]."
+      "La severa aplicación de la regresividad en los impuestos locales genera una alta moral tributaria que incentiva directamente la evasión fiscal masiva de recursos.",
+      "La rápida construcción de la infraestructura en los municipios apartados genera una nula moral tributaria que incentiva directamente la evasión fiscal masiva de recursos.",
+      "La clara transparencia de la administración en los recursos públicos genera una fuerte moral tributaria que incentiva directamente la evasión fiscal masiva de recursos."
     ]
   },
   {
     "pregunta": {
-      "contexto": "Un estudiante universitario argumenta que cumplir con el país consiste únicamente en trabajar honradamente y pagar los recibos, desentendiéndose por completo de los debates sobre las frecuentes reformas tributarias del congreso[cite: 14].",
-      "pregunta": "Según el documento, ¿por qué la postura pasiva de este estudiante resulta insuficiente frente a las verdaderas exigencias de la democracia moderna?[cite: 14]"
+      "contexto": "Un prestigioso médico paga rigurosamente todos sus altos impuestos a tiempo. Sin embargo, cuando se le invita a firmar una petición para auditar la construcción fallida de un hospital público, él se niega rotundamente afirmando que su único y exclusivo deber ciudadano finaliza exactamente en el momento en que realiza sus pagos bancarios.",
+      "pregunta": "Según el análisis del documento sobre las responsabilidades modernas, ¿por qué la cómoda postura pasiva de este profesional resulta insuficiente para la verdadera democracia?"
     },
-    "respuesta": "Porque la ciudadanía fiscal exige comprender profundamente los conceptos tributarios para poder vigilar, proponer y demandar un contrato social equitativo para todos[cite: 14].",
-    "ayuda": "El cumplimiento tributario no es pasivo; la ciudadanía fiscal activa requiere vigilar el gasto público y entender las políticas para exigir equidad[cite: 14].",
+    "respuesta": "Porque la ciudadanía fiscal activa exige comprender profundamente los conceptos tributarios para poder vigilar, proponer y demandar un contrato social equitativo para todos siempre.",
+    "ayuda": "Cumplir con los impuestos no es un acto pasivo; la ciudadanía fiscal exige vigilar el gasto público.",
     "distractores": [
-      "Porque la competencia fiscal exige memorizar profundamente los conceptos arancelarios para poder evadir, ocultar y declarar un contrato comercial equitativo para todos[cite: 14].",
-      "Porque la exención fiscal exige calcular profundamente los conceptos financieros para poder deducir, gravar y liquidar un contrato laboral equitativo para todos[cite: 14].",
-      "Porque la regresividad fiscal exige ignorar profundamente los conceptos constitucionales para poder gastar, consumir y comprar un contrato privado equitativo para todos[cite: 14]."
+      "Porque la competencia fiscal pasiva exige memorizar profundamente los conceptos arancelarios para poder evadir, ocultar y declarar un contrato comercial equitativo para todos siempre.",
+      "Porque la exención fiscal activa exige calcular profundamente los conceptos financieros para poder deducir, gravar y liquidar un contrato laboral equitativo para todos siempre.",
+      "Porque la regresividad fiscal pasiva exige ignorar profundamente los conceptos constitucionales para poder gastar, consumir y comprar un contrato privado equitativo para todos siempre."
     ]
   }
 ]
