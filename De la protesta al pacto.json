@@ -1,82 +1,197 @@
 [
-{
-  "pregunta": {
-      "contexto": "A principios del siglo XX, el modelo de desarrollo colombiano se caracterizó por la expansión de economías de enclave, donde compañías extranjeras, como la United Fruit Company, controlaban la producción y exportación de recursos como el banano. Este modelo, si bien impulsó cierta modernización en infraestructura, generó profundos conflictos sociales. La compañía a menudo evitaba la contratación directa de sus miles de trabajadores, utilizando en su lugar un sistema de subcontratistas colombianos. Esta práctica le permitía argumentar que no tenía empleados directos y, por lo tanto, eludir la aplicación de la legislación laboral colombiana de la época.",
-      "pregunta": "Considerando el modelo de desarrollo descrito, ¿cuál de las siguientes opciones explica mejor el origen de las primeras grandes protestas obreras en Colombia, como la huelga de las bananeras de 1928?"},
-  "respuesta": "Las protestas fueron una respuesta directa a las precarias condiciones laborales y a un sistema de contratación diseñado para negar derechos y maximizar la explotación de la mano de obra.",
-  "distractores": ["Las protestas surgieron principalmente por la influencia de ideologías socialistas extranjeras que buscaban desestabilizar al gobierno conservador de la época.",
-"Las protestas se originaron porque el Estado colombiano actuaba como un mediador imparcial que no lograba conciliar los intereses de los trabajadores y las empresas extranjeras.",
-"Las protestas fueron una reacción de los campesinos locales contra la modernización, ya que preferían mantener sus formas de producción tradicionales en lugar de trabajar por un salario."]},
-{
-  "pregunta": {
-      "contexto": "Lea el siguiente fragmento, adaptado de un manifiesto estudiantil de 1990: “Colombia se encuentra al filo del caos. La violencia del narcotráfico asesina a nuestros líderes, el conflicto armado se recrudece y nuestras instituciones, regidas por una Constitución centenaria, son incapaces de ofrecer soluciones. La clase política tradicional se ha mostrado impotente para gestionar la crisis y ha perdido la confianza de la ciudadanía. No podemos esperar más. Es hora de que el pueblo, como soberano, tome la palabra. Convocamos a todos los ciudadanos a depositar en las próximas elecciones una papeleta extra, una ‘Séptima Papeleta’, para exigir una Asamblea Nacional Constituyente que refunde nuestro pacto social sobre las bases de la democracia, la paz y la participación”.",
-      "pregunta": "¿Cuál es la postura del movimiento estudiantil, según se infiere del manifiesto?"},
-  "respuesta": "Se posicionan como un actor de la sociedad civil que, ante la crisis de legitimidad del sistema político, apela al poder del pueblo para una transformación profunda del Estado.",
-  "distractores": ["Consideran que la Constitución de 1886 solo necesita reformas menores en materia de seguridad para superar la crisis.",
-"Actúan como voceros de los partidos políticos tradicionales para canalizar el descontento popular de manera controlada.",
-"Su principal y única demanda es la derrota militar del narcotráfico, considerando que los demás problemas del país son secundarios."]},
-{
-  "pregunta": {
-      "contexto": "La Constitución de 1991 reconoció a Colombia como una nación pluriétnica y multicultural. Sin embargo, el reconocimiento de los derechos de los diferentes grupos étnicos no fue homogéneo. Mientras los pueblos indígenas lograron una consagración detallada de sus derechos territoriales y de autogobierno directamente en el articulado permanente, las comunidades negras, afrocolombianas, raizales y palenqueras dependieron inicialmente del Artículo Transitorio 55. Este artículo ordenaba al Congreso expedir, en un plazo de dos años, una ley que reconociera su derecho a la propiedad colectiva de tierras baldías y protegiera su identidad cultural. Dicho mandato se materializó con la expedición de la Ley 70 de 1993.",
-      "pregunta": "A partir de esta diferencia en el reconocimiento constitucional, ¿qué se puede concluir sobre el proceso de garantía de derechos para las comunidades negras?"},
-  "respuesta": "Que la expedición de la Ley 70 de 1993 fue un paso fundamental que requirió de una continua movilización política por parte de estas comunidades para hacer efectivo el mandato constitucional.",
-  "distractores": ["Que la Constitución de 1991 les otorgó automáticamente los mismos derechos y formas de propiedad territorial que a los resguardos indígenas.",
-"Que el Artículo Transitorio 55 fue una medida suficiente que garantizó de inmediato la protección de sus territorios, sin necesidad de una ley posterior.",
-"Que el Estado colombiano decidió de manera unilateral y sin presión social otorgarles derechos territoriales a través de la Ley 70 de 1993."]},
-{
-  "pregunta": {
-      "contexto": "Un reportaje periodístico documenta el caso de una comunidad campesina que, durante años, ha sufrido enfermedades respiratorias debido a la contaminación del aire generada por una fábrica cercana. A pesar de múltiples quejas ante las autoridades ambientales, la situación no ha mejorado. Asesorados por una organización de derechos humanos, los habitantes de la comunidad deciden interponer una acción de tutela, argumentando que la contaminación vulnera sus derechos fundamentales a la vida, la salud y a un ambiente sano, consagrados en la Constitución de 1991.",
-      "pregunta": "¿De qué manera el uso de la acción de tutela en este caso refleja el potencial transformador de la Constitución de 1991, tal como lo han aprovechado los movimientos sociales?"},
-  "respuesta": "Ilustra cómo un mecanismo judicial de protección inmediata permite a los ciudadanos comunes exigir directamente a un juez la defensa de sus derechos fundamentales.",
-  "distractores": ["Evidencia que la Constitución solo protege derechos políticos, por lo que la tutela probablemente será declarada improcedente para un caso ambiental.",
-"Demuestra que la acción de tutela es un mecanismo lento y burocrático, que solo retrasa las soluciones definitivas a los problemas ambientales.",
-"Muestra que la única forma de resolver conflictos socioambientales es a través de la protesta en las calles, ya que las herramientas jurídicas son ineficaces frente a los intereses económicos."]},
-{
-  "pregunta": {
-      "contexto": "En un debate público sobre la implementación de un programa de educación para la sexualidad en los colegios públicos, un panelista afirma: “El Estado no puede imponer una ‘ideología de género’ que atenta contra los valores de la familia. La Constitución protege el derecho fundamental de los padres a escoger el tipo de educación para sus hijos, y este derecho debe prevalecer”.",
-      "pregunta": "La estrategia argumentativa del panelista, que enmarca su oposición en el lenguaje de los derechos constitucionales, es un ejemplo de lo que el texto “De la Protesta al Pacto” denomina “contrainterpretación”. ¿Cuál es el propósito principal de esta estrategia?"},
-  "respuesta": "Disputar el significado y el alcance de los principios constitucionales, para defender un orden social tradicional frente a agendas progresistas.",
-  "distractores": ["Atacar frontalmente la legitimidad de la Constitución de 1991, proponiendo su derogación y el retorno a la Constitución de 1886.",
-"Utilizar argumentos exclusivamente religiosos para convencer a la audiencia, ignorando por completo el marco legal y constitucional.",
-"Demostrar que los derechos de los padres y los derechos de los niños son idénticos y nunca pueden entrar en conflicto en el ámbito educativo."]},
-{
-  "pregunta": {
-      "contexto": "Un informe reciente de una organización de derechos humanos señala que, a pesar de que la Constitución de 1991 consagra a Colombia como un Estado Social de Derecho fundado en el respeto de la dignidad humana y la participación, la violencia contra líderes sociales y defensores del territorio persiste de manera alarmante. El informe documenta que, solo en los primeros cinco meses de 2025, fueron asesinados 81 líderes en el país, principalmente en zonas con presencia de economías ilegales y disputas por la tierra y los recursos naturales. Muchos de estos líderes pertenecían a comunidades indígenas y afrocolombianas.",
-      "pregunta": "Esta situación descrita en el informe es la manifestación más grave de un problema estructural de la democracia colombiana, que consiste en"},
-  "respuesta": "una profunda brecha entre los derechos y garantías consagrados en la Constitución y la capacidad del Estado para implementarlos.",
-  "distractores": ["la ausencia de un marco legal y constitucional que reconozca y proteja los derechos de los ciudadanos y las comunidades.",
-"el desinterés total de la comunidad internacional en los problemas de derechos humanos que ocurren en Colombia.",
-"la inexistencia de movimientos sociales organizados que exijan al Estado el cumplimiento de sus obligaciones constitucionales."]},
-{
-  "pregunta": {
-      "contexto": "Durante la huelga de 1928 en la zona bananera, los trabajadores presentaron a la United Fruit Company un pliego de peticiones que incluía, entre otros puntos, los siguientes:<br><br>Reconocimiento de los trabajadores como empleados directos de la compañía y no de contratistas.<br><br>Aumento salarial y pago de jornales en dinero en efectivo, no en vales canjeables únicamente en los comisariatos de la empresa.<br><br>Establecimiento del seguro colectivo obligatorio y reparación por accidentes de trabajo.<br><br>Construcción de viviendas higiénicas y descanso dominical remunerado.",
-      "pregunta": "A partir del análisis de estas demandas, ¿qué se puede inferir sobre la perspectiva y los intereses de los trabajadores?"},
-  "respuesta": "Buscaban la formalización de una relación laboral que les garantizara dignidad, derechos básicos y protección.",
-  "distractores": ["Su principal objetivo era obtener la propiedad de las tierras de la compañía para establecer cultivos propios.",
-"Sus demandas eran de naturaleza exclusivamente política y buscaban la salida de la compañía extranjera del país.",
-"Estaban satisfechos con sus condiciones de trabajo y solo aspiraban a un pequeño aumento salarial como compensación."]},
-{
-  "pregunta": {
-      "contexto": "El movimiento de la “Séptima Papeleta” logró que en las elecciones de 1990 más de dos millones de ciudadanos depositaran un voto extraoficial para convocar una Asamblea Nacional Constituyente (ANC). Este respaldo masivo, aunque no tenía validez legal formal, generó una presión política tal que obligó a las instituciones del Estado a viabilizar la convocatoria de la ANC. Este proceso se ha descrito como un acto de soberanía popular que invocó el poder del “constituyente primario”.",
-      "pregunta": "En el contexto de la teoría del Estado, el concepto de “constituyente primario” se refiere a"},
-  "respuesta": "el poder reside en el pueblo y que está por encima de los poderes constituidos.",
-  "distractores": ["el Congreso de la República, como órgano legislativo encargado de reformar las leyes existentes.",
-"el grupo de expertos juristas que redactaron la primera constitución del país en el siglo XIX.",
-"el Presidente de la República, en su calidad de jefe de Estado y de gobierno, con la facultad de decretar nuevas normas."]},
-{
-  "pregunta": {
-      "contexto": "Una empresa minera planea desarrollar un proyecto de extracción de oro a gran escala en un territorio ancestralmente habitado por una comunidad étnica. La empresa afirma haber cumplido con la ley al realizar una “consulta previa”, en la que ofreció a la comunidad la construcción de una escuela y un centro de salud a cambio de su aprobación. Sin embargo, los líderes de la comunidad denuncian que el proyecto contaminará irreversiblemente sus ríos, destruirá sus lugares sagrados y afectará sus prácticas de agricultura tradicional, que son la base de su cultura y subsistencia. Argumentan que la consulta fue un trámite para legitimar una decisión ya tomada y no un diálogo genuino.",
-      "pregunta": "La situación descrita evidencia un conflicto socioambiental que se origina principalmente en"},
-  "respuesta": "una visión de desarrollo centrada en la explotación de recursos y una visión que defiende la integridad del territorio.",
-  "distractores": ["la falta de voluntad de la comunidad para aceptar la compensación económica ofrecida por la empresa.",
-"la ausencia total de leyes en Colombia que regulen la actividad minera y la protección del medio ambiente.",
-"la oposición de la comunidad al progreso y a la construcción de infraestructura como escuelas y centros de salud."]},
-{
-  "pregunta": {
-      "contexto": "Durante un debate legislativo sobre los derechos reproductivos, se presentan dos posturas claramente enfrentadas:<br><br>Postura 1: “La Constitución, en su artículo 11, protege el derecho a la vida como inviolable. Por lo tanto, cualquier norma que permita la interrupción voluntaria del embarazo es una violación directa a la Carta Magna y debe ser eliminada”. <br><br>Postura 2: “La Corte Constitucional ha determinado que la protección de la vida no es absoluta y debe ponderarse con otros derechos fundamentales como la dignidad humana, la autonomía personal y la salud de las mujeres, también protegidos por la Constitución. La penalización absoluta del aborto resulta desproporcionada y vulnera estos derechos”.",
-      "pregunta": "Este desacuerdo entre las dos posturas es un ejemplo de la “guerra de interpretaciones” sobre la Constitución de 1991. ¿Cuál de las siguientes afirmaciones describe mejor la naturaleza de este conflicto?"},
-  "respuesta": "Es un debate en el que ambas posturas apelan a la Constitución, pero interpretan y jerarquizan los derechos de manera opuesta.",
-  "distractores": ["Es un conflicto entre una postura que defiende la Constitución y otra que busca ignorarla por completo.",
-"Es una discusión que solo puede resolverse a través de argumentos religiosos, ya que la Constitución no ofrece ninguna guía sobre el tema.",
-"Es una demostración de que la Constitución de 1991 es un documento incoherente y lleno de contradicciones insuperables."]}
-  ]
+  {
+    "pregunta": {
+      "contexto": "Un analista político debate en televisión cómo las protestas de principios del siglo XX se enfocaban únicamente en salarios y tierras, mientras que las marchas de finales de siglo introdujeron banderas totalmente nuevas sobre el orgullo étnico y la diversidad sexual.",
+      "pregunta": "De acuerdo con el documento, ¿qué transición histórica fundamental propició la emergencia de estos 'nuevos movimientos sociales' entre 1975 y 1990?"
+    },
+    "respuesta": "El paso histórico de las tradicionales demandas por redistribución económica hacia las nuevas luchas por el reconocimiento de diversas identidades.",
+    "ayuda": "Recuerda el tránsito fundamental que amplió la agenda desde pedir recursos materiales hasta exigir el derecho a existir cultural y políticamente.",
+    "distractores": [
+      "El paso histórico de las tradicionales reformas de democratización educativa hacia las nuevas luchas por la participación de guerrillas desmovilizadas.",
+      "El paso histórico de las tradicionales políticas de jurisdicción especial hacia las nuevas luchas por el desescalamiento del inmenso narcotráfico.",
+      "El paso histórico de las tradicionales exigencias de desarrollo extractivista hacia las nuevas luchas por la implementación del plebiscito conservador."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una revisión jurídica de la Masacre de las Bananeras de 1928 expone que el Estado colombiano trató una legítima huelga laboral por condiciones dignas no como un conflicto social, sino estrictamente como un problema de orden público que debía aniquilarse militarmente.",
+      "pregunta": "Según la lectura, ¿qué efecto institucional paradójico y contraproducente generó esta brutal represión estatal frente a la clase obrera?"
+    },
+    "respuesta": "Cimentó una profunda desconfianza en las instituciones tradicionales, actuando inesperadamente como el gran catalizador para una mayor organización popular obrera.",
+    "ayuda": "La violenta respuesta del Estado no eliminó el movimiento, sino que generó profunda desconfianza e impulsó la creación de confederaciones estructuradas.",
+    "distractores": [
+      "Cimentó una profunda desconfianza en las circunscripciones especiales, actuando inesperadamente como el gran catalizador para una mayor representación política indígena.",
+      "Cimentó una profunda desconfianza en las economías de enclaves, actuando inesperadamente como el gran catalizador para una mayor movilización estudiantil universitaria.",
+      "Cimentó una profunda desconfianza en las agendas del progresismo, actuando inesperadamente como el gran catalizador para una mayor reacción conservadora nacional."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En un foro académico, un estudiante afirma que el Estado colombiano incluyó a la población afrodescendiente en la Constitución de 1991 por pura generosidad espontánea de los asambleístas, sin que existiera ningún tipo de movilización o exigencia previa de estas comunidades.",
+      "pregunta": "Basándose en la genealogía trazada en el texto, ¿qué evento histórico refuta categóricamente la errada afirmación de este joven estudiante?"
+    },
+    "respuesta": "La fundación previa del Movimiento Nacional Cimarrón impulsado en ochenta y dos, cuyas fuertes luchas exigieron protección territorial y reconocimiento.",
+    "ayuda": "Las demandas étnicas no fueron regalos estatales; nacieron de agrupaciones previas fundadas en 1982 inspiradas en derechos civiles estadounidenses.",
+    "distractores": [
+      "La fundación previa del Frente Nacional bipartidista impulsado en setenta y cinco, cuyas fuertes luchas exigieron protección territorial y reconocimiento.",
+      "La fundación previa del modelo extractivista petrolero impulsado en noventa y tres, cuyas fuertes luchas exigieron protección territorial y reconocimiento.",
+      "La fundación previa del grupo armado desmovilizado impulsado en noventa y uno, cuyas fuertes luchas exigieron protección territorial y reconocimiento."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un magistrado de la Corte Constitucional emite una sentencia señalando que la Carta Magna de 1991 es un documento excepcional a nivel mundial porque resolvió pacíficamente una profunda crisis de representación ciudadana y, al mismo tiempo, desarticuló enfrentamientos armados.",
+      "pregunta": "De acuerdo con el documento, ¿qué concepto resume la doble naturaleza excepcional que explica el profundo arraigo de nuestra Constitución?"
+    },
+    "respuesta": "Fue un acto revolucionario de inmensa soberanía popular y funcionó simultáneamente como un exitoso tratado de paz con guerrillas desmovilizadas.",
+    "ayuda": "La Carta Magna tuvo una doble legitimidad: invocó al poder constituyente primario (soberanía ciudadana) y facilitó la desmovilización del M-19.",
+    "distractores": [
+      "Fue un acto conservador de inmensa ideología de género y funcionó simultáneamente como un exitoso tratado de paz con guerrillas desmovilizadas.",
+      "Fue un acto legislativo de inmensa Jurisdicción Especial Indígena y funcionó simultáneamente como un exitoso tratado de paz con guerrillas desmovilizadas.",
+      "Fue un acto transitorio de inmensa propiedad colectiva negra y funcionó simultáneamente como un exitoso tratado de paz con guerrillas desmovilizadas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un abogado constitucionalista compara los derechos étnicos y nota una asimetría: mientras los resguardos indígenas obtuvieron su autonomía territorial de forma inmediata en 1991, los consejos comunitarios afrocolombianos tuvieron que esperar hasta la expedición de la Ley 70 en 1993.",
+      "pregunta": "¿Cómo explica el texto esta marcada desigualdad inicial en el reconocimiento jurídico de ambas poblaciones étnicas dentro del pacto social?"
+    },
+    "respuesta": "Los indígenas lograron una consagración detallada directa, mientras que los afrocolombianos dependieron estrictamente de un artículo transitorio para ser reconocidos.",
+    "ayuda": "Mientras los derechos indígenas quedaron detallados directamente en varios artículos, las comunidades negras, raizales y palenqueras dependieron del Artículo Transitorio 55.",
+    "distractores": [
+      "Los progresistas lograron una consagración detallada directa, mientras que los conservadores dependieron estrictamente de un artículo transitorio para ser reconocidos.",
+      "Los estudiantes lograron una consagración detallada directa, mientras que los trabajadores dependieron estrictamente de un artículo transitorio para ser reconocidos.",
+      "Los feministas lograron una consagración detallada directa, mientras que los ambientalistas dependieron estrictamente de un artículo transitorio para ser reconocidos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El titular de un periódico matutino informa: 'Organización no gubernamental radica acción de tutela de emergencia para frenar inmediatamente los pilotos de fracking petrolero, argumentando que la técnica amenaza con destruir los valiosos acuíferos subterráneos de toda la región'.",
+      "pregunta": "Según la lectura, ¿qué andamiaje jurídico exacto permite a los sectores ecologistas llevar sus históricas movilizaciones callejeras hacia las cortes?"
+    },
+    "respuesta": "El uso estratégico del amparo al medio ambiente sano para oponerse jurídicamente a proyectos extractivos que amenazan ecosistemas altamente estratégicos.",
+    "ayuda": "El movimiento ambientalista utiliza el derecho constitucional a un ambiente sano y mecanismos como la tutela para frenar modelos extractivistas.",
+    "distractores": [
+      "El uso estratégico del amparo al libre desarrollo personal para oponerse jurídicamente a proyectos extractivos que amenazan ecosistemas altamente estratégicos.",
+      "El uso estratégico del amparo al gobierno propio indígena para oponerse jurídicamente a proyectos extractivos que amenazan ecosistemas altamente estratégicos.",
+      "El uso estratégico del amparo al enfoque de género de paz para oponerse jurídicamente a proyectos extractivos que amenazan ecosistemas altamente estratégicos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Durante la campaña plebiscitaria del año 2016, un líder tradicional alarmó a miles de votantes asegurando que aprobar los textos del Acuerdo de Paz obligaría a las escuelas a corromper a los menores e impondría la inminente destrucción de las familias.",
+      "pregunta": "De acuerdo con el análisis sociopolítico del documento, ¿qué estrategia de manipulación discursiva aplicó la reacción conservadora en este caso?"
+    },
+    "respuesta": "Articuló inteligentemente un discurso alarmista sobre la ideología de género para enmarcar los grandes avances igualitarios como una imposición destructiva.",
+    "ayuda": "Los sectores conservadores usaron el término 'ideología de género' asociando el Acuerdo con la destrucción de la 'familia natural' para movilizar votos.",
+    "distractores": [
+      "Articuló inteligentemente un discurso alarmista sobre la séptima papeleta masiva para enmarcar los grandes avances igualitarios como una imposición destructiva.",
+      "Articuló inteligentemente un discurso alarmista sobre la salud reproductiva laica para enmarcar los grandes avances igualitarios como una imposición destructiva.",
+      "Articuló inteligentemente un discurso alarmista sobre la clase obrera combativa para enmarcar los grandes avances igualitarios como una imposición destructiva."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un colectivo conservador demanda al Ministerio de Educación para prohibir las cátedras de inclusión sexual. En lugar de citar argumentos abiertamente religiosos o morales, basan toda su demanda legal en 'la defensa innegociable del derecho de los padres a elegir la educación'.",
+      "pregunta": "¿Qué sofisticado fenómeno de disputa hegemónica postconstitucional ilustra perfectamente este cambio de táctica en los tribunales de la actual república?"
+    },
+    "respuesta": "Ilustra la clara constitucionalización del conflicto cultural, donde sectores tradicionalistas utilizan hábiles contrainterpretaciones de derechos fundamentales para camuflar su oposición.",
+    "ayuda": "Como atacar la Constitución es inviable, los conservadores disfrazan sus dogmas religiosos usando una contrainterpretación del lenguaje de los derechos fundamentales.",
+    "distractores": [
+      "Ilustra la clara desmovilización del conflicto armado, donde sectores guerrilleros utilizan hábiles contrainterpretaciones de derechos fundamentales para camuflar su oposición.",
+      "Ilustra la clara oficialización del conflicto lingüístico, donde sectores indígenas utilizan hábiles contrainterpretaciones de derechos fundamentales para camuflar su oposición.",
+      "Ilustra la clara legalización del conflicto extractivista, donde sectores petroleros utilizan hábiles contrainterpretaciones de derechos fundamentales para camuflar su oposición."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El Estado otorga múltiples licencias de megaminería a corporaciones multinacionales dentro de vastos territorios ancestrales afrocolombianos. Cuando las comunidades reclaman su derecho constitucional al gobierno propio, las empresas realizan rápidas reuniones informativas de dos horas y proceden a introducir sus retroexcavadoras.",
+      "pregunta": "Desde el enfoque crítico de las luchas socioambientales, ¿qué dinámica de poder corrompe la implementación real de este derecho étnico?"
+    },
+    "respuesta": "Revela que la consulta previa suele convertirse en un simple trámite burocrático cuando enfrenta los poderosos intereses económicos del modelo extractivista.",
+    "ayuda": "En los conflictos socioambientales, el modelo de desarrollo choca con los derechos territoriales, convirtiendo la consulta previa en un mero trámite.",
+    "distractores": [
+      "Revela que la circunscripción especial suele convertirse en un simple trámite burocrático cuando enfrenta los poderosos intereses económicos del modelo extractivista.",
+      "Revela que la educación incluyente suele convertirse en un simple trámite burocrático cuando enfrenta los poderosos intereses económicos del modelo extractivista.",
+      "Revela que la gran reforma agraria suele convertirse en un simple trámite burocrático cuando enfrenta los poderosos intereses económicos del modelo extractivista."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Diferentes organismos de derechos humanos internacionales publican informes alarmantes sobre el continuo, silencioso y sistemático asesinato de reclamantes de tierras, líderes indígenas y activistas medioambientales en los territorios más alejados y vulnerables de la actual geografía rural de nuestro país.",
+      "pregunta": "Según la dura conclusión del texto, ¿qué impacto estructural directo tiene esta persistente violencia letal sobre el proyecto estatal de 1991?"
+    },
+    "respuesta": "Socava drásticamente las frágiles bases de la gran democracia participativa y demuestra que la promesa de paz sigue siendo inalcanzada.",
+    "ayuda": "El asesinato sistemático socava las bases de la democracia participativa y evidencia que la justicia social sigue siendo una aspiración lejana.",
+    "distractores": [
+      "Socava drásticamente las frágiles bases de la gran economía de enclave y demuestra que la promesa de paz sigue siendo inalcanzada.",
+      "Socava drásticamente las frágiles bases de la gran crisis de legitimidad y demuestra que la promesa de paz sigue siendo inalcanzada.",
+      "Socava drásticamente las frágiles bases de la gran hegemonía conservadora y demuestra que la promesa de paz sigue siendo inalcanzada."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En una columna de opinión, un político veterano sostiene que la actual Carta Política de Colombia fue simplemente un generoso y bondadoso regalo de las élites intelectuales de 1990, quienes decidieron modernizar las caducas instituciones estatales por pura y filantrópica voluntad.",
+      "pregunta": "Basándose en la robusta genealogía histórica del documento, ¿por qué esta amable narrativa editorial es profundamente equivocada frente a la realidad?"
+    },
+    "respuesta": "Porque la Constitución jamás fue una gratuita dádiva gubernamental, sino la enorme conquista ciudadana forjada tras un siglo de arduas luchas.",
+    "ayuda": "El texto concluye enfáticamente que la Constitución no fue una dádiva (regalo), sino una conquista ciudadana impulsada por un siglo de luchas.",
+    "distractores": [
+      "Porque la Constitución jamás fue una gratuita dádiva gubernamental, sino la enorme masacre bananera forjada tras un siglo de arduas luchas.",
+      "Porque la Constitución jamás fue una gratuita dádiva gubernamental, sino la enorme crisis institucional forjada tras un siglo de arduas luchas.",
+      "Porque la Constitución jamás fue una gratuita dádiva gubernamental, sino la enorme economía petrolera forjada tras un siglo de arduas luchas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un alcalde distrital prohíbe arbitrariamente que los colectivos de la diversidad sexual utilicen el parque central para su manifestación anual del Orgullo. Inmediatamente, los activistas interponen demandas exigiendo protección urgente, recordando que el Estado no puede invisibilizar sus distintas formas de vida.",
+      "pregunta": "De acuerdo con el análisis del documento, ¿en qué pilares constitucionales fundamenta actualmente el movimiento LGBTIQ+ todas estas exigencias jurídicas públicas?"
+    },
+    "respuesta": "Su férrea lucha social está legalmente cimentada en la defensa del derecho a la igualdad y al libre desarrollo de la personalidad.",
+    "ayuda": "El movimiento LGBTIQ+ ancla sus luchas contemporáneas (matrimonio igualitario, identidad) en los derechos fundamentales a la igualdad y al libre desarrollo personal.",
+    "distractores": [
+      "Su férrea lucha social está legalmente cimentada en la defensa del derecho a la tierra y al sano desarrollo de la ruralidad.",
+      "Su férrea lucha social está legalmente cimentada en la defensa del derecho a la lengua y al propio desarrollo de la comunidad.",
+      "Su férrea lucha social está legalmente cimentada en la defensa del derecho a la vida y al buen desarrollo de la moralidad."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Antes de la década de 1930, cualquier manifestación de obreros era tratada exclusivamente con fusiles y represión policial. Sin embargo, durante el cuatrienio presidencial conocido como la Revolución en Marcha, el gobierno optó por permitir el sindicalismo y dialogar con los huelguistas.",
+      "pregunta": "Según la revisión histórica del texto, ¿qué profundo e inédito cambio de paradigma estatal representó la presidencia de Alfonso López Pumarejo?"
+    },
+    "respuesta": "El gobierno nacional reconoció explícitamente el profundo conflicto social como una legítima dinámica completamente inherente a nuestra propia sociedad capitalista moderna.",
+    "ayuda": "López Pumarejo fue el primero en reconocer la existencia del conflicto social como una dinámica inherente, permitiendo el fortalecimiento del movimiento obrero.",
+    "distractores": [
+      "El gobierno nacional reconoció explícitamente el profundo conflicto armado como una legítima dinámica completamente inherente a nuestra propia sociedad capitalista moderna.",
+      "El gobierno nacional reconoció explícitamente el profundo conflicto racial como una legítima dinámica completamente inherente a nuestra propia sociedad capitalista moderna.",
+      "El gobierno nacional reconoció explícitamente el profundo conflicto electoral como una legítima dinámica completamente inherente a nuestra propia sociedad capitalista moderna."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "A pesar de contar con herramientas jurídicas de avanzada mundial, como la Acción de Tutela y múltiples jurisdicciones especiales, el índice GINI muestra que Colombia sigue siendo una de las sociedades más profundamente desiguales y empobrecidas de toda la región hemisférica americana.",
+      "pregunta": "Frente a esta decepcionante paradoja sociopolítica, ¿cuál es el diagnóstico central que el documento plantea sobre el actual Estado Social de Derecho?"
+    },
+    "respuesta": "Que la implementación efectiva de los múltiples derechos consagrados escritos sigue siendo la gran e inmensa tarea pendiente del actual Estado.",
+    "ayuda": "A pesar de los enormes avances normativos y las garantías creadas, la gran tarea pendiente es cerrar la abismal brecha de implementación real.",
+    "distractores": [
+      "Que la implementación efectiva de los múltiples movimientos estudiantiles escritos sigue siendo la gran e inmensa tarea pendiente del actual Estado.",
+      "Que la implementación efectiva de los múltiples enfoques conservadores escritos sigue siendo la gran e inmensa tarea pendiente del actual Estado.",
+      "Que la implementación efectiva de los múltiples tratados comerciales escritos sigue siendo la gran e inmensa tarea pendiente del actual Estado."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Las redes sociales arden en discusiones sobre el aborto, el fracking y la eutanasia. En cada uno de estos acalorados y virales debates públicos, tanto los sectores de izquierda como los de derecha levantan pequeños libros de la Constitución de 1991 como si fuesen armas.",
+      "pregunta": "Basándose en el análisis final del texto, ¿qué innegable realidad contemporánea refleja el uso constante de la Carta Magna en estas acaloradas discusiones?"
+    },
+    "respuesta": "Demuestra que la polarización nacional es fundamentalmente una guerra de contrainterpretaciones, convirtiendo la carta magna en un disputado campo de batalla hegemónico.",
+    "ayuda": "La Constitución es el epicentro de la polarización actual; la lucha no es contra ella, sino por dominar su interpretación (batalla hegemónica).",
+    "distractores": [
+      "Demuestra que la polarización nacional es fundamentalmente una guerra de circunscripciones, convirtiendo la carta magna en un disputado campo de batalla hegemónico.",
+      "Demuestra que la polarización nacional es fundamentalmente una guerra de desmovilizaciones, convirtiendo la carta magna en un disputado campo de batalla hegemónico.",
+      "Demuestra que la polarización nacional es fundamentalmente una guerra de privatizaciones, convirtiendo la carta magna en un disputado campo de batalla hegemónico."
+    ]
+  }
+]
