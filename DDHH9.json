@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "Un tratado internacional de derechos humanos es ratificado por el Congreso. Algunos políticos argumentan que dicho tratado viola la soberanía nacional y sugieren que los jueces locales deberían ignorarlo por completo",
+      "pregunta": "Según el marco constitucional colombiano, ¿por qué el argumento de estos políticos resulta legalmente inválido"
+    },
+    "respuesta": "Porque la Carta Magna establece que los tratados internacionales sobre derechos humanos prevalecen nacionalmente, teniendo igual validez que el propio texto constitucional",
+    "ayuda": "El artículo 93 indica que los tratados internacionales de derechos humanos ratificados prevalecen y tienen igual validez que la Constitución",
+    "distractores": [
+      "Porque la Carta Magna establece que los derechos colectivos sobre espacios públicos prevalecen nacionalmente, teniendo igual validez que el propio texto constitucional",
+      "Porque la Carta Magna establece que los estados excepcionales sobre orden público prevalecen nacionalmente, teniendo igual validez que el propio texto constitucional",
+      "Porque la Carta Magna establece que los actos administrativos sobre entidades locales prevalecen nacionalmente, teniendo igual validez que el propio texto constitucional"
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Ante una grave alteración del orden público, el gobierno declara un estado de excepción. Para agilizar las capturas, un funcionario propone suspender temporalmente el derecho a la integridad personal de los sospechosos",
+      "pregunta": "De acuerdo con el documento, ¿por qué esta medida extrema propuesta por el funcionario es inconstitucional"
+    },
+    "respuesta": "Porque el artículo doscientos catorce prohíbe explícitamente suspender cualquier derecho humano o libertad fundamental incluso durante los peores estados de excepción declarados",
+    "ayuda": "El artículo 214 de la Constitución afirma que ni siquiera en casos de estado de excepción se pueden suspender los derechos humanos",
+    "distractores": [
+      "Porque el artículo doscientos catorce prohíbe explícitamente aprobar cualquier tratado internacional o convenio comercial incluso durante los peores estados de excepción declarados",
+      "Porque el artículo doscientos catorce prohíbe explícitamente promover cualquier acción popular o demanda colectiva incluso durante los peores estados de excepción declarados",
+      "Porque el artículo doscientos catorce prohíbe explícitamente financiar cualquier gasto público o programa social incluso durante los peores estados de excepción declarados"
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una fábrica contamina gravemente un río, afectando la salud y la economía de cien familias aledañas. Estas familias deciden unirse jurídicamente para exigir que la empresa les pague por los perjuicios sufridos",
+      "pregunta": "Si las familias buscan recibir una compensación económica directa por este daño, ¿qué mecanismo deben utilizar"
+    },
+    "respuesta": "Deben emplear la acción de grupo, diseñada específicamente para que personas afectadas por una misma causa soliciten una indemnización económica al juez",
+    "ayuda": "La acción de grupo es el recurso utilizado cuando varias personas sufren daños por la misma causa y buscan una indemnización económica",
+    "distractores": [
+      "Deben emplear la acción de tutela, diseñada específicamente para que personas afectadas por una misma causa soliciten una indemnización económica al juez",
+      "Deben emplear la acción popular, diseñada específicamente para que personas afectadas por una misma causa soliciten una indemnización económica al juez",
+      "Deben emplear la acción de cumplimiento, diseñada específicamente para que personas afectadas por una misma causa soliciten una indemnización económica al juez"
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un alcalde enfrenta un dilema presupuestal: pavimentar la vía principal para beneficiar a los comerciantes o construir un centro de salud y educación destinado exclusivamente para la primera infancia del municipio",
+      "pregunta": "Según el Capítulo II de la Constitución, ¿qué principio rector debe guiar la decisión de este alcalde"
+    },
+    "respuesta": "Priorizar el centro infantil, ya que la Constitución establece explícitamente que los derechos de los niños prevalecen sobre todos los demás derechos",
+    "ayuda": "El artículo 44 consagra que los derechos de los niños prevalecen sobre los derechos de los demás ciudadanos, priorizando su bienestar",
+    "distractores": [
+      "Priorizar la vía principal, ya que la Constitución establece explícitamente que los derechos de los comerciantes prevalecen sobre todos los demás derechos",
+      "Priorizar el centro infantil, ya que la Constitución establece explícitamente que los derechos de los alcaldes prevalecen sobre todos los demás derechos",
+      "Priorizar la vía principal, ya que la Constitución establece explícitamente que los derechos de los adultos prevalecen sobre todos los demás derechos"
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un ciudadano es retenido por la policía sin una orden judicial y permanece encerrado en una estación durante varios días, sin que se evalúe legalmente si existen méritos válidos para su encierro",
+      "pregunta": "Frente a esta aparente arbitrariedad, ¿qué mecanismo constitucional debe invocar el detenido para proteger su libertad"
+    },
+    "respuesta": "Debe interponer un habeas corpus, derecho que exige presentar al detenido inmediatamente ante un juez para decidir su respectiva liberación legal",
+    "ayuda": "El habeas corpus es el derecho de todo detenido a ser presentado de forma inmediata ante un juez para verificar su detención",
+    "distractores": [
+      "Debe interponer un habeas data, derecho que exige presentar al detenido inmediatamente ante un juez para decidir su respectiva liberación legal",
+      "Debe interponer un recurso popular, derecho que exige presentar al detenido inmediatamente ante un juez para decidir su respectiva liberación legal",
+      "Debe interponer un amparo laboral, derecho que exige presentar al detenido inmediatamente ante un juez para decidir su respectiva liberación legal"
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "A una joven le niegan un crédito universitario alegando que tiene deudas millonarias. Ella investiga y descubre que el banco la confundió con otra persona que comparte su mismo nombre en el sistema",
+      "pregunta": "Para obligar al banco a corregir este error en sus archivos, ¿qué recurso de protección debe utilizar"
+    },
+    "respuesta": "El mecanismo de habeas data, porque permite a toda persona conocer, actualizar y rectificar información almacenada en cualquier banco de datos",
+    "ayuda": "El habeas data es el recurso que te permite actualizar y rectificar información errónea sobre ti en bases de datos e instituciones",
+    "distractores": [
+      "El mecanismo de habeas corpus, porque permite a toda persona conocer, actualizar y rectificar información almacenada en cualquier banco de datos",
+      "El mecanismo de acción popular, porque permite a toda persona conocer, actualizar y rectificar información almacenada en cualquier banco de datos",
+      "El mecanismo de acción grupal, porque permite a toda persona conocer, actualizar y rectificar información almacenada en cualquier banco de datos"
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El Concejo aprueba una ordenanza local obligando a la alcaldía a destinar un terreno para construir un parque recreativo. Tras dos años de espera, la administración sigue negándose a iniciar la respectiva obra",
+      "pregunta": "¿Qué herramienta permite a la comunidad obligar al funcionario a ejecutar este acto administrativo que está ignorando"
+    },
+    "respuesta": "Radicando una acción de cumplimiento, mecanismo creado específicamente para exigir ante un juez que los funcionarios acaten sus deberes legales vigentes",
+    "ayuda": "La acción de cumplimiento permite acudir a un juez para exigir que un funcionario público cumpla con una ley o acto administrativo",
+    "distractores": [
+      "Radicando una acción de tutela, mecanismo creado específicamente para exigir ante un juez que los funcionarios acaten sus deberes legales vigentes",
+      "Radicando una acción de inconstitucionalidad, mecanismo creado específicamente para exigir ante un juez que los funcionarios acaten sus deberes legales vigentes",
+      "Radicando una acción de grupo, mecanismo creado específicamente para exigir ante un juez que los funcionarios acaten sus deberes legales vigentes"
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Las comunidades de una región apartada solicitan una institución estatal que acuda a sus territorios para educarlos pedagógicamente, promocionar sus garantías ciudadanas y recibir las primeras denuncias sobre posibles abusos de autoridad",
+      "pregunta": "Según las competencias constitucionales, ¿qué entidad tiene como misión principal cumplir estas labores comunitarias y preventivas"
+    },
+    "respuesta": "La Defensoría del Pueblo, porque su función central consiste en promocionar, divulgar e investigar las diversas violaciones a los derechos humanos",
+    "ayuda": "La Defensoría del Pueblo tiene la tarea específica de promocionar y divulgar los derechos humanos, así como atender sus violaciones",
+    "distractores": [
+      "La Corte Constitucional, porque su función central consiste en promocionar, divulgar e investigar las diversas violaciones a los derechos humanos",
+      "La Procuraduría General, porque su función central consiste en promocionar, divulgar e investigar las diversas violaciones a los derechos humanos",
+      "La Policía Nacional, porque su función central consiste en promocionar, divulgar e investigar las diversas violaciones a los derechos humanos"
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un experto en ciencias políticas explica que el pacto social de 1991 representó un verdadero quiebre histórico, ya que el Estado dejó de centrarse únicamente en la burocracia para enfocarse en el ciudadano",
+      "pregunta": "De acuerdo con el documento, ¿qué principio rector sirvió como base estructural para la existencia de esta Constitución"
+    },
+    "respuesta": "El profundo respeto de la dignidad humana, logrando que el Estado asumiera como propósito principal garantizar la completa efectividad de estos derechos",
+    "ayuda": "La nueva Carta Política se fundó en el respeto de la dignidad humana, que es la base fundamental de los derechos humanos",
+    "distractores": [
+      "El profundo respeto de la soberanía nacional, logrando que el Estado asumiera como propósito principal garantizar la completa efectividad de estos derechos",
+      "El profundo respeto de la libre economía, logrando que el Estado asumiera como propósito principal garantizar la completa efectividad de estos derechos",
+      "El profundo respeto de la fuerza pública, logrando que el Estado asumiera como propósito principal garantizar la completa efectividad de estos derechos"
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un juez analiza una tutela que exige garantizar el acceso al agua potable. Aunque la contraparte argumenta que este derecho no figura textualmente en el primer capítulo constitucional, el juez ordena protegerlo inmediatamente",
+      "pregunta": "Según la interpretación de la ley, ¿qué artículo respalda la decisión de proteger derechos no escritos textualmente"
+    },
+    "respuesta": "El artículo noventa y cuatro, aclarando que no pueden negarse derechos inherentes a la dignidad humana aunque no estén explícitamente escritos",
+    "ayuda": "El artículo 94 amplía la protección estableciendo que existen derechos inherentes a la dignidad que se protegen aunque no estén explícitos",
+    "distractores": [
+      "El artículo cuarenta y cuatro, aclarando que no pueden negarse derechos inherentes a la dignidad humana aunque no estén explícitamente escritos",
+      "El artículo setenta y siete, aclarando que no pueden negarse derechos inherentes a la dignidad humana aunque no estén explícitamente escritos",
+      "El artículo ochenta y dos, aclarando que no pueden negarse derechos inherentes a la dignidad humana aunque no estén explícitamente escritos"
+    ]
+  }
+]
