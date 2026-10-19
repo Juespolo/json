@@ -1,0 +1,132 @@
+[
+  {
+    "pregunta": {
+      "contexto": "Un ministerio analiza el desempleo total del país, mientras una panadería de barrio en Medellín evalúa cuántos panaderos contratar y cuánta harina comprar ante el aumento en el precio del trigo.",
+      "pregunta": "Según los fundamentos teóricos del documento, ¿por qué las decisiones de la panadería corresponden estrictamente al estudio de la microeconomía?"
+    },
+    "respuesta": "Porque analiza cómo una unidad económica individual asigna internamente sus recursos productivos y responde frente a variaciones en los precios.",
+    "ayuda": "Diferencia las escalas económicas: la microeconomía se centra en el comportamiento y las decisiones internas de unidades individuales (empresas, familias, trabajadores).",
+    "distractores": [
+      "Porque analiza cómo una entidad financiera nacional controla globalmente sus fondos monetarios y responde frente a variaciones en los bancos.",
+      "Porque analiza cómo una política pública estatal elimina legalmente sus barreras comerciales y responde frente a variaciones en los mercados.",
+      "Porque analiza cómo una industria oligopólica mundial manipula libremente sus bienes sustitutos y responde frente a variaciones en los consumidores."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un campesino en Boyacá negocia cara a cara el valor de la papa en la plaza, mientras un inversionista en Bogotá compra acciones en la Bolsa de Valores de Colombia mediante una plataforma digital sin conocer al vendedor.",
+      "pregunta": "A pesar de que un mercado es personal y el otro impersonal, ¿qué elemento resulta indispensable en ambos para tomar decisiones racionales?"
+    },
+    "respuesta": "El flujo de información confiable, pues permite conocer qué mercancías se demandan, en qué cantidades exactas y a qué precios.",
+    "ayuda": "Identifica el factor que conecta a compradores y vendedores en cualquier nivel de mercado para decidir qué, cuánto y a qué costo transar.",
+    "distractores": [
+      "El contacto de carácter presencial, pues permite acordar qué mercancías se exportan, en qué ciudades exactas y a qué costos.",
+      "El control de origen monopólico, pues permite imponer qué mercancías se producen, en qué fábricas exactas y a qué tarifas.",
+      "El préstamo de capital extranjero, pues permite financiar qué mercancías se importan, en qué aduanas exactas y a qué intereses."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una empresa textil antioqueña solicita un crédito bancario a diez años para comprar maquinaria, contrata a cincuenta operarios de confección y finalmente vende sus camisas terminadas a las familias en los centros comerciales.",
+      "pregunta": "Según la clasificación de la economía de mercado, ¿en qué orden exacto participó esta empresa dentro de los distintos mercados?"
+    },
+    "respuesta": "Primero acudió al mercado de capitales, luego participó en el mercado de trabajo y finalizó en el mercado de productos.",
+    "ayuda": "Relaciona cada transacción con su mercado: los fondos a largo plazo pertenecen al de capitales, la mano de obra al de trabajo y los bienes finales al de productos.",
+    "distractores": [
+      "Primero acudió al mercado de productos, luego participó en el mercado de capitales y finalizó en el mercado de trabajo.",
+      "Primero acudió al mercado de trabajo, luego participó en el mercado de productos y finalizó en el mercado de capitales.",
+      "Primero acudió al mercado de capitales, luego participó en el mercado de productos y finalizó en el mercado de trabajo."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un recién graduado acude a una entrevista en una empresa constructora buscando empleo. En una charla familiar, el joven afirma: 'Yo represento la demanda de trabajo y la constructora representa la oferta de trabajo'.",
+      "pregunta": "Desde la rigurosidad conceptual de la microeconomía expuesta en el texto, ¿por qué la afirmación del joven es técnicamente incorrecta?"
+    },
+    "respuesta": "Porque en el mercado laboral el trabajador es quien ofrece su mano de obra mientras la empresa demanda ese servicio.",
+    "ayuda": "Evita la confusión cotidiana: en los factores de producción, las personas ofrecen su fuerza laboral y las empresas son las que demandan trabajadores.",
+    "distractores": [
+      "Porque en el mercado laboral el trabajador es quien financia su puesto de trabajo mientras la empresa exporta ese servicio.",
+      "Porque en el mercado laboral el consumidor es quien impone su nivel de salario mientras la empresa acepta ese servicio.",
+      "Porque en el mercado laboral el gobierno es quien regula su bolsa de valores mientras la empresa compra ese servicio."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En una feria agrícola participan miles de pequeños cultivadores de maíz y miles de compradores. Uno de los agricultores decide subir el precio de su bulto de maíz un veinte por ciento por encima del resto, pero al finalizar el día no logra vender ni un solo grano.",
+      "pregunta": "Según el modelo de competencia perfecta, ¿por qué fracasó el intento de este agricultor por aumentar unilateralmente el precio?"
+    },
+    "respuesta": "Porque su aporte individual al mercado total es tan insignificante que todos los participantes actúan únicamente como tomadores de precios.",
+    "ayuda": "En un mercado con infinitos oferentes y sin barreras, ningún productor individual tiene el peso suficiente para alterar el precio general.",
+    "distractores": [
+      "Porque su aporte individual al mercado total es tan determinante que todos los participantes actúan únicamente como formadores de precios.",
+      "Porque su barrera tecnológica al mercado total es tan restrictiva que todos los comerciantes actúan únicamente como monopolistas de precios.",
+      "Porque su inversión financiera al mercado total es tan mayoritaria que todos los consumidores actúan únicamente como oligopolistas de precios."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una única empresa posee la concesión legal exclusiva para suministrar agua potable por acueducto en una ciudad. Cuando la empresa incrementa las tarifas injustificadamente, los ciudadanos protestan porque no pueden cambiar de proveedor ni reemplazar el agua por otro producto.",
+      "pregunta": "De acuerdo con las características de la competencia imperfecta, ¿qué factores le otorgan a esta empresa el poder de ser un 'formador de precios'?"
+    },
+    "respuesta": "La ausencia total de bienes sustitutos cercanos junto con la existencia de fuertes barreras legales para los nuevos competidores.",
+    "ayuda": "El monopolista controla el precio porque ofrece la única alternativa disponible y existen obstáculos que impiden la entrada de rivales.",
+    "distractores": [
+      "La presencia masiva de bienes sustitutos idénticos junto con la eliminación de fuertes barreras legales para los nuevos competidores.",
+      "La reducción constante de costos operativos internos junto con la apertura de libres fronteras comerciales para los nuevos competidores.",
+      "La división equitativa de cuotas productivas iguales junto con la creación de amplias alianzas gremiales para los nuevos competidores."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En el sector de la construcción en Colombia, tres grandes compañías controlan la producción de cemento (un producto físicamente idéntico entre marcas), mientras que en los supermercados cuatro grandes empresas dominan la venta de detergentes (diferenciados por aromas y empaques).",
+      "pregunta": "Según el análisis del texto, ¿por qué ambos sectores se clasifican como oligopolios a pesar de la diferencia en las características de sus productos?"
+    },
+    "respuesta": "Porque en ambos casos un grupo pequeño de productores concentra el poder para manipular precios y cantidades del mercado.",
+    "ayuda": "El oligopolio puede ofrecer bienes idénticos o diferenciados; lo que lo define es que un grupo reducido de empresas domina la oferta total.",
+    "distractores": [
+      "Porque en ambos casos un número infinito de productores comparte el poder para aceptar precios y cantidades del mercado.",
+      "Porque en ambos casos un comprador exclusivo de productos acaparará el poder para reducir precios y cantidades del mercado.",
+      "Porque en ambos casos un monopolio estatal de servicios cede el poder para liberar precios y cantidades del mercado."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un grupo de jóvenes ingenieros químicos diseña una fórmula innovadora de cereales nutritivos para el desayuno. Sin embargo, al intentar competir contra las tres grandes multinacionales que dominan las estanterías del país, quiebran a los pocos meses sin lograr posicionarse.",
+      "pregunta": "De acuerdo con el documento, ¿cuál es la barrera de entrada más común que impide a nuevos emprendedores sobrevivir dentro de un mercado oligopólico?"
+    },
+    "respuesta": "La enorme cantidad de dinero necesaria para ingresar a competir contra productores poderosos sin ser eliminado tempranamente del sector.",
+    "ayuda": "Evalúa las barreras de entrada del oligopolio: enfrentar a gigantes establecidos exige un capital financiero inmenso para sostenerse en el mercado.",
+    "distractores": [
+      "La absoluta prohibición de carácter constitucional para ingresar a competir contra monopolios estatales sin ser sancionado penalmente del sector.",
+      "La completa inexistencia de clientes interesados para ingresar a competir contra compradores únicos sin ser excluido comercialmente del sector.",
+      "La estricta obligación de contacto personal para ingresar a competir contra vendedores locales sin ser rechazado socialmente del sector."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En un municipio lechero alejado de las grandes ciudades y con malas vías de acceso, cientos de pequeños campesinos solo pueden vender su leche fresca a una única planta procesadora de lácteos ubicada en la zona, la cual les impone precios muy bajos.",
+      "pregunta": "Analizando el poder del mercado desde la perspectiva de los compradores, ¿qué fenómeno microeconómico explica la desventaja que sufren estos campesinos?"
+    },
+    "respuesta": "Un monopsonio, donde un único comprador controla el mercado obligando a los productores a aceptar exigencias de bajos precios.",
+    "ayuda": "Cuidado con invertir los conceptos: cuando existen muchos vendedores pero un único comprador que impone las condiciones, hablamos de monopsonio.",
+    "distractores": [
+      "Un monopolio, donde un único productor controla el mercado obligando a los consumidores a aceptar exigencias de altos precios.",
+      "Un oligopolio, donde un pequeño sindicato controla el mercado obligando a los empresarios a aceptar exigencias de altos salarios.",
+      "Un mercado, donde un grupo infinito controla el comercio obligando a los vendedores a aceptar exigencias de libres tarifas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Miles de pequeños caficultores independientes cosechan grano de alta calidad, pero al momento de comercializarlo a nivel nacional, descubren que solo existen tres grandes cadenas comercializadoras que compran la totalidad de la cosecha del país, fijando tarifas mínimas de compra.",
+      "pregunta": "Según el análisis del poder del mercado referido al consumidor, ¿qué estructura se configura aquí y qué consecuencia genera sobre los productores?"
+    },
+    "respuesta": "Se configura un oligopsonio, concentrando los beneficios en pocos compradores mientras los productores no reciben un precio razonable.",
+    "ayuda": "Analiza el poder desde la demanda: cuando un grupo pequeño de compradores domina la adquisición de un bien, se denomina oligopsonio.",
+    "distractores": [
+      "Se configura un oligopolio, concentrando los beneficios en pocos vendedores mientras los consumidores no reciben un producto diferenciado.",
+      "Se configura un monopsonio, concentrando los beneficios en muchos campesinos mientras los intermediarios no reciben un margen rentable.",
+      "Se configura un monopolio, concentrando los beneficios en varios mercados mientras los trabajadores no reciben un salario equitativo."
+    ]
+  }
+]
