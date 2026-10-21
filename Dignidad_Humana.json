@@ -1,0 +1,197 @@
+[
+  {
+    "pregunta": {
+      "contexto": "En una clase sobre la Constitución de 1991, un estudiante comenta que el concepto de dignidad humana parece demasiado abstracto y difícil de identificar en las situaciones diarias de las personas.",
+      "pregunta": "Según el documento, ¿cómo resolvió la Corte Constitucional esta dificultad mediante la Sentencia T-881 del año 2002?"
+    },
+    "respuesta": "Definió tres dimensiones concretas que permiten identificar claramente cómo se realiza la dignidad en la realidad del individuo.",
+    "ayuda": "Comprensión lectora: recuerda cómo la jurisprudencia constitucional tradujo un principio abstracto en tres ámbitos verificables de la vida cotidiana.",
+    "distractores": [
+      "Creó cinco sistemas internacionales que permiten vigilar claramente cómo se castiga la discriminación en la legislación del país.",
+      "Aprobó varios tratados universales que permiten exigir claramente cómo se financia la educación en la jurisdicción del municipio.",
+      "Eliminó todas aquellas leyes que permiten limitar claramente cómo se ejerce la libertad en la intimidad del hogar."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En un corregimiento apartado del departamento del Chocó, las familias respetan mutuamente sus creencias religiosas y nadie sufre discriminación étnica, pero carecen de alcantarillado, agua potable, puesto de salud y colegio secundario.",
+      "pregunta": "A partir de las dimensiones definidas por la Corte Constitucional, ¿qué aspecto de la dignidad humana está siendo vulnerado?"
+    },
+    "respuesta": "La dimensión de vivir bien, porque faltan las condiciones materiales mínimas como servicios públicos básicos, salud y educación secundaria.",
+    "ayuda": "Pensamiento social: identifica cuál de las tres dimensiones de la Sentencia T-881 exige garantizar circunstancias materiales concretas de existencia.",
+    "distractores": [
+      "La dimensión de vivir libre, porque faltan las garantías jurídicas mínimas como elegir oficio propio, culto y circulación nacional.",
+      "La dimensión de vivir tranquilo, porque faltan las normas sociales mínimas como evitar todo señalamiento, estigma y violencia moral.",
+      "La dimensión de vivir protegido, porque faltan las misiones internacionales mínimas como juzgar cada delito, amenaza y omisión estatal."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una empresa agrícola ofrece excelentes salarios y vivienda digna a sus trabajadores, pero en el contrato les prohíbe cambiar de religión, salir del municipio los fines de semana o decidir no tener hijos.",
+      "pregunta": "¿Cuál dimensión de la dignidad humana resulta transgredida por las cláusulas de este contrato laboral?"
+    },
+    "respuesta": "Vivir como se quiere, pues restringe la autonomía del sujeto para diseñar libremente su propio plan vital de existencia.",
+    "ayuda": "Relaciona el libre desarrollo de la personalidad, la libertad de culto, circulación y conformación familiar con la autonomía individual.",
+    "distractores": [
+      "Vivir sin humillaciones, pues restringe la integridad del sujeto para proteger físicamente su propio cuerpo frente a agresiones externas.",
+      "Vivir bien materialmente, pues restringe la capacidad del sujeto para acceder dignamente a su propio servicio básico de salud.",
+      "Vivir bajo protección, pues restringe la facultad del sujeto para acudir legalmente a su propio comité departamental de derechos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un estudiante de noveno grado cuenta con todos los recursos educativos en su colegio y eligió voluntariamente su modalidad técnica, pero recibe constantes burlas y rechazos de sus compañeros debido a su origen étnico y su orientación sexual.",
+      "pregunta": "De acuerdo con la jurisprudencia constitucional, ¿por qué se afirma que en este caso escolar se vulnera la dignidad humana?"
+    },
+    "respuesta": "Porque se incumple la dimensión de vivir sin humillaciones, la cual protege la integridad física y moral contra toda estigmatización.",
+    "ayuda": "Analiza la tercera dimensión: ninguna persona debe ser señalada, discriminada ni violentada por su etnia, origen o identidad de género.",
+    "distractores": [
+      "Porque se incumple la dimensión de diseñar un plan vital, la cual protege la libertad profesional y religiosa sin restricciones.",
+      "Porque se incumple la dimensión de vivir con bienestar material, la cual protege la prestación educativa y médica sin interrupciones.",
+      "Porque se incumple la dimensión de acudir al sistema universal, la cual protege la cooperación diplomática y militar sin fronteras."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En un debate ciudadano, un funcionario municipal asegura que la alcaldía no tiene ninguna responsabilidad por la desnutrición infantil en una vereda, argumentando que ningún empleado público les ha quitado la comida a esas familias.",
+      "pregunta": "Según el apartado sobre las obligaciones estatales del documento, ¿por qué el argumento del funcionario desconoce la responsabilidad del Estado?"
+    },
+    "respuesta": "Porque el Estado es sujeto obligado y resulta responsable tanto cuando ejerce acciones dañinas como cuando omite garantizar los derechos.",
+    "ayuda": "Comprensión lectora: el Estado se convierte en el mayor vulnerador de derechos no solo por acción directa, sino también por omisión.",
+    "distractores": [
+      "Porque el Estado es sujeto pasivo y resulta responsable únicamente cuando firma tratados internacionales como cuando reforma todas las leyes.",
+      "Porque el municipio es órgano autónomo y resulta responsable solamente cuando existen denuncias penales como cuando intervienen los jueces extranjeros.",
+      "Porque el ciudadano es sujeto obligado y resulta responsable tanto cuando reclama servicios básicos como cuando exige construir los hospitales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El propietario de una discoteca instala parlantes gigantescos frente a un hospital y afirma que ninguna autoridad puede impedirle trabajar así, pues como Sujeto de Derechos la Constitución protege su libertad de oficio y el libre desarrollo de su personalidad.",
+      "pregunta": "A partir de la definición de los Sujetos de Derechos, ¿qué límite fundamental está ignorando el dueño del establecimiento comercial?"
+    },
+    "respuesta": "Ignora que poseer derechos humanos implica simultáneamente el deber ciudadano de no causar daño a los derechos de otros.",
+    "ayuda": "Análisis de perspectivas: todo individuo goza de derechos por su dignidad, pero adquiere el deber recíproco de respetar los derechos ajenos.",
+    "distractores": [
+      "Ignora que ejercer oficios libres implica simultáneamente el deber tributario de no pedir apoyo a los sistemas de salud.",
+      "Ignora que diseñar planes vitales implica simultáneamente el deber comercial de no abrir negocios en los municipios de provincia.",
+      "Ignora que disfrutar bienes materiales implica simultáneamente el deber constitucional de no presentar quejas a los jueces de tutela."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Para investigar la dimensión de 'vivir sin humillaciones' en su colegio, un grupo de estudiantes de noveno propone la siguiente pregunta de investigación: '¿Por qué los jóvenes provenientes de zonas rurales son más intolerantes y conflictivos que los jóvenes nacidos en la ciudad?'.",
+      "pregunta": "Desde la metodología de investigación en ciencias sociales, ¿cuál es el error principal en la formulación de esta pregunta?"
+    },
+    "respuesta": "Contiene un sesgo de valor discriminatorio al asumir previamente que los estudiantes rurales son más intolerantes que los urbanos.",
+    "ayuda": "Investigación social: una pregunta científica no debe partir de prejuicios ni estigmatizar de antemano a un grupo por su lugar de origen.",
+    "distractores": [
+      "Carece de un marco de derecho internacional al omitir previamente que los tratados son más antiguos que las leyes.",
+      "Presenta un exceso de rigor estadístico al exigir previamente que los personeros municipales sean más consultados que los comisarios.",
+      "Impone un modelo de estudio económico al suponer previamente que los servicios básicos son más costosos que los privados."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un equipo de investigadores sociales busca responder la siguiente pregunta en un municipio de Cundinamarca: '¿De qué manera la falta de acceso al servicio de agua potable afecta la permanencia en la educación secundaria de los jóvenes rurales?'.",
+      "pregunta": "¿Cuál de los siguientes objetivos de investigación guarda coherencia metodológica con la pregunta formulada por el equipo?"
+    },
+    "respuesta": "Analizar la relación existente entre la carencia de acueducto veredal y la deserción escolar en los colegios secundarios rurales.",
+    "ayuda": "Diferencia entre un objetivo de investigación (comprender o analizar la relación entre variables) y una obra de intervención pública inmediata.",
+    "distractores": [
+      "Construir una red de acueducto comunitario entre la alcaldía municipal y las empresas privadas para los colegios secundarios rurales.",
+      "Sancionar la discriminación racial ejercida por la junta de acción comunal contra los docentes en los colegios secundarios rurales.",
+      "Comparar la inversión nacional en salud pública de cinco países suramericanos frente al presupuesto de los colegios secundarios rurales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En un municipio de Boyacá, una madre de familia descubre que su hijo sufre maltrato intrafamiliar y además el hospital local le niega injustificadamente las vacunas básicas. Ella necesita acudir de inmediato a las autoridades ubicadas dentro de su propio municipio.",
+      "pregunta": "Según los niveles de protección descritos en el documento, ¿a qué instancias del Sistema Municipal debe acudir esta ciudadana?"
+    },
+    "respuesta": "Puede acudir directamente ante la Comisaría de Familia y la Personería Municipal para exigir la protección de sus derechos.",
+    "ayuda": "Pensamiento social: ubica las dos instituciones específicas que operan en la escala municipal para atender vulneraciones familiares y locales.",
+    "distractores": [
+      "Puede acudir directamente ante la Corte de Justicia y la Comisión Interamericana para exigir la protección de sus derechos.",
+      "Puede acudir directamente ante el Alto Comisionado y la Misión de Paz para exigir la protección de sus derechos.",
+      "Puede acudir directamente ante el Comité de Derechos y la Gobernación Departamental para exigir la protección de sus derechos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un líder comunitario que denuncia la contaminación de un río recibe graves amenazas contra su vida y requiere esquemas de seguridad urgentes, además de solicitar que se investigue penalmente a los autores de las intimidaciones en el país.",
+      "pregunta": "Dentro del Sistema Nacional de Derechos Humanos, ¿qué entidades tienen la competencia para atender estas necesidades de seguridad e investigación?"
+    },
+    "respuesta": "La Unidad Nacional de Protección junto con la Fiscalía y la Defensoría del Pueblo según sus respectivas funciones legales.",
+    "ayuda": "Identifica las instituciones de orden nacional encargadas por la Constitución y la ley para investigar delitos y brindar protección física.",
+    "distractores": [
+      "La Organización de Estados Americanos junto con la Comisión y la Corte de Derechos según sus respectivas funciones continentales.",
+      "La Oficina del Alto Comisionado junto con la Asamblea y la Misión de Paz según sus respectivas funciones universales.",
+      "La Comisaría de Familia Municipal junto con la Personería y la Inspección de Policía según sus respectivas funciones barriales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una organización de víctimas en Colombia, tras agotar sin éxito todos los tribunales internos, decide llevar su denuncia ante los órganos de la Organización de Estados Americanos (OEA) fundamentándose en la Convención Americana sobre Derechos Humanos de 1969.",
+      "pregunta": "De acuerdo con la estructura descrita en el texto, ¿a qué sistema internacional están acudiendo y qué órganos lo integran?"
+    },
+    "respuesta": "Acuden al Sistema Interamericano de Derechos Humanos, el cual está compuesto oficialmente por la Comisión y la Corte Interamericana.",
+    "ayuda": "No confundas el Sistema Universal (ONU) con el Sistema Interamericano (OEA), el cual se basa en la Convención Americana de 1969.",
+    "distractores": [
+      "Acuden al Sistema Universal de Derechos Humanos, el cual está compuesto oficialmente por la Fiscalía y la Defensoría Nacional.",
+      "Acuden al Sistema Departamental de Derechos Humanos, el cual está compuesto oficialmente por la Personería y la Comisaría Municipal.",
+      "Acuden al Sistema Nacional de Derechos Humanos, el cual está compuesto oficialmente por la Procuraduría y la Misión Internacional."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un estudio sociológico realizado en una ciudad intermedia reveló que el 95 % de sus habitantes cuenta con servicios públicos completos, atención médica y colegios secundarios gratuitos; sin embargo, el 70 % de los encuestados afirmó sentir que su dignidad humana es vulnerada diariamente.",
+      "pregunta": "Articulando los hallazgos del estudio con la Sentencia T-881 de 2002, ¿qué hipótesis explica de forma coherente esta paradoja?"
+    },
+    "respuesta": "Aunque la población satisface la dimensión de vivir bien, padece graves vulneraciones en su autonomía personal o sufre humillaciones constantes.",
+    "ayuda": "Pensamiento sistémico: la dignidad humana requiere la realización integral de sus tres dimensiones; el bienestar material por sí solo no basta.",
+    "distractores": [
+      "Aunque la población desconoce la dimensión de vivir bien, rechaza recibir ayudas en su educación básica o prefiere servicios privados.",
+      "Aunque la alcaldía garantiza la dimensión de vivir libre, omite construir hospitales en su jurisdicción local o suspende colegios públicos.",
+      "Aunque la ciudadanía cumple la dimensión de vivir sin humillaciones, exige eliminar impuestos en su municipio o cerrar comisarías familiares."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El Comité Departamental de Derechos Humanos realizó una investigación en veinte colegios y descubrió que las agresiones verbales por color de piel e identidad de género ocurren porque los estudiantes desconocen que la integridad moral hace parte de la dignidad humana.",
+      "pregunta": "A partir de los resultados obtenidos en esta investigación, ¿cuál es el uso práctico más pertinente para las instituciones educativas?"
+    },
+    "respuesta": "Implementar programas pedagógicos escolares sobre la dimensión de vivir sin humillaciones para prevenir la estigmatización y la violencia moral.",
+    "ayuda": "Uso de resultados de investigación: si la causa del problema es el desconocimiento conceptual, la medida coherente debe ser formativa y preventiva.",
+    "distractores": [
+      "Expulsar inmediatamente a los estudiantes que desconozcan la sentencia constitucional para erradicar definitivamente la estigmatización y la violencia moral.",
+      "Construir nuevas plantas de tratamiento sobre la dimensión de vivir bien para mejorar la infraestructura y la higiene escolar.",
+      "Solicitar misiones de paz internacionales sobre la dimensión de vivir libre para vigilar la convivencia y la disciplina estudiantil."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El artículo primero de la Constitución Política de 1991 define a Colombia como un Estado Social de Derecho, lo cual significa que la nación fundamenta todo su ordenamiento jurídico en los derechos humanos consagrados en la ley.",
+      "pregunta": "Dentro de esta estructura constitucional descrita en el texto, ¿qué función cumple exactamente el principio de la dignidad humana?"
+    },
+    "respuesta": "Funciona como el medidor fundamental para garantizar los derechos humanos, pues toda persona goza de ella por ser humano.",
+    "ayuda": "Comprensión lectora: revisa el primer párrafo del documento sobre el papel que cumple la dignidad frente a la garantía de los derechos.",
+    "distractores": [
+      "Funciona como el requisito económico para otorgar los servicios básicos, pues toda persona paga por ella al ser ciudadano.",
+      "Funciona como el tratado internacional para vigilar los comités departamentales, pues toda nación firma por ella al ser Estado.",
+      "Funciona como el castigo judicial para sancionar los delitos municipales, pues toda autoridad teme de ella al ser gobierno."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una investigadora quiere indagar cómo el desplazamiento forzado alteró el 'plan vital' y la libertad de escogencia de oficio (dimensión de vivir como se quiere) de cincuenta familias campesinas que llegaron recientemente a vivir a la periferia de Medellín.",
+      "pregunta": "¿Cuál fuente de información resulta más pertinente para comprender las transformaciones en los proyectos de vida de estas personas?"
+    },
+    "respuesta": "Entrevistas directas con los integrantes de las familias desplazadas sobre sus antiguos oficios y sus decisiones actuales de vida.",
+    "ayuda": "Metodología de investigación: para conocer cambios en la autonomía y el plan de vida subjetivo, la fuente primaria idónea son las propias familias afectadas.",
+    "distractores": [
+      "Textos históricos sobre la Declaración Universal de Derechos Humanos de 1948 y las misiones internacionales de mantenimiento de paz.",
+      "Estadísticas generales del Ministerio de Educación sobre la cobertura escolar básica y el presupuesto anual de los hospitales públicos.",
+      "Actas diplomáticas de la Organización de Estados Americanos sobre la creación de la Comisión Interamericana en el año 1969."
+    ]
+  }
+]
