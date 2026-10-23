@@ -1,0 +1,197 @@
+[
+  {
+    "pregunta": {
+      "contexto": "Al analizar el éxito de los dibujos animados de Walt Disney, diversos investigadores observaron que los personajes diseñados con cabezas grandes y ojos redondos reproducen las proporciones físicas propias de los mamíferos en su etapa de cachorros.",
+      "pregunta": "Según el documento, ¿qué efecto psicológico genera esta configuración formal de la naturaleza sobre la conducta de los adultos?"
+    },
+    "respuesta": "Despierta una sensación inconsciente de ternura que inhibe la agresividad y potencia el instinto de brindar seguridad y protección.",
+    "ayuda": "Comprensión lectora: revisa el primer párrafo sobre cómo las curvas y proporciones infantiles influyen en la respuesta emocional adulta.",
+    "distractores": [
+      "Provoca una tensión consciente de firmeza que exalta la agresividad y reduce el impulso de buscar refugio y compañía.",
+      "Produce una impresión racional de simetría que elimina la emotividad y bloquea el deseo de ofrecer cuidado y abrigo.",
+      "Genera una respuesta estética de liviandad que aumenta la hostilidad y limita el hábito de compartir espacio y alimento."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En un colegio de Bogotá se inauguró un edificio de aulas sin ventanas, con techos muy bajos y pasillos angostos. Pocas semanas después, orientación escolar reportó que los estudiantes manifestaban sentirse oprimidos, desorientados y con mayor fatiga emocional.",
+      "pregunta": "Desde la relación entre diseño espacial y psiquis humana expuesta en el texto, ¿qué explica este malestar colectivo?"
+    },
+    "respuesta": "La edificación carece de proporciones y relaciones formales armónicas en consonancia con la psiquis del ser humano.",
+    "ayuda": "Pensamiento sistémico: analiza cómo un espacio arquitectónico desproporcionado afecta directamente el estado de ánimo y la orientación espacial.",
+    "distractores": [
+      "La edificación carece de dualidades y simetrías estáticas rígidas en consonancia con la quietud del ser humano.",
+      "La edificación abusa de espirales y sucesiones numéricas áureas en consonancia con la biología del ser humano.",
+      "La edificación abusa de curvas y apariencias infantiles tiernas en consonancia con la etapa del ser cachorro."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un grupo de estudiantes de décimo grado quiere comprobar empíricamente la tesis del texto según la cual la música cinematográfica induce nuestros estados de ánimo, al punto que una película de terror sin sonido puede parecer una comedia.",
+      "pregunta": "¿Cuál estrategia metodológica resulta más pertinente para poner a prueba esta hipótesis dentro de un proyecto de investigación escolar?"
+    },
+    "respuesta": "Proyectar la misma escena de terror a dos grupos equivalentes, variando únicamente la presencia de la banda sonora original.",
+    "ayuda": "Metodología de investigación: para evaluar la incidencia emocional de la música, debes comparar la reacción con y sin sonido.",
+    "distractores": [
+      "Consultar los antiguos tratados de geometría a dos grupos equivalentes, revisando únicamente la historia de la proporción áurea original.",
+      "Diseñar una nueva campaña de recreación a dos grupos equivalentes, promoviendo únicamente la producción de la comedia teatral original.",
+      "Aplicar una encuesta sobre gustos musicales a dos grupos equivalentes, midiendo únicamente la preferencia de la canción popular original."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En una clase integrada en Tunja, el profesor de biología muestra cómo se disponen las hojas en los tallos siguiendo la sucesión de Fibonacci, mientras la profesora de artes analiza la estructura ternaria de un vals y el pulso del corazón.",
+      "pregunta": "A partir de los fundamentos estéticos del documento, ¿qué categoría filosófica articula estos fenómenos naturales y artísticos?"
+    },
+    "respuesta": "El ritmo, definido como una repetición ordenada por leyes simples o complejas a través de la cual se manifiesta la vida.",
+    "ayuda": "Identifica cuál de los tres elementos formales vincula la repetición sujeta a una ley, el movimiento y los ciclos vitales.",
+    "distractores": [
+      "El mimetismo, definido como una imitación inconsciente por tensiones físicas o mentales a través de la cual se copia la fuerza.",
+      "El canon, definido como una medida anatómica por partes pequeñas o grandes a través de la cual se dibuja la figura.",
+      "El azar, definido como una combinación espontánea por causas fortuitas o ciegas a través de la cual se altera la materia."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Al contemplar una ceiba centenaria de tronco robusto en el Valle del Cauca, una observadora siente la firmeza de estar plantada en la tierra; minutos después, al mirar un puente colgante de finos cables de acero, experimenta una sensación de liviandad.",
+      "pregunta": "Según el apartado sobre el equilibrio, ¿qué proceso explica que adoptemos internamente las cualidades del objeto contemplado?"
+    },
+    "respuesta": "La resonancia estética produce un mimetismo psicológico que replica en nuestro interior la tensión o ligereza del conjunto observado.",
+    "ayuda": "Relaciona la contemplación estética con el fenómeno de resonancia y mimetismo que traslada las actitudes del objeto al espectador.",
+    "distractores": [
+      "La sucesión matemática produce un desplazamiento espacial que calcula en nuestro cerebro la altura o anchura del puente observado.",
+      "La proporción divina produce un recuerdo histórico que despierta en nuestra memoria la cultura o religión del pueblo observado.",
+      "La dualidad oriental produce un conflicto moral que divide en nuestra conciencia la dureza o suavidad del árbol observado."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Para el parque central de un municipio en Antioquia se evalúan dos bocetos escultóricos: el primero es un cubo inmóvil de lados idénticos; el segundo presenta volúmenes desiguales que se compensan entre sí sugiriendo un movimiento en busca de resolución.",
+      "pregunta": "De acuerdo con la lectura, ¿por qué el segundo boceto suele despertar mayor satisfacción estética en los observadores?"
+    },
+    "respuesta": "Porque el sentido estético humano prefiere el equilibrio dinámico basado en simetrías por compensación que reflejan la naturaleza viva.",
+    "ayuda": "Contrasta el equilibrio estático frente al dinámico: la satisfacción estética responde mejor a la compensación de desigualdades en movimiento.",
+    "distractores": [
+      "Porque el sentido estético humano prefiere el equilibrio estático basado en figuras sin variaciones que aseguran la quietud absoluta.",
+      "Porque el sentido estético humano rechaza la proporción áurea basada en relaciones con geometría que exigen la reflexión racional.",
+      "Porque el sentido estético humano ignora la armonía interna basada en estructuras con leyes que ordenan la materia orgánica."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una pintora santandereana construye sus cuadros combinando trazos curvos y agudos, zonas de intensa luminosidad frente a sombras profundas, y texturas de gran dureza junto a veladuras etéreas, logrando obras que conmueven profundamente a los espectadores.",
+      "pregunta": "Según el texto, ¿con qué ley universal de la naturaleza y la psique dialoga esta propuesta pictórica?"
+    },
+    "respuesta": "Con el juego de dualidades complementarias llamado armonía de los opuestos, donde fuerzas activas y pasivas conforman la unidad.",
+    "ayuda": "Pensamiento filosófico: conecta los pares de opuestos en el arte con la concepción oriental del Yin y el Yang.",
+    "distractores": [
+      "Con el modelo de repetición binaria llamado compás de las marchas, donde golpes cortos y largos marcan la caminata.",
+      "Con el principio de ternura infantil llamado diseño de los cachorros, donde cabezas grandes y redondas inhiben la violencia.",
+      "Con el método de perspectiva lineal llamado ilusión de los espacios, donde líneas rectas y paralelas alejan la mirada."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un equipo de estudiantes plantea la siguiente pregunta para una investigación sobre estética urbana: '¿Por qué los habitantes de barrios populares sin arquitectura renacentista son incapaces de sentir emociones nobles ni apreciar la verdadera belleza artística?'.",
+      "pregunta": "A la luz de la metodología de investigación social, ¿cuál es la falla estructural en la formulación de esta pregunta?"
+    },
+    "respuesta": "Contiene un sesgo de valor discriminatorio al suponer previamente que un sector social carece de sensibilidad estética.",
+    "ayuda": "Detección de sesgos: una pregunta de investigación no puede partir de prejuicios clasistas ni negar capacidades humanas a priori.",
+    "distractores": [
+      "Carece de un listado de edificios renacentistas al omitir previamente qué arquitectos diseñaron los barrios de estudio.",
+      "Propone un estudio de escala internacional al comparar previamente varias capitales europeas con municipios pequeños del país.",
+      "Exige un cálculo de espirales logarítmicas al medir previamente las fachadas construidas dentro del sector popular urbano."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En el Renacimiento, artistas como Leonardo da Vinci retomaron de la antigüedad clásica el llamado número de oro o divina proporción, reconociendo que este principio se halla en las flores pentagonales, las espirales vegetales y el cuerpo humano.",
+      "pregunta": "Según la explicación formal del documento, ¿cómo se define la relación armónica que establece el número de oro?"
+    },
+    "respuesta": "Vincula armónicamente las partes entre sí y con el todo, de modo que lo pequeño es a lo grande como lo grande al conjunto.",
+    "ayuda": "Comprensión lectora: ubica en el apartado sobre la proporción la formulación exacta que relaciona lo pequeño, lo grande y el todo.",
+    "distractores": [
+      "Divide exactamente las figuras entre sí y con el centro, de modo que lo superior es a lo inferior como lo derecho al izquierdo.",
+      "Alterna sonoramente los tiempos entre sí y con el silencio, de modo que lo binario es a lo ternario como lo lento al rápido.",
+      "Enfrenta dinámicamente las fuerzas entre sí y con el vacío, de modo que lo masculino es a lo femenino como lo duro al suave."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En un foro estudiantil sobre filosofía de la naturaleza, un participante asegura que la belleza del mundo físico es una simple coincidencia fortuita de la materia ciega y que la geometría es solo una invención humana sin relación con el cosmos.",
+      "pregunta": "Desde la tradición de Platón y Pitágoras recogida en el texto, ¿cómo se refuta filosóficamente este argumento?"
+    },
+    "respuesta": "Afirmando que el universo es guiado por una inteligencia cósmica que proyecta ideas puras y leyes matemáticas hacia los cuerpos materiales.",
+    "ayuda": "Análisis de perspectivas: recuerda cómo los filósofos clásicos concebían las matemáticas y la geometría como el orden organizador del cosmos.",
+    "distractores": [
+      "Afirmando que el universo es creado por una percepción subjetiva que impone gustos individuales y modas pasajeras hacia los objetos culturales.",
+      "Afirmando que el universo es movido por una evolución biológica que selecciona formas agresivas y curvas infantiles hacia los animales mamíferos.",
+      "Afirmando que el universo es regido por una utilidad comercial que diseña anuncios publicitarios y tarjetas bancarias hacia los mercados modernos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un publicista en Medellín diseña el empaque de un nuevo producto y una tarjeta bancaria aplicando estrictamente la proporción áurea. Aunque los compradores no saben geometría ni historia del arte, eligen mayoritariamente ese diseño frente a otros.",
+      "pregunta": "De acuerdo con el texto, ¿por qué la proporción áurea sigue funcionando eficazmente en objetos comerciales cotidianos?"
+    },
+    "respuesta": "Porque su contemplación inconsciente rememora la estructura armónica de la vida y despierta una satisfacción estética inmediata en el observador.",
+    "ayuda": "Conecta los principios universales con la vida diaria: la proporción áurea opera de forma inconsciente porque refleja las leyes vitales.",
+    "distractores": [
+      "Porque su repetición binaria reproduce la estructura rítmica de la marcha y despierta una exaltación heroica inmediata en el comprador.",
+      "Porque su apariencia infantil imita la cabeza grande de los cachorros y provoca una compasión protectora instantánea en el comprador.",
+      "Porque su estructura rígida reproduce el equilibrio estático de las rocas y genera una tensión muscular permanente en el ciudadano."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una investigación comparada entre dos colegios públicos similares en Pereira reveló que en el plantel donde se restauraron los jardines siguiendo proporciones armónicas y se incluyó música clásica en los cambios de clase, los reportes de agresión física cayeron un 40 %.",
+      "pregunta": "¿Cuál es el uso práctico más pertinente que las secretarías de educación pueden dar a los resultados de este estudio?"
+    },
+    "respuesta": "Diseñar programas de mejoramiento del entorno escolar que integren espacios armónicos y estímulos artísticos para fortalecer la convivencia pacífica.",
+    "ayuda": "Uso de resultados de investigación: traduce el hallazgo empírico en una política educativa coherente que aproveche el poder formativo del entorno.",
+    "distractores": [
+      "Clausurar definitivamente los colegios que presenten problemas de convivencia hasta que logren construir edificios de estilo griego y renacentista.",
+      "Reemplazar todas las clases de ciencias naturales y matemáticas por talleres de jardinería ornamental y conciertos de música instrumental.",
+      "Sancionar económicamente a las familias de los estudiantes agresivos para financiar la compra de instrumentos musicales de alta gama."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En la parte final del documento, el autor explica que cuando se hace vibrar una cuerda de guitarra, las demás cuerdas del instrumento también empiezan a vibrar por sí mismas sin haber sido tocadas directamente, en virtud de su afinación.",
+      "pregunta": "¿Qué tesis filosófica y formativa defiende el autor a través de esta analogía de la resonancia musical?"
+    },
+    "respuesta": "Rodeamos nuestra vida de formas bellas e ideas nobles para despertar por resonancia armónica lo más elevado del ser humano.",
+    "ayuda": "Comprensión lectora: analiza cómo la 'afinación interior' y el contacto con la belleza exterior movilizan desde lo físico hasta lo espiritual.",
+    "distractores": [
+      "Estudiamos acústica física de cuerdas tensas e instrumentos antiguos para fabricar por imitación técnica lo más costoso del mercado musical.",
+      "Aislamos nuestra mente de ruidos urbanos e imágenes modernas para conservar por equilibrio estático lo más rígido del carácter humano.",
+      "Imitamos mecánicamente los sonidos naturales de olas marinas y latidos cardíacos para repetir por ritmo binario lo básico del cuerpo."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una historiadora del arte desea verificar la afirmación del documento según la cual la proporción áurea no fue exclusiva de Grecia y el Renacimiento, sino que también estructuró el arte sacro de Egipto, India, China y el mundo islámico.",
+      "pregunta": "¿Cuál fuente primaria e instrumento de análisis resulta más adecuado para comprobar rigurosamente esta hipótesis histórica?"
+    },
+    "respuesta": "Mediciones geométricas directas y planos estructurales de templos, mezquitas y monumentos sagrados pertenecientes a cada una de esas civilizaciones.",
+    "ayuda": "Selección de fuentes: para demostrar la presencia de una proporción matemática en la arquitectura antigua, se requiere evidencia geométrica y estructural.",
+    "distractores": [
+      "Entrevistas en profundidad a viajeros colombianos contemporáneos sobre las emociones que sintieron al visitar museos en Europa y Asia.",
+      "Estadísticas comerciales sobre la venta de tarjetas de crédito y automóviles con diseños curvos en Egipto, India y China.",
+      "Textos de opinión periodística actuales sobre la influencia de la filosofía oriental del Yin y el Yang en Occidente."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un ciudadano afirma en un debate público que invertir recursos en arte, estética urbana y formación musical para los jóvenes es un desperdicio, pues considera que la belleza es un adorno subjetivo e inútil frente a las necesidades materiales.",
+      "pregunta": "Tomando como base la conclusión del documento, ¿por qué esta visión utilitarista desconoce la dimensión formativa de la estética?"
+    },
+    "respuesta": "Porque el arte posee un poder educativo que cultiva las emociones, afina la percepción interior y eleva la conciencia humana.",
+    "ayuda": "Pensamiento reflexivo y ciudadano: recupera el argumento final sobre cómo la experiencia estética transforma la condición humana y promueve la armonía.",
+    "distractores": [
+      "Porque el arte impone un equilibrio estático que elimina las dualidades, congela la sensibilidad interior y anula la razón humana.",
+      "Porque el arte representa un negocio comercial que diseña los automóviles, imita la proporción áurea y domina la publicidad moderna.",
+      "Porque el arte funciona como un mecanismo biológico que reproduce los rasgos infantiles, inhibe la violencia física y garantiza protección."
+    ]
+  }
+]
