@@ -1,0 +1,197 @@
+[
+  {
+    "pregunta": {
+      "contexto": "Durante un debate en el concejo de un municipio antioqueño, un cabildante propone crear becas exclusivas y cupos laborales reservados para mujeres cabeza de hogar, jóvenes campesinos y firmantes de paz reincorporados. Otro concejal se opone argumentando que el artículo 13 de la Constitución exige tratar a todos los ciudadanos exactamente igual ante la ley, sin otorgar ventajas a ningún grupo específico.",
+      "pregunta": "A la luz de las dos perspectivas del derecho a la igualdad, ¿es constitucionalmente válida la propuesta de crear estas medidas especiales?"
+    },
+    "respuesta": "Sí, porque aplica la igualdad material al implementar acciones diferenciales en favor de poblaciones que fueron históricamente discriminadas.",
+    "ayuda": "Matriz binaria (Pensamiento social): distingue entre la igualdad formal ante la ley y la igualdad material que exige medidas diferenciales.",
+    "distractores": [
+      "Sí, porque aplica la igualdad formal al prohibir cualquier trato distinto entre ciudadanos con condiciones económicas o físicas.",
+      "No, porque vulnera la igualdad material al otorgar privilegios arbitrarios basados en prejuicios y estereotipos sobre el campo.",
+      "No, porque vulnera la igualdad formal al desconocer que todas las personas nacen libres sin distinción de origen."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En su jurisprudencia sobre el derecho a la igualdad (Sentencia T-1090 de 2005), la Corte Constitucional advierte que la discriminación distorsiona la percepción sobre las personas a partir de dos fenómenos distintos: uno consiste en atribuir características generales a todos los miembros de un colectivo, mientras el otro emite juicios de valor negativos previos a cualquier conocimiento real y difíciles de detectar porque se naturalizan inconscientemente.",
+      "pregunta": "Según las definiciones explícitas del documento, ¿cómo se denominan respectivamente estos dos fenómenos que sustentan el acto discriminatorio?"
+    },
+    "respuesta": "El primero corresponde al concepto de estereotipos sociales y el segundo se define técnicamente como prejuicios valorativos naturalizados.",
+    "ayuda": "Comprensión lectora: diferencia la idea generalizada sobre un grupo frente al juicio negativo previo que se incorpora sin conciencia.",
+    "distractores": [
+      "El primero corresponde al concepto de prejuicios inconscientes y el segundo se define técnicamente como acciones diferenciales positivas.",
+      "El primero corresponde al concepto de debilidad manifiesta y el segundo se define técnicamente como igualdad formal ciudadana.",
+      "El primero corresponde al concepto de omisiones estatales y el segundo se define técnicamente como humillaciones físicas directas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un profesional afrodescendiente con posgrado en finanzas se postula para la gerencia administrativa de una empresa en Medellín. Durante la selección, el jefe de personal descarta su hoja de vida afirmando que su presencia no proyectaría una buena imagen corporativa ante los clientes, pero le ofrece vincularlo en la bodega para realizar labores pesadas de cargue y descargue de mercancías.",
+      "pregunta": "Articulando las categorías del documento, ¿qué dimensión de la dignidad humana se vulnera aquí y qué fenómeno explica el rechazo?"
+    },
+    "respuesta": "Se vulnera la dimensión de vivir sin humillaciones mediante un acto discriminatorio fundado en estereotipos y prejuicios raciales.",
+    "ayuda": "Pensamiento social: analiza cómo la estigmatización por el color de piel lesiona la integridad moral y constituye discriminación laboral.",
+    "distractores": [
+      "Se vulnera la dimensión de vivir bien materialmente mediante un acto administrativo fundado en requisitos y méritos académicos.",
+      "Se vulnera la dimensión de vivir como quiere mediante un acuerdo contractual fundado en libertades y preferencias salariales.",
+      "Se vulnera la dimensión de igualdad formal jurídica mediante un programa diferencial fundado en subsidios y apoyos estatales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una docente con movilidad reducida es nombrada coordinadora de grupo en una escuela pública municipal, pero las directivas le asignan un salón ubicado en el segundo piso de un edificio sin rampas ni ascensor. Debido a las dificultades físicas para subir las escaleras diariamente, la profesora llega varios minutos tarde y el rector decide abrirle un proceso disciplinario con llamados de atención por incumplimiento laboral.",
+      "pregunta": "¿Por qué la actuación del rector vulnera el mandato constitucional de protección especial consagrado en el artículo 13?"
+    },
+    "respuesta": "Porque sanciona a una persona en circunstancia de debilidad manifiesta física en lugar de adecuar las condiciones para su igualdad efectiva.",
+    "ayuda": "Análisis de perspectivas: evalúa el deber estatal de proteger a personas con discapacidad frente a barreras físicas institucionales.",
+    "distractores": [
+      "Porque aplica una acción diferencial excesiva en favor de los estudiantes en lugar de ubicar el salón en el primer piso.",
+      "Porque desconoce que la población con discapacidad está exenta de cumplir horarios laborales dentro de las instituciones educativas públicas del país.",
+      "Porque traslada una discusión presupuestal del consejo universitario hacia la escuela municipal argumentando que la docente actúa con mucha sensibilidad emocional."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Durante un consejo de facultad en una universidad departamental, una profesora denuncia graves inconsistencias contables en la ejecución del presupuesto público. En lugar de presentar los soportes financieros, el directivo cuestionado desestima la denuncia ante los asistentes diciendo que la docente está 'muy sensible' porque seguramente se encuentra 'en sus días', logrando que varios colegas desvíen la discusión.",
+      "pregunta": "Desde el análisis del derecho a la igualdad y la no discriminación, ¿qué mecanismo discursivo empleó el directivo?"
+    },
+    "respuesta": "Utilizó un prejuicio sexista sobre la biología femenina para desacreditar su opinión política y vulnerar su integridad moral.",
+    "ayuda": "Análisis de perspectivas: identifica cómo se usa una condición biológica irrelevante para descalificar la participación pública de una mujer.",
+    "distractores": [
+      "Aplicó un criterio de igualdad formal para exigir que las denuncias contables se presenten sin expresiones emocionales subjetivas.",
+      "Ejerció su derecho al libre desarrollo personal para expresar opiniones filosóficas dentro de un debate académico de facultad.",
+      "Implementó una medida de protección especial para evitar que la profesora sufriera estrés durante la revisión del presupuesto."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En una vereda alejada nunca se han realizado jornadas de identificación de la Registraduría. Al cumplir dieciocho años, un joven campesino carece de registro civil de nacimiento y de cédula de ciudadanía, situación que le impide matricularse en una universidad pública, firmar un contrato laboral formal, sufragar en las elecciones locales o ser atendido regularmente en el sistema de salud.",
+      "pregunta": "Desde el pensamiento sistémico, ¿cómo impacta la omisión administrativa del registro civil sobre los derechos de este joven?"
+    },
+    "respuesta": "Desencadena una vulneración encadenada sobre la dimensión de vivir bien, bloqueando simultáneamente su acceso a salud, educación, trabajo y voto.",
+    "ayuda": "Pensamiento sistémico: observa cómo la carencia de un documento básico impide ejercer múltiples derechos materiales y políticos a la vez.",
+    "distractores": [
+      "Garantiza una autonomía absoluta en la dimensión de vivir como se quiere, liberándolo legalmente de pagar impuestos y prestar servicio.",
+      "Configura una acción afirmativa de igualdad material campesina, protegiéndolo especialmente contra cualquier posible estigmatización en las redes sociales digitales urbanas.",
+      "Representa una restricción legítima de igualdad formal ciudadana, sancionándolo justamente por no haberse desplazado hasta la capital departamental para registrarse."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un estudiante indígena es elegido democráticamente por sus compañeros para integrar el consejo estudiantil regional. Al llegar a la reunión, el funcionario encargado le impide votar y hablar, permitiéndole solo escuchar en silencio. Paralelamente, en otro colegio, el coordinador llama aparte a una alumna de quince años y le advierte que debe 'guardar para su casa' las expresiones sobre su orientación sexual.",
+      "pregunta": "¿Qué elemento común articula la vulneración de derechos cometida por ambas autoridades educativas frente a estos dos jóvenes?"
+    },
+    "respuesta": "Ambas autoridades restringen arbitrariamente la dimensión de vivir como se quiere a jóvenes pertenecientes a sujetos de especial protección.",
+    "ayuda": "Pensamiento social: conecta la autonomía personal, la participación política indígena y el libre desarrollo de la personalidad LGBTIQ+.",
+    "distractores": [
+      "Ambas autoridades garantizan adecuadamente la convivencia pacífica escolar al evitar debates sobre identidad étnica o diversidad sexual en público.",
+      "Ambas autoridades vulneran exclusivamente la dimensión material de vivir bien al negarles el servicio de restaurante y transporte estudiantil.",
+      "Ambas autoridades aplican correctamente el principio de igualdad formal al exigir que toda minoría se asimile al grupo escolar."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Para solucionar la crisis de una vereda que lleva seis meses sin profesor porque no le pagaban a tiempo y sin médico en el puesto de salud, la alcaldía propone entregar un bono único de cincuenta mil pesos a cada familia para que viajen hasta Medellín a buscar colegios y hospitales por su cuenta, cerrando definitivamente la escuela y el centro médico rural.",
+      "pregunta": "Evaluando las condiciones socioeconómicas veredales descritas en el documento, ¿qué efecto no deseado generaría esta medida municipal?"
+    },
+    "respuesta": "Profundizaría la desigualdad material rural, pues los altos costos de transporte a Medellín impedirían acceder a salud y educación.",
+    "ayuda": "Efectos no deseados (Pensamiento sistémico): cruza el monto insuficiente del bono y el cierre institucional con los costos reales de traslado.",
+    "distractores": [
+      "Garantizaría la igualdad formal inmediata, pues todos los habitantes rurales recibirían exactamente la misma suma monetaria sin ninguna distinción.",
+      "Mejoraría la calidad educativa campesina, pues los niños rurales estudiarían en colegios urbanos dotados con mejores laboratorios e infraestructura.",
+      "Eliminaría los prejuicios urbanos contra el campesinado, pues las familias veredales se integrarían rápidamente a la vida comercial medellinense."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un equipo de investigación escolar quiere indagar sobre el caso del estudiante con sobrepeso cuya fotografía fue viralizada en redes sociales con burlas bajo la excusa de que 'no es bullying, es humor'. Los jóvenes investigadores plantean la siguiente pregunta: '¿Por qué los estudiantes con sobrepeso carecen de sentido del humor y se ofenden fácilmente ante las bromas pesadas de sus compañeros?'.",
+      "pregunta": "Desde la metodología de investigación en ciencias sociales, ¿por qué esta pregunta investigativa presenta un grave error conceptual?"
+    },
+    "respuesta": "Porque contiene un sesgo de valor que responsabiliza a la víctima y naturaliza la humillación moral como simple humor.",
+    "ayuda": "Detección de sesgos: una pregunta científica no debe culpar al agredido ni validar los prejuicios que justifican el acoso escolar.",
+    "distractores": [
+      "Porque omite especificar en cuál red social digital se publicó la fotografía y cuántos comentarios recibió durante esa semana.",
+      "Porque confunde la dimensión de vivir sin humillaciones con la falta de agua potable y seguridad en el campo.",
+      "Porque propone un estudio de alcance nacional cuando el problema del acoso escolar solo ocurre en colegios privados urbanos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una pareja del mismo sexo que convive hace diez años acude a una entidad pública para iniciar un trámite de adopción. La funcionaria rechaza recibirles los documentos argumentando que un niño necesita 'una familia normal y cristiana'. El personero municipal interviene exigiendo admitir la solicitud, pues el Estado es laico y el artículo 13 prohíbe discriminar por orientación sexual o religión.",
+      "pregunta": "¿Qué choque de perspectivas institucionales se evidencia entre la respuesta de la funcionaria y la intervención del personero?"
+    },
+    "respuesta": "La funcionaria impone prejuicios religiosos personales, mientras el personero defiende la igualdad formal y el derecho a conformar familia.",
+    "ayuda": "Choques intragubernamentales: contrasta la actuación arbitraria basada en dogmas privados frente al cumplimiento imparcial del mandato constitucional.",
+    "distractores": [
+      "La funcionaria aplica medidas de protección infantil, mientras el personero vulnera la prevalencia de los derechos de los niños.",
+      "La funcionaria defiende la igualdad material cristiana, mientras el personero promueve estereotipos extranjeros contrarios a la tradición familiar nacional.",
+      "La funcionaria protege la dimensión de vivir bien, mientras el personero desconoce la autonomía administrativa de las entidades públicas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El documento relata que en una zona cafetera un joven campesino trabaja de sol a sol sin contrato laboral, sin afiliación a ninguna EPS y sin derecho a hora de almuerzo; cuando sufre un accidente de trabajo, no recibe atención médica. Asimismo, menciona que en otra vereda unas personas recién llegadas de la ciudad cortaron las mangueras de agua de una familia campesina vecina.",
+      "pregunta": "Con base exclusivamente en la información suministrada por estos dos casos del texto, ¿es válido inferir que todos los propietarios urbanos en el campo explotan laboralmente a los jóvenes cafeteros?"
+    },
+    "respuesta": "No, porque el texto presenta dos situaciones independientes y en ningún momento vincula a los vecinos citadinos con el café.",
+    "ayuda": "Rigor evidencial: verifica qué dice exactamente la fuente sin mezclar dos casos distintos ni hacer generalizaciones sin sustento.",
+    "distractores": [
+      "Sí, porque el documento demuestra que las personas provenientes de la ciudad controlan todos los cultivos de café sin contratos.",
+      "No, porque el texto afirma que los jóvenes campesinos prefieren trabajar sin afiliación a salud para recibir pagos en efectivo.",
+      "Sí, porque el reporte comprueba que cortar las mangueras de agua es una estrategia urbana para forzar el trabajo cafetero."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Según el apartado sobre poblaciones de especial protección, el Estado colombiano reconoce prioridad en la garantía de derechos fundamentales a grupos específicos debido a su condición de vulnerabilidad histórica o debilidad manifiesta.",
+      "pregunta": "De acuerdo con el listado explícito del documento, ¿cuál de los siguientes conjuntos reúne únicamente poblaciones catalogadas como sujetos de especial protección en Colombia?"
+    },
+    "respuesta": "Víctimas del conflicto, campesinos, comunidades afrodescendientes, indígenas, líderes sociales, migrantes, población con discapacidad y firmantes reincorporados.",
+    "ayuda": "Comprensión lectora: revisa el listado oficial de trece grupos poblacionales priorizados en el documento para garantizar la igualdad material.",
+    "distractores": [
+      "Víctimas del conflicto, campesinos, directivos universitarios, empresarios cafeteros, coordinadores escolares, propietarios urbanos y comerciantes mayoristas formales.",
+      "Comunidades afrodescendientes, mujeres, niños, partidos políticos tradicionales, bancos privados, gremios exportadores y asociaciones de ingenieros civiles.",
+      "Población con discapacidad, adultos mayores, líderes sociales, turistas extranjeros, contratistas estatales, jueces municipales y empleados administrativos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una investigadora social desea comprender de qué manera los estereotipos de género en el hogar limitan el proyecto de vida de jóvenes como Luisa, a quien su padre desanima de estudiar ingeniería civil diciéndole que 'eso no es una profesión para mujeres' y que debe dedicarse a cuidar a sus hermanos.",
+      "pregunta": "¿Cuál técnica de recolección de información resulta más pertinente para profundizar en las vivencias y percepciones familiares de estas jóvenes?"
+    },
+    "respuesta": "Realizar entrevistas en profundidad a jóvenes aspirantes a carreras de ingeniería y a sus padres sobre los roles de género.",
+    "ayuda": "Selección de métodos: para comprender imaginarios familiares y decisiones vocacionales subjetivas, se requieren técnicas cualitativas directas con los actores.",
+    "distractores": [
+      "Consultar los planos arquitectónicos de todas las facultades de ingeniería civil construidas en las universidades públicas durante el último siglo.",
+      "Revisar las estadísticas nacionales de accidentalidad laboral en los cultivos de café y las quejas por falta de acueducto veredal.",
+      "Examinar los códigos penales internacionales sobre el delito de desplazamiento forzado provocado por grupos armados al margen de la ley."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un estudio realizado en diez municipios de Antioquia demostró que el 75 % de las empresas locales rechaza contratar a personas reincorporadas del conflicto armado y a migrantes debido a prejuicios sobre su confiabilidad, a pesar de que cuentan con las competencias técnicas requeridas para los cargos.",
+      "pregunta": "A partir de los resultados de esta investigación, ¿cuál es el uso práctico más plausible para promover la igualdad material desde las alcaldías?"
+    },
+    "respuesta": "Implementar campañas de sensibilización empresarial contra los prejuicios junto con incentivos tributarios por vincular laboralmente a poblaciones protegidas.",
+    "ayuda": "Uso práctico de investigaciones: articula una medida pedagógica (contra el prejuicio detectado) y una acción afirmativa (incentivo de contratación).",
+    "distractores": [
+      "Clausurar inmediatamente el setenta y cinco por ciento de las empresas privadas por violar la igualdad formal ciudadana.",
+      "Prohibir que las personas migrantes y reincorporadas presenten hojas de vida privadas para evitar que sufran humillaciones laborales.",
+      "Reformar la Constitución Política para eliminar a los migrantes y reincorporados del listado de poblaciones de especial protección."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En una vereda donde actores armados ilegales impusieron toques de queda que impidieron celebrar la Navidad y donde además las empresas contaminan el río dejando a la población sin agua potable durante seis meses, la junta de acción comunal se reúne para definir qué gestión realizar esta misma semana ante las autoridades municipales y nacionales.",
+      "pregunta": "Distinguiendo entre soluciones estructurales e inmediatas, ¿cuál es la acción de corto plazo más pertinente que puede exigir la comunidad?"
+    },
+    "respuesta": "Solicitar el suministro urgente de agua mediante carrotanques municipales y la intervención inmediata de la Defensoría y la fuerza pública.",
+    "ayuda": "Alcance de corto plazo: prioriza las medidas urgentes de mitigación y protección frente a obras o reformas que toman años.",
+    "distractores": [
+      "Diseñar un plan departamental de acueductos veredales a diez años y tramitar en el Congreso una reforma al código penal.",
+      "Contratar una encuesta académica regional para medir estadísticamente qué porcentaje de niños y ancianos ha enfermado durante los seis meses.",
+      "Organizar brigadas comunitarias para cortar las tuberías de las empresas contaminantes y enfrentar directamente a los actores armados del territorio."
+    ]
+  }
+]
