@@ -1,0 +1,197 @@
+[
+  {
+    "pregunta": {
+      "contexto": "Un ciudadano endeudado firma voluntariamente un contrato de trabajo en una mina del Bajo Cauca donde acepta renunciar a su libertad de locomoción y autoriza al empleador a encerrarlo bajo llave durante seis meses. Paralelamente, un juez penal de Medellín condena a un secuestrador a diez años de prisión efectiva tras un juicio justo.",
+      "pregunta": "A la luz del carácter inalienable de los derechos humanos, ¿son jurídicamente válidas ambas restricciones a la libertad personal?"
+    },
+    "respuesta": "No, porque nadie puede renunciar voluntariamente a sus derechos humanos, aunque un juez sí puede restringir la libertad legalmente.",
+    "ayuda": "Matriz binaria (Pensamiento social): aplica el principio de inalienabilidad diferenciando la renuncia contractual inválida de la restricción judicial legítima.",
+    "distractores": [
+      "No, porque ningún juez penal puede restringir jamás la libertad humana, aunque un trabajador sí puede cederla por contrato.",
+      "Sí, porque tanto el contrato minero voluntario como la sentencia judicial respetan plenamente la autonomía individual de los ciudadanos.",
+      "Sí, porque la dignidad humana permite negociar temporalmente los derechos fundamentales cuando existen necesidades económicas urgentes en las regiones."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Durante una cumbre diplomática, una potencia militar anuncia la invasión armada contra un país en vía de desarrollo argumentando que debe imponer por la fuerza el libre mercado y su propio modelo cultural para 'llevar los derechos humanos universales' a esa sociedad. Varios filósofos del derecho cuestionan severamente esa intervención extranjera.",
+      "pregunta": "Según el análisis crítico del documento sobre el principio de universalidad, ¿qué peligro oculta el discurso de aquella potencia?"
+    },
+    "respuesta": "Instrumentaliza la pretensión de universalización para legitimar la imposición violenta de órdenes económicos, políticos y culturales sobre otras sociedades.",
+    "ayuda": "Comprensión lectora: identifica la crítica explícita del texto sobre el uso problemático del discurso universalista para justificar imposiciones externas.",
+    "distractores": [
+      "Desconoce la prohibición de regresividad para disminuir la inversión pública de recursos materiales, técnicos y educativos sobre otras naciones.",
+      "Confunde la obligación de investigar para exigir resultados judiciales inmediatos sin pruebas legales, serias e imparciales sobre otros gobiernos.",
+      "Aplica la fragmentación de derechos para jerarquizar las garantías civiles por encima de necesidades sociales, étnicas y colectivas locales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un alcalde municipal decide suspender durante cuatro años el presupuesto destinado a comedores escolares, becas estudiantiles y puestos de salud veredales —logros alcanzados en la década anterior—, argumentando que la prioridad exclusiva de su gobierno será proteger únicamente el derecho a la vida frente a la delincuencia común.",
+      "pregunta": "¿Cuáles principios filosóficos de los derechos humanos vulnera simultáneamente este mandatario con su decisión administrativa?"
+    },
+    "respuesta": "Vulnera la indivisibilidad al jerarquizar y fragmentar los derechos, y viola la progresividad al retroceder en los niveles logrados.",
+    "ayuda": "Pensamiento sistémico: articula la prohibición de jerarquizar derechos (indivisibilidad) con la prohibición estatal de disminuir logros alcanzados (progresividad).",
+    "distractores": [
+      "Vulnera la inalienabilidad al vender y ceder los derechos, y viola la universalidad al excluir a los ciudadanos extranjeros.",
+      "Vulnera la interdependencia al investigar y sancionar los delitos, y viola la reparación al negar las indemnizaciones judiciales vigentes.",
+      "Vulnera la no discriminación al clasificar y separar las razas, y viola la prevención al ocultar las amenazas armadas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En un municipio del Catatumbo, la comunidad alerta a las autoridades sobre las amenazas inminentes de un grupo armado ilegal y el vertimiento de mercurio de una empresa minera privada en la bocatoma del acueducto. El comandante local afirma que el Estado cumple con los derechos humanos simplemente absteniéndose de disparar o contaminar con vehículos oficiales.",
+      "pregunta": "Desde las obligaciones estatales frente a terceros particulares, ¿qué confusión conceptual comete el comandante en su declaración?"
+    },
+    "respuesta": "Reduce el deber estatal a la obligación pasiva de respetar, omitiendo su obligación activa de proteger frente a particulares.",
+    "ayuda": "Análisis de perspectivas: distingue entre 'respetar' (abstenerse de vulnerar) y 'proteger' (impedir activamente que particulares o criminales vulneren derechos).",
+    "distractores": [
+      "Confunde el deber estatal con la obligación procesal de reparar, omitiendo su obligación previa de sancionar a los jueces.",
+      "Limita el deber estatal a la obligación gradual de prevenir, omitiendo su obligación inmediata de jerarquizar todos los derechos.",
+      "Asimila el deber estatal a la obligación universal de garantizar, omitiendo su obligación legítima de restringir libertades sin juicio."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En una zona fronteriza se descubre que una red privada de tráfico de personas secuestra y explota a decenas de migrantes con la complicidad silenciosa de algunos guardias estatales. La Fiscalía inicia una investigación seria, imparcial y exhaustiva utilizando todos los recursos legales, pero tras seis meses aún no logra capturar al cabecilla prófugo en el exterior.",
+      "pregunta": "De acuerdo con la definición técnica de la obligación de investigar expuesta en el documento, ¿incumple el Estado su deber por no haber logrado todavía la captura final?"
+    },
+    "respuesta": "No, porque investigar de oficio constituye una obligación jurídica de medio y no de resultado que exige actuación seria.",
+    "ayuda": "Comprensión lectora y matriz binaria: recuerda por qué la obligación de investigar es de medio (diligencia imparcial) y no de resultado.",
+    "distractores": [
+      "No, porque investigar redes privadas constituye una facultad voluntaria de cortesía y no de obligación cuando las víctimas migran.",
+      "Sí, porque investigar de oficio constituye una obligación absoluta de resultado y no de medio que exige capturas inmediatas.",
+      "Sí, porque investigar crímenes fronterizos constituye una competencia exclusiva de tribunales extranjeros y no de autoridades judiciales del país."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El Ministerio de Hacienda propone recortar los fondos de la Unidad Nacional de Protección destinados a escoltar comunidades indígenas amenazadas, argumentando que ese dinero debe trasladarse al Ministerio de Educación para construir bibliotecas futuras y cumplir así la obligación de garantizar derechos. La Defensoría del Pueblo se opone advirtiendo el riesgo inminente de masacres.",
+      "pregunta": "Analizando este choque intragubernamental desde las obligaciones del Estado, ¿por qué resulta inaceptable la propuesta de Hacienda?"
+    },
+    "respuesta": "Porque desactiva medidas urgentes de la obligación de proteger ante riesgos extraordinarios sobre la vida bajo pretexto de garantizar.",
+    "ayuda": "Choques intragubernamentales: evalúa la urgencia de la obligación de proteger (desactivar amenazas inminentes a la vida) frente a planes graduales.",
+    "distractores": [
+      "Porque desconoce que las comunidades indígenas carecen de la calidad de sujetos colectivos de derecho frente al presupuesto nacional.",
+      "Porque prioriza la dimensión procesal de la obligación de reparar sobre la prohibición constitucional de investigar delitos de oficio.",
+      "Porque aplica el principio de interdependencia para favorecer a grupos discriminados en lugar de mantener una igualdad formal estricta."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un equipo de estudiantes de noveno grado investiga por qué en ciertos municipios los ciudadanos desplazados no participan como candidatos en las elecciones locales. En su trabajo de campo descubren que quienes intentan expresar opiniones críticas en la plaza pública sufren censura, discriminación por su origen campesino y carencia de condiciones materiales mínimas de subsistencia.",
+      "pregunta": "¿Cuál principio filosófico explica que la vulneración de la libertad de expresión y la igualdad impida ejercer los derechos políticos?"
+    },
+    "respuesta": "El principio de interdependencia, pues el ejercicio efectivo de un derecho humano depende necesariamente del respeto de otros vinculados.",
+    "ayuda": "Pensamiento sistémico: observa cómo los derechos humanos están entrelazados de modo que vulnerar uno bloquea la realización de otros.",
+    "distractores": [
+      "El principio de inalienabilidad, pues la renuncia temporal a un derecho político permite conservar intactos los demás derechos civiles.",
+      "El principio de indivisibilidad, pues la ley ordena jerarquizar primero el voto antes de proteger la libertad de expresión.",
+      "El principio de universalidad, pues los derechos políticos solo pertenecen a quienes habitan en las capitales departamentales del país."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Para evitar que los funcionarios municipales cometan abusos de autoridad contra los jóvenes durante las requisas policiales (obligación de respetar), un gobernador expide un decreto prohibiendo que la policía patrulle los barrios de la ciudad durante los fines de semana. Los comerciantes y vecinos denuncian inmediatamente que las bandas criminales tomaron el control de las calles.",
+      "pregunta": "Desde el pensamiento sistémico, ¿qué efecto no deseado produjo la medida del gobernador sobre el conjunto de obligaciones estatales?"
+    },
+    "respuesta": "Por intentar asegurar pasivamente la obligación de respetar, abandonó su obligación activa de proteger a la ciudadanía ante criminales.",
+    "ayuda": "Efectos no deseados: analiza cómo retirar por completo a la autoridad deja desprotegida a la población frente a violaciones de particulares.",
+    "distractores": [
+      "Por intentar cumplir gradualmente la obligación de reparar, fortaleció su obligación inmediata de sancionar a las bandas en juicio.",
+      "Por intentar aplicar estrictamente la obligación de investigar, garantizó su obligación sustantiva de indemnizar a todos los comerciantes locales.",
+      "Por intentar promover culturalmente la obligación de prevenir, eliminó su obligación constitucional de reconocer sujetos colectivos en el territorio."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una multinacional maderera solicita anular una sentencia de restitución territorial argumentando filosóficamente que los derechos humanos fueron concebidos en la modernidad únicamente para individuos aislados con nombre y cédula, por lo cual un resguardo indígena o un consejo comunitario afrodescendiente no puede reclamar titularidad de derechos fundamentales ante los jueces.",
+      "pregunta": "Según el apartado sobre las obligaciones del Estado en el documento, ¿por qué es errónea la tesis de la empresa?"
+    },
+    "respuesta": "Porque el sujeto de derecho no se limita al individuo, sino que abarca colectivos étnicos y grupos históricamente vulnerados.",
+    "ayuda": "Comprensión lectora: verifica quiénes pueden ser titulares o beneficiarios ('sujetos de derecho') según la explicación del documento base.",
+    "distractores": [
+      "Porque el sujeto de derecho excluye a las personas individuales, reconociendo únicamente a las empresas privadas y entidades estatales.",
+      "Porque el derecho internacional prohíbe que los individuos reclamen tierras, reservando la propiedad exclusivamente para los alcaldes municipales locales.",
+      "Porque el principio de progresividad exige que los territorios colectivos se conviertan gradualmente en parcelas individuales de libre mercado."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Tras una grave vulneración de derechos humanos contra una comunidad campesina, el Estado condena penalmente a los responsables y entrega una suma de dinero a las familias. Sin embargo, las víctimas reclaman que no se les devolvieron sus tierras usurpadas, no recibieron atención médica ni psicológica, y no se desmontaron los factores de riesgo en la vereda.",
+      "pregunta": "A la luz de la dimensión sustantiva de la obligación de reparar, ¿por qué resulta incompleta la actuación del Estado?"
+    },
+    "respuesta": "Porque redujo la reparación a la simple indemnización monetaria, omitiendo la restitución, rehabilitación, satisfacción y garantías de no repetición.",
+    "ayuda": "Pensamiento social: recuerda los cinco componentes que integran la dimensión sustantiva de la reparación integral en derechos humanos.",
+    "distractores": [
+      "Porque agotó el presupuesto en la dimensión sustantiva, omitiendo declarar que la investigación judicial es una obligación de resultado.",
+      "Porque aplicó la restitución de tierras y rehabilitación médica, omitiendo cobrar impuestos progresivos a las numerosas familias campesinas reparadas.",
+      "Porque priorizó las garantías de no repetición comunitaria, omitiendo exigir que las víctimas renuncien a sus propios derechos inalienables."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un grupo de investigadores escolares desea estudiar la situación de las personas migrantes en su departamento y formula la siguiente pregunta de investigación: '¿Por qué los migrantes extranjeros tienen una mentalidad atrasada que les impide comprender la cultura de los derechos humanos y convivir pacíficamente en nuestras ciudades?'.",
+      "pregunta": "Desde la metodología de investigación social y los principios de los derechos humanos, ¿qué error invalida esta pregunta?"
+    },
+    "respuesta": "Incorpora un sesgo de valor xenófobo que vulnera el principio de igualdad y no discriminación al inferiorizar al migrante.",
+    "ayuda": "Detección de sesgos: una pregunta científica no puede partir de prejuicios discriminatorios por origen nacional ni atribuir inferioridad cultural.",
+    "distractores": [
+      "Omite detallar el número exacto de tratados internacionales ratificados por el país de origen de cada ciudadano migrante encuestado.",
+      "Plantea indagar por un grupo poblacional específico cuando las ciencias sociales solo permiten estudiar individuos aislados sin ninguna nacionalidad.",
+      "Confunde la obligación procesal de reparar daños materiales con la obligación estatal de sancionar penalmente el tráfico de personas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El documento señala textualmente que, cuando se verifica la violación de los derechos de las personas migrantes, el Estado debe investigar de oficio caso por caso e identificar a los responsables, sin importar si la vulneración fue cometida directamente por agentes estatales o por redes particulares dedicadas al tráfico de seres humanos.",
+      "pregunta": "Con base exclusivamente en este pasaje del documento, ¿es válido inferir que en Colombia todos los agentes estatales fronterizos hacen parte de redes de tráfico de migrantes?"
+    },
+    "respuesta": "No, porque el texto solo usa un ejemplo hipotético para ilustrar que el deber de investigar abarca ambos casos.",
+    "ayuda": "Rigor evidencial: distingue entre una ejemplificación teórica sobre el alcance de una norma y una denuncia estadística generalizada.",
+    "distractores": [
+      "Sí, porque el documento denuncia con pruebas estadísticas que los funcionarios fronterizos dirigen el tráfico internacional de seres humanos.",
+      "No, porque el texto afirma que los agentes estatales gozan de inmunidad absoluta y nunca pueden ser investigados penalmente.",
+      "Sí, porque el concepto de aquiescencia estatal significa que todo empleado público participa directamente en el secuestro de migrantes."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una investigadora quiere evaluar si un municipio antioqueño ha cumplido con el principio de progresividad en el derecho a la educación y a la salud de la población desplazada durante los últimos diez años, verificando que no se hayan presentado retrocesos en la cobertura ni en las condiciones materiales de atención.",
+      "pregunta": "¿Cuál combinación de fuentes e instrumentos resulta más pertinente para comprobar rigurosamente el cumplimiento de este principio en el municipio?"
+    },
+    "respuesta": "Series estadísticas municipales de cobertura y gasto social de la última década contrastadas con entrevistas a las familias desplazadas.",
+    "ayuda": "Selección de métodos: medir progresividad (avance sin retroceso en el tiempo) requiere datos longitudinales e información directa de los sujetos protegidos.",
+    "distractores": [
+      "Encuestas de percepción aplicadas en un único día del presente año a comerciantes formales que nunca han sido desplazados.",
+      "Lecturas teóricas de la Declaración Universal de Derechos Humanos de 1948 sin recolectar datos empíricos en el municipio estudiado.",
+      "Historias de vida de dos familias desplazadas en otra capital departamental sin revisar los presupuestos oficiales de este municipio."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un estudio sociológico sobre violencia escolar en cinco comunas de Medellín encontró que las agresiones contra estudiantes LGBTI y afrodescendientes se repiten cada año porque las instituciones solo aplican sanciones disciplinarias después de los ataques, pero carecen de formación en derechos humanos que desmonte las causas culturales del prejuicio.",
+      "pregunta": "Articulando los resultados del estudio con la obligación estatal de prevenir, ¿cuál es el uso práctico más pertinente?"
+    },
+    "respuesta": "Implementar programas permanentes de educación en derechos humanos que ataquen las causas del prejuicio como garantía de no repetición.",
+    "ayuda": "Uso práctico de investigaciones: la obligación de prevenir exige transformar gradualmente la cultura e identificar las causas para que no se repitan.",
+    "distractores": [
+      "Aumentar únicamente la severidad de los castigos estudiantiles posteriores sin investigar las causas culturales que originan el prejuicio escolar.",
+      "Ordenar a los directivos abstenerse de intervenir en las peleas estudiantiles bajo pretexto de cumplir la obligación de respetar.",
+      "Pagar una indemnización monetaria anual a cada estudiante agredido sin modificar el clima escolar que permitió la victimización inicial."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En una vereda donde un derrumbe destruyó el puente escolar y donde además una banda armada amenazó esta mañana de muerte a los líderes de la junta de acción comunal, el alcalde convoca un consejo extraordinario para decidir qué medida ejecutar hoy mismo frente a los derechos humanos de la comunidad.",
+      "pregunta": "Diferenciando entre las obligaciones de exigibilidad inmediata y el desarrollo gradual, ¿qué acción de corto plazo debe priorizarse hoy?"
+    },
+    "respuesta": "Activar un esquema urgente de protección para salvaguardar la vida de los líderes amenazados y habilitar un paso provisional.",
+    "ayuda": "Alcance de corto plazo: ante amenazas inminentes contra la vida, la obligación de proteger exige medidas de prevención urgente e inmediata.",
+    "distractores": [
+      "Diseñar un plan decenal de formación ciudadana sobre cultura de paz mientras las amenazas inminentes continúan activas sin control.",
+      "Adelantar primero un largo juicio penal hasta obtener sentencia condenatoria antes de brindar seguridad física a los líderes amenazados.",
+      "Declarar que el derecho a la educación prevalece jerárquicamente sobre la vida para reconstruir primero el puente sin escoltas."
+    ]
+  }
+]
