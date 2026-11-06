@@ -1,0 +1,262 @@
+[
+  {
+    "pregunta": {
+      "contexto": "En un debate estudiantil sobre ciencias políticas, un candidato al personero afirma que los impuestos son un cobro arbitrario mediante el cual los gobernantes les quitan dinero a los ciudadanos sin que exista ninguna justificación social ni beneficio colectivo a cambio.",
+      "pregunta": "Según la definición del vínculo jurídico tributario expuesta en el documento, ¿qué ocurriría con un Estado que elimine totalmente el cobro de impuestos?"
+    },
+    "respuesta": "Quedaría sin los recursos económicos necesarios para cumplir sus fines esenciales como financiar salud, educación pública, infraestructura y programas sociales.",
+    "ayuda": "Comprensión lectora: revisa el primer párrafo sobre el propósito del vínculo jurídico fiscal y los fines esenciales que sostiene el Estado.",
+    "distractores": [
+      "Lograría que los municipios petroleros dupliquen inmediatamente todas sus regalías estatales para construir hospitales, colegios públicos, carreteras y programas sociales.",
+      "Garantizaría que las secretarías de hacienda recauden mayores ingresos a corto plazo para sostener salud, educación pública, infraestructura y subsidios.",
+      "Obligaría a que los ciudadanos presenten declaraciones formales cada semana del año para financiar salud, educación pública, infraestructura y burocracia."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una joven emprendedora abre una papelería en un municipio de Antioquia, se inscribe en el Registro Único Tributario (RUT) y emite facturas electrónicas en cada venta. Al finalizar su primer año contable, presenta puntualmente su declaración ante la autoridad tributaria, pero como sus ingresos fueron muy bajos, el saldo por pagar resulta ser de cero pesos.",
+      "pregunta": "A la luz de la clasificación del derecho tributario, ¿cumplió esta comerciante con alguna obligación fiscal aunque no entregó dinero?"
+    },
+    "respuesta": "Sí, porque cumplió cabalmente sus obligaciones formales al inscribirse en el registro tributario, expedir facturación electrónica y declarar sus ingresos.",
+    "ayuda": "Matriz binaria (Pensamiento social): diferencia entre la obligación sustancial (pagar dinero) y las obligaciones formales (trámites de control como RUT y declarar).",
+    "distractores": [
+      "Sí, porque cumplió cabalmente sus obligaciones sustanciales al transferir recursos monetarios directos hacia las cuentas bancarias de la administración nacional.",
+      "No, porque incumplió gravemente sus obligaciones formales al finalizar el periodo contable sin transferir dinero efectivo hacia el tesoro municipal.",
+      "No, porque vulneró abiertamente sus obligaciones de no hacer al reportar en cero el balance anual de su pequeño negocio."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En una ciudad colombiana se presentan tres situaciones cotidianas: 1) Una familia es propietaria de un apartamento urbano; 2) Un profesional recibe un salario mensual que supera el tope fijado por la ley; 3) Un estudiante compra unos zapatos gravados con IVA en un almacén comercial. La alcaldía cobra el impuesto en el primer caso, mientras la DIAN recauda los dos últimos.",
+      "pregunta": "Articulando los elementos del vínculo tributario descritos en el texto, ¿cómo se clasifican técnicamente los componentes de este escenario?"
+    },
+    "respuesta": "La alcaldía y la DIAN son sujetos activos, los ciudadanos son sujetos pasivos y poseer, ganar o comprar son hechos imponibles.",
+    "ayuda": "Pensamiento social: identifica quién exige el tributo (sujeto activo), quién responde legalmente (sujeto pasivo) y qué acción origina el cobro (hecho imponible).",
+    "distractores": [
+      "La alcaldía y la DIAN son sujetos pasivos, los ciudadanos son hechos imponibles y poseer, ganar o comprar son sujetos activos.",
+      "La alcaldía y la DIAN son obligaciones formales, los ciudadanos son sujetos activos y poseer, ganar o comprar son obligaciones sustanciales.",
+      "La alcaldía y la DIAN son hechos imponibles, los ciudadanos son obligaciones formales y poseer, ganar o comprar son sujetos pasivos."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El dueño de una distribuidora comercial en Medellín paga puntualmente una suma de dinero por concepto de impuestos e inscribe su empresa en el RUT. Sin embargo, una auditoría de la DIAN descubre que el empresario lleva una doble contabilidad y oculta la mitad de sus ventas reales mediante documentos alterados para reducir el monto declarado.",
+      "pregunta": "De acuerdo con las tres categorías de responsabilidad fiscal del documento, ¿cuál tipo de obligación vulneró específicamente este empresario?"
+    },
+    "respuesta": "Vulneró las obligaciones de no hacer, pues la ley exige abstenerse de ocultar ingresos, llevar doble contabilidad o falsificar documentos.",
+    "ayuda": "Comprensión lectora: revisa el tercer tipo de responsabilidad tributaria referido a las conductas ilegales de evasión que el contribuyente debe evitar.",
+    "distractores": [
+      "Vulneró las facultades de sujeto activo, pues la ley exige abstenerse de administrar tributos nacionales desde las secretarías de hacienda.",
+      "Vulneró las condiciones de gasto público, pues la ley exige abstenerse de financiar infraestructura vial o programas de asistencia social.",
+      "Vulneró las garantías de inversión extranjera, pues la ley exige abstenerse de exportar materias primas con mano de obra barata."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En medio de un debate legislativo sobre quiénes deben sostener las finanzas del Estado durante una crisis de deuda, un congresista propone aumentar drásticamente los impuestos a todas las pequeñas empresas y a los trabajadores consumidores. Otro parlamentario advierte que recargar de impuestos al sector productivo y al consumo terminará reduciendo el dinero que recibe el Estado en el mediano plazo.",
+      "pregunta": "Según la explicación económica del documento, ¿por qué subir excesivamente la carga tributaria termina disminuyendo el recaudo fiscal futuro?"
+    },
+    "respuesta": "Porque incrementar la carga tributaria golpea la productividad y el consumo, encogiendo la base gravable sobre la cual se cobra.",
+    "ayuda": "Pensamiento sistémico: analiza la paradoja fiscal explicada en el texto: cobrar porcentajes más altos sobre una economía contraída no genera mayores ingresos.",
+    "distractores": [
+      "Porque incrementar la carga tributaria elimina el aparato burocrático estatal, impidiendo que los funcionarios públicos cobren los impuestos nacionales vigentes.",
+      "Porque incrementar la carga tributaria obliga a las familias a inscribirse en el registro tributario, reduciendo las sanciones por evasión.",
+      "Porque incrementar la carga tributaria transforma automáticamente a todos los municipios agrícolas en zonas dependientes de las regalías del petróleo."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Para atraer capitales internacionales que financien el empleo, el Ministerio de Comercio propone eliminar casi todos los impuestos a las multinacionales extranjeras sin exigirles transferencia tecnológica ni salarios dignos. Por su parte, el Ministerio del Trabajo se opone advirtiendo que varios países que aplicaron rebajas tributarias sin una gestión adecuada terminaron precarizando a su población.",
+      "pregunta": "A partir del análisis del texto sobre la inversión extranjera, ¿qué riesgo advierte legítimamente el Ministerio del Trabajo en este choque intragubernamental?"
+    },
+    "respuesta": "Que una rebaja tributaria mal gestionada convierta al país en simple proveedor de materias primas con mano de obra esclavizada.",
+    "ayuda": "Choques intragubernamentales: el documento señala que incentivar capital extranjero bajando impuestos puede traer desarrollo o precarización laboral extrema según cómo se gestione.",
+    "distractores": [
+      "Que una rebaja tributaria mal gestionada aumente artificialmente el recaudo fiscal en el corto plazo antes de las próximas elecciones.",
+      "Que una rebaja tributaria mal gestionada obligue a las empresas extranjeras a financiar el aparato burocrático de los municipios petroleros.",
+      "Que una rebaja tributaria mal gestionada impida a los ciudadanos cumplir sus obligaciones de no hacer frente a la DIAN."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un gobierno nacional enfrenta un grave déficit en sus cuentas públicas y anuncia una política de austeridad para disminuir el gasto público. Sin embargo, al publicar el decreto de recorte, los analistas políticos observan que el Ejecutivo mantuvo intactos los altos sueldos de miles de cargos políticos innecesarios, mientras recortó el presupuesto de comedores comunitarios, pensiones y subsidios de salud.",
+      "pregunta": "De acuerdo con la crítica planteada en el documento, ¿qué contradicción suele presentarse cuando los gobiernos deciden recortar el gasto público?"
+    },
+    "respuesta": "Recortan los recursos destinados a la asistencia y seguridad social, pero conservan intacto un elevado aparato burocrático foco de corrupción.",
+    "ayuda": "Comprensión lectora: ubica el párrafo que examina qué rubros suelen recortar realmente los gobiernos en crisis cuando prometen disminuir sus gastos.",
+    "distractores": [
+      "Recortan los salarios destinados a los ministros y congresistas, pero conservan intacto un elevado presupuesto para la investigación científica escolar.",
+      "Recortan los contratos destinados a las empresas petroleras extranjeras, pero conservan intacto un elevado subsidio para el libre comercio nacional.",
+      "Recortan los trámites destinados al control de facturación electrónica, pero conservan intacto un elevado impuesto predial para las familias campesinas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un equipo de asesores económicos le demuestra al presidente de la República que reducir las tarifas impositivas incentivaría la creación de nuevas fábricas y generaría mayores ingresos tributarios dentro de seis años. A pesar de la evidencia técnica, el mandatario y su bancada política descartan la rebaja y aprueban un aumento inmediato de impuestos antes de las elecciones del próximo año.",
+      "pregunta": "Desde la ciencia política y el comportamiento electoral explicados en el documento, ¿por qué los gobernantes prefieren subir impuestos en lugar de bajarlos?"
+    },
+    "respuesta": "Porque los políticos priorizan el corto plazo electoral y buscan obtener dinero inmediato, aunque ello reduzca el recaudo del futuro.",
+    "ayuda": "Análisis de perspectivas: contrasta los tiempos de maduración de la inversión privada (varios años) con la urgencia electoral de los gobernantes.",
+    "distractores": [
+      "Porque los políticos priorizan la planeación fiscal de largo plazo y prefieren sacrificar su popularidad actual para beneficiar gobiernos futuros.",
+      "Porque los políticos desconocen quién ejerce la función de sujeto activo y temen que la DIAN clausure las campañas electorales.",
+      "Porque los políticos buscan disminuir la inflación monetaria en el largo plazo y evitar que el Estado recaude dinero inmediato."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En un municipio petrolero de los Llanos Orientales no existen fábricas ni industrias agrícolas privadas; casi toda la población vive de los contratos de la alcaldía y de las obras financiadas con las regalías del petróleo. Un nuevo alcalde decide eliminar el setenta por ciento del gasto público municipal y bajar a cero el impuesto de industria y comercio para que el sector privado sostenga al pueblo.",
+      "pregunta": "Evaluando la composición económica de este municipio según el documento, ¿qué efecto no deseado provocará la decisión del alcalde?"
+    },
+    "respuesta": "Provocará la ruina económica y caída del consumo local, pues no existe un tejido productivo privado que reemplace al Estado.",
+    "ayuda": "Efectos no deseados (Pensamiento sistémico): en economías dependientes del gasto público y sin fábricas privadas, recortar el gasto estatal paraliza el consumo.",
+    "distractores": [
+      "Provocará la llegada inmediata de cientos de fábricas exportadoras, pues bajar impuestos crea automáticamente un tejido industrial en cualquier municipio.",
+      "Provocará el fortalecimiento financiero de la secretaría de hacienda, pues cobrar cero impuestos aumenta el recaudo en el corto plazo.",
+      "Provocará la reducción de la pobreza rural en pocas semanas, pues los exempleados públicos comprarán más bienes en los almacenes."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Para explicar por qué reducir los impuestos resulta inútil en una región que carece por completo de empresas, fábricas o agricultores capaces de producir bienes, el autor del documento compara esa medida con firmar un Tratado de Libre Comercio (TLC) cuando el país no tiene nada que exportar, y cita el refrán popular: 'Si hubiera azúcar le haría tinto, pero cómo hago si no hay café'.",
+      "pregunta": "Dentro de la argumentación del texto, ¿qué representan simbólicamente el 'café' y el 'azúcar' en esta analogía económica?"
+    },
+    "respuesta": "El café representa el tejido productivo privado indispensable para producir, mientras el azúcar simboliza los incentivos como bajar los impuestos.",
+    "ayuda": "Comprensión lectora e inferencia: analiza por qué un estímulo fiscal (azúcar) no produce resultados si falta la base empresarial real (café).",
+    "distractores": [
+      "El café representa el aparato burocrático estatal lleno de corrupción, mientras el azúcar simboliza las obligaciones formales como el RUT.",
+      "El café representa la deuda externa acumulada durante la crisis, mientras el azúcar simboliza el aumento de la presión fiscal.",
+      "El café representa el gasto público en los municipios petroleros, mientras el azúcar simboliza la doble contabilidad de los evasores."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un movimiento político radical propone una reforma constitucional para prohibir cualquier incremento de impuestos en Colombia, asegurando que subir los tributos jamás produce beneficios económicos bajo ninguna circunstancia. En respuesta, un centro de estudios fiscales señala que el impacto de subir impuestos depende estrictamente del destino que el Estado les dé a esos recursos recaudados.",
+      "pregunta": "A la luz del documento, ¿es válido afirmar que un incremento de impuestos puede generar efectos económicos positivos a mediano y largo plazo?"
+    },
+    "respuesta": "Sí, porque resulta muy productivo cuando los nuevos tributos financian grandes inversiones reales en infraestructura, educación, investigación y emprendimiento nacional.",
+    "ayuda": "Matriz binaria (Pensamiento sistémico): evalúa bajo qué condiciones de inversión real un aumento impositivo impulsa la productividad futura del país.",
+    "distractores": [
+      "Sí, porque resulta muy productivo cuando los nuevos tributos financian el aumento de cargos burocráticos antes de las elecciones presidenciales.",
+      "No, porque cualquier incremento impositivo destruye irremediablemente la economía aunque se invierta en carreteras, escuelas públicas, ciencia y apoyo empresarial.",
+      "No, porque el vínculo jurídico tributario prohíbe utilizar el dinero de los impuestos en obras de infraestructura o investigación científica."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El documento menciona textualmente que cuando un gobierno decide disminuir el gasto público para lograr el equilibrio fiscal, suele limitarse a recortar la asistencia social y la seguridad social, dejando intacto el aparato burocrático, el cual suele ser elevado en los países con crisis económica y convertirse en fuente de corrupción.",
+      "pregunta": "Con base exclusivamente en la información suministrada por el texto anterior, ¿es posible inferir qué porcentaje exacto del Producto Interno Bruto (PIB) pierde Colombia anualmente por corrupción burocrática?"
+    },
+    "respuesta": "No, porque el documento señala cualitativamente el problema de la burocracia y la corrupción sin aportar cifras ni porcentajes específicos.",
+    "ayuda": "Rigor evidencial: distingue entre una afirmación conceptual presente en la lectura y un dato estadístico cuantitativo que la fuente no incluye.",
+    "distractores": [
+      "Sí, porque el documento demuestra matemáticamente que el aparato burocrático consume la mitad exacta del Producto Interno Bruto en Colombia.",
+      "No, porque el documento afirma que en los países con crisis económica no existe corrupción dentro del aparato burocrático estatal.",
+      "Sí, porque el documento incluye una tabla estadística de la DIAN con los porcentajes anuales desviados en cada municipio petrolero."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un grupo de estudiantes de décimo grado quiere investigar las causas de la evasión fiscal en su departamento y plantea la siguiente pregunta de investigación: '¿Por qué los pequeños comerciantes informales son ciudadanos egoístas y deshonestos que prefieren destruir al Estado antes que pagar sus obligaciones sustanciales?'.",
+      "pregunta": "Desde la metodología de investigación en ciencias sociales y políticas, ¿cuál es el error principal en la formulación de esta pregunta?"
+    },
+    "respuesta": "Contiene un sesgo de valor moralizante al calificar previamente como egoístas y deshonestos a los comerciantes sin investigar las causas.",
+    "ayuda": "Detección de sesgos: una pregunta científica debe indagar objetivamente los factores socioeconómicos o institucionales sin emitir insultos ni juicios morales previos.",
+    "distractores": [
+      "Omite mencionar que la Dirección de Impuestos y Aduanas Nacionales es el sujeto pasivo encargado de pagar todos los tributos.",
+      "Confunde las obligaciones sustanciales de transferir dinero con el derecho de los municipios petroleros a recibir regalías de la nación.",
+      "Propone estudiar un fenómeno tributario local cuando las ciencias políticas solo permiten investigar tratados de libre comercio entre potencias extranjeras."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un equipo de investigadores económicos desea comprobar empíricamente la hipótesis del documento según la cual, en los municipios petroleros sin tejido productivo privado, una disminución drástica del gasto público y de las regalías genera desempleo masivo, caída del consumo en los almacenes y aumento de la pobreza local.",
+      "pregunta": "¿Cuál estrategia metodológica e informativa resulta más pertinente para poner a prueba esta hipótesis en tres municipios petroleros colombianos?"
+    },
+    "respuesta": "Analizar series históricas del gasto público municipal, tasas de empleo, ventas del comercio e índices de pobreza en esos municipios.",
+    "ayuda": "Selección de métodos: para verificar el impacto económico de un recorte de gasto público se requieren indicadores longitudinales de empleo, consumo y pobreza.",
+    "distractores": [
+      "Entrevistar a dos familias de una capital industrializada con miles de fábricas privadas sin revisar datos de los municipios petroleros.",
+      "Consultar únicamente la definición legal de hecho imponible en el estatuto tributario nacional sin recolectar estadísticas económicas en los municipios.",
+      "Encuestar en un solo día a los empleados burocráticos del gobierno central sobre sus preferencias electorales para las próximas votaciones."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En un debate sobre justicia tributaria y quiénes deben asumir la mayor carga fiscal para financiar el Estado, un sector político propone cobrar exactamente el mismo monto en pesos a un campesino de bajos ingresos y a un gran banco comercial. Otro sector argumenta que el hecho imponible del impuesto de renta solo debe activarse cuando los ingresos superan cierto tope y cobrar más a quienes ganan más.",
+      "pregunta": "Relacionando el concepto de hecho imponible del documento con la equidad en ciencias políticas, ¿por qué se fijan topes mínimos en el impuesto de renta?"
+    },
+    "respuesta": "Para exigir la obligación sustancial solo a quienes superan cierta capacidad económica, evitando afectar el consumo de las familias vulnerables.",
+    "ayuda": "Pensamiento social: analiza por qué la ley establece que el impuesto de renta nace solo cuando el salario o ganancia supera determinado tope.",
+    "distractores": [
+      "Para eximir de toda obligación formal y de no hacer a los grandes bancos, permitiendo que oculten sus ingresos libremente.",
+      "Para convertir a los trabajadores de bajos recursos en sujetos activos que puedan cobrar impuestos para su propio beneficio privado.",
+      "Para eliminar por completo el cobro del Impuesto al Valor Agregado en todos los almacenes y supermercados del territorio nacional."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una investigación realizada por una universidad pública en veinte municipios con débil tejido empresarial demostró que bajar los impuestos locales sin ofrecer vías pavimentadas, crédito para emprendedores ni capacitación técnica no atrajo ninguna empresa nueva en cinco años, pero sí dejó a las alcaldías sin fondos para mantener las escuelas rurales.",
+      "pregunta": "A partir de los hallazgos de este estudio y la conclusión del documento, ¿cuál es el uso práctico más pertinente en política pública?"
+    },
+    "respuesta": "Articular cualquier incentivo tributario con medidas complementarias de inversión pública real en infraestructura, educación y financiación al emprendimiento productivo local.",
+    "ayuda": "Uso práctico de investigaciones: el texto concluye que ni bajar impuestos ni recortar gastos bastan por sí solos; requieren medidas integrales complementarias.",
+    "distractores": [
+      "Clausurar todas las secretarías de hacienda municipales del país para que ningún alcalde vuelva a cobrar impuestos prediales ni comerciales.",
+      "Obligar por decreto a que los campesinos paguen el triple de impuestos aunque no existan carreteras ni escuelas veredales hoy.",
+      "Suspender las investigaciones universitarias sobre finanzas territoriales para evitar que se conozcan los resultados de las rebajas tributarias locales aplicadas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En una cumbre mundial, un grupo de activistas libertarios propone disolver definitivamente el vínculo jurídico fiscal entre los Estados y los ciudadanos, argumentando que si nadie paga impuestos, cada familia podrá contratar con su propio dinero clínicas privadas, colegios pagos, peajes particulares y vigilancia privada sin necesitar ningún gobierno.",
+      "pregunta": "Desde el enfoque de las ciencias políticas y los fines esenciales del Estado descritos en el texto, ¿qué falla estructural presenta esta propuesta?"
+    },
+    "respuesta": "Excluye de educación, salud e infraestructura a las poblaciones sin capacidad de pago, impidiendo que el Estado cumpla fines esenciales.",
+    "ayuda": "Pensamiento reflexivo y sistémico: evalúa qué sucede con los sectores vulnerables y los bienes públicos cuando el Estado pierde su fuente de financiación.",
+    "distractores": [
+      "Incrementa excesivamente el poder recaudatorio de la Dirección de Impuestos y Aduanas Nacionales sobre las pequeñas empresas familiares del país.",
+      "Garantiza que todos los habitantes rurales accedan gratuitamente a universidades y hospitales de alta complejidad financiados por las regalías estatales.",
+      "Obliga a las empresas transnacionales a pagar mayores tributos de renta en el corto plazo para sostener el aparato burocrático."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un municipio atraviesa una súbita caída en sus ingresos fiscales este mes debido al cierre temporal de su principal carretera por un derrumbe, lo que frenó el comercio local. Al mismo tiempo, la alcaldía descubre que el treinta por ciento de los comerciantes formales no ha podido presentar su declaración tributaria porque la plataforma digital de la secretaría de hacienda está caída.",
+      "pregunta": "Distinguiendo entre medidas administrativas de corto plazo y reformas estructurales de largo plazo, ¿qué acción inmediata debe ejecutar la alcaldía esta semana?"
+    },
+    "respuesta": "Restablecer la plataforma digital para permitir el cumplimiento de las obligaciones formales y gestionar la reapertura urgente de la carretera.",
+    "ayuda": "Alcance de corto plazo: prioriza habilitar el canal de recaudo y despejar la vía que frena el comercio antes que plantear cambios macroeconómicos de años.",
+    "distractores": [
+      "Transformar la estructura económica municipal en una potencia industrial exportadora mediante un plan educativo que tardará veinte años en madurar.",
+      "Suprimir definitivamente todos los impuestos municipales durante una década esperando que inversionistas extranjeros construyan varias fábricas nuevas en el pueblo.",
+      "Sancionar penalmente a todos los comerciantes que no pudieron declarar por la falla técnica del sistema y cerrar sus locales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Lea el siguiente fragmento de un debate económico nacional: 'No podemos analizar el presupuesto público como si fuera una isla. Si subimos los tributos sin fortalecer las fábricas, asfixiamos el empleo; si recortamos el gasto a ciegas donde no hay empresas privadas, hundimos en la pobreza a las familias; necesitamos que las decisiones tributarias, productivas y de bienestar caminen de la mano'.",
+      "pregunta": "Según el cierre del documento base, ¿qué principio rector de la gestión estatal sintetiza la postura expresada en este fragmento?"
+    },
+    "respuesta": "Que las políticas fiscales, económicas y sociales no funcionan aisladamente, sino que exigen un trabajo armónico, responsable y también integral.",
+    "ayuda": "Comprensión lectora: revisa el párrafo final del documento sobre la articulación indispensable entre las políticas fiscales, económicas y sociales.",
+    "distractores": [
+      "Que las políticas fiscales, económicas y sociales dependen exclusivamente de subir la presión tributaria para resolver cualquier crisis de deuda.",
+      "Que las políticas fiscales, económicas y sociales exigen eliminar por completo el gasto público en todos los municipios del territorio.",
+      "Que las políticas fiscales, económicas y sociales deben diseñarse pensando únicamente en ganar las siguientes elecciones en el corto plazo."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Dos candidatos a la gobernación debaten frente a estudiantes de décimo grado: el candidato A promete bajar todos los impuestos departamentales a la mitad y al mismo tiempo duplicar de inmediato el gasto en becas y hospitales; el candidato B advierte que bajar impuestos reduce el recaudo en el corto plazo y que para sostener el gasto social hoy se requiere combatir la evasión y recortar la burocracia corrupta.",
+      "pregunta": "A partir de las leyes económicas explicadas en el documento, ¿cuál de los dos candidatos presenta un planteamiento fiscalmente coherente y por qué?"
+    },
+    "respuesta": "El candidato B, porque reconoce que bajar impuestos reduce ingresos a corto plazo y propone ahorrar recortando la burocracia corrupta.",
+    "ayuda": "Análisis de perspectivas y pensamiento sistémico: aplica la regla temporal del texto según la cual bajar impuestos reduce los ingresos estatales en el corto plazo.",
+    "distractores": [
+      "El candidato A, porque bajar los impuestos departamentales duplica de manera instantánea el dinero disponible en las cuentas del Estado.",
+      "El candidato B, porque propone eliminar los hospitales y las becas estudiantiles para proteger los sueldos del aparato burocrático departamental.",
+      "El candidato A, porque la economía de un departamento no necesita equilibrio entre ingresos y gastos para financiar programas sociales."
+    ]
+  }
+]
