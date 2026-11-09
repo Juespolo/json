@@ -1,0 +1,197 @@
+[
+  {
+    "pregunta": {
+      "contexto": "Al comparar las relaciones laborales cafeteras de los años veinte, un historiador observa que en el occidente colombiano predominaban los arrendatarios, mientras en las haciendas de la región oriental los campesinos trabajaban en calidad de agregados bajo normas respaldadas incluso por los códigos de policía.",
+      "pregunta": "Según el documento, ¿qué restricción específica caracterizaba la condición laboral de estos trabajadores agregados en las haciendas orientales?"
+    },
+    "respuesta": "Tenían prohibido dedicarse a cualquier otra actividad productiva diferente a las labores asignadas directamente dentro de las haciendas cafeteras.",
+    "ayuda": "Comprensión lectora: revisa el primer párrafo sobre las diferencias laborales entre la zona occidental y la región oriental.",
+    "distractores": [
+      "Tenían prohibido comercializar sus cosechas familiares utilizando los ferrocarriles construidos originalmente para conectar todas las zonas centrales del país.",
+      "Tenían prohibido desplazarse hacia las fábricas textiles de Antioquia sin pagar antes los elevados fletes de los caminos vecinales.",
+      "Tenían prohibido recibir salarios en dólares provenientes de los préstamos bancarios estadounidenses durante la llamada danza de los millones."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un analista económico señala que hacia 1920 la economía colombiana presentaba una agricultura de baja productividad y escasa tecnología, una industria incipiente concentrada en los textiles de Antioquia y una red férrea débil. Sin embargo, entre 1925 y 1929 el producto total creció al 7,7 % anual, uno de los ritmos más altos del siglo XX.",
+      "pregunta": "De acuerdo con la lectura, ¿cuáles fueron los tres motores financieros que impulsaron esta acelerada transformación conocida como prosperidad al debe?"
+    },
+    "respuesta": "El alza internacional del precio del café, la indemnización estadounidense por Panamá y el amplio acceso al crédito externo.",
+    "ayuda": "Comprensión lectora: identifica la combinación de factores externos y financieros que inyectó divisas a Colombia entre 1922 y 1929.",
+    "distractores": [
+      "La exportación masiva de maquinaria pesada, la venta de ferrocarriles nacionales y el cobro de aranceles a Estados Unidos.",
+      "El descubrimiento de yacimientos de carbón, la privatización de los caminos vecinales y el ahorro fiscal de los municipios.",
+      "La tecnificación total del campo oriental, la creación de bancos cooperativos rurales y el impuesto directo a las haciendas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En la década de 1910, Colombia tenía una mala imagen en los mercados internacionales debido a sus constantes incumplimientos en el pago de la deuda pública. No obstante, hacia mediados de los años veinte los banqueros de Estados Unidos decidieron otorgarle cuantiosos préstamos al gobierno, a los departamentos y a los municipios colombianos.",
+      "pregunta": "Desde el pensamiento sistémico, ¿cómo se articularon las condiciones internas de Colombia con la coyuntura internacional para hacer posible este endeudamiento?"
+    },
+    "respuesta": "Coincidieron el respaldo financiero de las divisas cafeteras y panameñas en Colombia con el auge crediticio estadounidense hacia Latinoamérica.",
+    "ayuda": "Pensamiento sistémico: relaciona la recuperación de la capacidad de pago interna con la expansión financiera de Estados Unidos.",
+    "distractores": [
+      "Coincidieron la industrialización automotriz de las haciendas cafeteras en Colombia con el cierre comercial europeo tras la Gran Depresión.",
+      "Coincidieron la eliminación de los códigos policiales agrarios en Colombia con la condonación gratuita de las deudas en Norteamérica.",
+      "Coincidieron el superávit fiscal de los municipios rurales en Colombia con la escasez de capitales bancarios en Nueva York."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un economista afirma que el ingreso masivo de divisas y préstamos externos durante los años veinte solo sirvió para construir trenes y carreteras, sin generar ningún impacto en el comercio cotidiano de las familias ni en el crecimiento de las fábricas nacionales de bienes de consumo.",
+      "pregunta": "A la luz de la dinámica económica explicada en el documento, ¿es acertada la afirmación de este economista?"
+    },
+    "respuesta": "No, porque las obras públicas generaron empleo remunerado que dinamizó el consumo y las divisas permitieron importar maquinaria industrial.",
+    "ayuda": "Matriz binaria (Pensamiento sistémico): evalúa la cadena de efectos entre empleo en obras públicas, demanda interna e importación de equipos.",
+    "distractores": [
+      "No, porque las divisas extranjeras se repartieron en efectivo a cada familia campesina sin invertir nada en vías férreas.",
+      "Sí, porque el sesenta por ciento del presupuesto nacional se congeló en bancos extranjeros impidiendo comprar materias primas industriales.",
+      "Sí, porque las fábricas textiles de Antioquia quebraron cuando el gobierno destinó todos los trabajadores a construir caminos vecinales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Antes de los años veinte, el escaso trazado ferroviario colombiano cumplía casi exclusivamente la función de llevar los sacos de café desde las zonas productoras hasta los puertos de embarque hacia el exterior. Entre 1922 y 1934, mientras los ferrocarriles de las zonas cafeteras crecieron un 65 %, la red ferroviaria de la zona central se expandió entre un 550 % y un 1000 %.",
+      "pregunta": "¿Qué cambio de propósito estratégico refleja esta enorme inversión ferroviaria en el centro del país durante los años veinte?"
+    },
+    "respuesta": "Buscó superar el aislamiento regional y los altos fletes para integrar un verdadero mercado interno de comercialización nacional.",
+    "ayuda": "Comprensión lectora y pensamiento social: contrasta el modelo previo volcado solo hacia los puertos frente a la meta de integrar las regiones internas.",
+    "distractores": [
+      "Buscó sustituir totalmente la exportación de café en grano para dedicar las tierras centrales al cultivo de trigo.",
+      "Buscó desmontar las fábricas textiles ubicadas en Antioquia para trasladar toda la maquinaria industrial hacia los puertos marítimos.",
+      "Buscó prohibir la importación de camiones y automóviles estadounidenses para conservar el monopolio estatal del transporte en mulas."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un siglo después de la 'danza de los millones', un foro de planeación en 2026 compara la infraestructura colombiana de 1928 con la actual: en los años veinte el Estado destinó más del 60 % de su gasto en obras públicas a expandir los ferrocarriles para reducir fletes y conectar regiones, pero un siglo más tarde la mayor parte de esa red férrea está abandonada y el comercio interno depende de carreteras montañosas con altos costos de transporte.",
+      "pregunta": "Al contrastar el proyecto modernizador de los años veinte con la realidad vial colombiana un siglo después, ¿qué paradoja histórica se evidencia?"
+    },
+    "respuesta": "Aunque hace un siglo el ferrocarril integró el mercado nacional reduciendo costos, hoy sufrimos retrocesos ferroviarios que encarecen los fletes.",
+    "ayuda": "Reflexión centenaria (Pensamiento sistémico): compara el papel integrador del tren en los años veinte con el abandono férreo y los altos fletes actuales.",
+    "distractores": [
+      "Aunque hace un siglo el país carecía por completo de locomotoras, hoy transportamos todo el café en trenes de velocidad.",
+      "Aunque hace un siglo el gobierno prohibió importar vehículos automotores, hoy las carreteras de herradura superan a las vías pavimentadas.",
+      "Aunque hace un siglo las regiones estaban plenamente conectadas por autopistas, hoy el presupuesto público prohíbe invertir en obras viales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En un debate de gabinete hacia 1927, el ministro de Obras Públicas exige invertir la mayor parte de los empréstitos externos y de los veinticinco millones de dólares de la indemnización de Panamá en construir ferrocarriles interregionales y carreteras como las vías Ibagué-Armenia y Pasto-Popayán. Por el contrario, un delegado del gremio exportador exige usar todo ese dinero únicamente en ampliar los puertos marítimos de salida.",
+      "pregunta": "En este choque de perspectivas sobre la modernización, ¿qué problema estructural de la economía interna busca resolver el ministro de Obras Públicas?"
+    },
+    "respuesta": "Busca vencer la fragmentación geográfica que impedía comercializar productos locales, incorporar tierras productivas y reducir los costos de transporte.",
+    "ayuda": "Análisis de perspectivas: identifica las cinco dificultades de la economía interna causadas por la carencia de vías que explica el documento.",
+    "distractores": [
+      "Busca frenar el crecimiento de los ingresos tributarios departamentales y municipales que se habían duplicado gracias a la expansión.",
+      "Busca impedir que el precio internacional de la libra de café suba hasta veintiséis centavos en el mercado estadounidense.",
+      "Busca obligar a los arrendatarios del occidente colombiano a convertirse en trabajadores agregados sometidos a los códigos de policía."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En 1928, varios alcaldes y gobernadores celebraron que los ingresos departamentales habían aumentado un 150 % y los municipales un 112 %, contratando decenas de obras viales financiadas mediante créditos bancarios externos a corto plazo bajo el supuesto de que el café seguiría subiendo indefinidamente por encima de los 26,3 centavos de dólar por libra.",
+      "pregunta": "Evaluando la vulnerabilidad de un modelo basado en 'la prosperidad al debe', ¿qué efecto no deseado enfrenta el país si cae la bolsa estadounidense?"
+    },
+    "respuesta": "La parálisis abrupta de las obras públicas y una crisis de deuda al cortarse los créditos y los precios cafeteros.",
+    "ayuda": "Efectos no deseados (Pensamiento sistémico): analiza el riesgo de financiar gastos permanentes con endeudamiento externo y precios volátiles de un solo producto.",
+    "distractores": [
+      "La duplicación inmediata de la indemnización pagada por Estados Unidos para compensar la caída en las ventas de café colombiano.",
+      "La autosuficiencia financiera total de los municipios colombianos gracias a la exportación masiva de automóviles fabricados en todas las haciendas.",
+      "La reducción pacífica de los costos de los fletes terrestres sin necesidad de terminar los tramos pendientes del ferrocarril central."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "El documento señala textualmente que entre 1923 y 1928 la importación de vehículos automotores pasó de 552 a 3.556 unidades, y que a finales de los años veinte el país ya contaba con aproximadamente 12.000 vehículos, de los cuales más de 2.000 eran camiones o automotores que sobrepasaban las 2,5 toneladas de capacidad.",
+      "pregunta": "Con base exclusivamente en los datos suministrados por el texto anterior, ¿es posible inferir que en 1930 los camiones de carga ya habían reemplazado y clausurado todas las líneas de ferrocarril en Colombia?"
+    },
+    "respuesta": "No, porque el texto muestra una expansión simultánea de ferrocarriles y vehículos sin afirmar que los camiones clausuraran el tren.",
+    "ayuda": "Rigor evidencial: verifica el alcance exacto de los datos de la fuente; en los años veinte crecieron al mismo tiempo las vías férreas y el parque automotor.",
+    "distractores": [
+      "Sí, porque el texto demuestra que a finales de 1930 el gobierno levantó todos los rieles para pavimentar carreteras troncales.",
+      "No, porque el texto asegura que los doce mil vehículos importados eran automóviles de lujo prohibidos para transportar carga pesada.",
+      "Sí, porque el texto explica que entre 1925 y 1930 no se construyó ni un solo kilómetro nuevo de ferrocarril."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Lea el siguiente fragmento de un informe ministerial sin fecha: «Gracias a los veinticinco millones recibidos por el tratado con Estados Unidos y al alza de nuestro grano insignia por encima de los veinticinco centavos de dólar, el presupuesto para obras públicas alcanzó este año los sesenta y dos millones de pesos, permitiéndonos impulsar la vía entre Ibagué y Armenia e importar más de tres mil quinientos automotores».",
+      "pregunta": "Por las cifras presupuestales, el precio del grano y las obras mencionadas, ¿en qué año o coyuntura histórica exacta fue redactado este informe?"
+    },
+    "respuesta": "Fue redactado hacia el año 1928, en el punto culminante de la danza de los millones y la expansión vial.",
+    "ayuda": "Rastreo discursivo (Contextualización histórica): cruza el gasto público de 62 millones, el café a 26,3 centavos y los 3.556 vehículos importados en 1928.",
+    "distractores": [
+      "Fue redactado hacia el año 1905, durante la depresión fiscal posterior a la guerra civil y la pérdida de Panamá.",
+      "Fue redactado hacia el año 1912, cuando el país carecía de crédito externo y apenas iniciaba sus exportaciones de café.",
+      "Fue redactado hacia el año 1950, cuando la violencia bipartidista destruyó las antiguas haciendas cafeteras de la cordillera oriental colombiana."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un grupo de estudiantes de décimo grado quiere investigar las diferencias en la productividad agraria entre las regiones de Colombia en los años veinte y formula la siguiente pregunta de investigación: '¿Por qué los campesinos agregados de las haciendas orientales eran personas sumisas y carentes de espíritu emprendedor que preferían obedecer los códigos de policía antes que fundar sus propias fábricas textiles como hicieron en Antioquia?'.",
+      "pregunta": "Desde la metodología de investigación en ciencias sociales, ¿qué error conceptual invalida la formulación de esta pregunta?"
+    },
+    "respuesta": "Contiene un sesgo de valor que culpa moralmente a los campesinos e ignora las prohibiciones legales que sufrían entonces.",
+    "ayuda": "Detección de sesgos: una pregunta científica no debe atribuir a defectos morales individuales lo que era una restricción estructural y legal de las haciendas.",
+    "distractores": [
+      "Omite mencionar el número exacto de telares mecánicos que importaron los empresarios de Medellín durante el año de 1925.",
+      "Plantea comparar dos regiones colombianas cuando la historia económica solo permite estudiar un único departamento de manera muy aislada.",
+      "Confunde la indemnización pagada por la separación de Panamá con los ingresos tributarios recaudados por las distintas alcaldías municipales."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Una historiadora económica desea comprobar cómo la apertura de los 2.641 kilómetros de carreteras para automotores y de tramos estratégicos como Pasto-Popayán, Ibagué-Armenia y Villavicencio-Bogotá hacia 1930 redujo efectivamente el costo de los fletes y el tiempo de viaje de las mercancías frente a los antiguos caminos de herradura.",
+      "pregunta": "¿Cuál conjunto de fuentes primarias resulta más pertinente para verificar empíricamente esta hipótesis histórica?"
+    },
+    "respuesta": "Registros comerciales de tarifas de fletes, libros contables de empresas transportadoras e informes de Obras Públicas entre 1920 y 1932.",
+    "ayuda": "Selección de fuentes: para medir cambios en costos y tiempos de transporte en los años veinte se requieren datos contables y oficiales de esa década.",
+    "distractores": [
+      "Encuestas de percepción aplicadas en el presente año a conductores de camiones sin revisar tarifas ni archivos del siglo veinte.",
+      "Textos legales de los códigos de policía sobre trabajadores agregados orientales sin consultar datos sobre fletes ni carreteras nacionales construidas.",
+      "Reportes diplomáticos estadounidenses de 1903 sobre la separación de Panamá previos a la construcción de las carreteras de los veinte."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Un estudio comparado sobre el desarrollo cafetero del siglo XX y la economía rural del siglo XXI encontró que, tanto en 1920 como en la actualidad, las regiones agrícolas que solo exportan café o materias primas sin procesar quedan gravemente expuestas a las caídas de precios internacionales, mientras que las regiones que usan las divisas para tecnificar el campo y transformar industrialmente el producto mantienen el empleo estable.",
+      "pregunta": "A partir de los hallazgos de esta investigación histórica y económica, ¿cuál es el uso práctico más pertinente para la política agraria colombiana actual?"
+    },
+    "respuesta": "Aprovechar las bonanzas exportadoras para tecnificar la producción rural, fortalecer la agroindustria local y diversificar todo el mercado interno nacional.",
+    "ayuda": "Uso práctico de investigaciones: traduce la lección histórica de los años veinte en una estrategia que supere la baja productividad y la dependencia primaria.",
+    "distractores": [
+      "Prohibir definitivamente el cultivo y la exportación de café en todo el país para evitar variaciones en los precios externos.",
+      "Restablecer en los códigos de policía la figura de los trabajadores agregados para prohibir que los campesinos cambien de oficio.",
+      "Destinar la totalidad de los ingresos tributarios municipales al pago anticipado de intereses a los bancos privados de Nueva York."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "Al reflexionar sobre los avances y retrocesos de Colombia entre 1926 y 2026, un sociólogo señala que hace cien años los campesinos agregados carecían de libertad laboral por normas policiales y el país apenas tenía una industria incipiente; hoy los trabajadores rurales gozan de derechos constitucionales y existe mayor urbanización, pero muchas veredas siguen dependiendo de caminos de herradura similares a los 4.042 kilómetros registrados en 1930.",
+      "pregunta": "¿Qué conclusión equilibrada y sistémica se desprende de este balance centenario sobre la modernización colombiana?"
+    },
+    "respuesta": "El país avanzó en libertades laborales y crecimiento urbano, pero mantiene una deuda histórica en infraestructura vial rural e industrialización.",
+    "ayuda": "Reflexión centenaria (Pensamiento reflexivo): reconoce simultáneamente las conquistas en derechos laborales frente a las brechas persistentes en vías terciarias.",
+    "distractores": [
+      "El país retrocedió en todas las garantías constitucionales del campesinado, pero logró pavimentar absolutamente todos los antiguos caminos de herradura.",
+      "El país conservó intacta la economía colonial sin ningún cambio desde 1920, impidiendo el crecimiento del producto interno bruto nacional.",
+      "El país superó por completo la dependencia de exportar materias primas y lidera la fabricación mundial de trenes y camiones."
+    ]
+  },
+  {
+    "pregunta": {
+      "contexto": "En el presente año, un derrumbe bloquea la única carretera que comunica a un municipio cafetero de la cordillera central con la troncal nacional, dejando represada la cosecha de miles de familias y disparando el precio de los alimentos básicos en el pueblo, tal como ocurría con el aislamiento regional de los años veinte.",
+      "pregunta": "Distinguiendo entre soluciones de corto plazo y proyectos estructurales de largo plazo, ¿qué medida inmediata deben ejecutar hoy las autoridades?"
+    },
+    "respuesta": "Despejar con maquinaria amarilla el derrumbe vial y habilitar un corredor de emergencia que permita sacar la cosecha cafetera represada.",
+    "ayuda": "Alcance de corto plazo: prioriza la acción inmediata que restablece la movilidad de la cosecha frente a macroproyectos que tardan décadas.",
+    "distractores": [
+      "Diseñar desde cero una red nacional de trenes subterráneos de alta velocidad cuya construcción tardará veinte años en poder concluirse.",
+      "Esperar a que los precios internacionales del café suban el próximo quinquenio antes de enviar maquinaria para reabrir la carretera.",
+      "Contratar primero un estudio histórico de tres años sobre los caminos de herradura de 1930 mientras se pierde la cosecha."
+    ]
+  }
+]
